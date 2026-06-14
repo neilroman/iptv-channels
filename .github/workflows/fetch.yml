@@ -2,20 +2,8 @@ name: Fetch IPTV Channels
 
 on:
   schedule:
-    # Actualizar canales cada dia a las 4am
     - cron: '0 4 * * *'
-    # Verificar y limpiar canales muertos cada domingo a las 3am
-    - cron: '0 3 * * 0'
   workflow_dispatch:
-    inputs:
-      verify:
-        description: 'Verificar streams y eliminar inactivos'
-        required: false
-        default: 'false'
-        type: choice
-        options:
-          - 'false'
-          - 'true'
 
 permissions:
   contents: write
@@ -25,29 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: Fetch and parse channels
-        run: |
-          # Los domingos o si se pide verificacion, verificar streams
-          DAY=$(date +%u)
-          VERIFY="${{ github.event.inputs.verify }}"
-          if [ "$DAY" = "7" ] || [ "$VERIFY" = "true" ]; then
-            echo "Modo verificacion activado"
-            node parse.js --verify
-          else
-            echo "Modo rapido (sin verificacion)"
-            node parse.js
-          fi
-
+        run: node parse.js
       - name: Commit all JSON files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add *.json *.txt 2>/dev/null || git add *.json
+          git add *.json
           git diff --staged --quiet || git commit -m "Update channels $(date -u '+%Y-%m-%d %H:%M')"
           git push
