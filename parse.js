@@ -45,10 +45,10 @@ const SOURCES = [
   { key: 'freetv',   label: 'Free-TV',      url: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8' },
   { key: 'tdt',      label: 'TDT España',   url: 'https://www.tdtchannels.com/lists/tv.m3u' },
   { key: 'radio',    label: 'Radio España', url: 'https://www.tdtchannels.com/lists/radio.m3u' },
-  { key: 'pluto',    label: 'Pluto TV',     url: 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.m3u8' },
-  { key: 'samsung',  label: 'Samsung TV+',  url: 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.m3u8' },
-  { key: 'plex',     label: 'Plex TV',      url: 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.m3u8' },
-  { key: 'stirr',    label: 'Stirr',        url: 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.m3u8' },
+  { key: 'pluto',    label: 'Pluto TV',     url: 'https://i.mjh.nz/PlutoTV/all.m3u8' },
+  { key: 'samsung',  label: 'Samsung TV+',  url: 'https://i.mjh.nz/SamsungTVPlus/all.m3u8' },
+  { key: 'plex',     label: 'Plex TV',      url: 'https://i.mjh.nz/Plex/all.m3u8' },
+  { key: 'stirr',    label: 'Stirr',        url: 'https://i.mjh.nz/Stirr/all.m3u8' },
 ];
 
 const SKIP_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0', 'example.com'];
