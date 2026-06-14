@@ -1,7 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 
-const SOURCES = [
+const CATEGORIES = [
   { key: 'all',           url: 'https://iptv-org.github.io/iptv/index.m3u' },
   { key: 'movies',        url: 'https://iptv-org.github.io/iptv/categories/movies.m3u' },
   { key: 'series',        url: 'https://iptv-org.github.io/iptv/categories/series.m3u' },
@@ -19,19 +19,33 @@ const SOURCES = [
   { key: 'science',       url: 'https://iptv-org.github.io/iptv/categories/science.m3u' },
 ];
 
-const SKIP_HOSTS = [
-  'localhost', '127.0.0.1', '0.0.0.0', 'example.com'
+const LANGUAGES = [
+  { key: 'spa', label: 'Español',    url: 'https://iptv-org.github.io/iptv/languages/spa.m3u' },
+  { key: 'eng', label: 'English',    url: 'https://iptv-org.github.io/iptv/languages/eng.m3u' },
+  { key: 'por', label: 'Português',  url: 'https://iptv-org.github.io/iptv/languages/por.m3u' },
+  { key: 'fra', label: 'Français',   url: 'https://iptv-org.github.io/iptv/languages/fra.m3u' },
+  { key: 'deu', label: 'Deutsch',    url: 'https://iptv-org.github.io/iptv/languages/deu.m3u' },
+  { key: 'ara', label: 'العربية',    url: 'https://iptv-org.github.io/iptv/languages/ara.m3u' },
+  { key: 'ita', label: 'Italiano',   url: 'https://iptv-org.github.io/iptv/languages/ita.m3u' },
+  { key: 'rus', label: 'Русский',    url: 'https://iptv-org.github.io/iptv/languages/rus.m3u' },
+  { key: 'zho', label: '中文',        url: 'https://iptv-org.github.io/iptv/languages/zho.m3u' },
+  { key: 'tur', label: 'Türkçe',     url: 'https://iptv-org.github.io/iptv/languages/tur.m3u' },
+  { key: 'hin', label: 'Hindi',      url: 'https://iptv-org.github.io/iptv/languages/hin.m3u' },
+  { key: 'ind', label: 'Indonesia',  url: 'https://iptv-org.github.io/iptv/languages/ind.m3u' },
+  { key: 'nld', label: 'Nederlands', url: 'https://iptv-org.github.io/iptv/languages/nld.m3u' },
+  { key: 'pol', label: 'Polski',     url: 'https://iptv-org.github.io/iptv/languages/pol.m3u' },
+  { key: 'ron', label: 'Română',     url: 'https://iptv-org.github.io/iptv/languages/ron.m3u' },
 ];
 
+const SKIP_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0', 'example.com'];
+
 function fetchURL(url) {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
       if (res.statusCode === 301 || res.statusCode === 302) {
         return resolve(fetchURL(res.headers.location));
       }
-      if (res.statusCode !== 200) {
-        return resolve('');
-      }
+      if (res.statusCode !== 200) return resolve('');
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => resolve(data));
@@ -43,95 +57,60 @@ function parseM3U(content) {
   const lines = content.split('\n');
   const channels = [];
   let current = null;
-
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim();
-
     if (line.startsWith('#EXTINF')) {
-      const namePart = line.split(',');
-      const name = namePart.slice(1).join(',').trim();
+      const name     = line.split(',').slice(1).join(',').trim();
       const logo     = (line.match(/tvg-logo="([^"]*)"/)     || [])[1] || '';
       const country  = (line.match(/tvg-country="([^"]*)"/)  || [])[1] || '';
       const language = (line.match(/tvg-language="([^"]*)"/) || [])[1] || '';
       const group    = (line.match(/group-title="([^"]*)"/)  || [])[1] || 'General';
-      current = { name, logo, country, language, group, url: '' };
-
+      current = { name, logo, country, language, group };
     } else if (line && !line.startsWith('#') && current) {
-      current.url = line;
-      const isValid = current.url.startsWith('http') &&
-                      !SKIP_HOSTS.some(s => current.url.includes(s)) &&
-                      current.name.trim() !== '';
-      if (isValid) {
-        channels.push({
-          name:     current.name,
-          logo:     current.logo,
-          country:  current.country,
-          language: current.language,
-          group:    current.group,
-          url:      current.url,
-          isHttps:  current.url.startsWith('https')
-        });
-      }
+      const url = line;
+      const ok = url.startsWith('http') &&
+                 !SKIP_HOSTS.some(s => url.includes(s)) &&
+                 current.name.trim() !== '';
+      if (ok) channels.push({ ...current, url, isHttps: url.startsWith('https') });
       current = null;
     }
   }
   return channels;
 }
 
+function sortChannels(ch) {
+  return ch.sort((a, b) => {
+    if (a.isHttps && !b.isHttps) return -1;
+    if (!a.isHttps && b.isHttps) return 1;
+    return a.name.localeCompare(b.name);
+  });
+}
+
+async function processSource(key, url, prefix) {
+  console.log(`[${key}] Descargando...`);
+  try {
+    const content = await fetchURL(url);
+    if (!content || content.length < 100) { console.log(`[${key}] Sin contenido`); return; }
+    const channels = sortChannels(parseM3U(content));
+    const filename = prefix === '' ? 'channels.json' : `${prefix}${key}.json`;
+    fs.writeFileSync(filename, JSON.stringify(channels, null, 2));
+    console.log(`[${key}] OK - ${channels.length} canales -> ${filename}`);
+  } catch(e) { console.log(`[${key}] ERROR: ${e.message}`); }
+}
+
 async function main() {
-  console.log('Iniciando descarga de categorias...\n');
-
-  for (const source of SOURCES) {
-    console.log(`[${source.key}] Descargando ${source.url}`);
-    try {
-      const content = await fetchURL(source.url);
-      if (!content || content.length < 100) {
-        console.log(`[${source.key}] Sin contenido - omitiendo`);
-        continue;
-      }
-
-      const channels = parseM3U(content);
-
-      // Ordenar HTTPS primero, luego por nombre
-      channels.sort((a, b) => {
-        if (a.isHttps && !b.isHttps) return -1;
-        if (!a.isHttps && b.isHttps) return 1;
-        return a.name.localeCompare(b.name);
-      });
-
-      const filename = source.key === 'all' ? 'channels.json' : `channels_${source.key}.json`;
-      fs.writeFileSync(filename, JSON.stringify(channels, null, 2));
-      console.log(`[${source.key}] OK - ${channels.length} canales -> ${filename}`);
-
-    } catch(e) {
-      console.log(`[${source.key}] ERROR: ${e.message}`);
-    }
+  console.log('=== CATEGORIAS ===');
+  for (const s of CATEGORIES) {
+    await processSource(s.key, s.url, s.key === 'all' ? '' : 'channels_');
   }
-
-  // Generar index de categorias
-  const index = {
+  console.log('\n=== IDIOMAS ===');
+  for (const l of LANGUAGES) {
+    await processSource(l.key, l.url, 'lang_');
+  }
+  fs.writeFileSync('languages.json', JSON.stringify({
     updated: new Date().toISOString(),
-    categories: [
-      { key: 'all',           label: '📺 Todos',          file: 'channels.json' },
-      { key: 'movies',        label: '🎬 Películas',       file: 'channels_movies.json' },
-      { key: 'series',        label: '🎭 Series',          file: 'channels_series.json' },
-      { key: 'sport',         label: '⚽ Deportes',        file: 'channels_sport.json' },
-      { key: 'news',          label: '📰 Noticias',        file: 'channels_news.json' },
-      { key: 'music',         label: '🎵 Música',          file: 'channels_music.json' },
-      { key: 'documentary',   label: '🎥 Documentales',    file: 'channels_documentary.json' },
-      { key: 'animation',     label: '🐭 Animación',       file: 'channels_animation.json' },
-      { key: 'kids',          label: '👶 Infantil',        file: 'channels_kids.json' },
-      { key: 'entertainment', label: '🎪 Entretenimiento', file: 'channels_entertainment.json' },
-      { key: 'comedy',        label: '😂 Comedia',         file: 'channels_comedy.json' },
-      { key: 'cooking',       label: '🍳 Cocina',          file: 'channels_cooking.json' },
-      { key: 'travel',        label: '✈️ Viajes',           file: 'channels_travel.json' },
-      { key: 'science',       label: '🔬 Ciencia',         file: 'channels_science.json' },
-      { key: 'religious',     label: '✝️ Religión',         file: 'channels_religious.json' },
-    ]
-  };
-
-  fs.writeFileSync('categories.json', JSON.stringify(index, null, 2));
-  console.log('\ncategories.json generado OK');
+    languages: LANGUAGES.map(l => ({ key: l.key, label: l.label, file: `lang_${l.key}.json` }))
+  }, null, 2));
   console.log('\nTodo completado!');
 }
 
