@@ -1,80 +1,65 @@
 {
-  "updated": "2026-06-14T11:34:21.857Z",
+  "updated": "2026-06-14T14:38:14.707Z",
   "categories": [
     {
       "key": "all",
-      "label": "📺 Todos",
       "file": "channels.json"
     },
     {
       "key": "movies",
-      "label": "🎬 Películas",
       "file": "channels_movies.json"
     },
     {
       "key": "series",
-      "label": "🎭 Series",
       "file": "channels_series.json"
     },
     {
-      "key": "sport",
-      "label": "⚽ Deportes",
-      "file": "channels_sport.json"
-    },
-    {
-      "key": "news",
-      "label": "📰 Noticias",
-      "file": "channels_news.json"
-    },
-    {
-      "key": "music",
-      "label": "🎵 Música",
-      "file": "channels_music.json"
-    },
-    {
-      "key": "documentary",
-      "label": "🎥 Documentales",
-      "file": "channels_documentary.json"
-    },
-    {
       "key": "animation",
-      "label": "🐭 Animación",
       "file": "channels_animation.json"
     },
     {
+      "key": "documentary",
+      "file": "channels_documentary.json"
+    },
+    {
+      "key": "music",
+      "file": "channels_music.json"
+    },
+    {
+      "key": "news",
+      "file": "channels_news.json"
+    },
+    {
+      "key": "sport",
+      "file": "channels_sport.json"
+    },
+    {
       "key": "kids",
-      "label": "👶 Infantil",
       "file": "channels_kids.json"
     },
     {
       "key": "entertainment",
-      "label": "🎪 Entretenimiento",
       "file": "channels_entertainment.json"
     },
     {
       "key": "comedy",
-      "label": "😂 Comedia",
       "file": "channels_comedy.json"
     },
     {
       "key": "cooking",
-      "label": "🍳 Cocina",
       "file": "channels_cooking.json"
     },
     {
+      "key": "religious",
+      "file": "channels_religious.json"
+    },
+    {
       "key": "travel",
-      "label": "✈️ Viajes",
       "file": "channels_travel.json"
     },
     {
       "key": "science",
-      "label": "🔬 Ciencia",
       "file": "channels_science.json"
-    },
-    {
-      "key": "religious",
-      "label": "✝️ Religión",
-      "file": "channels_religious.json"
     }
   ]
 }
