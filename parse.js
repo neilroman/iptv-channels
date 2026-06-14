@@ -2,6 +2,7 @@ const https = require('https');
 const http = require('http');
 const fs = require('fs');
 
+// ===== CATEGORIAS (iptv-org) =====
 const CATEGORIES = [
   { key: 'all',           url: 'https://iptv-org.github.io/iptv/index.m3u' },
   { key: 'movies',        url: 'https://iptv-org.github.io/iptv/categories/movies.m3u' },
@@ -20,6 +21,7 @@ const CATEGORIES = [
   { key: 'science',       url: 'https://iptv-org.github.io/iptv/categories/science.m3u' },
 ];
 
+// ===== IDIOMAS (iptv-org) =====
 const LANGUAGES = [
   { key: 'spa', label: 'Español',    url: 'https://iptv-org.github.io/iptv/languages/spa.m3u' },
   { key: 'eng', label: 'English',    url: 'https://iptv-org.github.io/iptv/languages/eng.m3u' },
@@ -38,14 +40,11 @@ const LANGUAGES = [
   { key: 'ron', label: 'Română',     url: 'https://iptv-org.github.io/iptv/languages/ron.m3u' },
 ];
 
+// ===== FUENTES ESPECIALIZADAS (cada una su propia pestaña) =====
 const SOURCES = [
-  { key: 'freetv',   label: 'Free-TV',      url: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8' },
-  { key: 'tdt',      label: 'TDT España',   url: 'https://www.tdtchannels.com/lists/tv.m3u' },
-  { key: 'radio',    label: 'Radio España', url: 'https://www.tdtchannels.com/lists/radio.m3u' },
-  { key: 'pluto',    label: 'Pluto TV',     url: 'https://i.mjh.nz/PlutoTV/all.m3u8' },
-  { key: 'samsung',  label: 'Samsung TV+',  url: 'https://i.mjh.nz/SamsungTVPlus/all.m3u8' },
-  { key: 'plex',     label: 'Plex TV',      url: 'https://i.mjh.nz/Plex/all.m3u8' },
-  { key: 'stirr',    label: 'Stirr',        url: 'https://i.mjh.nz/Stirr/all.m3u8' },
+  { key: 'freetv', label: 'Free-TV',      url: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8' },
+  { key: 'tdt',    label: 'TDT España',   url: 'https://www.tdtchannels.com/lists/tv.m3u' },
+  { key: 'radio',  label: 'Radio España', url: 'https://www.tdtchannels.com/lists/radio.m3u' },
 ];
 
 const SKIP_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0', 'example.com'];
@@ -118,31 +117,46 @@ async function processSource(key, url, prefix) {
 }
 
 async function main() {
-  console.log('=== CATEGORIAS ===');
+  console.log('=== CATEGORIAS (iptv-org) ===');
   for (const s of CATEGORIES) {
     await processSource(s.key, s.url, s.key === 'all' ? '' : 'channels_');
   }
-  console.log('\n=== IDIOMAS ===');
+
+  console.log('\n=== IDIOMAS (iptv-org) ===');
   for (const l of LANGUAGES) {
     await processSource(l.key, l.url, 'lang_');
   }
-  console.log('\n=== FUENTES ===');
+
+  console.log('\n=== FUENTES ESPECIALIZADAS ===');
   const sourceCounts = {};
   for (const s of SOURCES) {
-    sourceCounts[s.key] = await processSource(s.key, s.url, 'src_');
+    const count = await processSource(s.key, s.url, 'src_');
+    sourceCounts[s.key] = count;
   }
+
+  // Index de idiomas
   fs.writeFileSync('languages.json', JSON.stringify({
     updated: new Date().toISOString(),
     languages: LANGUAGES.map(l => ({ key: l.key, label: l.label, file: `lang_${l.key}.json` }))
   }, null, 2));
+
+  // Index de categorias
   fs.writeFileSync('categories.json', JSON.stringify({
     updated: new Date().toISOString(),
     categories: CATEGORIES.map(c => ({ key: c.key, file: c.key === 'all' ? 'channels.json' : `channels_${c.key}.json` }))
   }, null, 2));
+
+  // Index de fuentes especializadas
   fs.writeFileSync('sources.json', JSON.stringify({
     updated: new Date().toISOString(),
-    sources: SOURCES.map(s => ({ key: s.key, label: s.label, file: `src_${s.key}.json`, count: sourceCounts[s.key] || 0 }))
+    sources: SOURCES.map(s => ({
+      key: s.key,
+      label: s.label,
+      file: `src_${s.key}.json`,
+      count: sourceCounts[s.key] || 0
+    }))
   }, null, 2));
+
   console.log('\nTodo completado!');
 }
 
