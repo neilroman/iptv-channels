@@ -63,6 +63,15 @@
     "isHttps": true
   },
   {
+    "name": "Araruna TV",
+    "logo": "https://i.imgur.com/jl39ula.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Aratu On",
     "logo": "https://i.imgur.com/Ht4jCab.png",
     "country": "",
@@ -123,6 +132,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Blitstv",
+    "logo": "https://i.imgur.com/FO4QTRf.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -207,6 +225,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal FDR",
+    "logo": "https://i.imgur.com/7SE4CkE.png",
+    "country": "",
+    "language": "",
+    "group": "Education;General",
+    "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal Gov (720p)",
     "logo": "https://i.imgur.com/rHPY0Yv.png",
     "country": "",
@@ -231,6 +258,15 @@
     "language": "",
     "group": "General",
     "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal Metropolitano de Noticias",
+    "logo": "https://i.imgur.com/G0x4xqa.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -756,15 +792,6 @@
     "isHttps": true
   },
   {
-    "name": "NickOnline (576p)",
-    "logo": "https://x1co.com.br/logo.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://x1co.com.br/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NickToons Brasil (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",
     "country": "",
@@ -798,6 +825,15 @@
     "language": "",
     "group": "Music",
     "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NTV",
+    "logo": "https://i.imgur.com/n79nkVC.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;General",
+    "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2535,6 +2571,15 @@
     "language": "",
     "group": "Outdoor",
     "url": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal Sete",
+    "logo": "https://i.imgur.com/0cq0BPp.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
     "isHttps": false
   },
   {

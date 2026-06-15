@@ -1044,12 +1044,48 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Classic;Movies\",Bollywood Classic",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://dokagents.site/live/bollyc/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",4ever Cinema (1080p)",
     "logo": "https://i.imgur.com/vFOgVbG.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://iptv.prosto.tv/ch42/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/amc/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black Romania",
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/axnb/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN CEE Romania",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/axnhd/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1068,6 +1104,24 @@
     "language": "",
     "group": "Movies",
     "url": "https://iptv.prosto.tv/ch64/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Premium Romania",
+    "logo": "https://i.imgur.com/RydfsE9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/filmboxp/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",TV1000",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/viasatkino/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2610,6 +2664,15 @@
     "isHttps": true
   },
   {
+    "name": "viju TV1000 action",
+    "logo": "https://i.imgur.com/TMmyuzh.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Whiplash Cinema (480p)",
     "logo": "https://whiplash.cc/assets/img/channels/whiplashcinema.png",
     "country": "",
@@ -2943,15 +3006,6 @@
     "isHttps": false
   },
   {
-    "name": "AMC Europe [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6949/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Amedia Hit (720p)",
     "logo": "https://i.imgur.com/a8ZBGBw.png",
     "country": "",
@@ -2994,24 +3048,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AXN Black Romania [Not 24/7]",
-    "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AXN CEE Romania [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8",
     "isHttps": false
   },
   {
@@ -3588,15 +3624,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://149.71.34.166:8000/play/a059/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV1000 [Not 24/7]",
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8",
     "isHttps": false
   },
   {

@@ -1251,15 +1251,6 @@
     "isHttps": true
   },
   {
-    "name": "TGRT Belgesel TV (576p)",
-    "logo": "https://i.imgur.com/VwWTnf0.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TGRT Europe (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/960px-TGRT_EU.png",
     "country": "",
@@ -1836,6 +1827,15 @@
     "isHttps": false
   },
   {
+    "name": "TGRT Belgesel (1080p)",
+    "logo": "https://i.imgur.com/VwWTnf0.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6860/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV 41 (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/6T472LM.png",
     "country": "",
@@ -1860,6 +1860,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://canli.tvden.com.tr/hls/live.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Yaban TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/3/38/Yabantv_logo.png/960px-Yabantv_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6868/index.m3u8",
     "isHttps": false
   }
 ]

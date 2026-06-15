@@ -5607,6 +5607,15 @@
     "isHttps": true
   },
   {
+    "name": "DTV-8 [Geo-blocked]",
+    "logo": "https://i.imgur.com/A5r0aZA.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://watch.davestv8.com/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Duck Dynasty (1080p)",
     "logo": "https://i.imgur.com/vMcSlwm.png",
     "country": "",
@@ -9258,6 +9267,33 @@
     "language": "",
     "group": "Auto",
     "url": "https://iptv.prosto.tv/ch111/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White",
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://dokagents.site/live/axnw/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black Romania",
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/axnb/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN CEE Romania",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/axnhd/mono.m3u8",
     "isHttps": true
   },
   {
@@ -19050,33 +19086,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AXN Black Romania [Not 24/7]",
-    "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AXN CEE Romania [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AXN White [Not 24/7]",
-    "logo": "https://i.imgur.com/47IKxmt.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8",
     "isHttps": false
   },
   {
