@@ -9,6 +9,15 @@
     "isHttps": true
   },
   {
+    "name": "A Spor (1080p)",
+    "logo": "https://i.imgur.com/ZhkZzLf.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ACCDN (1080p)",
     "logo": "https://i.imgur.com/V6Kaqha.png",
     "country": "",
@@ -1971,78 +1980,6 @@
     "isHttps": true
   },
   {
-    "name": "Sony Sports Ten 1 (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 1 HD (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1+HD.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 2 (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 2 HD (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2+HD.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3+HD.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 4 (1080p) [Geo-blocked]",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 4 Telugu (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4+HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "SOS Kanal Plus (720p)",
     "logo": "https://i.imgur.com/9SD40uH.png",
     "country": "",
@@ -2655,12 +2592,12 @@
     "isHttps": true
   },
   {
-    "name": "VTV6 (1080p) [Geo-blocked]",
+    "name": "VTV6 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8",
+    "url": "https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
     "isHttps": true
   },
   {
@@ -2943,6 +2880,15 @@
     "isHttps": false
   },
   {
+    "name": "Fight Klub",
+    "logo": "https://i.imgur.com/6kaNvZi.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://81.15.109.89:8001/play/Fightklub",
+    "isHttps": false
+  },
+  {
     "name": "Golf Channel Latin America",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "country": "",
@@ -3129,6 +3075,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://178.33.11.6:8696/live/rtshsport/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sony Sports Ten 3 Hindi (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
     "isHttps": false
   },
   {

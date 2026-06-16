@@ -288,6 +288,15 @@
     "isHttps": true
   },
   {
+    "name": "Apocalipsis TVD (720p)",
+    "logo": "https://i.imgur.com/XNrYx1n.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://us.streaminghd.cl/apocalipsistvd/video.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ARY Musik (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
     "country": "",
@@ -483,6 +492,15 @@
     "language": "",
     "group": "Music",
     "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Buenisima Radio TV",
+    "logo": "https://i.imgur.com/URKDlOZ.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
     "isHttps": true
   },
   {
@@ -1581,15 +1599,6 @@
     "language": "",
     "group": "Music",
     "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "KurdMax Music (720p)",
-    "logo": "https://i.imgur.com/otnIdEu.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5580,12 +5589,12 @@
     "isHttps": false
   },
   {
-    "name": "Eska TV Extra (1080p) [Not 24/7]",
+    "name": "Eska TV Extra (1080p)",
     "logo": "https://i.imgur.com/pZAFshQ.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19173/index.m3u8",
+    "url": "http://81.15.109.89:8001/play/EskaTVExtra",
     "isHttps": false
   },
   {

@@ -1746,6 +1746,15 @@
     "isHttps": true
   },
   {
+    "name": "M6 SD (720p)",
+    "logo": "https://i.imgur.com/7GVp3fW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Madras FM TV (1080p)",
     "logo": "https://i.imgur.com/spGg1CZ.png",
     "country": "",
@@ -1944,12 +1953,12 @@
     "isHttps": true
   },
   {
-    "name": "NCI (1080p)",
+    "name": "NCI",
     "logo": "https://i.imgur.com/I3pv69r.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
+    "url": "https://cs2.push2stream.com/NCI-DVR/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2355,6 +2364,15 @@
     "language": "",
     "group": "Documentary",
     "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RMC Story (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8",
     "isHttps": true
   },
   {
@@ -3165,6 +3183,15 @@
     "language": "",
     "group": "Lifestyle;Travel",
     "url": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "W9 (720p)",
+    "logo": "https://i.imgur.com/reYeMuE.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8",
     "isHttps": true
   },
   {

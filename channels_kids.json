@@ -819,21 +819,21 @@
     "isHttps": true
   },
   {
-    "name": "Minika Cocuk (480p)",
+    "name": "Minika Cocuk (720p)",
     "logo": "https://i.imgur.com/VCywMTv.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
     "isHttps": true
   },
   {
-    "name": "Minika Go (480p)",
+    "name": "Minika Go (720p)",
     "logo": "https://i.imgur.com/qIoipDq.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
     "isHttps": true
   },
   {
@@ -1863,6 +1863,15 @@
     "isHttps": false
   },
   {
+    "name": "CBeebies (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://81.15.109.89:8001/play/BBCCBeebies",
+    "isHttps": false
+  },
+  {
     "name": "CCTV-14 (1080p)",
     "logo": "https://i.imgur.com/c5SXW7i.png",
     "country": "",
@@ -1887,6 +1896,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://81.15.109.89:8001/play/DisneyChannel2",
     "isHttps": false
   },
   {
@@ -1959,6 +1977,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney XD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://81.15.109.89:8001/play/DisneyXD",
     "isHttps": false
   },
   {

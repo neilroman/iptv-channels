@@ -1089,6 +1089,33 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",CineMaraton",
+    "logo": "https://i.imgur.com/BY8UZa0.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Film Mania",
+    "logo": "https://i.imgur.com/crhsomk.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/filmmania/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Film Now",
+    "logo": "https://i.imgur.com/sSoRvGz.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/filmnow/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Arthouse (576p)",
     "logo": "https://i.imgur.com/hDg35ne.png",
     "country": "",
@@ -1113,6 +1140,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://dokagents.site/live/filmboxp/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Pro Cinema",
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/procinema/mono.m3u8",
     "isHttps": true
   },
   {
@@ -3048,6 +3084,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Poland",
+    "logo": "https://i.imgur.com/i5wOhkf.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://81.15.109.89:8001/play/AXN",
+    "isHttps": false
+  },
+  {
+    "name": "AXN White",
+    "logo": "https://i.imgur.com/DaAyLE7.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://81.15.109.89:8001/play/AXNWhite",
     "isHttps": false
   },
   {
