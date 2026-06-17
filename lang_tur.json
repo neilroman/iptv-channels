@@ -509,7 +509,7 @@
     "country": "",
     "language": "",
     "group": "Documentary;Series",
-    "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+    "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1602,12 +1602,12 @@
     "isHttps": true
   },
   {
-    "name": "TVnet (720p)",
+    "name": "TVNET (1080p)",
     "logo": "https://i.imgur.com/mQo8yWQ.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+    "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1719,12 +1719,12 @@
     "isHttps": false
   },
   {
-    "name": "ATV (720p)",
+    "name": "ATV (360p)",
     "logo": "https://i.imgur.com/HyVUwFC.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
     "isHttps": false
   },
   {

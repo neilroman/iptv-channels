@@ -630,6 +630,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Junior (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://81.15.109.89:8001/play/DisneyJunior",
+    "isHttps": false
+  },
+  {
     "name": "Disney XD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "country": "",
@@ -639,12 +648,12 @@
     "isHttps": false
   },
   {
-    "name": "Eska Rock TV (1080p) [Not 24/7]",
+    "name": "Eska Rock TV (1080p)",
     "logo": "https://i.imgur.com/o0Fg19Q.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8",
+    "url": "http://81.15.109.89:8001/play/EskaRock",
     "isHttps": false
   },
   {
@@ -690,6 +699,132 @@
     "language": "",
     "group": "Movies",
     "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Culture\",Nat Geo People",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/960px-New_NatGeo_People_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://81.15.109.89:8001/play/NatGeoPeople",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Explore",
+    "logo": "https://i.imgur.com/gDlqO9h.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://81.15.109.89:8001/play/PolsatViasatExplore",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Nature",
+    "logo": "https://i.imgur.com/TUcM0oS.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://81.15.109.89:8001/play/PolsatViasatNature",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",BBC First",
+    "logo": "https://i.imgur.com/UBoBYUI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://81.15.109.89:8001/play/BBCFirst",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"News\",Kanal ZERO TV",
+    "logo": "https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://81.15.109.89:8001/play/FilmCafe",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Novela TV",
+    "logo": "https://i.imgur.com/qgqS2vy.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://81.15.109.89:8001/play/NovelaTV",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Polsat Seriale",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://81.15.109.89:8001/play/PolsatSeriale",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Adventure TV",
+    "logo": "https://i.imgur.com/VQVr4Nk.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/Adventure",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Polsat X",
+    "logo": "https://i.imgur.com/8juCHsb.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/PolsatX",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Power TV",
+    "logo": "https://i.imgur.com/YtaCmIc.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/PowerTV",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",TVC",
+    "logo": "https://i.imgur.com/1Wmib2f.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/TVC",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",TVC Super",
+    "logo": "https://radiopolska.pl/files/thumb/32049b3594ccdd5/300",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/TVCSuper",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",TVP HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/TVP",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Water Planet",
+    "logo": "https://i.imgur.com/ZKczKhD.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/WaterPlanet",
     "isHttps": false
   },
   {

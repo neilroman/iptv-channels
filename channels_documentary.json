@@ -113,7 +113,7 @@
     "country": "",
     "language": "",
     "group": "Culture;Documentary",
-    "url": "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8",
+    "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
     "isHttps": true
   },
   {
@@ -437,7 +437,7 @@
     "country": "",
     "language": "",
     "group": "Documentary;Series",
-    "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+    "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -756,51 +756,6 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Animals",
-    "logo": "https://i.imgur.com/N00seOn.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Animals",
-    "logo": "https://i.imgur.com/N00seOn.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Crime",
-    "logo": "https://i.imgur.com/QwEpDY9.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Crime",
-    "logo": "https://i.imgur.com/QwEpDY9.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Documentari",
-    "logo": "https://i.imgur.com/o7KVAIH.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV History",
     "logo": "https://i.imgur.com/XkQD5kM.png",
     "country": "",
@@ -828,15 +783,6 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Inside",
-    "logo": "https://i.imgur.com/Tb4GNml.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Investigação",
     "logo": "https://i.imgur.com/JlQq0YJ.png",
     "country": "",
@@ -846,35 +792,17 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Investigation",
-    "logo": "https://i.imgur.com/8LdACfR.png",
+    "name": "Pluto TV Naturaleza",
+    "logo": "https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png",
     "country": "",
     "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Mystery",
-    "logo": "https://i.imgur.com/oXpLEXI.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Natura",
-    "logo": "https://i.imgur.com/bGZkH6b.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8",
+    "group": "Documentary;Outdoor",
+    "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
     "isHttps": true
   },
   {
     "name": "Pluto TV Paranormal",
-    "logo": "https://i.imgur.com/ApN6nfw.png",
+    "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
@@ -883,7 +811,7 @@
   },
   {
     "name": "Pluto TV Paranormal",
-    "logo": "https://i.imgur.com/ApN6nfw.png",
+    "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
@@ -892,11 +820,47 @@
   },
   {
     "name": "Pluto TV Paranormal",
-    "logo": "https://i.imgur.com/ApN6nfw.png",
+    "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Science",
+    "logo": "https://i.imgur.com/uhunRoU.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Science",
+    "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Science",
+    "logo": "https://i.imgur.com/uhunRoU.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Science",
+    "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV True Crime",
+    "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Series",
+    "url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV True Crime",
+    "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Series",
+    "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
     "isHttps": true
   },
   {
@@ -1176,6 +1140,33 @@
     "language": "",
     "group": "Documentary",
     "url": "http://79.232.88.203:9981/stream/channelid/81078517",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",BBC Earth",
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://81.15.109.89:8001/play/BBCEarth",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Explore",
+    "logo": "https://i.imgur.com/gDlqO9h.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://81.15.109.89:8001/play/PolsatViasatExplore",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Nature",
+    "logo": "https://i.imgur.com/TUcM0oS.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://81.15.109.89:8001/play/PolsatViasatNature",
     "isHttps": false
   },
   {

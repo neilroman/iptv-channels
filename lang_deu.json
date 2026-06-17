@@ -243,15 +243,6 @@
     "isHttps": true
   },
   {
-    "name": "CC Pluto TV",
-    "logo": "https://i.imgur.com/MjC40At.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Chaos City",
     "logo": "https://i.imgur.com/1UZNdRH.png",
     "country": "",
@@ -366,6 +357,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Disney Channel HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.telecloud.tv/CH4019/index.m3u8",
     "isHttps": true
   },
   {
@@ -891,15 +891,6 @@
     "isHttps": true
   },
   {
-    "name": "MTV Pluto TV",
-    "logo": "https://i.imgur.com/WsQRCmZ.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MTV Ridiculousness (720p)",
     "logo": "https://i.imgur.com/GIKkbjT.png",
     "country": "",
@@ -1314,156 +1305,12 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Animals",
-    "logo": "https://i.imgur.com/N00seOn.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Anime",
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Animation",
-    "url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Crime",
-    "logo": "https://i.imgur.com/QwEpDY9.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Explore",
-    "logo": "https://i.imgur.com/Fhrcxje.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Food",
-    "logo": "https://i.imgur.com/HTLo1GG.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV History",
-    "logo": "https://i.imgur.com/XkQD5kM.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Horror",
-    "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Inside",
-    "logo": "https://i.imgur.com/Tb4GNml.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Kultfilme",
-    "logo": "https://i.imgur.com/RJhxl8t.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Movies",
-    "logo": "https://i.imgur.com/XzAbXAn.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Mystery",
-    "logo": "https://i.imgur.com/oXpLEXI.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Nature",
-    "logo": "https://i.imgur.com/PtWUmss.png",
-    "country": "",
-    "language": "",
-    "group": "Outdoor",
-    "url": "https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Paranormal",
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Serie",
-    "logo": "https://i.imgur.com/u3c80e8.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Sitcoms",
-    "logo": "https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Space",
     "logo": "https://i.imgur.com/hQwS3ui.png",
     "country": "",
     "language": "",
     "group": "Science",
     "url": "https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV True Crime",
-    "logo": "https://i.imgur.com/lNfaxiv.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8",
     "isHttps": true
   },
   {

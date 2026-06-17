@@ -891,15 +891,6 @@
     "isHttps": true
   },
   {
-    "name": "Acapulco Shore Pluto TV",
-    "logo": "https://i.imgur.com/D2jgGOi.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ACCDN (1080p)",
     "logo": "https://i.imgur.com/V6Kaqha.png",
     "country": "",
@@ -2003,7 +1994,7 @@
     "country": "",
     "language": "",
     "group": "Culture;Documentary",
-    "url": "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8",
+    "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
     "isHttps": true
   },
   {
@@ -2638,16 +2629,7 @@
   },
   {
     "name": "BET Pluto TV",
-    "logo": "https://i.imgur.com/Kq9WKZg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BET Pluto TV",
-    "logo": "https://i.imgur.com/Kq9WKZg.png",
+    "logo": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -4618,7 +4600,7 @@
   },
   {
     "name": "Comedy Central Pluto TV",
-    "logo": "https://i.imgur.com/9y6TtjF.png",
+    "logo": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Comedy",
@@ -6615,6 +6597,15 @@
     "isHttps": true
   },
   {
+    "name": "FXX (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn.telecloud.tv/CH3255/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Gainesville Community 12TV (Gainesville FL) (720p)",
     "logo": "https://i.imgur.com/Oel3q43.png",
     "country": "",
@@ -7169,7 +7160,7 @@
     "country": "",
     "language": "",
     "group": "Documentary;Series",
-    "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+    "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8088,6 +8079,15 @@
     "language": "",
     "group": "Shop",
     "url": "https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Jibek Joly (1080p)",
+    "logo": "https://i.imgur.com/SqyXtgK.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -9261,6 +9261,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",FashionBox",
+    "logo": "https://i.imgur.com/Taqj4yi.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black Romania",
     "logo": "https://i.imgur.com/Peo1QiZ.png",
     "country": "",
@@ -9312,6 +9321,15 @@
     "language": "",
     "group": "Relax",
     "url": "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",FightBox",
+    "logo": "https://i.imgur.com/mRsnztA.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8",
     "isHttps": true
   },
   {
@@ -9915,6 +9933,15 @@
     "language": "",
     "group": "General",
     "url": "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MeTV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8",
     "isHttps": true
   },
   {
@@ -10522,7 +10549,7 @@
   },
   {
     "name": "MTV Pluto TV",
-    "logo": "https://i.imgur.com/WsQRCmZ.png",
+    "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -11358,8 +11385,17 @@
     "isHttps": true
   },
   {
+    "name": "Nick Jr. Pluto TV",
+    "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nick Jr. Pluto TV (720p)",
-    "logo": "https://i.imgur.com/8DAe8wr.png",
+    "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -12425,43 +12461,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Action",
-    "logo": "https://i.imgur.com/tDapGal.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
     "url": "https://jmp2.uk/plu-65004605110545000842035d.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Animals",
-    "logo": "https://i.imgur.com/N00seOn.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Animation",
-    "logo": "https://i.imgur.com/HT0hv7F.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Anime",
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Animation",
-    "url": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8",
     "isHttps": true
   },
   {
@@ -12492,17 +12492,8 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV British Comedy",
-    "logo": "https://i.imgur.com/LlwoR74.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Cars",
-    "logo": "https://i.imgur.com/Tm3VFmq.png",
+    "logo": "https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png",
     "country": "",
     "language": "",
     "group": "Auto",
@@ -12510,26 +12501,8 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Classic TV",
-    "logo": "https://i.imgur.com/hGdXRMd.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Classic TV Families",
-    "logo": "https://i.imgur.com/llAZ49f.png",
-    "country": "",
-    "language": "",
-    "group": "Classic",
-    "url": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Comedy",
-    "logo": "https://i.imgur.com/MTVrbd5.png",
+    "logo": "https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Comedy",
@@ -12537,26 +12510,8 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Conspiracy",
-    "logo": "https://i.imgur.com/sr0kYSH.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Crime",
-    "logo": "https://i.imgur.com/QwEpDY9.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Crime Drama",
-    "logo": "https://i.imgur.com/9j1njE3.png",
+    "logo": "https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -12578,25 +12533,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Cult Films",
-    "logo": "https://i.imgur.com/xoaIAus.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
     "url": "https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Drama",
-    "logo": "https://i.imgur.com/PvhbHTZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8",
     "isHttps": true
   },
   {
@@ -12615,24 +12552,6 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Fishing",
-    "logo": "https://i.imgur.com/ZaHOk8j.png",
-    "country": "",
-    "language": "",
-    "group": "Outdoor",
-    "url": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Food",
-    "logo": "https://i.imgur.com/HTLo1GG.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
     "isHttps": true
   },
   {
@@ -12659,15 +12578,6 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV History",
-    "logo": "https://i.imgur.com/XkQD5kM.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
     "url": "https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8",
     "isHttps": true
   },
@@ -12676,7 +12586,7 @@
     "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
     "country": "",
     "language": "",
-    "group": "Movies",
+    "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
     "isHttps": true
   },
@@ -12685,26 +12595,8 @@
     "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
     "country": "",
     "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Horror",
-    "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
+    "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Kids",
-    "logo": "https://i.imgur.com/yVSLWy5.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
     "isHttps": true
   },
   {
@@ -12735,26 +12627,8 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Movies",
-    "logo": "https://i.imgur.com/XzAbXAn.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Paranormal",
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Paranormal",
-    "logo": "https://i.imgur.com/ApN6nfw.png",
+    "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
@@ -12771,26 +12645,8 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Real Life",
-    "logo": "https://i.imgur.com/uvk27Fe.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Reality",
-    "logo": "https://i.imgur.com/OvN7FCv.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Reality",
-    "logo": "https://i.imgur.com/OvN7FCv.png",
+    "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -12798,29 +12654,11 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Retro Toons",
-    "logo": "https://i.imgur.com/YUQL0ki.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Retro Toons",
-    "logo": "https://i.imgur.com/YUQL0ki.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Romance",
     "logo": "https://i.imgur.com/GJBxfyf.png",
     "country": "",
     "language": "",
-    "group": "Movies",
+    "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8",
     "isHttps": true
   },
@@ -12829,44 +12667,8 @@
     "logo": "https://i.imgur.com/uhunRoU.png",
     "country": "",
     "language": "",
-    "group": "Science",
-    "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Science",
-    "logo": "https://i.imgur.com/uhunRoU.png",
-    "country": "",
-    "language": "",
-    "group": "Science",
+    "group": "Documentary;Science",
     "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Series",
-    "logo": "https://i.imgur.com/7ouD3E6.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Séries Sci-Fi",
-    "logo": "https://i.imgur.com/Ubj8sEU.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Sherlock",
-    "logo": "https://i.imgur.com/SL3FNcm.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8",
     "isHttps": true
   },
   {
@@ -12906,15 +12708,6 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Star Trek",
-    "logo": "https://i.imgur.com/8cvXYiT.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Terror",
     "logo": "https://i.imgur.com/eWtoHDM.png",
     "country": "",
@@ -12929,39 +12722,21 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Thrillers",
-    "logo": "https://i.imgur.com/ULKvDN7.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
     "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8",
     "isHttps": true
   },
   {
     "name": "Pluto TV True Crime",
-    "logo": "https://i.imgur.com/lNfaxiv.png",
+    "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
     "country": "",
     "language": "",
-    "group": "Series",
+    "group": "Documentary;Series",
     "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
     "isHttps": true
   },
   {
     "name": "Pluto TV Westerns",
-    "logo": "https://i.imgur.com/biepi4A.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Westerns",
-    "logo": "https://i.imgur.com/biepi4A.png",
+    "logo": "https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -18927,6 +18702,15 @@
     "isHttps": false
   },
   {
+    "name": "A&E (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://23.239.31.26:8989/aande/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ABC (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
     "country": "",
@@ -18951,6 +18735,15 @@
     "language": "",
     "group": "General",
     "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AMC (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.239.31.26:8989/amc/index.m3u8",
     "isHttps": false
   },
   {
@@ -19023,6 +18816,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXS TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://23.239.31.26:8989/axstv/index.m3u8",
     "isHttps": false
   },
   {
@@ -19179,6 +18981,24 @@
     "isHttps": false
   },
   {
+    "name": "CMT (720p)",
+    "logo": "https://i.imgur.com/S7DOpdY.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CNBC (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Business",
+    "url": "http://rezofoot.tv/CNBC/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Colors Infinity HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
     "country": "",
@@ -19212,6 +19032,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://173.225.32.123/Cozi-2358/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Crime + Investigation (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
     "isHttps": false
   },
   {
@@ -19467,6 +19296,15 @@
     "isHttps": false
   },
   {
+    "name": "Fuse (1080p)",
+    "logo": "https://i.imgur.com/mijRpPQ.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Geo Kahani (576p)",
     "logo": "https://i.imgur.com/uKYH0IM.png",
     "country": "",
@@ -19482,6 +19320,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hallmark Channel (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
     "isHttps": false
   },
   {
@@ -19665,6 +19512,51 @@
     "isHttps": false
   },
   {
+    "name": "Lifetime (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://rezofoot.tv/LIFETIME/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",BBC Earth",
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://81.15.109.89:8001/play/BBCEarth",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",BBC Brit",
+    "logo": "https://i.imgur.com/i4remZo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://81.15.109.89:8001/play/BBCBrit",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
+    "logo": "https://i.imgur.com/9mzJJ3y.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://81.15.109.89:8001/play/BBCLifestyle",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Extreme Sports Channel Polska",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://81.15.109.89:8001/play/ExtremeSports",
+    "isHttps": false
+  },
+  {
     "name": "LTN Family (576p)",
     "logo": "https://i.imgur.com/n4CenYn.png",
     "country": "",
@@ -19764,6 +19656,15 @@
     "isHttps": false
   },
   {
+    "name": "MTV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://198.58.104.90:8989/mtv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MTV [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
     "country": "",
@@ -19779,6 +19680,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MTV2 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
     "isHttps": false
   },
   {
@@ -19833,6 +19743,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NESN (720p)",
+    "logo": "https://i.imgur.com/Lv1bUG5.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_NESN/index.m3u8",
     "isHttps": false
   },
   {
@@ -19917,12 +19836,39 @@
     "isHttps": false
   },
   {
+    "name": "Outdoor Channel HD (720p)",
+    "logo": "https://i.imgur.com/Kh4MWaY.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Oxygen (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Pamir TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/sCBbBOj.png",
     "country": "",
     "language": "",
     "group": "Culture;Music",
     "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Paramount Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
     "isHttps": false
   },
   {
@@ -19977,6 +19923,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Revolt (720p)",
+    "logo": "https://i.imgur.com/eaYnGpH.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_REVOLT/index.m3u8",
     "isHttps": false
   },
   {
@@ -20400,6 +20355,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VH1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rezofoot.tv/VH1/index.m3u8",
     "isHttps": false
   },
   {

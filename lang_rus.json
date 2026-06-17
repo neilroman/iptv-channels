@@ -279,6 +279,15 @@
     "isHttps": true
   },
   {
+    "name": "Friday! (1080p)",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn.telecloud.tv/CH4419/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Glazami Turista (576i)",
     "logo": "https://i.imgur.com/GXJKWdy.png",
     "country": "",
@@ -303,6 +312,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Jibek Joly (1080p)",
+    "logo": "https://i.imgur.com/SqyXtgK.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -576,6 +594,15 @@
     "isHttps": true
   },
   {
+    "name": "Moskva 24 (576p)",
+    "logo": "https://i.imgur.com/gXbUMVy.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Movify Kino (576p)",
     "logo": "https://i.imgur.com/XIk5EJN.png",
     "country": "",
@@ -729,6 +756,15 @@
     "isHttps": true
   },
   {
+    "name": "REN TV HD (1080p)",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.telecloud.tv/CH189/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Retro",
     "logo": "https://i.imgur.com/p21co1w.png",
     "country": "",
@@ -807,6 +843,15 @@
     "language": "",
     "group": "General",
     "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Solovyov Live (1080p)",
+    "logo": "https://i.imgur.com/v0OYe1d.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8",
     "isHttps": true
   },
   {
@@ -906,6 +951,15 @@
     "language": "",
     "group": "General",
     "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Centr (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://cdn.telecloud.tv/CH4603/index.m3u8",
     "isHttps": true
   },
   {
@@ -1719,15 +1773,6 @@
     "isHttps": true
   },
   {
-    "name": "Пятница! (576p)",
-    "logo": "https://i.imgur.com/UfmlXxe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://vod.tuva.ru/friday/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Пятый Канал (540p) [Geo-blocked]",
     "logo": "https://i.imgur.com/KPXMa3U.png",
     "country": "",
@@ -2229,15 +2274,6 @@
     "language": "",
     "group": "General",
     "url": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ТВ Центр (450p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8",
     "isHttps": true
   },
   {
@@ -2805,6 +2841,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SuperGeroi (1080p)",
+    "logo": "https://i.imgur.com/c0zZUR1.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Malish_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3660,15 +3705,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Соловьёв LIVE (576p)",
-    "logo": "https://i.imgur.com/v0OYe1d.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://31.148.48.15/EuroNews/index.m3u8",
     "isHttps": false
   },
   {

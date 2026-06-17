@@ -387,6 +387,33 @@
     "isHttps": true
   },
   {
+    "name": "Disney Channel (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.telecloud.tv/CH16265/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Disney Channel (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.telecloud.tv/CH4141/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Disney Channel HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.telecloud.tv/CH4019/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Disney Jr. (1080p) [Geo-blocked]",
     "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
     "country": "",
@@ -946,7 +973,7 @@
   },
   {
     "name": "Nick Jr. Pluto TV",
-    "logo": "https://i.imgur.com/8DAe8wr.png",
+    "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -955,7 +982,7 @@
   },
   {
     "name": "Nick Jr. Pluto TV (720p)",
-    "logo": "https://i.imgur.com/8DAe8wr.png",
+    "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1005,6 +1032,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NickOnline (360p)",
+    "logo": "https://x1co.com.br/logo.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://x1co.com.br/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -1189,7 +1225,7 @@
   },
   {
     "name": "Pluto TV Junior",
-    "logo": "https://i.imgur.com/7sApMZS.png",
+    "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1198,7 +1234,7 @@
   },
   {
     "name": "Pluto TV Junior (720p)",
-    "logo": "https://i.imgur.com/7sApMZS.png",
+    "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1207,7 +1243,7 @@
   },
   {
     "name": "Pluto TV Kids",
-    "logo": "https://i.imgur.com/yVSLWy5.png",
+    "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1216,7 +1252,7 @@
   },
   {
     "name": "Pluto TV Kids",
-    "logo": "https://i.imgur.com/yVSLWy5.png",
+    "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1225,38 +1261,11 @@
   },
   {
     "name": "Pluto TV Kids Spain (720p)",
-    "logo": "https://i.imgur.com/yVSLWy5.png",
+    "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Retro Toons",
-    "logo": "https://i.imgur.com/YUQL0ki.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Retro Toons",
-    "logo": "https://i.imgur.com/YUQL0ki.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Teen (720p)",
-    "logo": "https://i.imgur.com/lNJ5p5e.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8",
     "isHttps": true
   },
   {
@@ -1926,15 +1935,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney International HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
     "country": "",
@@ -1977,6 +1977,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Junior (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://81.15.109.89:8001/play/DisneyJunior",
     "isHttps": false
   },
   {
@@ -2193,6 +2202,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SuperGeroi (1080p)",
+    "logo": "https://i.imgur.com/c0zZUR1.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Malish_TV/index.m3u8",
     "isHttps": false
   },
   {

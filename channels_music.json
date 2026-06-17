@@ -1035,6 +1035,15 @@
     "isHttps": true
   },
   {
+    "name": "Fiesta TV",
+    "logo": "https://i.imgur.com/42wImV2.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Finest TV (288p) [Not 24/7]",
     "logo": "https://i.imgur.com/1uoP10V.png",
     "country": "",
@@ -1359,6 +1368,15 @@
     "isHttps": true
   },
   {
+    "name": "Interradio TV",
+    "logo": "https://i.imgur.com/3875n4G.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "IQ Channel (720p)",
     "logo": "https://i.imgur.com/hwuaomt.png",
     "country": "",
@@ -1626,6 +1644,15 @@
     "language": "",
     "group": "Music",
     "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "La Granja TV",
+    "logo": "https://i.imgur.com/90luGab.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2953,7 +2980,7 @@
   },
   {
     "name": "Pluto TV Karaokê por Stingray (720p)",
-    "logo": "https://i.imgur.com/rWpLepJ.png",
+    "logo": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -2971,7 +2998,7 @@
   },
   {
     "name": "Pluto TV Shows por Stingray (720p)",
-    "logo": "https://i.imgur.com/TrG7Y84.png",
+    "logo": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -3798,6 +3825,15 @@
     "isHttps": true
   },
   {
+    "name": "RTS Muzika (576p)",
+    "logo": "https://i.imgur.com/n8p11NI.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://de1.dstv.cx/RTSMuzika/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RTV Vida (1080p)",
     "logo": "https://i.imgur.com/EqUfEAh.png",
     "country": "",
@@ -3822,6 +3858,15 @@
     "language": "",
     "group": "Music",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Salsa Latina FM",
+    "logo": "https://i.imgur.com/uDJPCju.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8",
     "isHttps": true
   },
   {
@@ -5454,6 +5499,15 @@
     "isHttps": false
   },
   {
+    "name": "AXS TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://23.239.31.26:8989/axstv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "B4U Hitz (576p)",
     "logo": "",
     "country": "",
@@ -5526,6 +5580,15 @@
     "isHttps": false
   },
   {
+    "name": "CMT (720p)",
+    "logo": "https://i.imgur.com/S7DOpdY.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "D Music (1280p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -5571,12 +5634,12 @@
     "isHttps": false
   },
   {
-    "name": "Eska Rock TV (1080p) [Not 24/7]",
+    "name": "Eska Rock TV (1080p)",
     "logo": "https://i.imgur.com/o0Fg19Q.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8",
+    "url": "http://81.15.109.89:8001/play/EskaRock",
     "isHttps": false
   },
   {
@@ -5973,6 +6036,15 @@
     "language": "",
     "group": "Music",
     "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VH1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rezofoot.tv/VH1/index.m3u8",
     "isHttps": false
   },
   {
