@@ -135,6 +135,15 @@
     "isHttps": true
   },
   {
+    "name": "BelRos (720p)",
+    "logo": "https://i.imgur.com/tUF33HD.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bollywood HD Russia (576p)",
     "logo": "https://i.imgur.com/scDKOLS.png",
     "country": "",
@@ -258,6 +267,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://sb.err.ee/live/etvpluss.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Euronews Russian (720p)",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
     "isHttps": true
   },
   {
@@ -681,6 +699,24 @@
     "language": "",
     "group": "General",
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https",
+    "isHttps": true
+  },
+  {
+    "name": "NTV Series (576p)",
+    "logo": "https://i.imgur.com/QdVa8tl.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/th_serial/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NTV-Hit (1080p)",
+    "logo": "https://i.imgur.com/FfKBvz5.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/th_hit/index.m3u8",
     "isHttps": true
   },
   {
@@ -1197,15 +1233,6 @@
     "isHttps": true
   },
   {
-    "name": "БелРос (576p)",
-    "logo": "https://i.imgur.com/tUF33HD.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "БСТ (Башкирское спутниковое телевидение) (576p)",
     "logo": "https://i.imgur.com/IDotHmQ.png",
     "country": "",
@@ -1620,30 +1647,12 @@
     "isHttps": true
   },
   {
-    "name": "НТВ Сериал (576p)",
-    "logo": "https://i.imgur.com/QdVa8tl.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://cdn.ntv.ru/th_serial/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "НТВ Стиль (576p)",
     "logo": "https://i.imgur.com/rX6K6qT.png",
     "country": "",
     "language": "",
     "group": "Lifestyle",
     "url": "https://cdn.ntv.ru/th_style/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "НТВ Хит (576p)",
-    "logo": "https://i.imgur.com/FfKBvz5.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://cdn.ntv.ru/th_hit/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2655,15 +2664,6 @@
     "isHttps": false
   },
   {
-    "name": "Euronews Russian (576p)",
-    "logo": "https://i.imgur.com/8t9mdg9.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://tmptv.sunduk.tv/CH31/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Europa Plus TV (1080p)",
     "logo": "https://i.imgur.com/GLc4qrc.png",
     "country": "",
@@ -2697,6 +2697,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://31.148.48.15/HD_Life/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hit HD (1080p)",
+    "logo": "https://i.imgur.com/jl3MNPe.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/XitHD/video.m3u8",
     "isHttps": false
   },
   {
@@ -2745,12 +2754,48 @@
     "isHttps": false
   },
   {
+    "name": "Kinopokaz HD (1080p)",
+    "logo": "https://i.imgur.com/nNjMyAq.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kinoseriya (1080p)",
+    "logo": "https://i.imgur.com/iao7zLZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kluch (576p)",
+    "logo": "https://i.imgur.com/WA9TOPi.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://hls127.freeott.top:8080/Kluch/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Life TV (432p) [Not 24/7]",
     "logo": "https://i.imgur.com/JhrTB82.png",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies;Series\",FilmUADrama (1080p)",
+    "logo": "https://i.imgur.com/Hnwsh5d.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://88.99.215.227/FilmUADrama/index.m3u8",
     "isHttps": false
   },
   {
@@ -2769,6 +2814,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nash Kinomir (576p)",
+    "logo": "https://i.imgur.com/7M1J42A.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8",
     "isHttps": false
   },
   {
@@ -2805,6 +2859,15 @@
     "language": "",
     "group": "Culture;News",
     "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Pro Lyubov (1080p)",
+    "logo": "https://i.imgur.com/QpIGAT0.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://hls127.freeott.top:8080/ProLubovHD/video.m3u8",
     "isHttps": false
   },
   {

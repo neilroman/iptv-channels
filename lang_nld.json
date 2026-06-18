@@ -162,6 +162,24 @@
     "isHttps": true
   },
   {
+    "name": "EBS (1080p)",
+    "logo": "https://i.imgur.com/DIIRPNN.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "EBS Plus (1080p)",
+    "logo": "https://i.imgur.com/7V012zQ.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Energia TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/GVKjI5c.jpeg",
     "country": "",
@@ -1494,6 +1512,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",National Geographic HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nos TV Bonaire (1080p)",
     "logo": "https://i.imgur.com/GINI6oP.png",
     "country": "",
@@ -1563,6 +1590,15 @@
     "language": "",
     "group": "General",
     "url": "http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "STAR Channel",
+    "logo": "https://i.imgur.com/5xeR7Ec.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://86.87.15.10:8003/play/a024/index.m3u8",
     "isHttps": false
   },
   {

@@ -342,7 +342,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Anime",
+    "name": "3Cat Anime",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -351,8 +351,8 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Càmeres del temps",
-    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
+    "name": "3Cat Càmeres del temps",
+    "logo": "https://graph.facebook.com/3CatInfoElTemps/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Cataluña",
@@ -360,7 +360,16 @@
     "isHttps": true
   },
   {
-    "name": "3CAT El búnquer",
+    "name": "3Cat Doraemon",
+    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3Cat El búnquer",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -369,7 +378,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Exclusiu 1 GEO",
+    "name": "3Cat Exclusiu 1 GEO",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -378,7 +387,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Exclusiu 1 GEO CAT",
+    "name": "3Cat Exclusiu 1 GEO CAT",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -387,7 +396,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Exclusiu 2 GEO",
+    "name": "3Cat Exclusiu 2 GEO",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -396,7 +405,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Exclusiu 2 GEO CAT",
+    "name": "3Cat Exclusiu 2 GEO CAT",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -405,7 +414,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Exclusiu 3 GEO",
+    "name": "3Cat Exclusiu 3 GEO",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -414,7 +423,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Exclusiu 3 GEO CAT",
+    "name": "3Cat Exclusiu 3 GEO CAT",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -432,7 +441,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Joc de Cartes",
+    "name": "3Cat Joc de Cartes",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -441,7 +450,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Plats bruts",
+    "name": "3Cat Plats bruts",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -450,7 +459,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Verdi Classics",
+    "name": "3Cat Verdi Clàssics",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -459,7 +468,7 @@
     "isHttps": true
   },
   {
-    "name": "3CAT Vinagreta",
+    "name": "3Cat Vinagreta",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1194,15 +1203,6 @@
     "language": "",
     "group": "Int. América",
     "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal Capital Colombia",
-    "logo": "https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. América",
-    "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
     "isHttps": true
   },
   {
@@ -2304,15 +2304,6 @@
     "isHttps": true
   },
   {
-    "name": "Feria del libro (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16541484.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Fibwi Diario",
     "logo": "https://pbs.twimg.com/profile_images/1937439289270288384/qFK2qqCW_200x200.jpg",
     "country": "",
@@ -3039,6 +3030,15 @@
     "language": "",
     "group": "Canarias",
     "url": "https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Noticias RCN",
+    "logo": "https://graph.facebook.com/NoticiasRCN/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. América",
+    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de65be88aeb39f/?X-Plex-Token=zBXsxVNLkczFVyqfDaGK",
     "isHttps": true
   },
   {
@@ -4443,15 +4443,6 @@
     "language": "",
     "group": "Canarias",
     "url": "https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Castelló",
-    "logo": "https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "C. Valenciana",
-    "url": "https://play.turesportmedia.com/hls/abr_tvcs/index.m3u8",
     "isHttps": true
   },
   {

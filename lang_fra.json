@@ -99,12 +99,12 @@
     "isHttps": true
   },
   {
-    "name": "ACTV [Geo-blocked]",
+    "name": "ACTV (504p)",
     "logo": "https://files.catbox.moe/8v2y8m.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8",
     "isHttps": true
   },
   {
@@ -207,6 +207,15 @@
     "isHttps": true
   },
   {
+    "name": "Al Aoula (480p)",
+    "logo": "https://i.imgur.com/nq53d2N.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Al Aoula Inter (1080p)",
     "logo": "https://i.imgur.com/nq53d2N.png",
     "country": "",
@@ -294,6 +303,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Assadissa (480p)",
+    "logo": "https://freebox.cdn.scw.iliad.fr/medium_Assadissa_f8b25de821.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8",
     "isHttps": true
   },
   {
@@ -414,12 +432,12 @@
     "isHttps": true
   },
   {
-    "name": "Bouke [Geo-blocked]",
+    "name": "Bouke (504p)",
     "logo": "https://i.imgur.com/STLavel.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8",
     "isHttps": true
   },
   {
@@ -657,6 +675,105 @@
     "isHttps": true
   },
   {
+    "name": "Ciné 666 by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Action by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Catastrophe by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné d'Asie by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Horreur by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Rétro by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Romance by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Sci-Fi by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Thrillers by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ciné Western by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Clubbing TV France",
     "logo": "https://i.imgur.com/MyiA92q.png",
     "country": "",
@@ -807,6 +924,24 @@
     "language": "",
     "group": "Religious",
     "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "EBS (1080p)",
+    "logo": "https://i.imgur.com/DIIRPNN.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "EBS Plus (1080p)",
+    "logo": "https://i.imgur.com/7V012zQ.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
     "isHttps": true
   },
   {
@@ -1305,6 +1440,15 @@
     "isHttps": true
   },
   {
+    "name": "Investigation by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Iqraa Africa & Europe (1080p)",
     "logo": "https://i.imgur.com/nUlZvSe.png",
     "country": "",
@@ -1419,6 +1563,15 @@
     "language": "",
     "group": "News",
     "url": "https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Laayoune TV (480p)",
+    "logo": "https://www.snrt.ma/sites/default/files/2023-04/laayoune.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://snrtworker.kharazbelaid.workers.dev/?id=laayoune.m3u8",
     "isHttps": true
   },
   {
@@ -2088,6 +2241,231 @@
     "isHttps": true
   },
   {
+    "name": "Pluto TV 2010's Classics",
+    "logo": "https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV 90's Classics",
+    "logo": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Animaux",
+    "logo": "https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV ANIME GO!",
+    "logo": "https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Aventure",
+    "logo": "https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Brigade Criminelle",
+    "logo": "https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Comédie",
+    "logo": "https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Comédies Cultes",
+    "logo": "https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies",
+    "url": "https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Cuisine",
+    "logo": "https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking;Lifestyle",
+    "url": "https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Dating (720p)",
+    "logo": "https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1750772750435.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV French Collection",
+    "logo": "https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Histoire (720p)",
+    "logo": "https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Inside",
+    "logo": "https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Junior (720p)",
+    "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Kids Classics (720p)",
+    "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Kids Club",
+    "logo": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Paranormal",
+    "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Polar",
+    "logo": "https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Reality",
+    "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Retro Toons",
+    "logo": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Séries Fantastiques",
+    "logo": "https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Snooker 900 (720p)",
+    "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Super Kids",
+    "logo": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Teen (720p)",
+    "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Toons (720p)",
+    "logo": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Press TV French (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
     "country": "",
@@ -2466,6 +2844,15 @@
     "isHttps": true
   },
   {
+    "name": "Series by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony One Blacklist (1080p)",
     "logo": "https://i.imgur.com/uJC8rXr.png",
     "country": "",
@@ -2745,6 +3132,15 @@
     "isHttps": true
   },
   {
+    "name": "Telesambre (504p)",
+    "logo": "https://i.imgur.com/TuIAkA3.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Television Espoir 47 (720p)",
     "logo": "https://i.imgur.com/utBh0xL.png",
     "country": "",
@@ -2859,6 +3255,15 @@
     "language": "",
     "group": "Business",
     "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "True Crime by Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8",
     "isHttps": true
   },
   {
@@ -3309,6 +3714,42 @@
     "language": "",
     "group": "General",
     "url": "http://69.64.57.208/canal2international/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ (1080p)",
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Cinemas (720p)",
+    "logo": "https://i.imgur.com/fvPoNEa.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Family (720p)",
+    "logo": "https://i.imgur.com/TXI8hM1.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Sport (1080p)",
+    "logo": "https://i.imgur.com/EOXnU15.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
     "isHttps": false
   },
   {

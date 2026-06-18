@@ -342,6 +342,24 @@
     "isHttps": true
   },
   {
+    "name": "EBS (1080p)",
+    "logo": "https://i.imgur.com/DIIRPNN.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "EBS Plus (1080p)",
+    "logo": "https://i.imgur.com/7V012zQ.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Elive TV Brescia (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/gZxjLph.png",
     "country": "",
@@ -891,26 +909,224 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Dating (720p)",
-    "logo": "https://i.imgur.com/VXaiLtt.png",
+    "name": "Pluto TV Alberto Sordi",
+    "logo": "https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",
     "country": "",
     "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Anime",
+    "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Azione Cult",
+    "logo": "https://images.pluto.tv/channels/6994800c470389f33df8e090/colorLogoPNG_1774006898101.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Christmas tutto l'anno",
+    "logo": "https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-612e05b885183d0007958101.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Cinema Italiano",
+    "logo": "https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Cinema Orientale",
+    "logo": "https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Cucina",
+    "logo": "https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking;Lifestyle",
+    "url": "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Dive Italiane",
+    "logo": "https://images.pluto.tv/channels/6875080e3484d607323641f8/colorLogoPNG_1755261736890.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Documentari",
+    "logo": "https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8",
     "isHttps": true
   },
   {
     "name": "Pluto TV Film",
-    "logo": "https://i.imgur.com/aZverZQ.png",
+    "logo": "https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8",
+    "url": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Film Ancora Più Romantici",
+    "logo": "https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Film Azione",
+    "logo": "https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Film Commedia",
+    "logo": "https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Film Romantici",
+    "logo": "https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Film Storici",
+    "logo": "https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-68750875759366af05a151ce.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Film Thriller",
+    "logo": "https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Horror",
+    "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Legami Letali",
+    "logo": "https://images.pluto.tv/channels/64808a8c536e0c0008a276d1/colorLogoPNG_1747395859514.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Natura",
+    "logo": "https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG_1773147389391.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Notti di Passione",
+    "logo": "https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Notti di Sangue",
+    "logo": "https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Notti di Terrore",
+    "logo": "https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/colorLogoPNG_1766041208757.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Paranormal",
+    "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Real Life",
+    "logo": "https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8",
     "isHttps": true
   },
   {
     "name": "Pluto TV Scherzi e risate",
-    "logo": "https://i.imgur.com/jVWPVvJ.png",
+    "logo": "https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Comedy",
@@ -918,12 +1134,120 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Sport",
-    "logo": "https://i.imgur.com/y22ElOr.png",
+    "name": "Pluto TV Sci-Fi",
+    "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Serie",
+    "logo": "https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Serie Crime",
+    "logo": "https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Serie Sci-Fi",
+    "logo": "https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Shore",
+    "logo": "https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Snooker 900 (720p)",
+    "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8",
+    "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Sport",
+    "logo": "https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Storia",
+    "logo": "https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Teen (720p)",
+    "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Totò",
+    "logo": "https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV True Crime",
+    "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Series",
+    "url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Viaggi",
+    "logo": "https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Western",
+    "logo": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8",
     "isHttps": true
   },
   {

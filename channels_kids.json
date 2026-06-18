@@ -513,6 +513,15 @@
     "isHttps": true
   },
   {
+    "name": "Forever Kids",
+    "logo": "https://i.imgur.com/deeQqYZ.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "France 4 HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
     "country": "",
@@ -1018,10 +1027,10 @@
   },
   {
     "name": "Nickelodeon Pluto TV (720p)",
-    "logo": "https://i.imgur.com/N7rQyzN.png",
+    "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
     "country": "",
     "language": "",
-    "group": "Kids",
+    "group": "Animation;Kids",
     "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
     "isHttps": true
   },
@@ -1216,7 +1225,7 @@
   },
   {
     "name": "Pluto TV Forever Kids",
-    "logo": "https://i.imgur.com/deeQqYZ.png",
+    "logo": "https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1233,12 +1242,66 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Junior (720p)",
+    "name": "Pluto TV Junior",
     "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Kids",
+    "url": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Junior (720p)",
+    "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Junior (720p)",
+    "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
     "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Juniorklubben (720p)",
+    "logo": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Juniorklubben (720p)",
+    "logo": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Juniorklubben (720p)",
+    "logo": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Kids",
+    "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
     "isHttps": true
   },
   {
@@ -1256,16 +1319,214 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
+    "url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Kids Classics (720p)",
+    "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Kids Classics (720p)",
+    "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Kids Club",
+    "logo": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Kids Club",
+    "logo": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8",
     "isHttps": true
   },
   {
     "name": "Pluto TV Kids Spain (720p)",
-    "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Klassiske tegnefilm (720p)",
+    "logo": "https://images.pluto.tv/channels/67f508992ebe80e2929b5c98/colorLogoPNG_1748955041610.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Klassiske tegnefilmer (720p)",
+    "logo": "https://images.pluto.tv/channels/67f508f68ddd60c57dc44766/colorLogoPNG_1748955225113.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Retro Kid",
+    "logo": "https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Retro Toons",
+    "logo": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Retro Toons",
+    "logo": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Super Kids",
+    "logo": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Tecknade klassiker (720p)",
+    "logo": "https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Tecknat (720p)",
+    "logo": "https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Teen (720p)",
+    "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Teen (720p)",
+    "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Teen (720p)",
+    "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Tegnefilm (720p)",
+    "logo": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Tegnefilm (720p)",
+    "logo": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Toons",
+    "logo": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Toons (720p)",
+    "logo": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Ungdomsserier (720p)",
+    "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Ungdomsserier (720p)",
+    "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Ungdomsserier (720p)",
+    "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
     "isHttps": true
   },
   {
@@ -2193,6 +2454,15 @@
     "language": "",
     "group": "Kids;Lifestyle",
     "url": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Starz Kids & Family (1080p)",
+    "logo": "https://i.imgur.com/eE9FzEP.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
     "isHttps": false
   },
   {
