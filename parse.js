@@ -46,6 +46,7 @@ const SOURCES = [
   { key: 'tdt',    label: 'TDT España',   url: 'https://www.tdtchannels.com/lists/tv.m3u' },
   { key: 'radio',  label: 'Radio España', url: 'https://www.tdtchannels.com/lists/radio.m3u' },
   { key: 'pluto',  label: 'Pluto TV',     url: 'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u' },
+  { key: 'rusia',  label: 'Rusia',        url: 'https://raw.githubusercontent.com/altobelly/iprusia/main/canales.m3u' },
 ];
 
 const SKIP_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0', 'example.com'];
