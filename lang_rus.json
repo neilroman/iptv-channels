@@ -135,6 +135,15 @@
     "isHttps": true
   },
   {
+    "name": "Belarus-4 Vitebsk (1080p)",
+    "logo": "https://i.imgur.com/XNkQrMr.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://ngtrk.dc.beltelecom.by/vtv/_definst_/bt4.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BelRos (720p)",
     "logo": "https://i.imgur.com/tUF33HD.png",
     "country": "",
@@ -294,15 +303,6 @@
     "language": "",
     "group": "News",
     "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Friday! (1080p)",
-    "logo": "https://i.imgur.com/UfmlXxe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn.telecloud.tv/CH4419/index.m3u8",
     "isHttps": true
   },
   {
@@ -693,6 +693,15 @@
     "isHttps": true
   },
   {
+    "name": "NST (576p)",
+    "logo": "https://i.imgur.com/uv2yxa5.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://vod.tuva.ru/nst/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NTV HD (1080p)",
     "logo": "https://i.imgur.com/9r1BKzK.png",
     "country": "",
@@ -792,15 +801,6 @@
     "isHttps": true
   },
   {
-    "name": "REN TV HD (1080p)",
-    "logo": "https://i.imgur.com/0Tu5lte.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://cdn.telecloud.tv/CH189/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Retro",
     "logo": "https://i.imgur.com/p21co1w.png",
     "country": "",
@@ -864,12 +864,12 @@
     "isHttps": true
   },
   {
-    "name": "Silk Way",
+    "name": "Silk Way (1080p)",
     "logo": "https://i.imgur.com/SJNDksF.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
+    "url": "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
     "isHttps": true
   },
   {
@@ -879,6 +879,15 @@
     "language": "",
     "group": "General",
     "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smile TV (720p)",
+    "logo": "https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -897,6 +906,15 @@
     "language": "",
     "group": "Music",
     "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Spas (576p)",
+    "logo": "https://i.imgur.com/yY39nMg.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -987,15 +1005,6 @@
     "language": "",
     "group": "General",
     "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Centr (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn.telecloud.tv/CH4603/index.m3u8",
     "isHttps": true
   },
   {
@@ -1782,12 +1791,12 @@
     "isHttps": true
   },
   {
-    "name": "Пятый Канал (540p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/KPXMa3U.png",
+    "name": "Пятница! (576p)",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
     "country": "",
     "language": "",
-    "group": "General",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
+    "group": "Entertainment",
+    "url": "https://vod.tuva.ru/friday/index.m3u8",
     "isHttps": true
   },
   {
@@ -1815,15 +1824,6 @@
     "language": "",
     "group": "Business",
     "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "РЕН ТВ (540p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/0Tu5lte.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
     "isHttps": true
   },
   {
@@ -2151,15 +2151,6 @@
     "isHttps": true
   },
   {
-    "name": "Смайл ТВ",
-    "logo": "https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Смотрим 100% Детское",
     "logo": "https://i.imgur.com/1hsNeTa.png",
     "country": "",
@@ -2232,15 +2223,6 @@
     "isHttps": true
   },
   {
-    "name": "Спас (450p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/yY39nMg.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "СТАРТ Триумф",
     "logo": "https://i.imgur.com/L9jTieL.png",
     "country": "",
@@ -2286,12 +2268,12 @@
     "isHttps": true
   },
   {
-    "name": "ТВ-3 (540p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "name": "ТВ Центр (450p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
     "country": "",
     "language": "",
-    "group": "Entertainment",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
+    "group": "Undefined",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8",
     "isHttps": true
   },
   {
@@ -2583,6 +2565,15 @@
     "isHttps": false
   },
   {
+    "name": "Belarus-24 HD (1080p)",
+    "logo": "https://i.imgur.com/BP7tY6F.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://178.124.179.122:8080/Belarus24/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Belsat TV (1080p)",
     "logo": "https://i.imgur.com/qJyjSR6.png",
     "country": "",
@@ -2634,6 +2625,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/Karusel_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Channel 5 (576p)",
+    "logo": "https://i.imgur.com/KPXMa3U.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://94.230.128.107:8080/5_kanal/index.m3u8",
     "isHttps": false
   },
   {
@@ -2853,6 +2853,15 @@
     "isHttps": false
   },
   {
+    "name": "NTV (576p)",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://94.230.128.107:8080/HTB/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Ost West [Not 24/7]",
     "logo": "https://i.imgur.com/nSQWo49.png",
     "country": "",
@@ -2862,12 +2871,30 @@
     "isHttps": false
   },
   {
+    "name": "OTR (576p)",
+    "logo": "https://i.imgur.com/VaWlnjZ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://94.230.128.107:8080/OTP/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Pro Lyubov (1080p)",
     "logo": "https://i.imgur.com/QpIGAT0.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://hls127.freeott.top:8080/ProLubovHD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "REN TV (576p)",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://94.230.128.107:8080/PEH_TB/index.m3u8",
     "isHttps": false
   },
   {
@@ -2895,6 +2922,15 @@
     "language": "",
     "group": "General",
     "url": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "STS (576p)",
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://94.230.128.107:8080/CTC/index.m3u8",
     "isHttps": false
   },
   {
@@ -2958,6 +2994,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://31.148.48.15/TV_XXI/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV-3 (576p)",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://178.124.179.122:8080/TB-3/index.m3u8",
     "isHttps": false
   },
   {
@@ -3537,15 +3582,6 @@
     "isHttps": false
   },
   {
-    "name": "НТВ (+4) (576p)",
-    "logo": "https://i.imgur.com/9r1BKzK.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://31.148.48.15/NTV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "о2тв (720p)",
     "logo": "https://i.imgur.com/CM6z7fA.png",
     "country": "",
@@ -3570,15 +3606,6 @@
     "language": "",
     "group": "General",
     "url": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ОТР (576p)",
-    "logo": "https://i.imgur.com/VaWlnjZ.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://31.148.48.15/OTR/index.m3u8",
     "isHttps": false
   },
   {
@@ -3786,15 +3813,6 @@
     "language": "",
     "group": "Music",
     "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "СТС (+4) (576p)",
-    "logo": "https://i.imgur.com/ilUzAeb.png",
-    "country": "",
-    "language": "",
-    "group": "Family",
-    "url": "http://31.148.48.15/STS/index.m3u8",
     "isHttps": false
   },
   {

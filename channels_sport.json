@@ -972,15 +972,6 @@
     "isHttps": true
   },
   {
-    "name": "L1 Max (720p)",
-    "logo": "https://i.imgur.com/2fziU2B.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Lacrosse TV (720p)",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
     "country": "",
@@ -1554,15 +1545,6 @@
     "language": "",
     "group": "Outdoor;Sports",
     "url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Monterrico TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/SuVO9T7.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8",
     "isHttps": true
   },
   {
@@ -2529,6 +2511,15 @@
     "isHttps": true
   },
   {
+    "name": "Teledeporte (720p) [Geo-blocked]",
+    "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Teletrak (720p)",
     "logo": "https://i.imgur.com/NoJvlig.png",
     "country": "",
@@ -3231,6 +3222,42 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Max Sport 4",
+    "logo": "https://i.imgur.com/7IxXX6f.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://213.91.179.28:8000/play/a05n",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Ziggo Sport",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://86.87.15.10:8004/play/a02d/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Ziggo Sport 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://86.87.15.10:8004/play/a02b/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Ziggo Sport 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://86.87.15.10:8003/play/a02k/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Lóverseny közvetítés (420p)",
     "logo": "https://i.imgur.com/IGajR6G.png",
     "country": "",
@@ -3453,15 +3480,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Teledeporte (1080p)",
-    "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://92.176.119.180:2095/play/a1f6",
     "isHttps": false
   },
   {
