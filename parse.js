@@ -45,6 +45,7 @@ const SOURCES = [
   { key: 'freetv', label: 'Free-TV',      url: 'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8' },
   { key: 'tdt',    label: 'TDT España',   url: 'https://www.tdtchannels.com/lists/tv.m3u' },
   { key: 'radio',  label: 'Radio España', url: 'https://www.tdtchannels.com/lists/radio.m3u' },
+  { key: 'pluto',  label: 'Pluto TV',     url: 'https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u' },
 ];
 
 const SKIP_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0', 'example.com'];
