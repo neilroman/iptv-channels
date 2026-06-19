@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T09:06:15.566Z",
+  "updated": "2026-06-19T11:07:36.838Z",
   "sources": [
     {
       "key": "freetv",
@@ -18,6 +18,12 @@
       "label": "Radio España",
       "file": "src_radio.json",
       "count": 1028
+    },
+    {
+      "key": "pluto",
+      "label": "Pluto TV",
+      "file": "src_pluto.json",
+      "count": 406
     }
   ]
 }
