@@ -603,6 +603,15 @@
     "isHttps": true
   },
   {
+    "name": "Clubbing TV UK (720p)",
+    "logo": "https://i.imgur.com/MyiA92q.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CMC (California Music Channel) (1080p)",
     "logo": "https://i.imgur.com/L38mC6H.png",
     "country": "",
@@ -5877,6 +5886,15 @@
     "isHttps": false
   },
   {
+    "name": "MCM (720p)",
+    "logo": "https://i.imgur.com/F5WNCp0.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rezofoot.tv/MCM/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Med Muzik (1080p)",
     "logo": "https://i.imgur.com/gtUFmCD.png",
     "country": "",
@@ -5910,6 +5928,42 @@
     "language": "",
     "group": "Music",
     "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Music Box Classic",
+    "logo": "https://musicboxclassic.com/music_box_classic_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://88.212.15.19/live/mb_classic/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Music Box Dance",
+    "logo": "https://musicboxdance.com/music_box_dance_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://88.212.15.19/live/mb_dance/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Music Box Hits",
+    "logo": "https://musicboxhits.com/music_box_hits_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Music Box Sexy",
+    "logo": "https://musicboxsexy.com/music_box_sexy_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://88.212.15.19/live/mb_sexy/index.m3u8",
     "isHttps": false
   },
   {

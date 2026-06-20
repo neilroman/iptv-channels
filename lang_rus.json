@@ -324,6 +324,15 @@
     "isHttps": true
   },
   {
+    "name": "Home Shopping Russia (576p)",
+    "logo": "https://i.imgur.com/7MrWzUT.png",
+    "country": "",
+    "language": "",
+    "group": "Shop",
+    "url": "https://moymir.ru/hls/onair.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Indiyskoye Kino",
     "logo": "https://i.imgur.com/LL8GyCh.png",
     "country": "",
@@ -621,6 +630,15 @@
     "isHttps": true
   },
   {
+    "name": "Moskva. Doveriye (576p)",
+    "logo": "https://i.imgur.com/QDqDQzt.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Movify Kino (576p)",
     "logo": "https://i.imgur.com/XIk5EJN.png",
     "country": "",
@@ -843,6 +861,24 @@
     "language": "",
     "group": "Music",
     "url": "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https",
+    "isHttps": true
+  },
+  {
+    "name": "Russia-1 HD (1080p)",
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Russia-K (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8",
     "isHttps": true
   },
   {
@@ -1377,15 +1413,6 @@
     "isHttps": true
   },
   {
-    "name": "Звезда (1080p)",
-    "logo": "https://i.imgur.com/4PAcpfM.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Ингушетия ТВ (1080p)",
     "logo": "https://i.imgur.com/Fw2Hkk4.png",
     "country": "",
@@ -1773,15 +1800,6 @@
     "isHttps": true
   },
   {
-    "name": "Продвижение (576p)",
-    "logo": "https://i.imgur.com/KlsnfG9.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Просвещение (540p) [Geo-blocked]",
     "logo": "https://i.imgur.com/uppFhhq.png",
     "country": "",
@@ -1809,15 +1827,6 @@
     "isHttps": true
   },
   {
-    "name": "Радость моя (576p)",
-    "logo": "https://i.imgur.com/B5FA62o.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "РБК (576p)",
     "logo": "https://i.imgur.com/CwhmJby.png",
     "country": "",
@@ -1836,30 +1845,12 @@
     "isHttps": true
   },
   {
-    "name": "Россия 1 HD (Архангельск) (1080p)",
-    "logo": "https://i.imgur.com/Osd2JHL.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Россия 24 (Хабаровск) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Россия К (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -2268,15 +2259,6 @@
     "isHttps": true
   },
   {
-    "name": "ТВ Центр (450p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ТВК 24 (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A2%D0%92%D0%9A_%282015%29.png",
     "country": "",
@@ -2574,12 +2556,30 @@
     "isHttps": false
   },
   {
+    "name": "Belarus-4 Gomel (720p)",
+    "logo": "https://i.imgur.com/XNkQrMr.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://46.56.85.151:8080/0.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Belsat TV (1080p)",
     "logo": "https://i.imgur.com/qJyjSR6.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://91.246.72.88:8000/play/a01w/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Bolt (576p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
     "isHttps": false
   },
   {
@@ -2661,6 +2661,15 @@
     "language": "",
     "group": "Music",
     "url": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Dikij (576p)",
+    "logo": "https://i.imgur.com/VDXDiPC.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "http://hls127.freeott.top:8080/Dikiy/video.m3u8",
     "isHttps": false
   },
   {
@@ -2799,6 +2808,33 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",TVRUS+",
+    "logo": "https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://83.228.75.166:8000/play/a0aq",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",TVRUS",
+    "logo": "https://i.imgur.com/2mJKi7g.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://213.91.179.28:8000/play/a082",
+    "isHttps": false
+  },
+  {
+    "name": "Love Nature HD (720p)",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "http://185.246.209.113/LOVENATUREHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Luxe TV (1080p)",
     "logo": "https://i.imgur.com/24ehonx.png",
     "country": "",
@@ -2814,6 +2850,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mosfilm Gold Collection (576p)",
+    "logo": "https://i.imgur.com/95Y8jb6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://31.222.235.15/mosfilm/index.m3u8",
     "isHttps": false
   },
   {
@@ -2886,6 +2931,24 @@
     "language": "",
     "group": "Undefined",
     "url": "http://hls127.freeott.top:8080/ProLubovHD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Prodvizhenie (576p)",
+    "logo": "https://i.imgur.com/KlsnfG9.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Radost Moya (576p)",
+    "logo": "https://i.imgur.com/B5FA62o.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Radost_moya/index.m3u8",
     "isHttps": false
   },
   {
@@ -2976,6 +3039,15 @@
     "language": "",
     "group": "Travel",
     "url": "http://31.148.48.15/Travel_Adventure_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Centr (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://hls127.freeott.top:8080/Tv_Center/video.m3u8",
     "isHttps": false
   },
   {
@@ -3084,6 +3156,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zvezda (1080p)",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://51.158.144.33:2021/zvezda/index.m3u8",
     "isHttps": false
   },
   {

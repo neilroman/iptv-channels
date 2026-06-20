@@ -414,6 +414,15 @@
     "isHttps": true
   },
   {
+    "name": "Cine Nostalgia (720p)",
+    "logo": "https://i.imgur.com/LLwppwB.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cine Premiere",
     "logo": "https://i.imgur.com/PdhWTO6.png",
     "country": "",
@@ -3254,7 +3263,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8",
     "isHttps": true
   },
   {
@@ -4203,6 +4212,15 @@
     "isHttps": false
   },
   {
+    "name": "Action HD (720p)",
+    "logo": "https://i.imgur.com/Zv9VsVq.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://rezofoot.tv/Action/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AMC (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
@@ -4317,6 +4335,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Bolt (576p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
     "isHttps": false
   },
   {
@@ -4455,6 +4482,15 @@
     "isHttps": false
   },
   {
+    "name": "DHE (1080p)",
+    "logo": "https://i.imgur.com/nsttoEa.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Epic Bhojpuri (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
     "country": "",
@@ -4491,24 +4527,6 @@
     "isHttps": false
   },
   {
-    "name": "FilmBox [Not 24/7]",
-    "logo": "https://i.imgur.com/VyaslIY.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FilmBox Extra [Not 24/7]",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6996/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "FilmBox Family [Not 24/7]",
     "logo": "https://i.imgur.com/CGFyAyc.png",
     "country": "",
@@ -4524,15 +4542,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7043/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FilmBox Stars [Not 24/7]",
-    "logo": "https://i.imgur.com/eZFdHbR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/7045/index.m3u8",
     "isHttps": false
   },
   {
@@ -4569,6 +4578,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/MGM_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "IFC (1080p)",
+    "logo": "https://i.imgur.com/bQdkyF9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
     "isHttps": false
   },
   {
@@ -4644,6 +4662,15 @@
     "isHttps": false
   },
   {
+    "name": "Lifetime Movies (1080p)",
+    "logo": "https://i.imgur.com/BWmqYTO.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Star Gold Thrills (576p)",
     "logo": "https://i.imgur.com/azqtpYh.png",
     "country": "",
@@ -4677,6 +4704,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Bollywood (576p)",
+    "logo": "https://i.imgur.com/6mNQ9mM.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
     "isHttps": false
   },
   {
@@ -4743,12 +4779,111 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox (1080p)",
+    "logo": "https://i.imgur.com/VyaslIY.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://193.239.186.231/FILMBOX/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Bulgary",
     "logo": "https://i.imgur.com/VyaslIY.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://213.91.179.28:8000/play/a06i",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Czech Republic",
+    "logo": "https://i.imgur.com/VyaslIY.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra Bulgary",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a04r",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra Czech Republic",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra Hungary",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.217:9005/play/a01j",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Family Hungary",
+    "logo": "https://i.imgur.com/CGFyAyc.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.217:9000/play/a057",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Premium Czech Republic",
+    "logo": "https://i.imgur.com/RydfsE9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Premium Hungary",
+    "logo": "https://i.imgur.com/RydfsE9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.217:9005/play/a01x",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Stars Bulgary",
+    "logo": "https://i.imgur.com/eZFdHbR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a066",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Stars Czech Republic",
+    "logo": "https://i.imgur.com/eZFdHbR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Stars Hungary",
+    "logo": "https://i.imgur.com/eZFdHbR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.217:9007/play/a01o",
     "isHttps": false
   },
   {
@@ -4794,6 +4929,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://149.71.34.166:8000/play/a05u/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mosfilm Gold Collection (576p)",
+    "logo": "https://i.imgur.com/95Y8jb6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://31.222.235.15/mosfilm/index.m3u8",
     "isHttps": false
   },
   {
@@ -5037,6 +5181,15 @@
     "language": "",
     "group": "Comedy;Movies;Series",
     "url": "http://190.2.212.209:8050/play/a0q4",
+    "isHttps": false
+  },
+  {
+    "name": "USA Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series;Sports",
+    "url": "http://185.246.209.113/DISCOVERYHD/index.m3u8",
     "isHttps": false
   },
   {

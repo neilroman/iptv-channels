@@ -2907,6 +2907,15 @@
     "isHttps": false
   },
   {
+    "name": "Canal Off (1080p)",
+    "logo": "https://i.imgur.com/1biaLgJ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://170.82.202.31/OFF/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canal Sete",
     "logo": "https://i.imgur.com/0cq0BPp.png",
     "country": "",
@@ -2943,6 +2952,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel Latin America Panregional HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Fonte TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/7q2BmNc.png",
     "country": "",
@@ -2952,12 +2970,30 @@
     "isHttps": false
   },
   {
+    "name": "Globoplay Novelas (1080p)",
+    "logo": "https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://170.82.202.31/Viva/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Gloob (576p)",
     "logo": "https://i.imgur.com/N1BUULh.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://45.235.0.78/Gloob/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "GNT (1080p)",
+    "logo": "https://i.imgur.com/XymcvMy.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://170.82.202.31/GNT/index.m3u8",
     "isHttps": false
   },
   {

@@ -2556,6 +2556,15 @@
     "isHttps": true
   },
   {
+    "name": "Tigo Sports (1080p)",
+    "logo": "https://i.imgur.com/6wkmgGM.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://master.tucableip.com/Amistoso/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Tigo Sports (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
     "country": "",
@@ -3141,6 +3150,15 @@
     "isHttps": false
   },
   {
+    "name": "ESPNU (720p)",
+    "logo": "https://i.imgur.com/HiBrysh.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FB TV",
     "logo": "https://i.imgur.com/qBVqtYd.png",
     "country": "",
@@ -3213,12 +3231,57 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 1",
+    "logo": "https://i.imgur.com/2qf67zW.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 2",
+    "logo": "https://i.imgur.com/Yq3Jf19.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Extreme Sports Channel Polska",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://81.15.109.89:8001/play/ExtremeSports",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Max Sport 1",
+    "logo": "https://i.imgur.com/0ohnpql.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://77.46.130.252:99/maxsport1",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Max Sport 2",
+    "logo": "https://i.imgur.com/33m1wPN.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://77.46.130.252:99/maxsport2",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Max Sport 3",
+    "logo": "https://i.imgur.com/eGiGgZ2.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://77.46.130.252:99/maxsport3",
     "isHttps": false
   },
   {
@@ -3309,6 +3372,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/M1_Global/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MSG (720p)",
+    "logo": "https://i.imgur.com/SEQFh0P.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
     "isHttps": false
   },
   {
@@ -3525,6 +3597,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "USA Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series;Sports",
+    "url": "http://185.246.209.113/DISCOVERYHD/index.m3u8",
     "isHttps": false
   },
   {

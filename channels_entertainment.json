@@ -792,15 +792,6 @@
     "isHttps": true
   },
   {
-    "name": "Captain (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mumt01.tangotv.in/CAPTAIN/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Carac 1 (1080p)",
     "logo": "https://i.imgur.com/TSc35U6.png",
     "country": "",
@@ -924,6 +915,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cinerama Television (720p)",
+    "logo": "https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live.cineramatvbo.com/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -1130,7 +1130,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://mumt04.tangotv.in/E24/index.m3u8",
+    "url": "https://live-cf-e24.dailyhunt.in/master.m3u8",
     "isHttps": true
   },
   {
@@ -1545,6 +1545,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "GetTV (720p)",
+    "logo": "https://i.imgur.com/evOWORd.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5013,6 +5022,15 @@
     "isHttps": false
   },
   {
+    "name": "BET Her (720p)",
+    "logo": "https://i.imgur.com/oafsrlo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://41.205.93.154/BETHER/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canal+ (1080p)",
     "logo": "https://i.imgur.com/5HcyMnW.png",
     "country": "",
@@ -5427,6 +5445,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Captain (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/173/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Colors Infinity (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment;Kids\",Veronica / Disney Jr.",
     "logo": "https://i.imgur.com/5L5TcYz.png",
     "country": "",
@@ -5451,6 +5487,24 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://81.15.109.89:8001/play/BBCFirst",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",M6 (1080p)",
+    "logo": "https://i.imgur.com/7GVp3fW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://99.27.51.147:8080/M6/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://99.27.51.147:8080/MTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -5652,6 +5706,15 @@
     "isHttps": false
   },
   {
+    "name": "Pasiones Latin America (1080p)",
+    "logo": "https://i.imgur.com/VGnbWjO.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://179.60.51.134:8888/PASIONES/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Passione Lotto (300p)",
     "logo": "https://i.imgur.com/jYmy4G5.png",
     "country": "",
@@ -5703,6 +5766,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd",
+    "isHttps": false
+  },
+  {
+    "name": "RTL9 (720p)",
+    "logo": "https://i.imgur.com/nFqjVNW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://rezofoot.tv/rtl-9/index.m3u8",
     "isHttps": false
   },
   {
@@ -5769,6 +5841,15 @@
     "isHttps": false
   },
   {
+    "name": "Star Maa HD (720p)",
+    "logo": "https://i.imgur.com/5c9PVS0.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://217.20.112.199:8080/maatv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Utsav (576p)",
     "logo": "https://i.imgur.com/H1jhHDl.png",
     "country": "",
@@ -5784,6 +5865,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://149.71.34.166:8000/play/a06i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "StarPlus (576p)",
+    "logo": "https://i.imgur.com/xWxNy3L.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
     "isHttps": false
   },
   {
@@ -5874,6 +5964,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee Bangla HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://217.20.112.199:8080/maamovies/index.m3u8",
     "isHttps": false
   },
   {
