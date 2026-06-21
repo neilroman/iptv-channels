@@ -306,6 +306,15 @@
     "isHttps": true
   },
   {
+    "name": "ANC Television (720p)",
+    "logo": "https://i.imgur.com/xjTU14t.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Anixe + (360p)",
     "logo": "https://i.imgur.com/hvGJ2oa.png",
     "country": "",
@@ -1706,16 +1715,16 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-680f375e6798ccd1185b58f9.m3u8",
+    "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
     "isHttps": true
   },
   {
-    "name": "Heartland",
+    "name": "Heartland (720p)",
     "logo": "https://i.imgur.com/djCq2Z5.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2988,6 +2997,15 @@
     "isHttps": true
   },
   {
+    "name": "Neo TV (720p)",
+    "logo": "https://i.imgur.com/bS5JtYX.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nepal 1 (396p)",
     "logo": "https://i.imgur.com/Xr4FjC8.png",
     "country": "",
@@ -3678,6 +3696,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Riku TV (720p)",
+    "logo": "https://i.imgur.com/XIDC4Mv.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4752,15 +4779,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Alwan (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/OLuCox7.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee Dil Se (1080p)",
     "logo": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
     "country": "",
@@ -4905,6 +4923,15 @@
     "isHttps": true
   },
   {
+    "name": "13 Ulica (1080p)",
+    "logo": "https://i.imgur.com/0gCNnLq.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.146.94.234:10001/play/a088",
+    "isHttps": false
+  },
+  {
     "name": "312 ТВ (406p)",
     "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
     "country": "",
@@ -4947,6 +4974,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://23.239.31.26:8989/aande/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "A&E Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://138.121.15.230:9002/A&E/index.m3u8",
     "isHttps": false
   },
   {
@@ -5274,12 +5310,12 @@
     "isHttps": false
   },
   {
-    "name": "Fox (1080p) [Not 24/7]",
+    "name": "Fox (1080p)",
     "logo": "https://i.imgur.com/hSDN9YQ.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6108/index.m3u8",
+    "url": "http://91.146.94.234:10001/play/a084",
     "isHttps": false
   },
   {
@@ -5436,6 +5472,15 @@
     "isHttps": false
   },
   {
+    "name": "Lifetime Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://138.121.15.230:9002/LIFETIME/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Anmol TV (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
     "country": "",
@@ -5472,6 +5517,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Bulgaria",
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://85.14.32.26:8800/udp/239.100.10.18:5000",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",BBC Brit",
     "logo": "https://i.imgur.com/i4remZo.png",
     "country": "",
@@ -5505,6 +5559,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://99.27.51.147:8080/MTV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV Global",
+    "logo": "https://i.imgur.com/n2BoU7Q.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://85.14.32.26:8800/udp/239.100.10.67:5000",
     "isHttps": false
   },
   {
@@ -5607,15 +5670,6 @@
     "isHttps": false
   },
   {
-    "name": "MTV Global [Not 24/7]",
-    "logo": "https://i.imgur.com/n2BoU7Q.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "MTV HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
     "country": "",
@@ -5712,6 +5766,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://179.60.51.134:8888/PASIONES/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Passion Novelas (1080p)",
+    "logo": "https://i.imgur.com/boo9jmf.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://41.223.30.230/PASSIONTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -5964,6 +6027,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee Alwan (576p)",
+    "logo": "https://i.imgur.com/OLuCox7.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Series",
+    "url": "http://41.223.30.230/ZEEALWAN/index.m3u8",
     "isHttps": false
   },
   {

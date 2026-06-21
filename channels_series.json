@@ -918,6 +918,15 @@
     "isHttps": true
   },
   {
+    "name": "Juntos TV (720p)",
+    "logo": "https://i.imgur.com/dgMZLC2.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kenan & Kel",
     "logo": "https://i.imgur.com/h9dpcgN.png",
     "country": "",
@@ -2916,15 +2925,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Alwan (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/OLuCox7.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zylo Fréquence Novelas (1080p)",
     "logo": "https://i.imgur.com/fEjNAps.png",
     "country": "",
@@ -3105,6 +3105,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Crime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://213.91.179.28:8000/play/a0cs",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Life",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://213.91.179.28:8000/play/a0cr",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",TVRUS+",
     "logo": "https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png",
     "country": "",
@@ -3228,6 +3246,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee Alwan (576p)",
+    "logo": "https://i.imgur.com/OLuCox7.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Series",
+    "url": "http://41.223.30.230/ZEEALWAN/index.m3u8",
     "isHttps": false
   },
   {

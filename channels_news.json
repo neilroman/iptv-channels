@@ -1386,15 +1386,6 @@
     "isHttps": true
   },
   {
-    "name": "BTV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BTV News (720p)",
     "logo": "https://i.imgur.com/sUHiRj3.png",
     "country": "",
@@ -3717,6 +3708,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",BTV [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",Kompas TV [Geo-blocked]",
     "logo": "https://i.imgur.com/bD6UHeZ.png",
     "country": "",
@@ -5724,6 +5724,15 @@
     "isHttps": true
   },
   {
+    "name": "Qosqo Times (720p)",
+    "logo": "https://i.imgur.com/oWJauwQ.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Quantica TV",
     "logo": "https://i.imgur.com/6f8EYC2.jpeg",
     "country": "",
@@ -5766,6 +5775,15 @@
     "language": "",
     "group": "News",
     "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Uno Tacna (720p)",
+    "logo": "https://i.imgur.com/PswowQP.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7686,15 +7704,6 @@
     "isHttps": true
   },
   {
-    "name": "Россия 24 (Хабаровск) (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Тернопіль 1 (720p)",
     "logo": "https://i.imgur.com/f5EtIzV.png",
     "country": "",
@@ -8046,6 +8055,15 @@
     "isHttps": false
   },
   {
+    "name": "GloboNews (720p)",
+    "logo": "https://i.imgur.com/3yZyaCm.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://41.205.70.146/GLOBONEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "GNT (1080p)",
     "logo": "https://i.imgur.com/XymcvMy.png",
     "country": "",
@@ -8133,6 +8151,15 @@
     "language": "",
     "group": "News",
     "url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"News\",Bulgaria On Air",
+    "logo": "https://i.imgur.com/mvShl7F.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://213.91.179.28:8000/play/a05x",
     "isHttps": false
   },
   {
@@ -8376,6 +8403,15 @@
     "language": "",
     "group": "News",
     "url": "http://178.33.11.6:8696/live/rtsh24/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Russia-24 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://41.223.30.230/ROSSIYA24/index.m3u8",
     "isHttps": false
   },
   {

@@ -189,21 +189,21 @@
     "isHttps": true
   },
   {
+    "name": "Channel One HD (720p)",
+    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Current Time TV (1080p)",
     "logo": "https://i.imgur.com/hKo8ApU.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Da Vinci",
-    "logo": "https://i.imgur.com/iBx7K1M.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1557,15 +1557,6 @@
     "isHttps": true
   },
   {
-    "name": "Муз ТВ (450p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/BtqrHmz.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Музыка 1 International [Not 24/7]",
     "logo": "https://i.imgur.com/DIKe5vA.png",
     "country": "",
@@ -1842,15 +1833,6 @@
     "language": "",
     "group": "General",
     "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Россия 24 (Хабаровск) (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -2655,6 +2637,15 @@
     "isHttps": false
   },
   {
+    "name": "Da Vinci (576p)",
+    "logo": "https://i.imgur.com/iBx7K1M.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "DanceHits80",
     "logo": "https://i.imgur.com/uMw3kks.png",
     "country": "",
@@ -2862,12 +2853,30 @@
     "isHttps": false
   },
   {
+    "name": "Muz-TV (576p)",
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/MUZ_TV/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nash Kinomir (576p)",
     "logo": "https://i.imgur.com/7M1J42A.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic Wild (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8",
     "isHttps": false
   },
   {
@@ -2967,6 +2976,15 @@
     "language": "",
     "group": "Travel",
     "url": "http://31.148.48.15/RTG_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Russia-24 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://41.223.30.230/ROSSIYA24/index.m3u8",
     "isHttps": false
   },
   {

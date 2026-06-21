@@ -1170,15 +1170,6 @@
     "isHttps": true
   },
   {
-    "name": "Ch4Teen",
-    "logo": "https://i.imgur.com/pHpFGeg.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://ch14.tv/live/ch4teen1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Ch4Teen Documentary (1080p)",
     "logo": "https://i.imgur.com/pHpFGeg.png",
     "country": "",
@@ -3033,15 +3024,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Alwan (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/OLuCox7.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Ajyal TV (720p)",
     "logo": "https://i.imgur.com/i6Y7beR.jpg",
     "country": "",
@@ -3246,6 +3228,24 @@
     "language": "",
     "group": "General",
     "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee Aflam (720p)",
+    "logo": "https://i.imgur.com/ZxknutA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://41.223.30.230/ZEEAFLAM/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee Alwan (576p)",
+    "logo": "https://i.imgur.com/OLuCox7.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Series",
+    "url": "http://41.223.30.230/ZEEALWAN/index.m3u8",
     "isHttps": false
   }
 ]
