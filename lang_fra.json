@@ -45,6 +45,15 @@
     "isHttps": true
   },
   {
+    "name": "7 Info",
+    "logo": "https://i.imgur.com/jcl1nNR.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "A12 TV",
     "logo": "https://i.imgur.com/JgnjgvF.png",
     "country": "",
@@ -150,6 +159,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Afrik Info TV",
+    "logo": "https://i.imgur.com/hz2LOD8.jpeg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
     "isHttps": true
   },
   {
@@ -1044,6 +1062,15 @@
     "isHttps": true
   },
   {
+    "name": "Evasion TV",
+    "logo": "https://i.imgur.com/TTWl2Iy.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://kali.vdopanel.com:3090/hybrid/play.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "EVI TV (720p)",
     "logo": "https://i.imgur.com/fBc9JSM.png",
     "country": "",
@@ -1215,12 +1242,12 @@
     "isHttps": true
   },
   {
-    "name": "Haiti News Channel (720p) [Not 24/7]",
+    "name": "Haiti News Channel (1080p)",
     "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://haititivi.com/website/haitinews/index.m3u8",
+    "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8",
     "isHttps": true
   },
   {
@@ -1887,15 +1914,6 @@
     "language": "",
     "group": "Music",
     "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
-    "isHttps": true
-  },
-  {
-    "name": "M6 SD (720p)",
-    "logo": "https://i.imgur.com/7GVp3fW.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8",
     "isHttps": true
   },
   {
@@ -3150,15 +3168,6 @@
     "isHttps": true
   },
   {
-    "name": "Tipik",
-    "logo": "https://i.imgur.com/LKLjnrp.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TiVi5 Monde [Geo-blocked]",
     "logo": "https://i.imgur.com/fVVKpmk.png",
     "country": "",
@@ -3600,12 +3609,12 @@
     "isHttps": true
   },
   {
-    "name": "W9 (720p)",
+    "name": "W9 (1080p)",
     "logo": "https://i.imgur.com/reYeMuE.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8",
+    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8",
     "isHttps": true
   },
   {
@@ -3912,6 +3921,24 @@
     "language": "",
     "group": "News",
     "url": "http://51.254.199.122:8080/kin24/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "La Trois (720p)",
+    "logo": "https://i.imgur.com/jMs4h9F.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
+    "isHttps": false
+  },
+  {
+    "name": "La Une (720p)",
+    "logo": "https://i.imgur.com/jMwZp7z.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
     "isHttps": false
   },
   {
@@ -4308,6 +4335,15 @@
     "language": "",
     "group": "General",
     "url": "http://69.64.57.208/tfm/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tipik (720p)",
+    "logo": "https://i.imgur.com/LKLjnrp.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
     "isHttps": false
   },
   {

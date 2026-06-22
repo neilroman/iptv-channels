@@ -216,21 +216,21 @@
     "isHttps": true
   },
   {
-    "name": "Dom kino",
+    "name": "Den Pobedy (1080p)",
+    "logo": "https://i.imgur.com/gY3XkoO.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/den-pobedy-hd/video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Dom kino (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Drive (576i)",
-    "logo": "https://i.imgur.com/FnuwfSC.png",
-    "country": "",
-    "language": "",
-    "group": "Auto",
-    "url": "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
+    "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8",
     "isHttps": true
   },
   {
@@ -396,15 +396,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Cooking\",Телекафе (720p)",
-    "logo": "https://i.imgur.com/1H3h1HL.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Перец International (576p)",
     "logo": "https://i.imgur.com/On6ggLe.png",
     "country": "",
@@ -501,24 +492,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Время (720p)",
-    "logo": "https://i.imgur.com/jZlj3ga.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Победа 720p (576p)",
-    "logo": "https://i.imgur.com/4KiYSln.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8",
     "isHttps": true
   },
   {
@@ -783,12 +756,12 @@
     "isHttps": true
   },
   {
-    "name": "Planeta-RTR",
-    "logo": "https://i.imgur.com/0YEahxs.png",
+    "name": "Pobeda (1080p)",
+    "logo": "https://i.imgur.com/4KiYSln.png",
     "country": "",
     "language": "",
-    "group": "General",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603",
+    "group": "Undefined",
+    "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/pobeda-hd/video.m3u8",
     "isHttps": true
   },
   {
@@ -834,6 +807,33 @@
     "language": "",
     "group": "Documentary",
     "url": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RTR-Planeta (720p)",
+    "logo": "https://i.imgur.com/T42cuYx.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RTR-Planeta Asia (720p)",
+    "logo": "https://i.imgur.com/T42cuYx.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_asia/playlist_4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RTR-Planeta Europe (720p)",
+    "logo": "https://i.imgur.com/0YEahxs.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_euro/playlist_4.m3u8",
     "isHttps": true
   },
   {
@@ -999,6 +999,15 @@
     "isHttps": true
   },
   {
+    "name": "Telecafe (1080p)",
+    "logo": "https://i.imgur.com/1H3h1HL.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/telekafe-hd/video.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TiJi (576p)",
     "logo": "https://i.imgur.com/QCOUJ30.png",
     "country": "",
@@ -1134,6 +1143,15 @@
     "isHttps": true
   },
   {
+    "name": "Vremya (1080p)",
+    "logo": "https://i.imgur.com/jZlj3ga.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/vremya-hd/video.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zagorodnaya Zhizn",
     "logo": "https://i.imgur.com/RoYd5pz.png",
     "country": "",
@@ -1158,6 +1176,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Zvezda Plus (1080p)",
+    "logo": "https://i.imgur.com/NNmjD9Z.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/zvezda-plus-hd/video.m3u8",
     "isHttps": true
   },
   {
@@ -1836,24 +1863,6 @@
     "isHttps": true
   },
   {
-    "name": "Россия-РТР",
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363",
-    "isHttps": true
-  },
-  {
-    "name": "Россия-РТР",
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f",
-    "isHttps": true
-  },
-  {
     "name": "С1 (Сургут) (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/chNBF5t.png",
     "country": "",
@@ -1932,15 +1941,6 @@
     "language": "",
     "group": "General",
     "url": "https://simf.1tvcrimea.ru/simferopol24.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Сити Эдем Meditation Music [Not 24/7]",
-    "logo": "https://i.imgur.com/HPWevWb.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
     "isHttps": true
   },
   {
@@ -2628,6 +2628,15 @@
     "isHttps": false
   },
   {
+    "name": "Chizhik (1080p)",
+    "logo": "https://i.imgur.com/q3EhTPs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/chizik-hd.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cinema",
     "logo": "https://i.imgur.com/b5e9qUA.png",
     "country": "",
@@ -2661,6 +2670,15 @@
     "language": "",
     "group": "Outdoor",
     "url": "http://hls127.freeott.top:8080/Dikiy/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Drive (1080p)",
+    "logo": "https://i.imgur.com/FnuwfSC.png",
+    "country": "",
+    "language": "",
+    "group": "Auto",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/drive-hd.m3u8",
     "isHttps": false
   },
   {
@@ -2727,6 +2745,15 @@
     "isHttps": false
   },
   {
+    "name": "Karapuz TV (720p)",
+    "logo": "https://i.imgur.com/7nSbEVv.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "KHL (720p)",
     "logo": "https://i.imgur.com/RgdHdOV.png",
     "country": "",
@@ -2787,6 +2814,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Culture;News\",Ost West (576p)",
+    "logo": "https://i.imgur.com/nSQWo49.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;News",
+    "url": "http://hls127.freeott.top:8080/OstWest/video.m3u8",
     "isHttps": false
   },
   {
@@ -2853,6 +2889,15 @@
     "isHttps": false
   },
   {
+    "name": "Multilandia (1080p)",
+    "logo": "https://i.imgur.com/ccwijY0.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/multimania-hd.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Muz-TV (576p)",
     "logo": "https://i.imgur.com/BtqrHmz.png",
     "country": "",
@@ -2916,12 +2961,12 @@
     "isHttps": false
   },
   {
-    "name": "Ost West [Not 24/7]",
-    "logo": "https://i.imgur.com/nSQWo49.png",
+    "name": "O! (1080p)",
+    "logo": "https://i.imgur.com/pDc665V.png",
     "country": "",
     "language": "",
-    "group": "Culture;News",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8",
+    "group": "Kids",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kanal-o-hd.m3u8",
     "isHttps": false
   },
   {
@@ -3051,6 +3096,15 @@
     "isHttps": false
   },
   {
+    "name": "TipTop (1080p)",
+    "logo": "https://i.imgur.com/5YsD0lh.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/tip-top-hd.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Travel+Adventure (1080p)",
     "logo": "https://i.imgur.com/AlpdXC4.png",
     "country": "",
@@ -3174,6 +3228,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zdorovoe TV (1080p)",
+    "logo": "https://i.imgur.com/jedtE5l.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8",
     "isHttps": false
   },
   {
@@ -3309,24 +3372,6 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://31.148.48.15/Zhivi/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Звезда Плюс (1080p)",
-    "logo": "https://i.imgur.com/NNmjD9Z.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Здоровое ТВ (576p)",
-    "logo": "https://i.imgur.com/jedtE5l.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://31.148.48.15/Zdorovoe_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3642,15 +3687,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/Multimuzika/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Мультиландия (576p)",
-    "logo": "https://i.imgur.com/ccwijY0.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://31.148.48.15/Multilandiya/index.m3u8",
     "isHttps": false
   },
   {

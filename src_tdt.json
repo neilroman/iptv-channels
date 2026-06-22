@@ -10,7 +10,7 @@
   },
   {
     "name": "+24",
-    "logo": "https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Eventuales",
@@ -19,7 +19,7 @@
   },
   {
     "name": "+24",
-    "logo": "https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Eventuales",
@@ -28,7 +28,7 @@
   },
   {
     "name": "+24",
-    "logo": "https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Eventuales",
@@ -37,7 +37,7 @@
   },
   {
     "name": "+24",
-    "logo": "https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Eventuales",
@@ -46,7 +46,7 @@
   },
   {
     "name": "+24",
-    "logo": "https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Eventuales",
@@ -55,7 +55,7 @@
   },
   {
     "name": "+24",
-    "logo": "https://img.rtve.es/imagenes/multisenal-24/1361962728583.png",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Eventuales",
@@ -824,7 +824,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://broadcast1.radioponiente.org/live/smil:atv.smil/playlist.m3u8",
+    "url": "https://broadcast1.radioponiente.org/atv/index.m3u8",
     "isHttps": true
   },
   {
@@ -2021,15 +2021,6 @@
     "country": "",
     "language": "",
     "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/6712399.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "En Play (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/17017351.m3u8",
     "isHttps": true
   },
@@ -2583,7 +2574,7 @@
     "isHttps": true
   },
   {
-    "name": "L'Hospitalet Digital",
+    "name": "L'Hospitalet TV",
     "logo": "https://graph.facebook.com/lhdigital/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2975,7 +2966,7 @@
     "country": "",
     "language": "",
     "group": "Informativos",
-    "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+    "url": "https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3066,6 +3057,15 @@
     "language": "",
     "group": "País Vasco",
     "url": "https://zuzenean.oizmendi.eus/hls/z.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Oman TV",
+    "logo": "https://graph.facebook.com/OmanTvGeneral/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Asia",
+    "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/master.m3u8",
     "isHttps": true
   },
   {
@@ -4442,6 +4442,15 @@
     "country": "",
     "language": "",
     "group": "Canarias",
+    "url": "https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Canaria Net",
+    "logo": "https://graph.facebook.com/188600904655/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
     "url": "https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8",
     "isHttps": true
   },

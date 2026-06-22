@@ -576,12 +576,12 @@
     "isHttps": true
   },
   {
-    "name": "Dom kino",
+    "name": "Dom kino (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+    "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8",
     "isHttps": true
   },
   {
@@ -1242,24 +1242,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Arthouse (576p)",
-    "logo": "https://i.imgur.com/hDg35ne.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://iptv.prosto.tv/ch63/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Baltics (576p)",
-    "logo": "https://i.imgur.com/gXu36aD.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://iptv.prosto.tv/ch64/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra",
     "logo": "https://i.imgur.com/ML7SlIW.png",
     "country": "",
@@ -1293,6 +1275,24 @@
     "language": "",
     "group": "Movies",
     "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Festival (576p)",
+    "logo": "https://i.imgur.com/hDg35ne.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://iptv.prosto.tv/ch63/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ One Baltics (576p)",
+    "logo": "https://i.imgur.com/gXu36aD.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://iptv.prosto.tv/ch64/index.m3u8",
     "isHttps": true
   },
   {
@@ -3654,6 +3654,15 @@
     "isHttps": true
   },
   {
+    "name": "Sony Movies Latin America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony One Favoris (1080p)",
     "logo": "https://i.imgur.com/RO4AM4b.png",
     "country": "",
@@ -4230,15 +4239,6 @@
     "isHttps": false
   },
   {
-    "name": "AMC Europe Bulgary (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://45.136.153.199/AMC/mono.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Amedia Hit (720p)",
     "logo": "https://i.imgur.com/a8ZBGBw.png",
     "country": "",
@@ -4527,7 +4527,7 @@
     "isHttps": false
   },
   {
-    "name": "FilmBox Premium [Not 24/7]",
+    "name": "FilmBox+ Hits [Not 24/7]",
     "logo": "https://i.imgur.com/RydfsE9.png",
     "country": "",
     "language": "",
@@ -4707,12 +4707,30 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies;Series\",AXN Asia Thailand (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://54.37.19.157/axn/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies;Series\",FilmUADrama (1080p)",
     "logo": "https://i.imgur.com/Hnwsh5d.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
     "url": "http://88.99.215.227/FilmUADrama/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe Bulgary",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a0by",
     "isHttps": false
   },
   {
@@ -4740,6 +4758,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://cdn.haititivi.com/AXN/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Adria",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
     "isHttps": false
   },
   {
@@ -4785,6 +4812,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.19/live/test_axn/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies",
+    "logo": "https://i.imgur.com/tJQckal.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
     "isHttps": false
   },
   {
@@ -4992,6 +5028,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://213.91.179.28:8000/play/a0c9",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Star Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.36.202.5:10001/play/a01s",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Star Movies",
+    "logo": "https://i.imgur.com/JcoAgDF.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.36.202.5:10001/play/a01o",
     "isHttps": false
   },
   {

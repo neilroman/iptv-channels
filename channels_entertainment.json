@@ -639,6 +639,15 @@
     "isHttps": true
   },
   {
+    "name": "Bolivia Punto TV",
+    "logo": "https://i.imgur.com/8sQw9Aj.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bonce TV (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/7cVkllH.png",
     "country": "",
@@ -1468,7 +1477,7 @@
   },
   {
     "name": "Game Show Network East (720p) [Not 24/7]",
-    "logo": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -1500,6 +1509,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Gaviota TV",
+    "logo": "https://i.imgur.com/1vlZA6O.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
     "isHttps": true
   },
   {
@@ -2052,6 +2070,15 @@
     "isHttps": true
   },
   {
+    "name": "KCKS-LD 25.3 (720p)",
+    "logo": "https://i.imgur.com/KtXQeeZ.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "KCL TV (720p)",
     "logo": "https://i.imgur.com/bkp9dIm.png",
     "country": "",
@@ -2472,15 +2499,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "M6 SD (720p)",
-    "logo": "https://i.imgur.com/7GVp3fW.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8",
     "isHttps": true
   },
   {
@@ -4653,12 +4671,12 @@
     "isHttps": true
   },
   {
-    "name": "W9 (720p)",
+    "name": "W9 (1080p)",
     "logo": "https://i.imgur.com/reYeMuE.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8",
+    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8",
     "isHttps": true
   },
   {
@@ -5463,6 +5481,15 @@
     "isHttps": false
   },
   {
+    "name": "La Une (720p)",
+    "logo": "https://i.imgur.com/jMwZp7z.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
+    "isHttps": false
+  },
+  {
     "name": "Lifetime (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
     "country": "",
@@ -5517,12 +5544,39 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",7/8 TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://213.91.179.28:8000/play/a0cn",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Bulgaria",
     "logo": "https://i.imgur.com/47IKxmt.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://85.14.32.26:8800/udp/239.100.10.18:5000",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White CzechRepublic",
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/test_white/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal",
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8",
     "isHttps": false
   },
   {

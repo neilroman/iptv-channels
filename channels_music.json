@@ -2376,12 +2376,12 @@
     "isHttps": true
   },
   {
-    "name": "Miel TV (720p) [Not 24/7]",
+    "name": "Miel TV (720p)",
     "logo": "https://i.imgur.com/dPSFrCs.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3159,6 +3159,15 @@
     "isHttps": true
   },
   {
+    "name": "Prattel TV (720p)",
+    "logo": "https://new.opencaster.com/uploads/logos/logo_244_1761928734.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "PRIDEtv LATAM (1080p)",
     "logo": "https://neotv.cl/img/pridetv-512.png",
     "country": "",
@@ -3498,6 +3507,15 @@
     "language": "",
     "group": "Music",
     "url": "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Rumba TV (720p)",
+    "logo": "https://i.imgur.com/BYcxI03.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3903,6 +3921,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tv1.ruidosfm.cl/ruidostv/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RumbaMix TV (720p)",
+    "logo": "https://i.imgur.com/rwA3HIp.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4869,6 +4896,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Cidade",
+    "logo": "https://i.imgur.com/gmSu21X.jpg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Éxitos (720p)",
     "logo": "https://i.imgur.com/ahz7X7u.png",
     "country": "",
@@ -5562,15 +5598,6 @@
     "isHttps": true
   },
   {
-    "name": "Сити Эдем Meditation Music [Not 24/7]",
-    "logo": "https://i.imgur.com/HPWevWb.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Сити Эдем Play Христианский Музыкальный [Not 24/7]",
     "logo": "https://i.imgur.com/ozEqob9.png",
     "country": "",
@@ -6003,6 +6030,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",4 Fun Dance [Not 24/7]",
+    "logo": "https://i.imgur.com/ZEWHe1B.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://89.218.32.179:18000/play/a016",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",BOX TV",
     "logo": "https://i.imgur.com/swFzesA.png",
     "country": "",
@@ -6381,7 +6417,7 @@
     "isHttps": false
   },
   {
-    "name": "Первый Музыкал��ный Канал Россия HD (1080p)",
+    "name": "Первый Музыкальный Канал Россия HD (1080p)",
     "logo": "https://i.imgur.com/rEo7nR1.png",
     "country": "",
     "language": "",

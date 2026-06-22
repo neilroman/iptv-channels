@@ -36,16 +36,7 @@
     "isHttps": true
   },
   {
-    "name": "3Cat (Exclusiu digital)",
-    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Cataluña",
-    "url": "https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "3CAT Info",
+    "name": "3Cat Info",
     "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
     "country": "",
     "language": "",
@@ -888,6 +879,15 @@
     "language": "",
     "group": "Radio_Populares",
     "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Catalunya Ràdio Exclusiu",
+    "logo": "https://graph.facebook.com/catradio/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Cataluña",
+    "url": "https://directes-radio-int.3catdirectes.cat/live-content/radio-oca-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -2799,6 +2799,33 @@
     "isHttps": true
   },
   {
+    "name": "IB3 Ràdio",
+    "logo": "https://graph.facebook.com/IB3org/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Illes Balears",
+    "url": "https://icecast.ib3radio.com/ib3radio_dos",
+    "isHttps": true
+  },
+  {
+    "name": "IB3 Ràdio Menorca",
+    "logo": "https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Radio_Illes Balears",
+    "url": "https://icecast.ib3radio.com/ib3radio_menorca",
+    "isHttps": true
+  },
+  {
+    "name": "IB3 Ràdio Pitiüses",
+    "logo": "https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Radio_Illes Balears",
+    "url": "https://icecast.ib3radio.com/ib3radio_pitiuses",
+    "isHttps": true
+  },
+  {
     "name": "Ibiza Global Radio",
     "logo": "https://graph.facebook.com/ibiza.radio/picture?width=200&height=200",
     "country": "",
@@ -3120,6 +3147,15 @@
     "language": "",
     "group": "Radio_C. Valenciana",
     "url": "https://stream.netservers.ovh:8443/leoradiofm.ogg",
+    "isHttps": true
+  },
+  {
+    "name": "Like Music Almería",
+    "logo": "https://graph.facebook.com/LikeMusicAlmeria/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Andalucía",
+    "url": "https://broadcast.radioponiente.org:8066/;.mp3",
     "isHttps": true
   },
   {
@@ -3943,7 +3979,7 @@
   },
   {
     "name": "Onda 4 Ronda",
-    "logo": "https://akouradio.com/StatImage/31583.png",
+    "logo": "https://onda4.org/wp-content/uploads/2023/05/onda4_logo2022.jpeg?w=200&h=200",
     "country": "",
     "language": "",
     "group": "Radio_Andalucía",

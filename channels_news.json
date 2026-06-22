@@ -216,6 +216,15 @@
     "isHttps": true
   },
   {
+    "name": "7 Info",
+    "logo": "https://i.imgur.com/jcl1nNR.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "99TV (720p)",
     "logo": "https://i.imgur.com/dZA4gel.png",
     "country": "",
@@ -582,6 +591,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Afrik Info TV",
+    "logo": "https://i.imgur.com/hz2LOD8.jpeg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
     "isHttps": true
   },
   {
@@ -1194,6 +1212,15 @@
     "language": "",
     "group": "News",
     "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BandNews (1080p)",
+    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -2471,7 +2498,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8",
     "isHttps": true
   },
   {
@@ -2898,12 +2925,12 @@
     "isHttps": true
   },
   {
-    "name": "Haiti News Channel (720p) [Not 24/7]",
+    "name": "Haiti News Channel (1080p)",
     "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://haititivi.com/website/haitinews/index.m3u8",
+    "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8",
     "isHttps": true
   },
   {
@@ -3339,12 +3366,12 @@
     "isHttps": true
   },
   {
-    "name": "Iran International (720p)",
+    "name": "Iran International (1080p)",
     "logo": "https://i.imgur.com/55RpaF3.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8",
     "isHttps": true
   },
   {
@@ -3606,6 +3633,15 @@
     "language": "",
     "group": "News",
     "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Kurdistan 24 (1080p)",
+    "logo": "https://i.imgur.com/9QWs2ms.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
     "isHttps": true
   },
   {
@@ -5189,7 +5225,16 @@
     "country": "",
     "language": "",
     "group": "Lifestyle;News",
-    "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
+    "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NowMedia Television Spanish (1080p)",
+    "logo": "https://i.imgur.com/8m8gy0n.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle;News",
+    "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8",
     "isHttps": true
   },
   {
@@ -5445,12 +5490,12 @@
     "isHttps": true
   },
   {
-    "name": "Payam TV (720p) [Not 24/7]",
+    "name": "Payam TV (1080p)",
     "logo": "https://i.imgur.com/qySEibb.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
     "isHttps": true
   },
   {
@@ -8154,6 +8199,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Culture;News\",Ost West (576p)",
+    "logo": "https://i.imgur.com/nSQWo49.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;News",
+    "url": "http://hls127.freeott.top:8080/OstWest/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"News\",Bulgaria On Air",
     "logo": "https://i.imgur.com/mvShl7F.png",
     "country": "",
@@ -8304,15 +8358,6 @@
     "language": "",
     "group": "News",
     "url": "http://103.250.28.74:8000/play/a046/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Ost West [Not 24/7]",
-    "logo": "https://i.imgur.com/nSQWo49.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;News",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8",
     "isHttps": false
   },
   {

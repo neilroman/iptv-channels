@@ -1566,6 +1566,15 @@
     "isHttps": true
   },
   {
+    "name": "Animax Asia (480i) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Animax Asia India (1080p) [Geo-blocked]",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
     "country": "",
@@ -6616,7 +6625,7 @@
   },
   {
     "name": "Game Show Network East (720p) [Not 24/7]",
-    "logo": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -6855,6 +6864,15 @@
     "language": "",
     "group": "Travel",
     "url": "https://go2thls.wns.live/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "God Stands Kids Club TV English",
+    "logo": "https://i.imgur.com/FxDBbpz.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Kids;Religious",
+    "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
     "isHttps": true
   },
   {
@@ -8163,6 +8181,15 @@
     "isHttps": true
   },
   {
+    "name": "Kaloopy TV (1080p)",
+    "logo": "https://i.imgur.com/XPyOTZF.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kartoon Channel (1080p)",
     "logo": "https://i.imgur.com/1luzP3T.png",
     "country": "",
@@ -8205,6 +8232,15 @@
     "language": "",
     "group": "Education",
     "url": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KCKS-LD 25.3 (720p)",
+    "logo": "https://i.imgur.com/KtXQeeZ.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8946,15 +8982,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Lifestyle\",Kaloopy (720p)",
-    "logo": "https://i.imgur.com/XPyOTZF.jpeg",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Lifestyle\",Revry (1080p)",
     "logo": "https://i.imgur.com/XuTUaq4.png",
     "country": "",
@@ -9270,24 +9297,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Arthouse (576p)",
-    "logo": "https://i.imgur.com/hDg35ne.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://iptv.prosto.tv/ch63/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Baltics (576p)",
-    "logo": "https://i.imgur.com/gXu36aD.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://iptv.prosto.tv/ch64/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra",
     "logo": "https://i.imgur.com/ML7SlIW.png",
     "country": "",
@@ -9315,6 +9324,24 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Festival (576p)",
+    "logo": "https://i.imgur.com/hDg35ne.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://iptv.prosto.tv/ch63/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ One Baltics (576p)",
+    "logo": "https://i.imgur.com/gXu36aD.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://iptv.prosto.tv/ch64/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",360TuneBox (576p)",
     "logo": "https://i.imgur.com/1Fyezng.png",
     "country": "",
@@ -9330,6 +9357,15 @@
     "language": "",
     "group": "Relax",
     "url": "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",FightBox",
+    "logo": "https://i.imgur.com/mRsnztA.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8",
     "isHttps": true
   },
   {
@@ -11570,7 +11606,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle;News",
-    "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
+    "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8",
     "isHttps": true
   },
   {
@@ -14373,6 +14409,15 @@
     "isHttps": true
   },
   {
+    "name": "Rai Italia (576i) [Geo-blocked]",
+    "logo": "https://i.imgur.com/1nN4rEP.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://cignalplaymaxcdn.qzz.io/rai_italia_zte/sanjuantv/manifest.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Raia TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/IyFULjw.png",
     "country": "",
@@ -14901,6 +14946,15 @@
     "language": "",
     "group": "News",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RTR-Planeta US (720p)",
+    "logo": "https://i.imgur.com/0YEahxs.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_usa/playlist_4.m3u8",
     "isHttps": true
   },
   {
@@ -18162,6 +18216,15 @@
     "isHttps": true
   },
   {
+    "name": "Unite8 Sports 2 HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://mini.allinonereborn.fun/tata.php?id=11624",
+    "isHttps": true
+  },
+  {
     "name": "United TV (540p)",
     "logo": "https://i.imgur.com/2isM8xd.png",
     "country": "",
@@ -20403,15 +20466,6 @@
     "isHttps": false
   },
   {
-    "name": "Comedy Central [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Cottage Life (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png",
     "country": "",
@@ -20547,6 +20601,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Junior MENA (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://116.90.120.157:8000/play/a0qo/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney XD (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "country": "",
@@ -20661,15 +20724,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FightBox (1080p)",
-    "logo": "https://i.imgur.com/mRsnztA.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a085",
     "isHttps": false
   },
   {
@@ -21051,6 +21105,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Comedy\",Comedy Central",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://82.78.243.219:45739/play/a00f/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",BBC Earth",
     "logo": "https://i.imgur.com/nGSsUd4.png",
     "country": "",
@@ -21096,6 +21159,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Nickelodeon (1080p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://193.239.186.231/NICK/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
     "logo": "https://i.imgur.com/9mzJJ3y.png",
     "country": "",
@@ -21129,6 +21201,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://cdn.haititivi.com/AXN/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Adria",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
     "isHttps": false
   },
   {
@@ -21678,15 +21759,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://103.250.28.74:8000/play/a03e/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Rai Italia [Not 24/7]",
-    "logo": "https://i.imgur.com/1nN4rEP.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8",
     "isHttps": false
   },
   {
@@ -22290,6 +22362,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Virgin Media Two HD (720p)",
+    "logo": "https://i.imgur.com/adtqhBy.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://41.205.93.154/BBCTHREE/index.m3u8",
     "isHttps": false
   },
   {
