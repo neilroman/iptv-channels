@@ -90,6 +90,15 @@
     "isHttps": true
   },
   {
+    "name": "Apsua TV",
+    "logo": "https://i.imgur.com/TJowroY.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null",
+    "isHttps": true
+  },
+  {
     "name": "Aqlvoy",
     "logo": "https://i.imgur.com/ekF5cAi.png",
     "country": "",
@@ -384,6 +393,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Kvartal TV",
+    "logo": "https://i.imgur.com/6ZYWizP.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2556,6 +2574,15 @@
     "isHttps": false
   },
   {
+    "name": "Big Planet (1080p)",
+    "logo": "https://i.imgur.com/wyuqWTR.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/big-planet-hd.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Bolt (576p)",
     "logo": "https://i.imgur.com/YdIHXOR.png",
     "country": "",
@@ -2661,6 +2688,15 @@
     "language": "",
     "group": "Music",
     "url": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Detski mir (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8",
     "isHttps": false
   },
   {
@@ -2805,6 +2841,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://hls127.freeott.top:8080/Kluch/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Leva (1080p)",
+    "logo": "https://i.imgur.com/lQzgmpz.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ljova-hd.m3u8",
     "isHttps": false
   },
   {
@@ -3024,6 +3069,15 @@
     "isHttps": false
   },
   {
+    "name": "RTVi FTA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTVI_Logo_magenta_fill_2021.png/960px-RTVI_Logo_magenta_fill_2021.png?_=20220324153839",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://91.146.94.234:10001/play/a090",
+    "isHttps": false
+  },
+  {
     "name": "Russia-24 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
     "country": "",
@@ -3065,7 +3119,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ctc-kids-hd.m3u8",
     "isHttps": false
   },
   {
@@ -3159,6 +3213,15 @@
     "isHttps": false
   },
   {
+    "name": "TV1000 Russian Kino Global",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a0bx",
+    "isHttps": false
+  },
+  {
     "name": "TV15 (1080p) [Not 24/7]",
     "logo": "https://i.ibb.co/1byxRtp/tv15.png",
     "country": "",
@@ -3174,6 +3237,24 @@
     "language": "",
     "group": "Documentary;News",
     "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Usadba (1080p)",
+    "logo": "https://i.imgur.com/mf13haG.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/usadba-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "V gostyakh u skazki (1080p)",
+    "logo": "https://i.imgur.com/jNJkLHl.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8",
     "isHttps": false
   },
   {

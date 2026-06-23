@@ -4284,6 +4284,33 @@
     "isHttps": false
   },
   {
+    "name": "AXN CEE Bulgary",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://85.11.144.9:4222/AXN",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Latin America",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.167.1.138:8000/play/a04s",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Latin America Mexico",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AXN Poland",
     "logo": "https://i.imgur.com/i5wOhkf.png",
     "country": "",
@@ -4794,15 +4821,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://46.149.191.217:9009/play/a02d",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN CEE Bulgary",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://85.14.32.26:8800/udp/239.100.10.16:5000",
     "isHttps": false
   },
   {
@@ -5334,6 +5352,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV1000 Russian Kino Global",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a0bx",
     "isHttps": false
   },
   {

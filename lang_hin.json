@@ -1998,15 +1998,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee TV HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&pass=krish-ka&uid=gana-sunega",
-    "isHttps": true
-  },
-  {
     "name": "Zee Uttar Pradesh/Uttarakhand (720p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540",
     "country": "",
@@ -2682,15 +2673,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Utsav (576p)",
-    "logo": "https://i.imgur.com/H1jhHDl.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a04y/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Utsav Movies (576p)",
     "logo": "https://i.imgur.com/k5QHfH2.png",
     "country": "",
@@ -2706,15 +2688,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "StarPlus HD (1080p)",
-    "logo": "https://i.imgur.com/xWxNy3L.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://41.205.64.66/STAR-PLUS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3111,6 +3084,15 @@
     "language": "",
     "group": "Classic",
     "url": "http://103.72.101.252:8080/live/1691.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee TV HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
     "isHttps": false
   },
   {

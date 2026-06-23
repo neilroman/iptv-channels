@@ -1108,7 +1108,7 @@
   },
   {
     "name": "Pluto TV Esportes",
-    "logo": "",
+    "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -3039,6 +3039,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
     "isHttps": false
   },
   {

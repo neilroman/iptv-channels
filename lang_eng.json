@@ -6435,15 +6435,6 @@
     "isHttps": true
   },
   {
-    "name": "Fox Sports 1 (1280p)",
-    "logo": "https://i.imgur.com/O9BapV9.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Fox Sports 2 (480p)",
     "logo": "https://i.imgur.com/LHtxKI8.png",
     "country": "",
@@ -6846,6 +6837,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "GNN TV (1080p)",
+    "logo": "https://i.imgur.com/itetPKw.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8",
     "isHttps": true
   },
   {
@@ -15759,6 +15759,15 @@
     "isHttps": true
   },
   {
+    "name": "St Lucie Public Schools",
+    "logo": "https://i.imgur.com/wnB0fWG.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "St. Pete TV (SPTV) (St Petersburg FL) (360p)",
     "logo": "https://i.imgur.com/fl8I3cg.png",
     "country": "",
@@ -19386,6 +19395,15 @@
     "isHttps": true
   },
   {
+    "name": "WSLF-LD 35.1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "WSOC Now (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/tUb1mdc.png",
     "country": "",
@@ -19953,6 +19971,15 @@
     "isHttps": false
   },
   {
+    "name": "Abu Dhabi TV",
+    "logo": "https://i.imgur.com/8DAriPs.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_326/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AlbUK TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/TMg4Kxi.png",
     "country": "",
@@ -20490,6 +20517,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Crime + Investigation CEE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/test_cai_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -21708,6 +21744,15 @@
     "isHttps": false
   },
   {
+    "name": "Panico (576p)",
+    "logo": "https://i.imgur.com/XOJzlfS.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Paramount Network (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
     "country": "",
@@ -22227,6 +22272,15 @@
     "language": "",
     "group": "General",
     "url": "http://198.255.80.170/FTX9_SXM-TV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV2 (1080p)",
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_347/index.m3u8",
     "isHttps": false
   },
   {

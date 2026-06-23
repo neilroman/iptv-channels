@@ -711,6 +711,15 @@
     "isHttps": true
   },
   {
+    "name": "C Star (477p)",
+    "logo": "https://i.imgur.com/w4kAX1V.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cabo Frio TV (720p)",
     "logo": "https://i.imgur.com/mPi6Wp3.png",
     "country": "",
@@ -2178,6 +2187,15 @@
     "isHttps": true
   },
   {
+    "name": "Kvartal TV",
+    "logo": "https://i.imgur.com/6ZYWizP.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "KVIE-DT2 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
     "country": "",
@@ -2214,6 +2232,15 @@
     "isHttps": true
   },
   {
+    "name": "La Nuestra (1080p)",
+    "logo": "https://i.imgur.com/WExojSG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "La Nueva Radio TV 97.7 (1080p)",
     "logo": "https://i.imgur.com/19FN4Lp.png",
     "country": "",
@@ -2229,15 +2256,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://latamvdo.com:3626/hybrid/play.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "La Tele",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4851,15 +4869,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee TV HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&pass=krish-ka&uid=gana-sunega",
-    "isHttps": true
-  },
-  {
     "name": "Zee TV UK HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png",
     "country": "",
@@ -5247,6 +5256,15 @@
     "isHttps": false
   },
   {
+    "name": "Crime + Investigation CEE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/test_cai_hevc/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Dangal 2 (720p)",
     "logo": "https://i.imgur.com/BEr1r7L.png",
     "country": "",
@@ -5481,6 +5499,24 @@
     "isHttps": false
   },
   {
+    "name": "La Tele (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://8.243.126.131:8000/play/a01v/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "La Tele Tuya (576p)",
+    "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "La Une (720p)",
     "logo": "https://i.imgur.com/jMwZp7z.png",
     "country": "",
@@ -5688,6 +5724,15 @@
     "isHttps": false
   },
   {
+    "name": "Movistar Plus (576p)",
+    "logo": "https://i.imgur.com/yGQGDoi.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.4.1.201:8000/play/a19y/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MTV (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
     "country": "",
@@ -5730,6 +5775,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://149.71.34.166:8000/play/a00p/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MTV Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://179.60.51.134:8888/MTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -5877,6 +5931,15 @@
     "isHttps": false
   },
   {
+    "name": "RCN Novelas (576p)",
+    "logo": "https://i.imgur.com/9wxdWNQ.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ROCK Entertainment (720p)",
     "logo": "https://i.imgur.com/PWzq0aU.png",
     "country": "",
@@ -5967,15 +6030,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Utsav (576p)",
-    "logo": "https://i.imgur.com/H1jhHDl.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a04y/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Vijay HD (1080p)",
     "logo": "https://i.imgur.com/dZtJHAe.png",
     "country": "",
@@ -5991,15 +6045,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "StarPlus HD (1080p)",
-    "logo": "https://i.imgur.com/xWxNy3L.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://41.205.64.66/STAR-PLUS/index.m3u8",
     "isHttps": false
   },
   {
@@ -6126,6 +6171,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/722.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee TV HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
     "isHttps": false
   },
   {

@@ -2017,7 +2017,7 @@
   },
   {
     "name": "Conecta2TV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/cfHaLt2.png",
+    "logo": "https://i.imgur.com/W6FDUwt.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -3390,15 +3390,6 @@
     "language": "",
     "group": "News",
     "url": "https://hls.iranfarda.live/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "IRINN Live Farsi News",
-    "logo": "https://i.imgur.com/8tzsC9h.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5481,12 +5472,12 @@
     "isHttps": true
   },
   {
-    "name": "Panorama TV",
+    "name": "Panorama TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/960px-Panorama_logo.svg.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://159.69.221.56/panorama/livestream/playlist.m3u8",
+    "url": "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8010,6 +8001,15 @@
     "isHttps": false
   },
   {
+    "name": "CNN Prima News (1080p)",
+    "logo": "https://i.imgur.com/elZyUjX.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ČT24 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
     "country": "",
@@ -8142,6 +8142,15 @@
     "language": "",
     "group": "News",
     "url": "http://116.90.120.151:8000/play/a024/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "IRINN (576p)",
+    "logo": "https://i.imgur.com/8tzsC9h.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://185.9.2.18/chid_926/index.m3u8",
     "isHttps": false
   },
   {
@@ -8340,6 +8349,15 @@
     "language": "",
     "group": "News",
     "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NTN24 (576p)",
+    "logo": "https://i.imgur.com/UoKmSAP.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
     "isHttps": false
   },
   {

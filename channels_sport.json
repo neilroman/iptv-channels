@@ -720,15 +720,6 @@
     "isHttps": true
   },
   {
-    "name": "Fox Sports 1 (1280p)",
-    "logo": "https://i.imgur.com/O9BapV9.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Fox Sports 2 (480p)",
     "logo": "https://i.imgur.com/LHtxKI8.png",
     "country": "",
@@ -1512,15 +1503,6 @@
     "isHttps": true
   },
   {
-    "name": "Meridiano TV (480p)",
-    "logo": "https://i.imgur.com/I6gsUqD.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MLB Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/ym3su2J.png",
     "country": "",
@@ -1729,7 +1711,7 @@
   },
   {
     "name": "Pluto TV Esportes",
-    "logo": "",
+    "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -3258,6 +3240,24 @@
     "isHttps": false
   },
   {
+    "name": "L1 (1080p)",
+    "logo": "https://i.imgur.com/eRmXneK.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://45.4.1.201:8000/play/a1ai/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "L1 Max (1080p)",
+    "logo": "https://i.imgur.com/2fziU2B.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://45.4.1.201:8000/play/a123/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "LaLiga Hypermotion (1080p)",
     "logo": "",
     "country": "",
@@ -3420,12 +3420,30 @@
     "isHttps": false
   },
   {
+    "name": "Meridiano TV (576p)",
+    "logo": "https://i.imgur.com/I6gsUqD.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MMA-TV (576p)",
     "logo": "https://i.imgur.com/Qxco1eW.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/M1_Global/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Movistar Deportes (1080p)",
+    "logo": "https://i.imgur.com/Zt3iE86.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
     "isHttps": false
   },
   {
@@ -3579,6 +3597,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://46.149.191.217:9005/play/a017",
+    "isHttps": false
+  },
+  {
+    "name": "Sport 2",
+    "logo": "https://i.imgur.com/UxflVoU.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://46.149.191.217:9018/play/a01e",
     "isHttps": false
   },
   {

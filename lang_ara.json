@@ -324,15 +324,6 @@
     "isHttps": true
   },
   {
-    "name": "Al Maghribia (480p)",
-    "logo": "https://i.imgur.com/7GaahYh.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://snrtworker.kharazbelaid.workers.dev/?id=almaghribia.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Al Manar (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/sOQLV7L.png",
     "country": "",
@@ -1507,7 +1498,7 @@
     "logo": "https://i.imgur.com/qzApokm.png",
     "country": "",
     "language": "",
-    "group": "General",
+    "group": "Culture;Music;Religious",
     "url": "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8",
     "isHttps": true
   },
@@ -3033,6 +3024,15 @@
     "isHttps": true
   },
   {
+    "name": "Abu Dhabi TV",
+    "logo": "https://i.imgur.com/8DAriPs.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_326/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Ajyal TV (720p)",
     "logo": "https://i.imgur.com/i6Y7beR.jpg",
     "country": "",
@@ -3075,6 +3075,24 @@
     "language": "",
     "group": "General",
     "url": "http://185.9.2.18/chid_391/mono.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Al Maghribia (1080p)",
+    "logo": "https://i.imgur.com/7GaahYh.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_205/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Al Masriyah (1080p)",
+    "logo": "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_247/index.m3u8",
     "isHttps": false
   },
   {
@@ -3132,6 +3150,15 @@
     "isHttps": false
   },
   {
+    "name": "Dubai TV International (1080p)",
+    "logo": "https://i.imgur.com/UMmbyHv.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_139/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Elbeshara GTV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/b0Wx7pE.png",
     "country": "",
@@ -3174,6 +3201,15 @@
     "language": "",
     "group": "General",
     "url": "http://82.212.74.2:8000/live/7311.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "LBC International",
+    "logo": "https://i.imgur.com/h26xtUv.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_327/index.m3u8",
     "isHttps": false
   },
   {
@@ -3237,6 +3273,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://31.14.41.69:8080/hls/sensesonline/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV2 (1080p)",
+    "logo": "https://i.imgur.com/VEb631f.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_347/index.m3u8",
     "isHttps": false
   },
   {
