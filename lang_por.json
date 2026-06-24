@@ -1737,6 +1737,15 @@
     "isHttps": true
   },
   {
+    "name": "Reino Infantil",
+    "logo": "https://i.imgur.com/oAygpDw.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RFPtv (360p)",
     "logo": "https://i.imgur.com/I60nQuR.png",
     "country": "",
@@ -2484,15 +2493,6 @@
     "isHttps": true
   },
   {
-    "name": "TV Globo Sao Paulo (720p)",
-    "logo": "https://i.imgur.com/OoSUg78.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV Grao Pará (720p)",
     "logo": "https://i.imgur.com/1drg0E9.png",
     "country": "",
@@ -2997,6 +2997,24 @@
     "isHttps": false
   },
   {
+    "name": "Arte 1 (1080p)",
+    "logo": "https://i.imgur.com/Ivnk7A6.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://143.14.178.40:7777/Arte_1_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Bis (1080p)",
+    "logo": "https://i.imgur.com/VUt1lmH.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://143.14.178.40:7777/BIS_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canal Off (1080p)",
     "logo": "https://i.imgur.com/1biaLgJ.png",
     "country": "",
@@ -3069,12 +3087,12 @@
     "isHttps": false
   },
   {
-    "name": "GloboNews (720p)",
+    "name": "GloboNews (1080p)",
     "logo": "https://i.imgur.com/3yZyaCm.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://41.205.70.146/GLOBONEWS/index.m3u8",
+    "url": "http://143.14.178.40:7777/GloboNews_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3087,12 +3105,21 @@
     "isHttps": false
   },
   {
-    "name": "Gloob (576p)",
+    "name": "Gloob (1080p)",
     "logo": "https://i.imgur.com/N1BUULh.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://45.235.0.78/Gloob/playlist.m3u8",
+    "url": "http://143.14.178.40:7777/Gloob_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Gloobinho (1080p)",
+    "logo": "https://i.imgur.com/UWkHErt.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://143.14.178.40:7777/Gloobinho_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3138,6 +3165,33 @@
     "language": "",
     "group": "Movies",
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Megapix (1080p)",
+    "logo": "https://i.imgur.com/qTYv5jt.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://143.14.178.40:7777/Megapix_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Multishow (1080p)",
+    "logo": "https://i.imgur.com/bqVg8nT.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://143.14.178.40:7777/Multishow_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Music Box Brazil (1080p)",
+    "logo": "https://i.imgur.com/CDPCF2X.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://143.14.178.40:7777/Music_Box_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3219,6 +3273,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Globo Sao Paulo (1080p)",
+    "logo": "https://i.imgur.com/OoSUg78.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://187.62.68.32:8080/GLOBO/index.m3u8",
     "isHttps": false
   },
   {
@@ -3363,6 +3426,15 @@
     "language": "",
     "group": "Education",
     "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg",
+    "isHttps": false
+  },
+  {
+    "name": "WooHoo (1080p)",
+    "logo": "https://i.imgur.com/me622pa.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://143.14.178.40:7777/Woohoo_HD/index.m3u8",
     "isHttps": false
   }
 ]

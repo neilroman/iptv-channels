@@ -1008,15 +1008,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Epic Drama",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://dokagents.site/live/epicd/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Los archivos del FBI",
     "logo": "https://i.imgur.com/eDCdJO2.png",
     "country": "",
@@ -2520,6 +2511,24 @@
     "isHttps": true
   },
   {
+    "name": "Smotrim 100% Lyubov (720p)",
+    "logo": "https://i.imgur.com/4EFh0nu.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Muzhskoe (720p)",
+    "logo": "https://i.imgur.com/UY3fjYU.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony One Blacklist (1080p)",
     "logo": "https://i.imgur.com/uJC8rXr.png",
     "country": "",
@@ -2943,16 +2952,7 @@
     "isHttps": true
   },
   {
-    "name": "Сити Эдем ТелеНовелла [Not 24/7]",
-    "logo": "https://i.imgur.com/mT5liTh.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Сити Э��ем КиноДок [Not 24/7]",
+    "name": "Сити Эдем КиноДок [Not 24/7]",
     "logo": "https://i.imgur.com/itRbMX3.png",
     "country": "",
     "language": "",
@@ -2961,21 +2961,12 @@
     "isHttps": true
   },
   {
-    "name": "Смотрим 100% Любовь",
-    "logo": "https://i.imgur.com/4EFh0nu.png",
+    "name": "Сити Эдем ТелеНовелла [Not 24/7]",
+    "logo": "https://i.imgur.com/mT5liTh.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Мужское",
-    "logo": "https://i.imgur.com/UY3fjYU.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d",
+    "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
     "isHttps": true
   },
   {
@@ -3039,6 +3030,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Epic Drama",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://82.78.243.219:45739/play/a01p/index.m3u8",
     "isHttps": false
   },
   {

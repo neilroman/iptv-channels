@@ -189,6 +189,15 @@
     "isHttps": true
   },
   {
+    "name": "BabyTV UK HD (720p)",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://trs1.aynaott.com/babytv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Balapan TV (1080p)",
     "logo": "https://i.imgur.com/2o5T0gi.png",
     "country": "",
@@ -504,12 +513,12 @@
     "isHttps": true
   },
   {
-    "name": "Forever Kids",
+    "name": "Forever Kids (576p)",
     "logo": "https://i.imgur.com/deeQqYZ.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
+    "url": "https://trs1.aynaott.com/ForeverKids/index.m3u8",
     "isHttps": true
   },
   {
@@ -1032,6 +1041,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nickelodeon (576p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://trs1.aynaott.com/nicklodean/index.m3u8",
     "isHttps": true
   },
   {
@@ -1620,6 +1638,15 @@
     "isHttps": true
   },
   {
+    "name": "Reino Infantil",
+    "logo": "https://i.imgur.com/oAygpDw.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RiC (1080p)",
     "logo": "https://i.imgur.com/4wMZ8Em.png",
     "country": "",
@@ -1719,6 +1746,15 @@
     "isHttps": true
   },
   {
+    "name": "Smotrim 100% Detskoe (720p)",
+    "logo": "https://i.imgur.com/1hsNeTa.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony Yay! (1080p) [Geo-blocked]",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
     "country": "",
@@ -1797,6 +1833,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TeenNick (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://trs1.aynaott.com/teennick/index.m3u8",
     "isHttps": true
   },
   {
@@ -1971,6 +2016,15 @@
     "isHttps": true
   },
   {
+    "name": "TVP ABC 2 (1080p)",
+    "logo": "https://i.imgur.com/Ur7CUAh.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u",
+    "isHttps": true
+  },
+  {
     "name": "TVS Hi Tops (720p)",
     "logo": "https://i.imgur.com/RiWg1IA.png",
     "country": "",
@@ -2043,6 +2097,15 @@
     "isHttps": true
   },
   {
+    "name": "Zhara Kids TV (576p)",
+    "logo": "https://i.imgur.com/OkPqFNY.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Music",
+    "url": "https://trs1.aynaott.com/discoverykids/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zoo Moo (Australia) (1080p)",
     "logo": "https://i.imgur.com/ciTJrnl.png",
     "country": "",
@@ -2067,15 +2130,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Детское",
-    "logo": "https://i.imgur.com/1hsNeTa.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089",
     "isHttps": true
   },
   {
@@ -2130,6 +2184,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://41.223.30.230/BABYTV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BabyTV Netherlands (576p)",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.102.171.218/BabyTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -2277,12 +2340,30 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel EMEA (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.102.171.218/DisneyChannel/index.m3u8",
     "isHttps": false
   },
   {
@@ -2377,6 +2458,15 @@
   },
   {
     "name": "Disney Junior (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.102.171.218/DisneyJunior/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Junior (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
@@ -2421,12 +2511,30 @@
     "isHttps": false
   },
   {
-    "name": "Gloob (576p)",
+    "name": "Gloob (1080p)",
     "logo": "https://i.imgur.com/N1BUULh.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://45.235.0.78/Gloob/playlist.m3u8",
+    "url": "http://143.14.178.40:7777/Gloob_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Gloobinho (1080p)",
+    "logo": "https://i.imgur.com/UWkHErt.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://143.14.178.40:7777/Gloobinho_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hop! (576p)",
+    "logo": "https://i.imgur.com/bScuilD.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8",
     "isHttps": false
   },
   {
@@ -2436,6 +2544,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://149.71.34.166:8000/play/a075/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Junior (576p)",
+    "logo": "https://i.imgur.com/w8fYTnw.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8",
     "isHttps": false
   },
   {
@@ -2615,6 +2732,15 @@
     "country": "",
     "language": "",
     "group": "Kids",
+    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick Jr. (576p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
     "url": "http://84.17.50.102/nickjr/index.m3u8",
     "isHttps": false
   },
@@ -2652,6 +2778,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://195.64.140.147:10121/121",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon (576p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8",
     "isHttps": false
   },
   {
@@ -2727,6 +2862,15 @@
     "isHttps": false
   },
   {
+    "name": "Plim Plim (1080p)",
+    "logo": "https://i.imgur.com/MYc8srh.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://8.243.126.131:8000/play/a0od/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "PLUSPLUS (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/9bPhStm.png",
     "country": "",
@@ -2799,12 +2943,12 @@
     "isHttps": false
   },
   {
-    "name": "TeenNick [Not 24/7]",
+    "name": "TeenNick (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
+    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8",
     "isHttps": false
   },
   {

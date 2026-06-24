@@ -2889,6 +2889,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal A (1080p)",
+    "logo": "https://i.imgur.com/jLLAjaw.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "https://edgectc.com/CANAL_A/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal C Del Zulia (720p)",
     "logo": "https://i.imgur.com/ew44KOZ.png",
     "country": "",
@@ -3003,6 +3012,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal Diplomatico",
+    "logo": "https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8",
     "isHttps": true
   },
   {
@@ -4704,6 +4722,15 @@
     "language": "",
     "group": "General",
     "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "DeporTV (1080p)",
+    "logo": "https://i.imgur.com/THk9ARS.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8",
     "isHttps": true
   },
   {
@@ -8514,6 +8541,15 @@
     "isHttps": true
   },
   {
+    "name": "Metro (1080p)",
+    "logo": "https://i.imgur.com/D4nRp62.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://edgectc.com/METRO/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Metro TV (720p)",
     "logo": "https://i.imgur.com/7f7M7zl.png",
     "country": "",
@@ -10994,7 +11030,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://edge.essastream.com/portaldigital/playlist.m3u8",
+    "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/5ccadd2a-00ad-4a5b-8322-4b5f69464a68/source/index.m3u8",
     "isHttps": true
   },
   {
@@ -12965,7 +13001,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/playlist.m3u8",
+    "url": "https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/1782260720/HT7aZZgViliG_BtFwLvmJwF9/index.m3u8",
     "isHttps": true
   },
   {
@@ -13424,7 +13460,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -13986,12 +14022,12 @@
     "isHttps": true
   },
   {
-    "name": "Telesur (480p)",
+    "name": "Telesur (576p)",
     "logo": "https://i.imgur.com/P50VjRX.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+    "url": "https://edgectc.com/TELESUR/index.m3u8",
     "isHttps": true
   },
   {
@@ -15957,6 +15993,24 @@
     "isHttps": true
   },
   {
+    "name": "Unitel Cochabamba (720p)",
+    "logo": "https://i.imgur.com/B9wg1zj.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Unitel La Paz (720p)",
+    "logo": "https://i.imgur.com/B9wg1zj.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Unitel Santa Cruz (1080p)",
     "logo": "https://i.imgur.com/B9wg1zj.png",
     "country": "",
@@ -17325,6 +17379,15 @@
     "isHttps": false
   },
   {
+    "name": "Canal N (576p)",
+    "logo": "https://i.imgur.com/Xytvw3J.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canal RCN (1080p)",
     "logo": "https://i.imgur.com/5PhTaHp.png",
     "country": "",
@@ -17703,6 +17766,15 @@
     "isHttps": false
   },
   {
+    "name": "Hola! TV Latin America (1080p)",
+    "logo": "https://i.imgur.com/i0Qexxd.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://8.243.126.131:8000/play/a0fg/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Iglesia Del Camino (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/vHfb3Z4.png",
     "country": "",
@@ -17889,6 +17961,15 @@
     "language": "",
     "group": "Series",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/92.0.4515.131 Safari/537.36\" group-title=\"General\",Tele Antillas (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/G1pJZkC.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN3668193473821155.m3u8",
     "isHttps": false
   },
   {
@@ -18096,6 +18177,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://179.60.51.134:8888/PASIONES/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Plim Plim (1080p)",
+    "logo": "https://i.imgur.com/MYc8srh.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://8.243.126.131:8000/play/a0od/index.m3u8",
     "isHttps": false
   },
   {
@@ -18312,15 +18402,6 @@
     "language": "",
     "group": "General",
     "url": "http://45.167.2.101:8000/play/a0qx/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Tele Antillas (480p)",
-    "logo": "https://i.imgur.com/G1pJZkC.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://200.125.170.122:8000/play/a0cg/index.m3u8",
     "isHttps": false
   },
   {
@@ -18654,15 +18735,6 @@
     "language": "",
     "group": "News",
     "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Unitel La Paz (576p)",
-    "logo": "https://i.imgur.com/B9wg1zj.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
     "isHttps": false
   },
   {

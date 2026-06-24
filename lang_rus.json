@@ -216,6 +216,15 @@
     "isHttps": true
   },
   {
+    "name": "Dacha (1080p)",
+    "logo": "https://i.imgur.com/xq6p9BZ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dasturxon TV (576p)",
     "logo": "https://i.imgur.com/APM2ej5.jpeg",
     "country": "",
@@ -396,8 +405,8 @@
     "isHttps": true
   },
   {
-    "name": "Kvartal TV",
-    "logo": "https://i.imgur.com/6ZYWizP.png",
+    "name": "Kvartal TV International",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -945,6 +954,60 @@
     "isHttps": true
   },
   {
+    "name": "Smotrim 100% Detskoe (720p)",
+    "logo": "https://i.imgur.com/1hsNeTa.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Fakty (720p)",
+    "logo": "https://i.imgur.com/dB3cJzO.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Klassika (720p)",
+    "logo": "https://i.imgur.com/aASNpKq.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Lyubov (720p)",
+    "logo": "https://i.imgur.com/4EFh0nu.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Muzhskoe (720p)",
+    "logo": "https://i.imgur.com/UY3fjYU.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Prazdnik (720p)",
+    "logo": "https://i.imgur.com/NEcqFse.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Solovyov Live (1080p)",
     "logo": "https://i.imgur.com/v0OYe1d.png",
     "country": "",
@@ -969,6 +1032,24 @@
     "language": "",
     "group": "Religious",
     "url": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Cinema",
+    "logo": "https://i.imgur.com/5sis895.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Family (1080p)",
+    "logo": "https://i.imgur.com/eGuGHnZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1176,6 +1257,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Zhara Kids TV (576p)",
+    "logo": "https://i.imgur.com/OkPqFNY.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Music",
+    "url": "https://trs1.aynaott.com/discoverykids/index.m3u8",
     "isHttps": true
   },
   {
@@ -2139,60 +2229,6 @@
     "language": "",
     "group": "Series",
     "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Детское",
-    "logo": "https://i.imgur.com/1hsNeTa.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Классика",
-    "logo": "https://i.imgur.com/aASNpKq.png",
-    "country": "",
-    "language": "",
-    "group": "Classic;Movies",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Любовь",
-    "logo": "https://i.imgur.com/4EFh0nu.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Мужское",
-    "logo": "https://i.imgur.com/UY3fjYU.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Праздник",
-    "logo": "https://i.imgur.com/NEcqFse.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564",
-    "isHttps": true
-  },
-  {
-    "name": "Смотрим 100% Факты",
-    "logo": "https://i.imgur.com/dB3cJzO.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f",
     "isHttps": true
   },
   {

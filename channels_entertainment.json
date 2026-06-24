@@ -2187,8 +2187,8 @@
     "isHttps": true
   },
   {
-    "name": "Kvartal TV",
-    "logo": "https://i.imgur.com/6ZYWizP.png",
+    "name": "Kvartal TV International",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -2400,15 +2400,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://dokagents.site/live/axns/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White",
-    "logo": "https://i.imgur.com/47IKxmt.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://dokagents.site/live/axnw/mono.m3u8",
     "isHttps": true
   },
   {
@@ -3915,6 +3906,15 @@
     "isHttps": true
   },
   {
+    "name": "Smotrim 100% Prazdnik (720p)",
+    "logo": "https://i.imgur.com/NEcqFse.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SolTV (720p)",
     "logo": "https://i.imgur.com/TJHk6Va.png",
     "country": "",
@@ -4002,6 +4002,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "StarPlus HD (720p)",
+    "logo": "https://i.imgur.com/xWxNy3L.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://trs1.aynaott.com/starplushd/index.m3u8",
     "isHttps": true
   },
   {
@@ -4941,15 +4950,6 @@
     "isHttps": true
   },
   {
-    "name": "Смотрим 100% Праздник",
-    "logo": "https://i.imgur.com/NEcqFse.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564",
-    "isHttps": true
-  },
-  {
     "name": "13 Ulica (1080p)",
     "logo": "https://i.imgur.com/0gCNnLq.png",
     "country": "",
@@ -5073,6 +5073,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://115.42.65.142:9981/stream/channelid/1380586642",
+    "isHttps": false
+  },
+  {
+    "name": "AXN White",
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://82.78.243.219:45739/play/a00n/index.m3u8",
     "isHttps": false
   },
   {
@@ -5310,12 +5319,12 @@
     "isHttps": false
   },
   {
-    "name": "Epic TV (576p)",
+    "name": "Epic TV (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00m/index.m3u8",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/epic-hd.m3u8",
     "isHttps": false
   },
   {
@@ -5406,6 +5415,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hola! TV Latin America (1080p)",
+    "logo": "https://i.imgur.com/i0Qexxd.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://8.243.126.131:8000/play/a0fg/index.m3u8",
     "isHttps": false
   },
   {
@@ -5793,6 +5811,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Multishow (1080p)",
+    "logo": "https://i.imgur.com/bqVg8nT.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://143.14.178.40:7777/Multishow_HD/index.m3u8",
     "isHttps": false
   },
   {

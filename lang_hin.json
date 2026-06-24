@@ -1,5 +1,23 @@
 [
   {
+    "name": "&pictures (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://trs1.aynaott.com/andpictureshd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "&TV HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://trs1.aynaott.com/andtvhd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "&TV International (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
@@ -261,12 +279,12 @@
     "isHttps": true
   },
   {
-    "name": "Bharat Samachar (480p)",
+    "name": "Bharat Samachar (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "url": "https://trs1.aynaott.com/BharatSamachar/index.m3u8",
     "isHttps": true
   },
   {
@@ -635,7 +653,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+    "url": "https://trs1.aynaott.com/Goldmines/index.m3u8",
     "isHttps": true
   },
   {
@@ -689,7 +707,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/1041/master.m3u8",
+    "url": "https://trs1.aynaott.com/HindiKhabar/index.m3u8",
     "isHttps": true
   },
   {
@@ -1062,12 +1080,12 @@
     "isHttps": true
   },
   {
-    "name": "Movieplex (576p)",
+    "name": "MoviePlex (576p)",
     "logo": "https://i.imgur.com/THJEAqJ.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8",
     "isHttps": true
   },
   {
@@ -1161,21 +1179,21 @@
     "isHttps": true
   },
   {
-    "name": "Network 10",
+    "name": "Network 10 (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
+    "url": "https://trs1.aynaott.com/Network10/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "News 1 India (396p)",
+    "name": "News 1 India (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8",
+    "url": "https://trs1.aynaott.com/News1India/index.m3u8",
     "isHttps": true
   },
   {
@@ -1611,6 +1629,15 @@
     "isHttps": true
   },
   {
+    "name": "StarPlus HD (720p)",
+    "logo": "https://i.imgur.com/xWxNy3L.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://trs1.aynaott.com/starplushd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Steelbird Music (720p) [Not 24/7]",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png",
     "country": "",
@@ -1896,6 +1923,15 @@
     "language": "",
     "group": "Classic",
     "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Zee Cinema (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8",
     "isHttps": true
   },
   {
@@ -2331,12 +2367,12 @@
     "isHttps": false
   },
   {
-    "name": "Epic TV (576p)",
+    "name": "Epic TV (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00m/index.m3u8",
+    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/epic-hd.m3u8",
     "isHttps": false
   },
   {

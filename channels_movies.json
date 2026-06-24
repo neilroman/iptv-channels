@@ -1,5 +1,23 @@
 [
   {
+    "name": "&pictures (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://trs1.aynaott.com/andpictureshd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "&TV HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://trs1.aynaott.com/andtvhd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "&TV International (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
@@ -684,6 +702,15 @@
     "isHttps": true
   },
   {
+    "name": "FilmUA Live",
+    "logo": "https://i.imgur.com/kizTBgS.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Flicks of Fury",
     "logo": "https://i.imgur.com/rtL5L81.png",
     "country": "",
@@ -824,7 +851,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+    "url": "https://trs1.aynaott.com/Goldmines/index.m3u8",
     "isHttps": true
   },
   {
@@ -1197,39 +1224,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black Romania",
-    "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/axnb/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN CEE Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/axnhd/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",CineMaraton",
     "logo": "https://i.imgur.com/BY8UZa0.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Film Mania",
-    "logo": "https://i.imgur.com/crhsomk.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/filmmania/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1302,15 +1302,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://dokagents.site/live/procinema/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",TV1000",
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/viasatkino/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1485,12 +1476,12 @@
     "isHttps": true
   },
   {
-    "name": "Movieplex (576p)",
+    "name": "MoviePlex (576p)",
     "logo": "https://i.imgur.com/THJEAqJ.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8",
     "isHttps": true
   },
   {
@@ -3645,6 +3636,15 @@
     "isHttps": true
   },
   {
+    "name": "Smotrim 100% Klassika (720p)",
+    "logo": "https://i.imgur.com/aASNpKq.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony Canal Novelas",
     "logo": "",
     "country": "",
@@ -3714,6 +3714,24 @@
     "language": "",
     "group": "Movies",
     "url": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Cinema",
+    "logo": "https://i.imgur.com/5sis895.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Family (1080p)",
+    "logo": "https://i.imgur.com/eGuGHnZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3978,6 +3996,15 @@
     "isHttps": true
   },
   {
+    "name": "Zee Cinema (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zee Cinema APAC (1080p) [Geo-blocked]",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
@@ -4167,15 +4194,6 @@
     "isHttps": true
   },
   {
-    "name": "Смотрим 100% Классика",
-    "logo": "https://i.imgur.com/aASNpKq.png",
-    "country": "",
-    "language": "",
-    "group": "Classic;Movies",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338",
-    "isHttps": true
-  },
-  {
     "name": "&flix HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=720x540",
     "country": "",
@@ -4284,12 +4302,30 @@
     "isHttps": false
   },
   {
+    "name": "AXN Black Romania",
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a00e/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AXN CEE Bulgary",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://85.11.144.9:4222/AXN",
+    "isHttps": false
+  },
+  {
+    "name": "AXN CEE Romania",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a01n/index.m3u8",
     "isHttps": false
   },
   {
@@ -4533,6 +4569,15 @@
     "language": "",
     "group": "Animation;Movies",
     "url": "http://31.148.48.15/Fan/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Film Mania",
+    "logo": "https://i.imgur.com/crhsomk.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.217:9015/play/a00v",
     "isHttps": false
   },
   {
@@ -5352,6 +5397,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV1000",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
     "isHttps": false
   },
   {

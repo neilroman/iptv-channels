@@ -540,15 +540,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",History",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://dokagents.site/live/history/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\" group-title=\"Culture;Documentary\",HRT 3 (720p)",
     "logo": "https://i.imgur.com/4OrOJRx.png",
     "country": "",
@@ -1314,6 +1305,15 @@
     "isHttps": true
   },
   {
+    "name": "Sky Nature (576p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://trs1.aynaott.com/skynature/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Smithsonian Channel Pluto TV",
     "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
     "country": "",
@@ -1329,6 +1329,15 @@
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Fakty (720p)",
+    "logo": "https://i.imgur.com/dB3cJzO.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
     "isHttps": true
   },
   {
@@ -1476,21 +1485,21 @@
     "isHttps": true
   },
   {
-    "name": "Смотрим 100% Факты",
-    "logo": "https://i.imgur.com/dB3cJzO.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f",
-    "isHttps": true
-  },
-  {
     "name": "365 Дней (576p)",
     "logo": "https://i.imgur.com/NfnAiTR.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://31.148.48.15/365_dney/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BBC Earth Greece (1080p)",
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://185.102.171.218/BBCEarth/index.m3u8",
     "isHttps": false
   },
   {
@@ -1527,6 +1536,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://31.148.48.15/HD_Life/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
     "isHttps": false
   },
   {
@@ -1674,6 +1692,15 @@
     "isHttps": false
   },
   {
+    "name": "National Geographic (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://185.102.171.218/NatGeo/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "National Geographic HD (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -1698,6 +1725,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic Wild (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://185.102.171.218/NatGeoWild/index.m3u8",
     "isHttps": false
   },
   {
@@ -1737,6 +1773,15 @@
     "isHttps": false
   },
   {
+    "name": "Viasat Explore (720p)",
+    "logo": "https://i.imgur.com/DyT5pKB.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://185.102.171.218/ViasatExplorer/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Viasat Explore [Not 24/7]",
     "logo": "https://i.imgur.com/DyT5pKB.png",
     "country": "",
@@ -1746,12 +1791,30 @@
     "isHttps": false
   },
   {
+    "name": "Viasat History (720p)",
+    "logo": "https://i.imgur.com/wRP9XA7.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://185.102.171.218/ViasatHistory/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Viasat History [Not 24/7]",
     "logo": "https://i.imgur.com/wRP9XA7.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Nature (720p)",
+    "logo": "https://i.imgur.com/ousRqqD.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://185.102.171.218/ViasatNature/index.m3u8",
     "isHttps": false
   },
   {

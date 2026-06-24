@@ -1143,6 +1143,15 @@
     "isHttps": true
   },
   {
+    "name": "Assam Talks (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://trs1.aynaott.com/AssamTalks/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Astra TV (1080p)",
     "logo": "https://i.imgur.com/oYRPfZm.png",
     "country": "",
@@ -1305,12 +1314,12 @@
     "isHttps": true
   },
   {
-    "name": "Bharat Samachar (480p)",
+    "name": "Bharat Samachar (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "url": "https://trs1.aynaott.com/BharatSamachar/index.m3u8",
     "isHttps": true
   },
   {
@@ -2052,6 +2061,15 @@
     "isHttps": true
   },
   {
+    "name": "CP24 (576p)",
+    "logo": "https://i.imgur.com/YzjZUEl.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://trs1.aynaott.com/cp24/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CTV3 (720p)",
     "logo": "https://i.imgur.com/8UlIKtS.png",
     "country": "",
@@ -2664,6 +2682,15 @@
     "isHttps": true
   },
   {
+    "name": "For You TV",
+    "logo": "https://i.imgur.com/1oMboXL.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FORMedia TV (720p)",
     "logo": "https://i.imgur.com/8FcJ2I9.png",
     "country": "",
@@ -3020,7 +3047,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/1041/master.m3u8",
+    "url": "https://trs1.aynaott.com/HindiKhabar/index.m3u8",
     "isHttps": true
   },
   {
@@ -4689,12 +4716,12 @@
     "isHttps": true
   },
   {
-    "name": "News 1 India (396p)",
+    "name": "News 1 India (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8",
+    "url": "https://trs1.aynaott.com/News1India/index.m3u8",
     "isHttps": true
   },
   {
@@ -5099,7 +5126,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/1494/master.m3u8",
+    "url": "https://trs1.aynaott.com/NewsTime/index.m3u8",
     "isHttps": true
   },
   {
@@ -5469,6 +5496,15 @@
     "language": "",
     "group": "News",
     "url": "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Panafrican Media TV",
+    "logo": "https://i.imgur.com/wneSSYM.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6660,12 +6696,12 @@
     "isHttps": true
   },
   {
-    "name": "Telesur (480p)",
+    "name": "Telesur (576p)",
     "logo": "https://i.imgur.com/P50VjRX.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+    "url": "https://edgectc.com/TELESUR/index.m3u8",
     "isHttps": true
   },
   {
@@ -7938,6 +7974,15 @@
     "isHttps": false
   },
   {
+    "name": "Canal N (576p)",
+    "logo": "https://i.imgur.com/Xytvw3J.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CCTV-13 (1080p)",
     "logo": "https://i.imgur.com/6MTar6J.png",
     "country": "",
@@ -8100,12 +8145,12 @@
     "isHttps": false
   },
   {
-    "name": "GloboNews (720p)",
+    "name": "GloboNews (1080p)",
     "logo": "https://i.imgur.com/3yZyaCm.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://41.205.70.146/GLOBONEWS/index.m3u8",
+    "url": "http://143.14.178.40:7777/GloboNews_HD/index.m3u8",
     "isHttps": false
   },
   {

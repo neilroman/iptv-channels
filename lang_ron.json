@@ -180,6 +180,15 @@
     "isHttps": true
   },
   {
+    "name": "Columna TV",
+    "logo": "https://i.imgur.com/C5dIgsc.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.streamnet.pro/columnatv/live//chunklist_w944163831.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Comedy Play (720p)",
     "logo": "https://i.imgur.com/6kAeVOk.png",
     "country": "",
@@ -378,15 +387,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",History",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://dokagents.site/live/history/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN Spin",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
@@ -447,33 +447,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://dokagents.site/live/procinema/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",TV1000",
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/viasatkino/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Digi Sport 1 HD",
-    "logo": "https://i.imgur.com/5zMxDYq.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://dokagents.site/live/digisport1/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Digi Sport 2 HD",
-    "logo": "https://i.imgur.com/KWDUi3v.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://dokagents.site/live/digisport2/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1026,12 +999,30 @@
     "isHttps": false
   },
   {
+    "name": "Digi Sport 1 HD",
+    "logo": "https://i.imgur.com/5zMxDYq.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://91.201.172.14:35005",
+    "isHttps": false
+  },
+  {
     "name": "Digi Sport 2 [Not 24/7]",
     "logo": "https://i.imgur.com/KWDUi3v.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2522/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Digi Sport 2 HD",
+    "logo": "https://i.imgur.com/KWDUi3v.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://91.201.172.14:35006",
     "isHttps": false
   },
   {
@@ -1059,6 +1050,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://89.38.8.130:39419",
+    "isHttps": false
+  },
+  {
+    "name": "History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
     "isHttps": false
   },
   {
@@ -1140,6 +1140,15 @@
     "language": "",
     "group": "General",
     "url": "http://78.96.33.89:8080",
+    "isHttps": false
+  },
+  {
+    "name": "TV1000",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
     "isHttps": false
   },
   {
