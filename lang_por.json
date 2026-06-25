@@ -342,6 +342,15 @@
     "isHttps": true
   },
   {
+    "name": "Caza y Pesca (1080p)",
+    "logo": "https://i.imgur.com/hXL0Fvj.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CazeTV (1080i)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
     "country": "",
@@ -1863,6 +1872,15 @@
     "isHttps": true
   },
   {
+    "name": "SBN TV Global (720p)",
+    "logo": "https://i.imgur.com/NJu6oYB.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SBT Cuiaba",
     "logo": "https://i.imgur.com/EZJWQ3i.png",
     "country": "",
@@ -1917,12 +1935,12 @@
     "isHttps": true
   },
   {
-    "name": "SIC (1080p)",
+    "name": "SIC (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/SPMqiDG.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
+    "url": "https://sic.live.impresa.pt/sic.m3u8",
     "isHttps": true
   },
   {
@@ -1986,33 +2004,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sport TV1",
-    "logo": "https://i.imgur.com/YWic36u.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e",
-    "isHttps": true
-  },
-  {
-    "name": "Sport TV5",
-    "logo": "https://i.imgur.com/4w4vuad.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd",
-    "isHttps": true
-  },
-  {
-    "name": "Sport TV7",
-    "logo": "https://i.imgur.com/2HmCAm5.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://test.946985.filegear-sg.me/proxy/a8c7608240dec023",
     "isHttps": true
   },
   {
@@ -2867,7 +2858,7 @@
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8",
     "isHttps": true
   },
   {
@@ -2876,7 +2867,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8",
     "isHttps": true
   },
   {
@@ -2939,7 +2930,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
     "isHttps": true
   },
   {

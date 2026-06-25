@@ -234,6 +234,15 @@
     "isHttps": true
   },
   {
+    "name": "AXN Movies (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "B4U Bhojpuri (1080p)",
     "logo": "https://i.imgur.com/NwOQUDp.png",
     "country": "",
@@ -285,6 +294,24 @@
     "language": "",
     "group": "Movies",
     "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bolt (1080p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltRussia.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bolt (576p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8",
     "isHttps": true
   },
   {
@@ -522,6 +549,15 @@
     "isHttps": true
   },
   {
+    "name": "Cine35mm",
+    "logo": "https://i.imgur.com/CYLmLOI.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cinema Hausa (720p)",
     "logo": "https://i.imgur.com/uV5cHDW.png",
     "country": "",
@@ -603,6 +639,15 @@
     "isHttps": true
   },
   {
+    "name": "Dom kino Premium (1080p)",
+    "logo": "https://i.imgur.com/rJpQtvK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/DomKinoPremiumHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dunia Sinema (1080p)",
     "logo": "",
     "country": "",
@@ -639,6 +684,15 @@
     "isHttps": true
   },
   {
+    "name": "Enter-Film (1080p)",
+    "logo": "https://i.imgur.com/wQbiGs6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Enterfilm.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Estrellas de Acción",
     "logo": "https://i.imgur.com/GVOYX4L.png",
     "country": "",
@@ -654,6 +708,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Feniks plus Kino (576p)",
+    "logo": "https://i.imgur.com/S9OPMLE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/FeniksPlusKino.m3u8",
     "isHttps": true
   },
   {
@@ -1098,6 +1161,15 @@
     "isHttps": true
   },
   {
+    "name": "Kinosemja (1080p)",
+    "logo": "https://i.imgur.com/4BF5VeK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Kinosemya.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kinosvidanie",
     "logo": "https://i.imgur.com/ZRaWqxj.png",
     "country": "",
@@ -1311,6 +1383,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lyubimoe (1080p)",
+    "logo": "https://i.imgur.com/qWK6WvG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8",
     "isHttps": true
   },
   {
@@ -4302,30 +4383,12 @@
     "isHttps": false
   },
   {
-    "name": "AXN Black Romania",
-    "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://82.78.243.219:45739/play/a00e/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "AXN CEE Bulgary",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://85.11.144.9:4222/AXN",
-    "isHttps": false
-  },
-  {
-    "name": "AXN CEE Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://82.78.243.219:45739/play/a01n/index.m3u8",
     "isHttps": false
   },
   {
@@ -4398,15 +4461,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Bolt (576p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
     "isHttps": false
   },
   {
@@ -4740,6 +4794,33 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.157.248.140:8000/play/a00b/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Black Romania",
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a00e/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE Romania",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a01n/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
     "isHttps": false
   },
   {
@@ -5400,15 +5481,6 @@
     "isHttps": false
   },
   {
-    "name": "TV1000",
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TV1000 Russian Kino Global",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png",
     "country": "",
@@ -5580,15 +5652,6 @@
     "isHttps": false
   },
   {
-    "name": "Дом Кино Премиум HD (1080p)",
-    "logo": "https://i.imgur.com/rJpQtvK.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Еврокино (576p)",
     "logo": "https://i.imgur.com/8LPtPf6.png",
     "country": "",
@@ -5703,15 +5766,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Феникс плюс Кино (576p)",
-    "logo": "https://i.imgur.com/S9OPMLE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
     "isHttps": false
   },
   {

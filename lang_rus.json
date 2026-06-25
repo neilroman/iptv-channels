@@ -1,5 +1,14 @@
 [
   {
+    "name": ".black (1080p)",
+    "logo": "https://i.imgur.com/Q4A6ci4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Black.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "12 канал (1080p)",
     "logo": "https://i.imgur.com/OA9hm6e.png",
     "country": "",
@@ -99,12 +108,21 @@
     "isHttps": true
   },
   {
-    "name": "Aqlvoy",
+    "name": "Aqlvoy (576p)",
     "logo": "https://i.imgur.com/ekF5cAi.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Arsenal (1080p)",
+    "logo": "https://i.imgur.com/DBpVeb0.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/ArsenalHD.m3u8",
     "isHttps": true
   },
   {
@@ -123,6 +141,15 @@
     "language": "",
     "group": "Culture",
     "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Avto24 HD (1080p)",
+    "logo": "https://i.imgur.com/GXSXmN2.png",
+    "country": "",
+    "language": "",
+    "group": "Auto",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Avto24.m3u8",
     "isHttps": true
   },
   {
@@ -153,6 +180,15 @@
     "isHttps": true
   },
   {
+    "name": "Belarus-5 HD (1080p)",
+    "logo": "https://i.imgur.com/NJsRFud.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BelRos (720p)",
     "logo": "https://i.imgur.com/tUF33HD.png",
     "country": "",
@@ -168,6 +204,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bolt (1080p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltRussia.m3u8",
     "isHttps": true
   },
   {
@@ -207,6 +252,24 @@
     "isHttps": true
   },
   {
+    "name": "Che! (576p)",
+    "logo": "https://i.imgur.com/ZOcDGpB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Che_Moskva.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CuriosityStream (1080p)",
+    "logo": "https://i.imgur.com/UFREahx.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/CuriosityStream.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Current Time TV (1080p)",
     "logo": "https://i.imgur.com/hKo8ApU.png",
     "country": "",
@@ -243,12 +306,39 @@
     "isHttps": true
   },
   {
+    "name": "Dialogi o rybalke (1080p)",
+    "logo": "https://i.imgur.com/OuBtnGU.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/DialogiORybalke.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dom kino (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Dom kino Premium (1080p)",
+    "logo": "https://i.imgur.com/rJpQtvK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/DomKinoPremiumHD.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Domashniy (1080p)",
+    "logo": "https://i.imgur.com/XVRwgom.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/DomashniyHD.m3u8",
     "isHttps": true
   },
   {
@@ -279,12 +369,39 @@
     "isHttps": true
   },
   {
+    "name": "Duo 3 (1080p)",
+    "logo": "https://i.imgur.com/bSzjidl.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Duo3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Dushevnoe (1080p)",
+    "logo": "https://i.imgur.com/vTRHAvD.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/DushevnoeHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "DW Russian (1080p)",
     "logo": "https://i.imgur.com/8MRNFb9.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Eda (576p)",
+    "logo": "https://i.imgur.com/htmbgOX.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Eda.m3u8",
     "isHttps": true
   },
   {
@@ -306,6 +423,15 @@
     "isHttps": true
   },
   {
+    "name": "Feniks plus Kino (576p)",
+    "logo": "https://i.imgur.com/S9OPMLE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/FeniksPlusKino.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FON Music (1080p)",
     "logo": "https://i.imgur.com/tXABQDE.png",
     "country": "",
@@ -315,12 +441,30 @@
     "isHttps": true
   },
   {
+    "name": "FoodTime (1080p)",
+    "logo": "https://i.imgur.com/gxCYAwH.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/FoodTimeHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Freedom (FREEДOM) (UATV) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Friday! (1080p)",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/FridayHD_Moskva.m3u8",
     "isHttps": true
   },
   {
@@ -369,6 +513,24 @@
     "isHttps": true
   },
   {
+    "name": "Kamedi (1080p)",
+    "logo": "https://i.imgur.com/UU4SGuk.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Kamedi.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Kapitan Fantastika (1080p)",
+    "logo": "https://i.imgur.com/K3PSHiT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "KidZone Max (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/qJSvxE2.png",
     "country": "",
@@ -396,12 +558,30 @@
     "isHttps": true
   },
   {
+    "name": "Kinosemja (1080p)",
+    "logo": "https://i.imgur.com/4BF5VeK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Kinosemya.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kinosvidanie",
     "logo": "https://i.imgur.com/ZRaWqxj.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Komediynoe (1080p)",
+    "logo": "https://i.imgur.com/cEKe8XC.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/KomediynoeHD.m3u8",
     "isHttps": true
   },
   {
@@ -564,6 +744,15 @@
     "language": "",
     "group": "Outdoor",
     "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lyubimoe (1080p)",
+    "logo": "https://i.imgur.com/qWK6WvG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8",
     "isHttps": true
   },
   {
@@ -789,6 +978,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/pobeda-hd/video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Priklyucheniya HD (1080p)",
+    "logo": "https://i.imgur.com/qQ6pPPQ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/AdventuresHD.m3u8",
     "isHttps": true
   },
   {
@@ -1197,6 +1395,15 @@
     "isHttps": true
   },
   {
+    "name": "V mire zhivotnykh (1080p)",
+    "logo": "https://i.imgur.com/6uotdVQ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/AnimalFamilyHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "viju Nature",
     "logo": "https://i.imgur.com/8BPZ18l.png",
     "country": "",
@@ -1491,15 +1698,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Домашний (540p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/XVRwgom.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
     "isHttps": true
   },
   {
@@ -1932,15 +2130,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Пятница! (576p)",
-    "logo": "https://i.imgur.com/UfmlXxe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://vod.tuva.ru/friday/index.m3u8",
     "isHttps": true
   },
   {
@@ -2619,15 +2808,6 @@
     "isHttps": false
   },
   {
-    "name": "Bolt (576p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BRIDGE (576p)",
     "logo": "https://i.imgur.com/qYObfrG.png",
     "country": "",
@@ -2772,15 +2952,6 @@
     "isHttps": false
   },
   {
-    "name": "FoodTime (1080p)",
-    "logo": "https://i.imgur.com/gxCYAwH.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "http://31.148.48.15/Eda_Premium_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "HDL (720p)",
     "logo": "https://i.imgur.com/tKgmhxh.png",
     "country": "",
@@ -2895,6 +3066,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Kvartal TV",
+    "logo": "https://i.imgur.com/6ZYWizP.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95",
     "isHttps": false
   },
   {
@@ -3444,15 +3624,6 @@
     "language": "",
     "group": "Education;Lifestyle",
     "url": "http://31.148.48.15/Doktor/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Дом Кино Премиум HD (1080p)",
-    "logo": "https://i.imgur.com/rJpQtvK.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4176,30 +4347,12 @@
     "isHttps": false
   },
   {
-    "name": "Феникс плюс Кино (576p)",
-    "logo": "https://i.imgur.com/S9OPMLE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Футбол (720p)",
     "logo": "https://i.imgur.com/pEuaZVx.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Futbol_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Че! (576p)",
-    "logo": "https://i.imgur.com/ZOcDGpB.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://31.148.48.15/Che/index.m3u8",
     "isHttps": false
   },
   {

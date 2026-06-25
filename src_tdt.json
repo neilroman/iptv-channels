@@ -144,6 +144,15 @@
     "isHttps": true
   },
   {
+    "name": "101TV Almería",
+    "logo": "https://graph.facebook.com/101Almeria/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Andalucía",
+    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:ALMERIA.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "101TV Antequera",
     "logo": "https://graph.facebook.com/101tvAntequera/picture?width=200&height=200",
     "country": "",
@@ -177,15 +186,6 @@
     "language": "",
     "group": "Andalucía",
     "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:granada.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "101TV Granada Cofrade",
-    "logo": "https://graph.facebook.com/101tvgranada/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Andalucía",
-    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeGranada.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1229,7 +1229,7 @@
     "country": "",
     "language": "",
     "group": "Extremadura",
-    "url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8",
+    "url": "https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8",
     "isHttps": true
   },
   {
@@ -1338,6 +1338,24 @@
     "language": "",
     "group": "Andalucía",
     "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal Taronja Anoia",
+    "logo": "https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal Taronja Central",
+    "logo": "https://graph.facebook.com/taronja.cat/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1967,7 +1985,7 @@
     "country": "",
     "language": "",
     "group": "Informativos",
-    "url": "https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
+    "url": "https://d2x0ptujt9cf22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-bsk8edpvt6m4t/master.m3u8",
     "isHttps": true
   },
   {
@@ -2597,7 +2615,7 @@
     "country": "",
     "language": "",
     "group": "Generalistas",
-    "url": "https://dghxc56urunop.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zabn6k211oedh/La1ES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
     "isHttps": true
   },
   {
@@ -3120,6 +3138,15 @@
     "language": "",
     "group": "C. Valenciana",
     "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Orgullo (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://ztnr.rtve.es/ztnr/16620298.m3u8",
     "isHttps": true
   },
   {
@@ -4118,7 +4145,7 @@
     "country": "",
     "language": "",
     "group": "Deportivos",
-    "url": "https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601",
     "isHttps": true
   },
   {
@@ -4429,7 +4456,7 @@
   },
   {
     "name": "TV Canaria (RTVC)",
-    "logo": "https://graph.facebook.com/188600904655/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Canarias",
@@ -4438,7 +4465,7 @@
   },
   {
     "name": "TV Canaria (RTVC)",
-    "logo": "https://graph.facebook.com/188600904655/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Canarias",
@@ -4447,7 +4474,7 @@
   },
   {
     "name": "TV Canaria Net",
-    "logo": "https://graph.facebook.com/188600904655/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. Europa",

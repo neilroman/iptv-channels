@@ -54,6 +54,15 @@
     "isHttps": true
   },
   {
+    "name": "Arsenal (1080p)",
+    "logo": "https://i.imgur.com/DBpVeb0.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/ArsenalHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Asharq Discovery (1080p)",
     "logo": "https://i.imgur.com/Czxi7yk.png",
     "country": "",
@@ -99,12 +108,12 @@
     "isHttps": true
   },
   {
-    "name": "BBC Earth (1080p)",
+    "name": "BBC Earth US (1080p)",
     "logo": "https://i.imgur.com/nGSsUd4.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8",
     "isHttps": true
   },
   {
@@ -1539,15 +1548,6 @@
     "isHttps": false
   },
   {
-    "name": "History",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "History (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "country": "",
@@ -1599,6 +1599,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://79.232.88.203:9981/stream/channelid/81078517",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
     "isHttps": false
   },
   {

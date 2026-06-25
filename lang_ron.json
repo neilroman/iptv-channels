@@ -207,6 +207,15 @@
     "isHttps": true
   },
   {
+    "name": "Disney Channel (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelRomania.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dotto TV (1080p)",
     "logo": "https://i.imgur.com/pfs882Z.png",
     "country": "",
@@ -447,24 +456,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://dokagents.site/live/procinema/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Digi Sport 3 HD",
-    "logo": "https://i.imgur.com/T1ci5UK.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://dokagents.site/live/digisport3/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Digi Sport 4",
-    "logo": "https://i.imgur.com/Knj9I6f.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://dokagents.site/live/digisport4/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1035,30 +1026,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Exploris (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/r4zKU1e.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://89.38.8.130:39419",
-    "isHttps": false
-  },
-  {
-    "name": "History",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
     "isHttps": false
   },
   {
@@ -1080,12 +1053,48 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Nickelodeon",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://82.78.243.219:45739/play/a00o/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Digi Sport 3 HD",
+    "logo": "https://i.imgur.com/T1ci5UK.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://82.78.243.219:45739/play/a01m/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Digi Sport 4",
+    "logo": "https://i.imgur.com/Knj9I6f.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://82.78.243.219:45739/play/a00v/index.m3u8",
     "isHttps": false
   },
   {
@@ -1140,15 +1149,6 @@
     "language": "",
     "group": "General",
     "url": "http://78.96.33.89:8080",
-    "isHttps": false
-  },
-  {
-    "name": "TV1000",
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
     "isHttps": false
   },
   {
