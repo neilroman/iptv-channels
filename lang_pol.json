@@ -252,6 +252,24 @@
     "isHttps": true
   },
   {
+    "name": "Nowa TV (1080p)",
+    "logo": "https://i.imgur.com/8cHK49r.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/NowaTV.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nuta TV (576p)",
+    "logo": "https://i.imgur.com/JHFUxDu.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Pixel.tv (720p)",
     "logo": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
     "country": "",
@@ -261,12 +279,12 @@
     "isHttps": true
   },
   {
-    "name": "Polonia 1 (1080p) [Geo-blocked]",
+    "name": "Polonia 1 (1080p)",
     "logo": "https://i.imgur.com/4TVDMGD.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://vs2124.vcdn.biz/fab48aecdc2eda856dcf108cff23f0af_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818621/rsid/0e266c99-a1e7-4d85-b3c6-173eeac55ae0/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid6761789432318948657-b4000000.m3u8",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Polonia1.m3u8",
     "isHttps": true
   },
   {
@@ -285,6 +303,15 @@
     "language": "",
     "group": "Comedy",
     "url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralExtraPolsat.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Polsat JimJam (576p)",
+    "logo": "https://i.imgur.com/GjppUlg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/JimJamPolsat.m3u8",
     "isHttps": true
   },
   {
@@ -456,6 +483,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Republika (576p)",
+    "logo": "https://i.imgur.com/ljpK6dZ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/RepublikaTV.m3u8",
     "isHttps": true
   },
   {
@@ -963,15 +999,6 @@
     "isHttps": false
   },
   {
-    "name": "Nuta TV",
-    "logo": "https://i.imgur.com/JHFUxDu.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://78.130.250.2:8023/play/a03r/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Polo TV (1080i)",
     "logo": "https://i.imgur.com/GEJZjRB.png",
     "country": "",
@@ -1014,15 +1041,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7295/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat JimJam (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/GjppUlg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7298/index.m3u8",
     "isHttps": false
   },
   {

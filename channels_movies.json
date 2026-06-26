@@ -603,6 +603,15 @@
     "isHttps": true
   },
   {
+    "name": "Cosmos Tv",
+    "logo": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;News",
+    "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CTB Perth Movies (720p)",
     "logo": "https://i.imgur.com/VB8gtCy.jpeg",
     "country": "",
@@ -945,12 +954,30 @@
     "isHttps": true
   },
   {
+    "name": "GREAT! action (576p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3708.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "GREAT! movies (1080p)",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "GREAT! mystery (576p)",
+    "logo": "https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8",
     "isHttps": true
   },
   {
@@ -1314,39 +1341,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Adria",
     "logo": "https://i.imgur.com/ML7SlIW.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Premium",
-    "logo": "https://i.imgur.com/RydfsE9.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Premium Romania",
-    "logo": "https://i.imgur.com/RydfsE9.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/filmboxp/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Stars",
-    "logo": "https://i.imgur.com/eZFdHbR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
     "isHttps": true
   },
   {
@@ -1356,6 +1356,33 @@
     "language": "",
     "group": "Movies",
     "url": "https://iptv.prosto.tv/ch63/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Adria",
+    "logo": "https://i.imgur.com/RydfsE9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Romania",
+    "logo": "https://i.imgur.com/RydfsE9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/filmboxp/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Adria",
+    "logo": "https://i.imgur.com/eZFdHbR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
     "isHttps": true
   },
   {
@@ -1539,6 +1566,15 @@
     "isHttps": true
   },
   {
+    "name": "Mosfilm Gold Collection (1080p)",
+    "logo": "https://i.imgur.com/95Y8jb6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/MosfilmGoldCollection.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "MOVIEDOME (720p)",
     "logo": "https://i.imgur.com/8c54ycg.png",
     "country": "",
@@ -1647,6 +1683,15 @@
     "isHttps": true
   },
   {
+    "name": "Muzhskoy (1080p)",
+    "logo": "https://i.imgur.com/xyztpBf.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/MuzhskoyHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "My Cinema Europe",
     "logo": "https://i.imgur.com/jz0d8tH.png",
     "country": "",
@@ -1698,6 +1743,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nashe (1080p)",
+    "logo": "https://i.imgur.com/KO8dhi9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8",
     "isHttps": true
   },
   {
@@ -1770,6 +1824,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://cdn-4.pishow.tv/live/233/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ostrosyuzhetnoye (1080p)",
+    "logo": "https://i.imgur.com/NwQ7GBy.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/OstrosyuzhetnoyeHD.m3u8",
     "isHttps": true
   },
   {
@@ -3321,6 +3384,15 @@
     "isHttps": true
   },
   {
+    "name": "Premialnoe HD (1080p)",
+    "logo": "https://i.imgur.com/ck4aLBP.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/PremialnoeHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Pro100TV (576p)",
     "logo": "https://i.imgur.com/YfQEflM.png",
     "country": "",
@@ -3678,6 +3750,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Russkiy Illusion (1080p)",
+    "logo": "https://i.imgur.com/RlsqFN8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/RusskiyIllusion.m3u8",
     "isHttps": true
   },
   {
@@ -5040,52 +5121,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Bulgary",
-    "logo": "https://i.imgur.com/VyaslIY.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://213.91.179.28:8000/play/a06i",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Czech Republic",
-    "logo": "https://i.imgur.com/VyaslIY.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra Bulgary",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://213.91.179.28:8000/play/a04r",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra Czech Republic",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Extra Hungary",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9005/play/a01j",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Family",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Comedy",
     "logo": "https://i.imgur.com/CGFyAyc.png",
     "country": "",
     "language": "",
@@ -5094,7 +5130,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Family Hungary",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Comedy Hungary",
     "logo": "https://i.imgur.com/CGFyAyc.png",
     "country": "",
     "language": "",
@@ -5103,7 +5139,34 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Premium Czech Republic",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Bulgary",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a04r",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Czech Republic",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Hungary",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.217:9005/play/a01j",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Czech Republic",
     "logo": "https://i.imgur.com/RydfsE9.png",
     "country": "",
     "language": "",
@@ -5112,7 +5175,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Premium Hungary",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Hungary",
     "logo": "https://i.imgur.com/RydfsE9.png",
     "country": "",
     "language": "",
@@ -5121,7 +5184,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Stars Bulgary",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Bulgary",
     "logo": "https://i.imgur.com/eZFdHbR.png",
     "country": "",
     "language": "",
@@ -5130,7 +5193,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Stars Czech Republic",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Czech Republic",
     "logo": "https://i.imgur.com/eZFdHbR.png",
     "country": "",
     "language": "",
@@ -5139,12 +5202,30 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Stars Hungary",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Hungary",
     "logo": "https://i.imgur.com/eZFdHbR.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://46.149.191.217:9007/play/a01o",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ One Bulgary",
+    "logo": "https://i.imgur.com/VyaslIY.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a06i",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ One Czech Republic",
+    "logo": "https://i.imgur.com/VyaslIY.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5244,15 +5325,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://149.71.34.166:8000/play/a05u/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Mosfilm Gold Collection (576p)",
-    "logo": "https://i.imgur.com/95Y8jb6.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.222.235.15/mosfilm/index.m3u8",
     "isHttps": false
   },
   {
@@ -5748,15 +5820,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/Russkiy_Detektiv/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Русский Иллюзион (576p)",
-    "logo": "https://i.imgur.com/RlsqFN8.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Russkiy_illusion/index.m3u8",
     "isHttps": false
   },
   {
