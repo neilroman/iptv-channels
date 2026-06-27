@@ -198,15 +198,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN Spin",
-    "logo": "https://i.imgur.com/uVFenKm.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://dokagents.site/live/axns/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mango (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg",
     "country": "",
@@ -519,6 +510,15 @@
     "language": "",
     "group": "General;News",
     "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVP 3 Warszawa (1080p)",
+    "logo": "https://i.imgur.com/AfZOO8U.jpg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpwarszawa.m3u",
     "isHttps": true
   },
   {
@@ -852,6 +852,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Arthouse Poland",
+    "logo": "https://i.imgur.com/hDg35ne.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/52523",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Extra Poland",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/55453",
     "isHttps": false
   },
   {
@@ -1266,15 +1284,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://91.246.72.88:8000/play/a00h/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TVP 3 Warszawa (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/AfZOO8U.jpg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7284/index.m3u8",
     "isHttps": false
   },
   {

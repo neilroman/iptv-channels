@@ -441,15 +441,6 @@
     "isHttps": true
   },
   {
-    "name": "FON Music (1080p)",
-    "logo": "https://i.imgur.com/tXABQDE.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FoodTime (1080p)",
     "logo": "https://i.imgur.com/gxCYAwH.png",
     "country": "",
@@ -936,15 +927,6 @@
     "isHttps": true
   },
   {
-    "name": "Nashe Novoe Kino",
-    "logo": "https://i.imgur.com/IOxIsPj.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Naxcivan TV (720p)",
     "logo": "https://i.imgur.com/8yLFkdE.png",
     "country": "",
@@ -1242,12 +1224,12 @@
     "isHttps": true
   },
   {
-    "name": "RTVi US (1080p)",
+    "name": "RTVi US",
     "logo": "https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/RTViUS.m3u8",
+    "url": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg17233-rtvi-rtvius-wisptvus/cb573d19736c648d9cd43b66cef94682847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7acb35544d865a4e7014e942843fa83439fd501e983800f834a8022f1469d96f58385168b8caa599d00e6241b2a4117f8d023e0a331b1de8a7b069f7e26551b5bf2d1f0942f6ddc2b2939fbf0dbaf648d70a4e875db0c5dd804914bf655e008844686bb38cac0bacf527e2ab0cb496418b5f7acf89e5f509329daf890b7017f96f8007d49dd52d42b3d3d83e9d91185ce67f5dc42d4ee3b775bd58349e9d6d8cae7a4995a8f7f8588fe9a2f4d4f6706038859ec8e7b942ad579a6c0162d125d4cbdc556cd82840a643415f5ea34d5030b86d99e8ddb023eb8057139c62ff8016f06af306268974e93fb6d36f84c60902602eb4a3c9643ffa15e96cdbab45c4adfb6c652ef50e1b407d78467c30e121623e998463c494169a28d0c6c604bd12f95bb4d153d7362d9d68f99f5582a063019577efa888555aefe0cad8074bb350375661f07937eba014bb2037248e61ad6bf1a75c77649bf54ed4d3f0f3decae9e8582c5d945ff18b9aaab6c7e6b0831fc5b64576966318712a31f6b07d0fea2c26d9de3271029cf80dbea898521e59561bc02af7509cadd185b005e7f6245cede389716d59a13bd94dd4f8cc1b95214d572f35a50a9d9d23aacb6c1df195bd9ea7609779bd610c07106ce039b7edb853e8be6154e37147465eec214f356b2dadae02e9927a206435de26ab491e6fc87320ea9c104637d5915247e54773e05f78f86334e28bace528c37d1e25bad4d43207f168ef06770b2a8264cd2650423cfc6ec84a2cd0f15b01ed77ddb6f0ea317406ed6c536ee8ca5e0b8e04b5113d2a2a45cb1c3dfd02cb749c991ba0a0f9cf6941b545b5e693352c474c72f94/71/1280x720_3572008/index.m3u8",
     "isHttps": true
   },
   {
@@ -1284,6 +1266,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://adpnetworkhd-cmd.github.io/iptv/RusskiyIllusion.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Rybolov (576p)",
+    "logo": "https://i.imgur.com/wJMTcFS.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/Rybolov.m3u8",
     "isHttps": true
   },
   {
@@ -2169,24 +2160,6 @@
     "isHttps": true
   },
   {
-    "name": "НТВ Право (576p)",
-    "logo": "https://i.imgur.com/3ChnWGg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn.ntv.ru/th_pravo/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "НТВ Стиль (576p)",
-    "logo": "https://i.imgur.com/rX6K6qT.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://cdn.ntv.ru/th_style/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "НТК 21 (Биробиджан) [Geo-blocked]",
     "logo": "https://i.imgur.com/W9s1flH.png",
     "country": "",
@@ -2790,15 +2763,6 @@
     "isHttps": true
   },
   {
-    "name": "Шансон ТВ (576p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/Fk4sd8t.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Шаян ТВ (Татарстан) (1080p)",
     "logo": "https://i.imgur.com/CvFwczN.png",
     "country": "",
@@ -3033,12 +2997,12 @@
     "isHttps": false
   },
   {
-    "name": "Channel 9 (540p) [Not 24/7]",
-    "logo": "https://i.imgur.com/pttM3KQ.png",
+    "name": "Channel 8 (576p)",
+    "logo": "https://i.imgur.com/nUSx1jF.png",
     "country": "",
     "language": "",
-    "group": "News",
-    "url": "http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad",
+    "group": "Entertainment",
+    "url": "http://45.11.139.43:8555/8kanal/index.m3u8",
     "isHttps": false
   },
   {
@@ -3123,6 +3087,15 @@
     "isHttps": false
   },
   {
+    "name": "Fon Music (1080p)",
+    "logo": "https://i.imgur.com/tXABQDE.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HDL (720p)",
     "logo": "https://i.imgur.com/tKgmhxh.png",
     "country": "",
@@ -3147,6 +3120,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/MGM_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Istoriya (576p)",
+    "logo": "https://i.imgur.com/eEjPail.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
     "isHttps": false
   },
   {
@@ -3222,6 +3204,15 @@
     "isHttps": false
   },
   {
+    "name": "Kukhnya TV (576p)",
+    "logo": "https://i.imgur.com/7jxZnuS.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Leva (1080p)",
     "logo": "https://i.imgur.com/lQzgmpz.png",
     "country": "",
@@ -3246,6 +3237,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"News\",Channel 9",
+    "logo": "https://i.imgur.com/pttM3KQ.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330",
     "isHttps": false
   },
   {
@@ -3312,12 +3312,30 @@
     "isHttps": false
   },
   {
+    "name": "Maidan (576p)",
+    "logo": "https://i.imgur.com/C8CCjZK.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/Maydan/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Match! Strana (720p)",
     "logo": "https://i.imgur.com/X02s2UE.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mult i muzyka (576p)",
+    "logo": "https://i.imgur.com/SYt6BZP.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
     "isHttps": false
   },
   {
@@ -3348,6 +3366,24 @@
     "isHttps": false
   },
   {
+    "name": "Nashe Lubimoe Kino (576p)",
+    "logo": "https://i.imgur.com/iKPfM5K.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nashe Novoe Kino (1080p)",
+    "logo": "https://i.imgur.com/IOxIsPj.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "National Geographic Wild (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
@@ -3375,6 +3411,15 @@
     "isHttps": false
   },
   {
+    "name": "Nostalgia (576p)",
+    "logo": "https://i.imgur.com/YBdBc0J.png",
+    "country": "",
+    "language": "",
+    "group": "Classic",
+    "url": "http://hls127.freeott.top:8080/Nostalgiya/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "NTV (576p)",
     "logo": "https://i.imgur.com/9r1BKzK.png",
     "country": "",
@@ -3384,12 +3429,39 @@
     "isHttps": false
   },
   {
+    "name": "NTV Law (576p)",
+    "logo": "https://i.imgur.com/3ChnWGg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NTV Style (576p)",
+    "logo": "https://i.imgur.com/rX6K6qT.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "O! (1080p)",
     "logo": "https://i.imgur.com/pDc665V.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kanal-o-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Ocean-TV (576p)",
+    "logo": "https://i.imgur.com/zswzDZS.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8",
     "isHttps": false
   },
   {
@@ -3465,6 +3537,15 @@
     "isHttps": false
   },
   {
+    "name": "Shanson TV (576p)",
+    "logo": "https://i.imgur.com/Fk4sd8t.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Shopping Live (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/EMmGnjV.png",
     "country": "",
@@ -3519,6 +3600,15 @@
     "isHttps": false
   },
   {
+    "name": "Teatr (576p)",
+    "logo": "https://i.imgur.com/nc2ijCH.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://hls127.freeott.top:8080/Teatr/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Terra HD (720p)",
     "logo": "https://i.imgur.com/ZxUjCpF.png",
     "country": "",
@@ -3534,6 +3624,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/tip-top-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Top Secret (576p)",
+    "logo": "https://i.imgur.com/HM4xy4G.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
     "isHttps": false
   },
   {
@@ -3654,12 +3753,12 @@
     "isHttps": false
   },
   {
-    "name": "Viasat Kino Comedy [Not 24/7]",
+    "name": "Viasat Kino Comedy (720p)",
     "logo": "https://i.imgur.com/qVYt8kP.png",
     "country": "",
     "language": "",
     "group": "Comedy;Movies",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8",
+    "url": "http://ukr.ukrainske.tv/493/keytvainua/video.m3u8",
     "isHttps": false
   },
   {
@@ -3696,6 +3795,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zhara (576p)",
+    "logo": "https://i.imgur.com/41K9Y2s.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/Zhara/video.m3u8",
     "isHttps": false
   },
   {
@@ -3798,15 +3906,6 @@
     "isHttps": false
   },
   {
-    "name": "Жара TV (576p)",
-    "logo": "https://i.imgur.com/41K9Y2s.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://31.148.48.15/Zhara/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Живая Планета (576p)",
     "logo": "https://i.imgur.com/onNv1tM.png",
     "country": "",
@@ -3858,15 +3957,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://31.148.48.15/Zee_TV_Russia/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "История (576p)",
-    "logo": "https://i.imgur.com/eEjPail.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://31.148.48.15/Istoriya/index.m3u8",
     "isHttps": false
   },
   {
@@ -3957,15 +4047,6 @@
     "language": "",
     "group": "Education",
     "url": "http://31.148.48.15/Kto_est_kto/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Кухня ТВ (576p)",
-    "logo": "https://i.imgur.com/7jxZnuS.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "http://31.148.48.15/Kuhnya_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -4131,15 +4212,6 @@
     "isHttps": false
   },
   {
-    "name": "Мульт и Музыка (576p)",
-    "logo": "https://i.imgur.com/SYt6BZP.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://31.148.48.15/Multimuzika/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Нано ТВ HD (576p)",
     "logo": "https://i.imgur.com/dYj3XDa.png",
     "country": "",
@@ -4155,15 +4227,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://31.148.48.15/Nauka_2.0/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Ностальгия (576p)",
-    "logo": "https://i.imgur.com/YBdBc0J.png",
-    "country": "",
-    "language": "",
-    "group": "Classic",
-    "url": "http://31.148.48.15/Nostalgiya/index.m3u8",
     "isHttps": false
   },
   {
@@ -4407,15 +4470,6 @@
     "language": "",
     "group": "Comedy",
     "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Театр (576p)",
-    "logo": "https://i.imgur.com/nc2ijCH.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "http://31.148.48.15/Sochi_HD/index.m3u8",
     "isHttps": false
   },
   {

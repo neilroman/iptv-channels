@@ -1197,15 +1197,6 @@
     "isHttps": true
   },
   {
-    "name": "ATV+ (720p)",
-    "logo": "https://i.imgur.com/fY9256H.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Awaaz India TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/eKQs51V.png",
     "country": "",
@@ -7938,6 +7929,15 @@
     "isHttps": false
   },
   {
+    "name": "ATV+ (1080p)",
+    "logo": "https://i.imgur.com/fY9256H.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://179.60.51.134:8888/ATV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BBC News Europe (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -8007,15 +8007,6 @@
     "language": "",
     "group": "News",
     "url": "http://go.bkpcp.top/mg/cctv13",
-    "isHttps": false
-  },
-  {
-    "name": "Channel 9 (540p) [Not 24/7]",
-    "logo": "https://i.imgur.com/pttM3KQ.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad",
     "isHttps": false
   },
   {
@@ -8268,6 +8259,15 @@
     "language": "",
     "group": "News",
     "url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"News\",Channel 9",
+    "logo": "https://i.imgur.com/pttM3KQ.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330",
     "isHttps": false
   },
   {

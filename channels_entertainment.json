@@ -270,6 +270,15 @@
     "isHttps": true
   },
   {
+    "name": "Alt Media TV",
+    "logo": "https://i.imgur.com/YkOgWMc.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Alterna TV (720p) [Not 24/7]",
     "logo": "https://tv.alterna.ar/alternatv.png",
     "country": "",
@@ -996,6 +1005,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://adpnetworkhd-cmd.github.io/iptv/Che_Moskva.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cheksiz TV",
+    "logo": "https://i.imgur.com/f7hHmmR.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2466,6 +2484,24 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin",
+    "logo": "https://i.imgur.com/uVFenKm.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://lb.dstvmultimedia.com/AXNSpin/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",E! Europe",
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://lb.dstvmultimedia.com/E!/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education;Entertainment\",Education (1080p)",
     "logo": "https://i.imgur.com/0m8t3vh.png",
     "country": "",
@@ -2544,15 +2580,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN Spin",
-    "logo": "https://i.imgur.com/uVFenKm.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://dokagents.site/live/axns/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2778,6 +2805,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "Maxima TV",
+    "logo": "https://i.imgur.com/HMZRVL5.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://maximatv.net/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -3933,12 +3969,12 @@
     "isHttps": true
   },
   {
-    "name": "Riku TV (720p)",
+    "name": "Riku TV (1080p)",
     "logo": "https://i.imgur.com/XIDC4Mv.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
+    "url": "https://amixtv.com:8081/rikutv/index.m3u8",
     "isHttps": true
   },
   {
@@ -4608,6 +4644,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Kaliente (720p)",
+    "logo": "https://i.imgur.com/MFQpLuQ.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Modelo (720p)",
     "logo": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g",
     "country": "",
@@ -5031,6 +5076,15 @@
     "isHttps": true
   },
   {
+    "name": "Zee Bangla Sonar (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zee Dil Se (1080p)",
     "logo": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
     "country": "",
@@ -5307,6 +5361,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Channel 8 (576p)",
+    "logo": "https://i.imgur.com/nUSx1jF.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.11.139.43:8555/8kanal/index.m3u8",
     "isHttps": false
   },
   {
@@ -5739,6 +5802,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://138.121.15.230:9002/LIFETIME/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin",
+    "logo": "https://i.imgur.com/uVFenKm.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/85611",
     "isHttps": false
   },
   {

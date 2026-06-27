@@ -1242,6 +1242,24 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Serbia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://lb.dstvmultimedia.com/AMC/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://lb.dstvmultimedia.com/NovaMax/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinema (1080p)",
     "logo": "https://i.imgur.com/yib6dM2.png",
     "country": "",
@@ -1752,15 +1770,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nashe Novoe Kino",
-    "logo": "https://i.imgur.com/IOxIsPj.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -4464,6 +4473,15 @@
     "isHttps": false
   },
   {
+    "name": "AXN Black",
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/79440",
+    "isHttps": false
+  },
+  {
     "name": "AXN CEE Bulgary",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -4488,6 +4506,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Latin America South",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
     "isHttps": false
   },
   {
@@ -4893,6 +4920,33 @@
     "language": "",
     "group": "Movies",
     "url": "http://82.78.243.219:45739/play/a01n/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Action Poland",
+    "logo": "https://i.imgur.com/y7VMgXK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/52521",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Arthouse Poland",
+    "logo": "https://i.imgur.com/hDg35ne.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/52523",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Extra Poland",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/55453",
     "isHttps": false
   },
   {
@@ -5373,6 +5427,24 @@
     "isHttps": false
   },
   {
+    "name": "Nashe Lubimoe Kino (576p)",
+    "logo": "https://i.imgur.com/iKPfM5K.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nashe Novoe Kino (1080p)",
+    "logo": "https://i.imgur.com/IOxIsPj.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "One TV Cinema 2 (1080p)",
     "logo": "https://i.imgur.com/H8PiAbA.png",
     "country": "",
@@ -5607,12 +5679,12 @@
     "isHttps": false
   },
   {
-    "name": "Viasat Kino Comedy [Not 24/7]",
+    "name": "Viasat Kino Comedy (720p)",
     "logo": "https://i.imgur.com/qVYt8kP.png",
     "country": "",
     "language": "",
     "group": "Comedy;Movies",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8",
+    "url": "http://ukr.ukrainske.tv/493/keytvainua/video.m3u8",
     "isHttps": false
   },
   {
@@ -5832,7 +5904,7 @@
     "isHttps": false
   },
   {
-    "name": "动作电影 (1080p)",
+    "name": "动���电影 (1080p)",
     "logo": "https://i.imgur.com/AuiVcyh.png",
     "country": "",
     "language": "",

@@ -1152,15 +1152,6 @@
     "isHttps": true
   },
   {
-    "name": "FON Music (1080p)",
-    "logo": "https://i.imgur.com/tXABQDE.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Frecuencia Musical TV [Not 24/7]",
     "logo": "https://i.imgur.com/vPxvbVv.png",
     "country": "",
@@ -2061,6 +2052,15 @@
     "isHttps": true
   },
   {
+    "name": "Los Angeles TV Radio",
+    "logo": "https://i.imgur.com/CaNdkpJ.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Love TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/B8iaejQ.png",
     "country": "",
@@ -2871,6 +2871,15 @@
     "isHttps": true
   },
   {
+    "name": "Ocko Black",
+    "logo": "https://i.imgur.com/5rw9tWy.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Óčko Expres (540p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
     "country": "",
@@ -2886,6 +2895,15 @@
     "language": "",
     "group": "Music",
     "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ocko Star",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3420,12 +3438,30 @@
     "isHttps": true
   },
   {
+    "name": "Radio Chalaca",
+    "logo": "https://i.imgur.com/9A6DBG7.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://servilive.com:3414/hybrid/play.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Ciudad 98.9 FM TV",
     "logo": "https://i.imgur.com/LaSLZwR.jpg",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Colmenar 92.5 FM",
+    "logo": "https://i.imgur.com/LniNLO1.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
     "isHttps": true
   },
   {
@@ -3582,6 +3618,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Onda Digital (1080p)",
+    "logo": "https://i.imgur.com/Lid5RTv.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Piter Pan TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/hbqVWV4.png",
     "country": "",
@@ -3615,6 +3660,15 @@
     "language": "",
     "group": "Music",
     "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio San Borja TV",
+    "logo": "https://i.imgur.com/75dJBtH.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5022,6 +5076,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Peruanisima (720p)",
+    "logo": "https://i.imgur.com/m50qAVY.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVOMIX (1080p)",
     "logo": "https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png",
     "country": "",
@@ -5769,15 +5832,6 @@
     "isHttps": true
   },
   {
-    "name": "Шансон ТВ (576p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/Fk4sd8t.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "51 Radio TV (480p) [Geo-blocked]",
     "logo": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
     "country": "",
@@ -6021,6 +6075,15 @@
     "isHttps": false
   },
   {
+    "name": "Fon Music (1080p)",
+    "logo": "https://i.imgur.com/tXABQDE.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "H!T Music Channel (480p)",
     "logo": "https://i.imgur.com/sqC2hqV.png",
     "country": "",
@@ -6189,6 +6252,15 @@
     "language": "",
     "group": "Music",
     "url": "http://213.91.179.28:8000/play/a0cl",
+    "isHttps": false
+  },
+  {
+    "name": "Maidan (576p)",
+    "logo": "https://i.imgur.com/C8CCjZK.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/Maydan/video.m3u8",
     "isHttps": false
   },
   {
@@ -6363,6 +6435,15 @@
     "isHttps": false
   },
   {
+    "name": "Shanson TV (576p)",
+    "logo": "https://i.imgur.com/Fk4sd8t.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Shemaroo Filmi Gaane (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",
     "country": "",
@@ -6489,21 +6570,21 @@
     "isHttps": false
   },
   {
+    "name": "Zhara (576p)",
+    "logo": "https://i.imgur.com/41K9Y2s.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://hls127.freeott.top:8080/Zhara/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Zing! (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://103.72.101.252:8080/live/585.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Жара TV (576p)",
-    "logo": "https://i.imgur.com/41K9Y2s.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://31.148.48.15/Zhara/index.m3u8",
     "isHttps": false
   },
   {
