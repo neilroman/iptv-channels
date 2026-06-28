@@ -10359,6 +10359,15 @@
     "isHttps": true
   },
   {
+    "name": "Mezzo (1080p)",
+    "logo": "https://i.imgur.com/auNdGeW.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Mezzo Live",
     "logo": "https://i.imgur.com/H9ytKPN.png",
     "country": "",
@@ -15156,6 +15165,15 @@
     "isHttps": true
   },
   {
+    "name": "Retro TV (720p)",
+    "logo": "https://i.imgur.com/iUTL0pm.png",
+    "country": "",
+    "language": "",
+    "group": "Classic",
+    "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RetroCrush (1080p)",
     "logo": "https://i.imgur.com/M40b4YI.png",
     "country": "",
@@ -15252,15 +15270,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ROCK Action (720p)",
-    "logo": "https://i.imgur.com/l6lmlqG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd",
     "isHttps": true
   },
   {
@@ -15990,15 +15999,6 @@
     "language": "",
     "group": "Documentary",
     "url": "https://trs1.aynaott.com/skynature/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sky News",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8",
     "isHttps": true
   },
   {
@@ -18324,12 +18324,12 @@
     "isHttps": true
   },
   {
-    "name": "TVOKids",
+    "name": "TVOKids (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8",
+    "url": "https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8",
     "isHttps": true
   },
   {
@@ -18702,12 +18702,12 @@
     "isHttps": true
   },
   {
-    "name": "Unbeaten Sports Channel (1080p)",
+    "name": "Unbeaten (1080p)",
     "logo": "https://i.imgur.com/LmkNt3v.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+    "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -18729,15 +18729,6 @@
     "isHttps": true
   },
   {
-    "name": "Unite8 Sports 2 HD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11624",
-    "isHttps": true
-  },
-  {
     "name": "United TV (540p)",
     "logo": "https://i.imgur.com/2isM8xd.png",
     "country": "",
@@ -18747,12 +18738,12 @@
     "isHttps": true
   },
   {
-    "name": "Universal Crime (1080p)",
-    "logo": "https://i.imgur.com/OwSlGMu.png",
+    "name": "Universal Cinema (1080p)",
+    "logo": "https://i.imgur.com/XxfET68.png",
     "country": "",
     "language": "",
-    "group": "Series",
-    "url": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8",
+    "group": "Movies",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -21645,6 +21636,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
+    "logo": "https://i.imgur.com/avBL8pQ.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN White",
     "logo": "https://i.imgur.com/47IKxmt.png",
     "country": "",
@@ -21678,6 +21678,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/52521",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Universal Crime (1080p)",
+    "logo": "https://i.imgur.com/OwSlGMu.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -21957,15 +21966,6 @@
     "language": "",
     "group": "Culture",
     "url": "http://103.250.28.74:8000/play/a00m/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Mezzo (576p)",
-    "logo": "https://i.imgur.com/auNdGeW.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://tmptv.sunduk.tv/CH97/index.m3u8",
     "isHttps": false
   },
   {
@@ -22410,6 +22410,15 @@
     "isHttps": false
   },
   {
+    "name": "ROCK Action (1080p)",
+    "logo": "https://i.imgur.com/l6lmlqG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ROCK Entertainment (720p)",
     "logo": "https://i.imgur.com/PWzq0aU.png",
     "country": "",
@@ -22533,6 +22542,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://80.194.62.172:50002/stream/channelid/1848745953",
+    "isHttps": false
+  },
+  {
+    "name": "Sky News (576p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://41.205.77.102/SKYNEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -22896,21 +22914,12 @@
     "isHttps": false
   },
   {
-    "name": "Universal Cinema (480p)",
-    "logo": "https://i.imgur.com/XxfET68.png",
+    "name": "Unite8 Sports 2 HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
     "country": "",
     "language": "",
-    "group": "Movies",
-    "url": "http://190.2.212.209:8050/play/a0q3",
-    "isHttps": false
-  },
-  {
-    "name": "Universal Comedy (480p)",
-    "logo": "https://i.imgur.com/avBL8pQ.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy;Movies;Series",
-    "url": "http://190.2.212.209:8050/play/a0q4",
+    "group": "Sports",
+    "url": "http://212.102.34.8:9080/AndFlixHD/video.m3u8",
     "isHttps": false
   },
   {
@@ -23031,6 +23040,15 @@
     "isHttps": false
   },
   {
+    "name": "Westerns 4U (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Classic",
+    "url": "http://181.224.255.210:8001/play/a0rq/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "WGN-DT1 (720p)",
     "logo": "https://i.imgur.com/gvHrpnf.png",
     "country": "",
@@ -23127,6 +23145,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
+    "isHttps": false
+  },
+  {
+    "name": "Yes Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
     "isHttps": false
   },
   {

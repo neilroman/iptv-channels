@@ -297,15 +297,6 @@
     "isHttps": true
   },
   {
-    "name": "AXN Asia Indonesia (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Bab Al Hara (1080p)",
     "logo": "https://i.imgur.com/QtlnZbq.png",
     "country": "",
@@ -2871,15 +2862,6 @@
     "isHttps": true
   },
   {
-    "name": "Universal Crime (1080p)",
-    "logo": "https://i.imgur.com/OwSlGMu.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Unsolved Mysteries",
     "logo": "https://i.imgur.com/De3khrX.png",
     "country": "",
@@ -3060,12 +3042,12 @@
     "isHttps": false
   },
   {
-    "name": "Epic Drama Poland (720p)",
+    "name": "Epic Drama Poland",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://195.189.60.253/118/index.m3u8",
+    "url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/52689",
     "isHttps": false
   },
   {
@@ -3087,12 +3069,39 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
+    "logo": "https://i.imgur.com/avBL8pQ.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Indonesia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Epic Drama",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg",
     "country": "",
     "language": "",
     "group": "Series",
     "url": "http://82.78.243.219:45739/play/a01p/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Universal Crime (1080p)",
+    "logo": "https://i.imgur.com/OwSlGMu.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3231,6 +3240,15 @@
     "isHttps": false
   },
   {
+    "name": "Saphire (1080p)",
+    "logo": "https://i.imgur.com/NMOBvle.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://77.232.131.211:80/Sapfir/manifest.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Super TV (720p)",
     "logo": "https://i.imgur.com/hxF3yhw.png",
     "country": "",
@@ -3276,15 +3294,6 @@
     "isHttps": false
   },
   {
-    "name": "Universal Comedy (480p)",
-    "logo": "https://i.imgur.com/avBL8pQ.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy;Movies;Series",
-    "url": "http://190.2.212.209:8050/play/a0q4",
-    "isHttps": false
-  },
-  {
     "name": "USA Network (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
     "country": "",
@@ -3327,15 +3336,6 @@
     "language": "",
     "group": "Series",
     "url": "http://31.148.48.15/Mir_Seriala/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Сапфир (720p)",
-    "logo": "https://i.imgur.com/NMOBvle.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://31.148.48.15/Sapfir_HD/index.m3u8",
     "isHttps": false
   }
 ]

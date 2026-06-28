@@ -3996,15 +3996,6 @@
     "isHttps": true
   },
   {
-    "name": "ROCK Action (720p)",
-    "logo": "https://i.imgur.com/l6lmlqG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Roja TV (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
     "country": "",
@@ -5202,6 +5193,15 @@
     "isHttps": true
   },
   {
+    "name": ".red (576p)",
+    "logo": "https://i.imgur.com/GET9Qut.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://5.188.159.128:8070/RED/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "13 Ulica (1080p)",
     "logo": "https://i.imgur.com/0gCNnLq.png",
     "country": "",
@@ -6228,6 +6228,24 @@
     "isHttps": false
   },
   {
+    "name": "RMC Life (720p)",
+    "logo": "https://img1.dc2.oqee.net/channel_pictures/3606/w512",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Interactive",
+    "url": "http://41.205.77.102/CHERIE25/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ROCK Action (1080p)",
+    "logo": "https://i.imgur.com/l6lmlqG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ROCK Entertainment (720p)",
     "logo": "https://i.imgur.com/PWzq0aU.png",
     "country": "",
@@ -6360,6 +6378,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT (576p)",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://94.230.129.31:8080/THT/index.m3u8",
     "isHttps": false
   },
   {
@@ -6504,15 +6531,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://tvoetv.space:8080/tvoetv/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ТНТ (+4) (576p)",
-    "logo": "https://i.imgur.com/T4A6rEI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://31.148.48.15/TNT/index.m3u8",
     "isHttps": false
   },
   {

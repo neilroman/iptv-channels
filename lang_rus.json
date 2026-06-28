@@ -1179,6 +1179,15 @@
     "isHttps": true
   },
   {
+    "name": "RT Balkan (1080p)",
+    "logo": "https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RT Documentary Russian (1080p)",
     "logo": "https://i.imgur.com/aeu5zIC.png",
     "country": "",
@@ -1296,6 +1305,15 @@
     "isHttps": true
   },
   {
+    "name": "Shopping Live (720p)",
+    "logo": "https://i.imgur.com/EMmGnjV.png",
+    "country": "",
+    "language": "",
+    "group": "Shop",
+    "url": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Silk Way (1080p)",
     "logo": "https://i.imgur.com/SJNDksF.png",
     "country": "",
@@ -1401,6 +1419,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sportivnyy (1080p)",
+    "logo": "https://i.imgur.com/ujS6mMo.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
     "isHttps": true
   },
   {
@@ -1611,6 +1638,15 @@
     "isHttps": true
   },
   {
+    "name": "Vitrina TV (720p)",
+    "logo": "https://i.imgur.com/lzQsVfn.png",
+    "country": "",
+    "language": "",
+    "group": "Shop",
+    "url": "https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "VIVA Russia (1080p)",
     "logo": "https://i.imgur.com/OFhQQCD.png",
     "country": "",
@@ -1626,15 +1662,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/vremya-hd/video.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Zagorodnaya Zhizn",
-    "logo": "https://i.imgur.com/RoYd5pz.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2268,15 +2295,6 @@
     "isHttps": true
   },
   {
-    "name": "Просвещение (540p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/uppFhhq.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Радио Говорит Москва (Веб-камера) (720p)",
     "logo": "https://i.imgur.com/z2mxf3E.png",
     "country": "",
@@ -2790,6 +2808,15 @@
     "isHttps": true
   },
   {
+    "name": ".red (576p)",
+    "logo": "https://i.imgur.com/GET9Qut.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://5.188.159.128:8070/RED/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": ".sci-fi (576p)",
     "logo": "https://i.imgur.com/nSSUHcg.png",
     "country": "",
@@ -3177,6 +3204,15 @@
     "isHttps": false
   },
   {
+    "name": "Kino TV HD (1080p)",
+    "logo": "https://i.imgur.com/sMpamNO.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.118.197.101:80/KinoTvHD/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Kinopokaz HD (1080p)",
     "logo": "https://i.imgur.com/nNjMyAq.png",
     "country": "",
@@ -3492,6 +3528,15 @@
     "isHttps": false
   },
   {
+    "name": "Prosveshchenie (576p)",
+    "logo": "https://i.imgur.com/uppFhhq.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Radost Moya (576p)",
     "logo": "https://i.imgur.com/B5FA62o.png",
     "country": "",
@@ -3537,21 +3582,21 @@
     "isHttps": false
   },
   {
+    "name": "Saphire (1080p)",
+    "logo": "https://i.imgur.com/NMOBvle.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://77.232.131.211:80/Sapfir/manifest.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Shanson TV (576p)",
     "logo": "https://i.imgur.com/Fk4sd8t.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Shopping Live (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/EMmGnjV.png",
-    "country": "",
-    "language": "",
-    "group": "Shop",
-    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3624,6 +3669,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/tip-top-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT (576p)",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://94.230.129.31:8080/THT/index.m3u8",
     "isHttps": false
   },
   {
@@ -3786,6 +3840,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Vkus (576p)",
+    "logo": "https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://178.134.1.158:8081/vkus/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zagorodnaya Zhizn (576p)",
+    "logo": "https://i.imgur.com/RoYd5pz.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://185.57.68.33/40/index.m3u8",
     "isHttps": false
   },
   {
@@ -4410,15 +4482,6 @@
     "isHttps": false
   },
   {
-    "name": "Сапфир (720p)",
-    "logo": "https://i.imgur.com/NMOBvle.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://31.148.48.15/Sapfir_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Сарафан (576p)",
     "logo": "https://i.imgur.com/u4q1rMT.png",
     "country": "",
@@ -4497,15 +4560,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ТНТ (+4) (576p)",
-    "logo": "https://i.imgur.com/T4A6rEI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://31.148.48.15/TNT/index.m3u8",
     "isHttps": false
   },
   {

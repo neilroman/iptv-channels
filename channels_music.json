@@ -234,6 +234,15 @@
     "isHttps": true
   },
   {
+    "name": "Alegria TV (720p)",
+    "logo": "https://i.imgur.com/MIBZ2pZ.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Alterna TV (720p) [Not 24/7]",
     "logo": "https://tv.alterna.ar/alternatv.png",
     "country": "",
@@ -2412,6 +2421,15 @@
     "isHttps": true
   },
   {
+    "name": "Mezzo (1080p)",
+    "logo": "https://i.imgur.com/auNdGeW.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Mezzo Live",
     "logo": "https://i.imgur.com/H9ytKPN.png",
     "country": "",
@@ -2850,15 +2868,6 @@
     "language": "",
     "group": "Music",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nuta TV (576p)",
-    "logo": "https://i.imgur.com/JHFUxDu.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8",
     "isHttps": true
   },
   {
@@ -6282,15 +6291,6 @@
     "isHttps": false
   },
   {
-    "name": "Mezzo (576p)",
-    "logo": "https://i.imgur.com/auNdGeW.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://tmptv.sunduk.tv/CH97/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Molahits TV (720p)",
     "logo": "https://i.imgur.com/FYcLtqT.png",
     "country": "",
@@ -6369,6 +6369,15 @@
     "language": "",
     "group": "Music",
     "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nuta TV",
+    "logo": "https://i.imgur.com/JHFUxDu.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://78.130.250.2:8023/play/a03r/index.m3u8",
     "isHttps": false
   },
   {

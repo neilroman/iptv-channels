@@ -2133,12 +2133,12 @@
     "isHttps": true
   },
   {
-    "name": "TVOKids",
+    "name": "TVOKids (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8",
+    "url": "https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8",
     "isHttps": true
   },
   {
@@ -2367,6 +2367,15 @@
     "isHttps": false
   },
   {
+    "name": "Canal J HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://41.205.77.102/CANALJ/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Carousel (1080p)",
     "logo": "https://i.imgur.com/4wmnx1W.png",
     "country": "",
@@ -2502,6 +2511,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel Latin America Mexico (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel Latin America North (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -2628,6 +2646,15 @@
     "isHttps": false
   },
   {
+    "name": "EKids (576p)",
+    "logo": "https://i.imgur.com/dux7sjZ.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://78.108.244.134:8899/ekids",
+    "isHttps": false
+  },
+  {
     "name": "Gloob (1080p)",
     "logo": "https://i.imgur.com/N1BUULh.png",
     "country": "",
@@ -2643,6 +2670,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://143.14.178.40:7777/Gloobinho_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Gulli HD (720p)",
+    "logo": "https://i.imgur.com/kqYssbW.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://41.205.77.102/GULLI/index.m3u8",
     "isHttps": false
   },
   {
@@ -3048,6 +3084,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TiJi HD (720p)",
+    "logo": "https://i.imgur.com/ZjsfAGb.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://41.205.77.102/TIJI/index.m3u8",
     "isHttps": false
   },
   {

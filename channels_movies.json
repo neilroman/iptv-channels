@@ -225,24 +225,6 @@
     "isHttps": true
   },
   {
-    "name": "AXN Asia Indonesia (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "AXN Movies (1080p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "B4U Bhojpuri (1080p)",
     "logo": "https://i.imgur.com/NwOQUDp.png",
     "country": "",
@@ -4068,6 +4050,15 @@
     "isHttps": true
   },
   {
+    "name": "Universal Cinema (1080p)",
+    "logo": "https://i.imgur.com/XxfET68.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Victor Valley Movies (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/zgiuNNj.png",
     "country": "",
@@ -4860,6 +4851,15 @@
     "isHttps": false
   },
   {
+    "name": "Kino TV HD (1080p)",
+    "logo": "https://i.imgur.com/sMpamNO.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.118.197.101:80/KinoTvHD/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Kinopokaz HD (1080p)",
     "logo": "https://i.imgur.com/nNjMyAq.png",
     "country": "",
@@ -4905,6 +4905,33 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
+    "logo": "https://i.imgur.com/avBL8pQ.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Indonesia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/9782",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Black Romania",
     "logo": "https://i.imgur.com/Peo1QiZ.png",
     "country": "",
@@ -4920,6 +4947,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://82.78.243.219:45739/play/a01n/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Movies",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/114738",
     "isHttps": false
   },
   {
@@ -4947,6 +4983,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/55453",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino TV",
+    "logo": "https://i.imgur.com/sqjuXUO.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/52542",
     "isHttps": false
   },
   {
@@ -5634,24 +5679,6 @@
     "isHttps": false
   },
   {
-    "name": "Universal Cinema (480p)",
-    "logo": "https://i.imgur.com/XxfET68.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://190.2.212.209:8050/play/a0q3",
-    "isHttps": false
-  },
-  {
-    "name": "Universal Comedy (480p)",
-    "logo": "https://i.imgur.com/avBL8pQ.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy;Movies;Series",
-    "url": "http://190.2.212.209:8050/play/a0q4",
-    "isHttps": false
-  },
-  {
     "name": "USA Network (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
     "country": "",
@@ -5766,6 +5793,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.72.101.252:8080/live/165.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zee Cinema ME (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://41.205.77.102/ZEE-CINEMA/index.m3u8",
     "isHttps": false
   },
   {
@@ -5904,7 +5940,7 @@
     "isHttps": false
   },
   {
-    "name": "动���电影 (1080p)",
+    "name": "动作电影 (1080p)",
     "logo": "https://i.imgur.com/AuiVcyh.png",
     "country": "",
     "language": "",
