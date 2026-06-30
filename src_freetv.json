@@ -446,7 +446,7 @@
     "country": "IN",
     "language": "",
     "group": "India",
-    "url": "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8",
+    "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8",
     "isHttps": true
   },
   {
@@ -455,7 +455,7 @@
     "country": "IN",
     "language": "",
     "group": "India",
-    "url": "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8",
+    "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
     "isHttps": true
   },
   {
@@ -608,7 +608,7 @@
     "country": "QA",
     "language": "",
     "group": "Qatar",
-    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
+    "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -639,12 +639,30 @@
     "isHttps": true
   },
   {
+    "name": "Al Hadath العربية",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg",
+    "country": "",
+    "language": "",
+    "group": "News (AR)",
+    "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Al Jazeera",
     "logo": "https://i.imgur.com/BB93NQP.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Al Jazeera 2",
+    "logo": "https://i.imgur.com/BB93NQP.png",
+    "country": "QA",
+    "language": "",
+    "group": "Qatar",
+    "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
     "isHttps": true
   },
   {
@@ -819,6 +837,15 @@
     "isHttps": true
   },
   {
+    "name": "Alabbassia TV",
+    "logo": "https://i.imgur.com/BPyrjO5.png",
+    "country": "IQ",
+    "language": "",
+    "group": "Iraq",
+    "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AlbKanale Music TV Ⓢ",
     "logo": "https://i.imgur.com/JdKxscs.png",
     "country": "AL",
@@ -870,42 +897,6 @@
     "language": "",
     "group": "Egypt",
     "url": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Alkass Four",
-    "logo": "https://i.imgur.com/iDL65Wu.png",
-    "country": "QA",
-    "language": "",
-    "group": "Qatar",
-    "url": "https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour",
-    "isHttps": true
-  },
-  {
-    "name": "Alkass One",
-    "logo": "https://i.imgur.com/10mmlha.png",
-    "country": "QA",
-    "language": "",
-    "group": "Qatar",
-    "url": "https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassOne",
-    "isHttps": true
-  },
-  {
-    "name": "Alkass Three",
-    "logo": "https://i.imgur.com/d57BdFh.png",
-    "country": "QA",
-    "language": "",
-    "group": "Qatar",
-    "url": "https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassThree",
-    "isHttps": true
-  },
-  {
-    "name": "Alkass Two",
-    "logo": "https://i.imgur.com/8w61kFX.png",
-    "country": "QA",
-    "language": "",
-    "group": "Qatar",
-    "url": "https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassTwo",
     "isHttps": true
   },
   {
@@ -1013,7 +1004,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8",
+    "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
     "isHttps": true
   },
   {
@@ -1044,12 +1035,12 @@
     "isHttps": true
   },
   {
-    "name": "Antenna Sicilia Ⓣ",
+    "name": "Antenna Sicilia",
     "logo": "https://i.imgur.com/8DOdqsE.png",
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://www.twitch.tv/antennasicilia",
+    "url": "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8",
     "isHttps": true
   },
   {
@@ -1148,7 +1139,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://rumble.com/live-hls/7113t0/playlist.m3u8",
+    "url": "https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1162,7 +1153,7 @@
   },
   {
     "name": "Arte Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png",
+    "logo": "https://api-cdn.arte.tv/img/v2/image/j4EoSJjX26uySVWdmt3EmS/1920x1080",
     "country": "FR",
     "language": "",
     "group": "France",
@@ -1260,7 +1251,7 @@
     "isHttps": true
   },
   {
-    "name": "Azad TV Ⓢ",
+    "name": "Azad Azərbaycan TV (ATV) Ⓢ",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png",
     "country": "AZ",
     "language": "",
@@ -1522,11 +1513,20 @@
   },
   {
     "name": "BHT 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png",
+    "logo": "https://i.imgur.com/LEwlEEE.png",
     "country": "BA",
     "language": "",
     "group": "Bosnia and Herzegovina",
     "url": "https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BHT 1 Ⓢ",
+    "logo": "https://i.imgur.com/LEwlEEE.png",
+    "country": "BA",
+    "language": "",
+    "group": "Bosnia and Herzegovina",
+    "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
     "isHttps": true
   },
   {
@@ -2651,7 +2651,7 @@
     "country": "",
     "language": "",
     "group": "News (AR)",
-    "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
+    "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2769,6 +2769,15 @@
     "language": "",
     "group": "VOD Italy",
     "url": "https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Citizen TV",
+    "logo": "https://i.imgur.com/DjDaD7h.png",
+    "country": "",
+    "language": "",
+    "group": "Kenya",
+    "url": "https://citizentv.co.ke/live",
     "isHttps": true
   },
   {
@@ -3110,7 +3119,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://sktv.plainrock127.xyz/get.php?x=CT_D",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=CT_D",
     "isHttps": true
   },
   {
@@ -3119,7 +3128,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://sktv.plainrock127.xyz/get.php?x=CTart",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=CTart",
     "isHttps": true
   },
   {
@@ -3128,7 +3137,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://sktv.plainrock127.xyz/get.php?x=CTsport",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=CTsport",
     "isHttps": true
   },
   {
@@ -3137,7 +3146,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://sktv.plainrock127.xyz/get.php?x=CTsportPlus",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=CTsportPlus",
     "isHttps": true
   },
   {
@@ -3146,7 +3155,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://sktv.plainrock127.xyz/get.php?x=CT1",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=CT1",
     "isHttps": true
   },
   {
@@ -3155,7 +3164,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://sktv.plainrock127.xyz/get.php?x=CT2",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=CT2",
     "isHttps": true
   },
   {
@@ -3164,7 +3173,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://sktv.plainrock127.xyz/get.php?x=CT24",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=CT24",
     "isHttps": true
   },
   {
@@ -3461,7 +3470,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -3488,7 +3497,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -3992,7 +4001,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ertflix.ascdn.broadpeak.io/ertlive/ert1/default/index.mpd",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4001,7 +4010,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ertflix.ascdn.broadpeak.io/ert2/default/index.mpd",
+    "url": "https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4010,7 +4019,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ertflix.ascdn.broadpeak.io/ertlive/ert3/default/index.mpd",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4019,16 +4028,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ertflix.akamaized.net/ertlive/kids/default/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ERT Music Ⓖ",
-    "logo": "https://i.imgur.com/VrKgtfY.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://ertflix.akamaized.net/ertlive/music/default/index.m3u8",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4046,7 +4046,25 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "ERT Sports 2",
+    "logo": "https://i.imgur.com/gebWmAB.png",
+    "country": "GR",
+    "language": "",
+    "group": "Greece",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "ERT Sports 3",
+    "logo": "https://i.imgur.com/gebWmAB.png",
+    "country": "GR",
+    "language": "",
+    "group": "Greece",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4055,7 +4073,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4064,7 +4082,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4559,7 +4577,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -4775,7 +4793,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -5081,7 +5099,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -5792,7 +5810,7 @@
     "country": "CZ",
     "language": "",
     "group": "Czech Republic",
-    "url": "https://live.cdn.joj.sk/live/hls/family-540.m3u8",
+    "url": "https://mxnticek.eu/sktv/stream.php?x=JOJFamily",
     "isHttps": true
   },
   {
@@ -5856,6 +5874,15 @@
     "language": "",
     "group": "Italy",
     "url": "https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "K24 TV",
+    "logo": "https://i.imgur.com/ce2P9Y4",
+    "country": "",
+    "language": "",
+    "group": "Kenya",
+    "url": "https://k24tv.co.ke/live",
     "isHttps": true
   },
   {
@@ -6117,6 +6144,24 @@
     "language": "",
     "group": "Weather",
     "url": "https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KTN Home",
+    "logo": "https://i.imgur.com/7yzunBK.png",
+    "country": "",
+    "language": "",
+    "group": "Kenya",
+    "url": "https://www.standardmedia.co.ke/ktnhome/live",
+    "isHttps": true
+  },
+  {
+    "name": "KTN NEWS TV",
+    "logo": "https://i.imgur.com/7yzunBK.png",
+    "country": "",
+    "language": "",
+    "group": "Kenya",
+    "url": "https://www.standardmedia.co.ke/ktnnews/live",
     "isHttps": true
   },
   {
@@ -6669,12 +6714,12 @@
     "isHttps": true
   },
   {
-    "name": "Makedonia TV",
+    "name": "MAK TV",
     "logo": "https://i.imgur.com/90iDHbQ.png",
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8",
+    "url": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8",
     "isHttps": true
   },
   {
@@ -6683,7 +6728,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8",
+    "url": "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u",
     "isHttps": true
   },
   {
@@ -6984,15 +7029,6 @@
     "isHttps": true
   },
   {
-    "name": "Motor Trend",
-    "logo": "https://i.imgur.com/ipj2H0n.png",
-    "country": "IT",
-    "language": "",
-    "group": "Italy",
-    "url": "https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Motor1TV",
     "logo": "https://i.imgur.com/UERYhO1.png",
     "country": "",
@@ -7008,6 +7044,78 @@
     "language": "",
     "group": "Italy",
     "url": "https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MRT 2 Sat",
+    "logo": "https://i.imgur.com/WF1Eeuz.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=",
+    "isHttps": true
+  },
+  {
+    "name": "MRT Sat",
+    "logo": "https://i.imgur.com/2bc5PvQ.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDU6NDMgUE0maGFzaF92YWx1ZT1XVzZCQVZaRysvOEU0M2Z5VHNYNUl3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3Njk3ODdkNmU=",
+    "isHttps": true
+  },
+  {
+    "name": "MRT Sobraniski kanal Ⓖ",
+    "logo": "https://i.imgur.com/fyNQ8Nf.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzA6MTQgUE0maGFzaF92YWx1ZT0yS29FektrRDdpNXpza1hhV01kcENRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MmY2MzcwMzg=",
+    "isHttps": true
+  },
+  {
+    "name": "MRT1 Ⓖ",
+    "logo": "https://i.imgur.com/EkkyAE0.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=",
+    "isHttps": true
+  },
+  {
+    "name": "MRT2 Ⓖ",
+    "logo": "https://i.imgur.com/YvOrUnN.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=",
+    "isHttps": true
+  },
+  {
+    "name": "MRT3 Ⓖ",
+    "logo": "https://i.imgur.com/3VZrG4T.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=",
+    "isHttps": true
+  },
+  {
+    "name": "MRT4 Ⓖ",
+    "logo": "https://i.imgur.com/wSmxUqY.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc=",
+    "isHttps": true
+  },
+  {
+    "name": "MRT5 Ⓖ",
+    "logo": "https://i.imgur.com/zcvKu1h.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI=",
     "isHttps": true
   },
   {
@@ -7097,7 +7205,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8",
+    "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
     "isHttps": true
   },
   {
@@ -7233,6 +7341,15 @@
     "language": "",
     "group": "India",
     "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NDTV Profit",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png",
+    "country": "IN",
+    "language": "",
+    "group": "India",
+    "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
     "isHttps": true
   },
   {
@@ -7412,7 +7529,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -7530,6 +7647,15 @@
     "language": "",
     "group": "Chile",
     "url": "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NTV Kenya",
+    "logo": "https://i.imgur.com/OpoLjfv",
+    "country": "",
+    "language": "",
+    "group": "Kenya",
+    "url": "https://nation.africa/kenya/tv/live",
     "isHttps": true
   },
   {
@@ -7731,7 +7857,7 @@
     "isHttps": true
   },
   {
-    "name": "Open TV Ⓖ",
+    "name": "Open TV",
     "logo": "https://i.imgur.com/HzBmvPT.png",
     "country": "GR",
     "language": "",
@@ -8073,7 +8199,7 @@
     "isHttps": true
   },
   {
-    "name": "Planeta RTR ���",
+    "name": "Planeta RTR Ⓢ",
     "logo": "https://i.imgur.com/yqRuEJd.png",
     "country": "BY",
     "language": "",
@@ -8339,7 +8465,7 @@
     "country": "QA",
     "language": "",
     "group": "Qatar",
-    "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+    "url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
     "isHttps": true
   },
   {
@@ -8348,7 +8474,16 @@
     "country": "QA",
     "language": "",
     "group": "Qatar",
-    "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+    "url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Qatar Television The Holy Quran",
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "country": "QA",
+    "language": "",
+    "group": "Qatar",
+    "url": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8",
     "isHttps": true
   },
   {
@@ -8897,7 +9032,7 @@
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -8933,7 +9068,7 @@
     "country": "RS",
     "language": "",
     "group": "Serbia",
-    "url": "https://edge8.pink.rs/redtv/chunklist_w1213385221.m3u8",
+    "url": "https://edge8.pink.rs/redtv/index.m3u8",
     "isHttps": true
   },
   {
@@ -9612,12 +9747,12 @@
     "isHttps": true
   },
   {
-    "name": "RTV BN Ⓢ",
+    "name": "RTV BN",
     "logo": "https://i.imgur.com/DUBvfWb.png",
     "country": "BA",
     "language": "",
     "group": "Bosnia and Herzegovina",
-    "url": "https://stream.rtvbn.tv:8080/live/index.m3u8",
+    "url": "https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8",
     "isHttps": true
   },
   {
@@ -10122,6 +10257,15 @@
     "language": "",
     "group": "VOD Italy",
     "url": "https://sofytv-samsungit.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "SoloTV",
+    "logo": "https://i.imgur.com/Ad2ueID.png",
+    "country": "CL",
+    "language": "",
+    "group": "Chile",
+    "url": "https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8",
     "isHttps": true
   },
   {
@@ -11358,12 +11502,12 @@
     "isHttps": true
   },
   {
-    "name": "Telecolor Ⓣ",
+    "name": "Telecolor Sicilia",
     "logo": "https://i.imgur.com/rfNg6fw.png",
     "country": "IT",
     "language": "",
     "group": "Italy",
-    "url": "https://www.twitch.tv/telecolorlive",
+    "url": "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8",
     "isHttps": true
   },
   {
@@ -11701,7 +11845,7 @@
   },
   {
     "name": "Televizija Republike Srpske (RTRS)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png",
+    "logo": "https://i.imgur.com/2Sgs5gM.png",
     "country": "BA",
     "language": "",
     "group": "Bosnia and Herzegovina",
@@ -12321,6 +12465,15 @@
     "isHttps": true
   },
   {
+    "name": "Turbo",
+    "logo": "https://i.imgur.com/TjjVjV0.png",
+    "country": "IT",
+    "language": "",
+    "group": "Italy",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Turkmeneli TV",
     "logo": "https://i.imgur.com/iUhhg4B.png",
     "country": "IQ",
@@ -12435,6 +12588,15 @@
     "language": "",
     "group": "Cyprus",
     "url": "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV 21 Ⓢ Ⓖ",
+    "logo": "https://i.imgur.com/IC1f4h3.png",
+    "country": "MK",
+    "language": "",
+    "group": "North Macedonia",
+    "url": "https://t2.tvmak.com/tv/TV21MK.m3u8?QScgsh2FfM",
     "isHttps": true
   },
   {
@@ -12876,15 +13038,6 @@
     "language": "",
     "group": "Spain",
     "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Tvm Palermo",
-    "logo": "https://i.imgur.com/uqOdAXB.png",
-    "country": "IT",
-    "language": "",
-    "group": "Italy",
-    "url": "https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8",
     "isHttps": true
   },
   {

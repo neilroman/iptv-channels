@@ -945,6 +945,15 @@
     "isHttps": true
   },
   {
+    "name": "Azan TV",
+    "logo": "https://i.imgur.com/JlqS6I4.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bahrain Quran (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/er5hOK4.png",
     "country": "",
@@ -1643,7 +1652,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8",
+    "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -2934,12 +2943,12 @@
     "isHttps": true
   },
   {
-    "name": "Iman TV (720p)",
+    "name": "Iman TV (480p)",
     "logo": "https://i.imgur.com/Vo6cEYi.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://live.relentlessinnovations.net:1936/imantv/imantv/index.m3u8",
+    "url": "https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3204,15 +3213,6 @@
     "isHttps": true
   },
   {
-    "name": "Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/lTdwfd8.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://telered.live:1936/jrestv/jrestv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "K-TV (720p)",
     "logo": "https://i.imgur.com/RYbR4Sf.png",
     "country": "",
@@ -3318,15 +3318,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "KTO (404p) [Not 24/7]",
-    "logo": "https://i.imgur.com/EY6TsdV.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
     "isHttps": true
   },
   {
@@ -4038,15 +4029,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MMC TV USA (720p)",
-    "logo": "https://i.imgur.com/0MwrSYE.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5004,15 +4986,6 @@
     "isHttps": true
   },
   {
-    "name": "Sada-E-Haq TV (720p)",
-    "logo": "https://i.imgur.com/J1pB59S.jpg",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sadhna (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png",
     "country": "",
@@ -5766,15 +5739,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Trinity Channel",
-    "logo": "https://i.imgur.com/pUVL3d5.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -6684,6 +6648,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "KTO (720p)",
+    "logo": "https://i.imgur.com/EY6TsdV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://41.205.77.102/KTO/index.m3u8",
     "isHttps": false
   },
   {

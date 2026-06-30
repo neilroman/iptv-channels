@@ -3159,15 +3159,6 @@
     "isHttps": true
   },
   {
-    "name": "Humraaz TV [Not 24/7]",
-    "logo": "https://i.imgur.com/1Lc9t0D.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "I-UA.tv (1080p)",
     "logo": "https://i.imgur.com/t1OABVZ.png",
     "country": "",
@@ -3195,12 +3186,12 @@
     "isHttps": true
   },
   {
-    "name": "I24 News Hebrew (720p)",
+    "name": "I24 News Hebrew (1080p)",
     "logo": "https://www.i24news.tv/images/favicon.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8",
+    "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
     "isHttps": true
   },
   {
@@ -3444,6 +3435,15 @@
     "language": "",
     "group": "News",
     "url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "J3NEWS TV",
+    "logo": "https://i.imgur.com/lezIQyL.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5364,12 +5364,12 @@
     "isHttps": true
   },
   {
-    "name": "OANPlus (1080p)",
+    "name": "OAN Plus (1080p)",
     "logo": "https://i.imgur.com/0xW69iu.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5964,15 +5964,6 @@
     "language": "",
     "group": "News",
     "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Red de Comunicación Regional (RCR) (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/A8TRPrF.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6720,15 +6711,6 @@
     "language": "",
     "group": "News",
     "url": "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Telesur (576p)",
-    "logo": "https://i.imgur.com/P50VjRX.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://edgectc.com/TELESUR/index.m3u8",
     "isHttps": true
   },
   {
@@ -7776,7 +7758,7 @@
     "isHttps": true
   },
   {
-    "name": "Первый ин��ормационный (1080p)",
+    "name": "Первый информационный (1080p)",
     "logo": "https://i.imgur.com/eIiXRAI.png",
     "country": "",
     "language": "",
@@ -8106,6 +8088,15 @@
     "language": "",
     "group": "General;News",
     "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "E! Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;News",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -8637,6 +8628,15 @@
     "language": "",
     "group": "News",
     "url": "http://45.232.210.1:8029/play/a00s/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telesur (720p)",
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8",
     "isHttps": false
   },
   {

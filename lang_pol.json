@@ -18,15 +18,6 @@
     "isHttps": true
   },
   {
-    "name": "Active Family (576p)",
-    "logo": "https://i.imgur.com/I1wdWAo.png",
-    "country": "",
-    "language": "",
-    "group": "Family",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/ActiveFamily.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ATM Rozrywka REWORK (1080p)",
     "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
     "country": "",
@@ -189,15 +180,6 @@
     "isHttps": true
   },
   {
-    "name": "Home TV (576p)",
-    "logo": "https://i.imgur.com/qAFR1Cr.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/HomeTV.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mango (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg",
     "country": "",
@@ -213,15 +195,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MTV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/MTVHDPoland.m3u8",
     "isHttps": true
   },
   {
@@ -243,15 +216,6 @@
     "isHttps": true
   },
   {
-    "name": "Nowa TV (1080p)",
-    "logo": "https://i.imgur.com/8cHK49r.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NowaTV.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pixel.tv (720p)",
     "logo": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
     "country": "",
@@ -261,12 +225,12 @@
     "isHttps": true
   },
   {
-    "name": "Polonia 1 (1080p)",
+    "name": "Polonia 1 (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/4TVDMGD.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Polonia1.m3u8",
+    "url": "https://vs2124.vcdn.biz/fab48aecdc2eda856dcf108cff23f0af_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818621/rsid/0e266c99-a1e7-4d85-b3c6-173eeac55ae0/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid6761789432318948657-b4000000.m3u8",
     "isHttps": true
   },
   {
@@ -276,24 +240,6 @@
     "language": "",
     "group": "General",
     "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Polsat Comedy Central Extra HD (1080p)",
-    "logo": "https://i.imgur.com/6GOWgtE.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralExtraPolsat.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Polsat JimJam (576p)",
-    "logo": "https://i.imgur.com/GjppUlg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/JimJamPolsat.m3u8",
     "isHttps": true
   },
   {
@@ -465,15 +411,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Republika (576p)",
-    "logo": "https://i.imgur.com/ljpK6dZ.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/RepublikaTV.m3u8",
     "isHttps": true
   },
   {
@@ -774,15 +711,6 @@
     "isHttps": false
   },
   {
-    "name": "Epic Drama Poland",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/52689",
-    "isHttps": false
-  },
-  {
     "name": "Eska Rock TV (1080p)",
     "logo": "https://i.imgur.com/o0Fg19Q.png",
     "country": "",
@@ -843,33 +771,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Arthouse Poland",
-    "logo": "https://i.imgur.com/hDg35ne.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/52523",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Extra Poland",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/55453",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino TV",
-    "logo": "https://i.imgur.com/sqjuXUO.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/52542",
     "isHttps": false
   },
   {
@@ -954,6 +855,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Home TV",
+    "logo": "https://i.imgur.com/qAFR1Cr.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://81.15.109.89:8001/play/HomeTV",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Polsat X",
     "logo": "https://i.imgur.com/8juCHsb.png",
     "country": "",
@@ -1017,6 +927,15 @@
     "isHttps": false
   },
   {
+    "name": "MTV (1080p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7294/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nuta TV",
     "logo": "https://i.imgur.com/JHFUxDu.png",
     "country": "",
@@ -1068,6 +987,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7295/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat JimJam (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/GjppUlg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7298/index.m3u8",
     "isHttps": false
   },
   {

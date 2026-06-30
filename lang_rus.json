@@ -549,15 +549,6 @@
     "isHttps": true
   },
   {
-    "name": "Kinopremyera",
-    "logo": "https://i.imgur.com/s0UYT8T.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Kinosemja (1080p)",
     "logo": "https://i.imgur.com/4BF5VeK.png",
     "country": "",
@@ -567,21 +558,21 @@
     "isHttps": true
   },
   {
-    "name": "Kinosvidanie",
-    "logo": "https://i.imgur.com/ZRaWqxj.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Komediynoe (1080p)",
     "logo": "https://i.imgur.com/cEKe8XC.png",
     "country": "",
     "language": "",
     "group": "Comedy",
     "url": "https://adpnetworkhd-cmd.github.io/iptv/KomediynoeHD.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Kulinar TV (576p)",
+    "logo": "https://smotret.tv/images/kulinar-tv.webp",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://api.alpaca.t62a.com/hls/9110/stream0.m3u8",
     "isHttps": true
   },
   {
@@ -753,6 +744,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lyubimoe.TV (720p)",
+    "logo": "https://i.imgur.com/JJv81ZP.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://istoki.tv/live/stream1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1647,15 +1647,6 @@
     "isHttps": true
   },
   {
-    "name": "VIVA Russia (1080p)",
-    "logo": "https://i.imgur.com/OFhQQCD.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Vremya (1080p)",
     "logo": "https://i.imgur.com/jZlj3ga.png",
     "country": "",
@@ -1962,15 +1953,6 @@
     "isHttps": true
   },
   {
-    "name": "Конный Мир",
-    "logo": "https://i.imgur.com/X6otbK0.png",
-    "country": "",
-    "language": "",
-    "group": "Outdoor",
-    "url": "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Крым 24",
     "logo": "https://i.imgur.com/k4C0uvp.png",
     "country": "",
@@ -2031,15 +2013,6 @@
     "language": "",
     "group": "General",
     "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Луч",
-    "logo": "https://i.imgur.com/tXH51br.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8",
     "isHttps": true
   },
   {
@@ -2184,6 +2157,42 @@
     "language": "",
     "group": "Movies",
     "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "НТВ +1 (576p)",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.ntv.ru/ntv1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "НТВ +2 (576p)",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.ntv.ru/ntv2/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "НТВ +4 (576p)",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.ntv.ru/ntv4/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "НТВ +7 (576p)",
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.ntv.ru/ntv7/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2628,12 +2637,12 @@
     "isHttps": true
   },
   {
-    "name": "Сургут 24 (720p) [Not 24/7]",
+    "name": "СургутИнформТВ",
     "logo": "https://i.imgur.com/OxvqXMt.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://video1.in-news.ru/c24/index.m3u8",
+    "url": "https://sitv.ru/vgtrk/stv.m3u8",
     "isHttps": true
   },
   {
@@ -2679,15 +2688,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ТК Алмазный край (576p)",
-    "logo": "https://i.imgur.com/zErXTdF.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream.almaz-media.tv:8080/hls/576.m3u8",
     "isHttps": true
   },
   {
@@ -3123,6 +3123,15 @@
     "isHttps": false
   },
   {
+    "name": "Gagsnetwork (576p)",
+    "logo": "https://i.imgur.com/ENj5GIp.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HDL (720p)",
     "logo": "https://i.imgur.com/tKgmhxh.png",
     "country": "",
@@ -3222,12 +3231,30 @@
     "isHttps": false
   },
   {
+    "name": "Kinopremyera (1080p)",
+    "logo": "https://i.imgur.com/s0UYT8T.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Kinoseriya (1080p)",
     "logo": "https://i.imgur.com/iao7zLZ.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kinosvidanie (576p)",
+    "logo": "https://i.imgur.com/ZRaWqxj.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://5.188.159.128:8070/kinosvidanie/index.m3u8",
     "isHttps": false
   },
   {
@@ -3600,6 +3627,15 @@
     "isHttps": false
   },
   {
+    "name": "Shot TV (576p)",
+    "logo": "https://i.imgur.com/MLSG7tA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sochi Live HD (720p) [Not 24/7]",
     "logo": "https://www.cableman.ru/sites/default/files/sochi_live.png",
     "country": "",
@@ -3687,6 +3723,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Trace Sport Stars",
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8",
     "isHttps": false
   },
   {
@@ -4227,15 +4272,6 @@
     "language": "",
     "group": "Series",
     "url": "http://31.148.48.15/Mir_Seriala/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "МосОбрТВ (720p)",
-    "logo": "https://i.imgur.com/t6PmOD5.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
     "isHttps": false
   },
   {
