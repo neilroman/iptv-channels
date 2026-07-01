@@ -63,15 +63,6 @@
     "isHttps": true
   },
   {
-    "name": "4ever Drama (1080p)",
-    "logo": "https://i.imgur.com/CD3vZU6.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://iptv.prosto.tv/ch49/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "5 Cops",
     "logo": "https://i.imgur.com/QFPRaXK.png",
     "country": "",
@@ -306,15 +297,6 @@
     "isHttps": true
   },
   {
-    "name": "Atreseries (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Auction Hunters",
     "logo": "https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoPNG.png",
     "country": "",
@@ -546,24 +528,6 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Bolt (1080p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltRussia.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Bolt (576p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8",
     "isHttps": true
   },
   {
@@ -2259,15 +2223,6 @@
     "isHttps": true
   },
   {
-    "name": "Nashe (1080p)",
-    "logo": "https://i.imgur.com/KO8dhi9.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nashville",
     "logo": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
     "country": "",
@@ -2439,12 +2394,12 @@
     "isHttps": true
   },
   {
-    "name": "NTV Series (1080p)",
+    "name": "NTV Series (576p)",
     "logo": "https://i.imgur.com/QdVa8tl.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8",
+    "url": "https://cdn-dvr.ntv.ru/th_serial/index.m3u8",
     "isHttps": true
   },
   {
@@ -4617,12 +4572,12 @@
     "isHttps": false
   },
   {
-    "name": "Epic Drama Ukraine [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg",
+    "name": "Bolt (576p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
     "country": "",
     "language": "",
-    "group": "Series",
-    "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8",
+    "group": "Movies;Series",
+    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
     "isHttps": false
   },
   {
@@ -4779,24 +4734,6 @@
     "isHttps": false
   },
   {
-    "name": "Paramount Network [Not 24/7]",
-    "logo": "https://i.imgur.com/I0JJySN.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RTL Crime HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Saphire (1080p)",
     "logo": "https://i.imgur.com/NMOBvle.png",
     "country": "",
@@ -4857,15 +4794,6 @@
     "language": "",
     "group": "Comedy;Movies;Series;Sports",
     "url": "http://185.246.209.113/DISCOVERYHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Viasat Serial (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8",
     "isHttps": false
   },
   {

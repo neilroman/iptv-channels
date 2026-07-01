@@ -1269,6 +1269,15 @@
     "isHttps": true
   },
   {
+    "name": "BBC News (1080p) [Geo-blocked]",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BBC Persian (720p) (HEVC) (1080p)",
     "logo": "https://i.imgur.com/4uTMnPb.png",
     "country": "",
@@ -2259,15 +2268,6 @@
     "isHttps": true
   },
   {
-    "name": "Donechchyna TV (720p)",
-    "logo": "https://i.imgur.com/CuOzM8n.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://lowa8026-cmyk.github.io/Ukraine/DonechchynaTV.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Dotto TV (1080p)",
     "logo": "https://i.imgur.com/pfs882Z.png",
     "country": "",
@@ -2616,15 +2616,6 @@
     "language": "",
     "group": "News",
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Euronews Romania",
-    "logo": "https://i.imgur.com/jUOVUXt.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
     "isHttps": true
   },
   {
@@ -3363,15 +3354,6 @@
     "language": "",
     "group": "News",
     "url": "https://live.i-news.tv/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Info TV Romania (1080p)",
-    "logo": "https://i.imgur.com/rLzapB3.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://euw32.playlist.ttvnw.net/v1/playlist/CtMEHCWSOLVBIjzQRcYCDzxENBPC6QqL19TpF5ZzroQT-yNzbMsnZXDlRrM1BO_2b6B7tSj4UoyGleh1IEErCJvZXm2eKnttsjBlm1UWcu9ScTtqCCA0AQTpiAl701WUV4dCdtucbddiDtMpNARcl1umUiox9zdJ7saZS-007zh-cbMCfmc8wVX53DJqfivrOcg6ftsD8p4-z0lF7zimP_IOuZeLag9CNrrY7vRkQfYIKZcFsQza5myUR5Rat5Mo7BIdvsuOnFbULzL83qRdTOXOBEzKx73HrEXXRatJtHFxITl_m-4LzU44DCGHnrr1DwsSA5exWtvNvvcbdTx0MsmP-mBfLl__P3EVC4monCpTfMJAFwxnFf9AReWkPrvK4NTasVMnoXQ2Whzm4BmM9JwcyJPdWADFXvizZzYu-9beVSvbZxFJ1iIKI-2F-oThl8QfH9s6T6EVEu3-Q27YrZhjwdJoqyHjvL-4vn0RC6REzM4XSkfEmJEu91-9Zw9nVhvWTFxoh2exnuCWGdXhMKjfhpTGH4WquIZBQvscG_0bh7BxYkUu1GGDo5OIP17dNEx6j410QancOzFxe5ORNJ5q0zCQdZ1QAvO3qO00mXjNwhG6S7A30bUzqcH5hhzOxsFQZFgOgoLtDJH5YLggf4McxMRgIIWbRyTkcYonUjjP_CeEgg8jV3hIRE1FZWV6gOlhQoAxPr3rK91hKaM40y_6UYCdgUGsI6s1-wQvI6vGpKrwzTkxdNqFQHddjqKb2r6GBsEqEtGZPSP1T9ZhRH6iPz2u2BoM-X76Wi1YVfDbFLhBIAEqCWV1LXdlc3QtMjD3DA.m3u8",
     "isHttps": true
   },
   {
@@ -5382,15 +5364,6 @@
     "isHttps": true
   },
   {
-    "name": "Obozrevatel TV (1080p)",
-    "logo": "https://i.imgur.com/ubldSBv.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Observator News (720p)",
     "logo": "https://i.imgur.com/f6xEIAr.png",
     "country": "",
@@ -5469,15 +5442,6 @@
     "language": "",
     "group": "News",
     "url": "https://live1.mediadesk.al/oranews.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Ost West 24 (1080p)",
-    "logo": "https://i.imgur.com/voeQ6x1.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;News",
-    "url": "https://iptv.prosto.tv/ch237/index.m3u8",
     "isHttps": true
   },
   {
@@ -7250,7 +7214,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8",
+    "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7494,15 +7458,6 @@
     "language": "",
     "group": "News",
     "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "WELT (576p)",
-    "logo": "https://i.imgur.com/s4TZoxx.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://s6.hopslan.com/n24X/index.m3u8",
     "isHttps": true
   },
   {
@@ -7938,30 +7893,12 @@
     "isHttps": false
   },
   {
-    "name": "BBC News Europe (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.213.31.109:90/BBCNewsHD/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BBC News North America (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Belarus-24 HD (1080p)",
-    "logo": "https://i.imgur.com/BP7tY6F.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://178.124.179.122:8080/Belarus24/index.m3u8",
     "isHttps": false
   },
   {

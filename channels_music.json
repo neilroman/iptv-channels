@@ -1008,24 +1008,6 @@
     "isHttps": true
   },
   {
-    "name": "EU Music (1080p)",
-    "logo": "https://i.imgur.com/fJdvyrG.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72",
-    "isHttps": true
-  },
-  {
-    "name": "Exclusiv TV",
-    "logo": "https://i.imgur.com/xw1IWoO.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Extra TV (1080p)",
     "logo": "https://i.imgur.com/5edYPBO.png",
     "country": "",
@@ -1347,6 +1329,15 @@
     "language": "",
     "group": "Music",
     "url": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Hit FM",
+    "logo": "https://i.imgur.com/QwqM5j6.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1926,42 +1917,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",¡Viva Latino! (1080p)",
-    "logo": "https://i.imgur.com/KRakHAq.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://iptv.prosto.tv/ch138/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",4ever Music (1080p)",
-    "logo": "https://i.imgur.com/UJ5oaeU.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://iptv.prosto.tv/ch132/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",MCM Top (576p)",
-    "logo": "https://i.imgur.com/EVtWQLd.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://iptv.prosto.tv/ch137/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",UA Music (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png?_=20230223183537",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://iptv.prosto.tv/ch133/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Lingkar TV",
     "logo": "https://lingkartv.com/assets/img/logo-square.png",
     "country": "",
@@ -2070,21 +2025,12 @@
     "isHttps": true
   },
   {
-    "name": "M1 (1080p)",
-    "logo": "https://i.imgur.com/wbRdUw8.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://iptv.prosto.tv/ch122/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "M2 (1080p)",
+    "name": "M2 (540p)",
     "logo": "https://i.imgur.com/AfcBWCg.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://iptv.prosto.tv/ch123/index.m3u8",
+    "url": "https://live.m2.tv/hls3/stream.m3u8",
     "isHttps": true
   },
   {
@@ -3209,7 +3155,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g",
+    "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8",
     "isHttps": true
   },
   {
@@ -4941,6 +4887,33 @@
     "isHttps": true
   },
   {
+    "name": "Trace Urban Africa Franco",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Urban Caribbean And Indian Ocean",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Urban Southern Africa",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Trace Vanilla Islands",
     "logo": "https://i.imgur.com/ngF58fe.png",
     "country": "",
@@ -5189,7 +5162,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
+    "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
     "isHttps": true
   },
   {
@@ -5706,15 +5679,6 @@
     "isHttps": true
   },
   {
-    "name": "ZU TV (1080p)",
-    "logo": "https://i.imgur.com/1gtkGhB.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE",
-    "isHttps": true
-  },
-  {
     "name": "ZWEI2 Music (1080p)",
     "logo": "https://i.imgur.com/RbdpCNf.png",
     "country": "",
@@ -6120,15 +6084,6 @@
     "isHttps": false
   },
   {
-    "name": "InRating TV [Not 24/7]",
-    "logo": "https://i.imgur.com/l753AgQ.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/16020/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "INTV Australia (720p)",
     "logo": "https://i.imgur.com/1nJl0Pv.png",
     "country": "",
@@ -6189,6 +6144,15 @@
     "language": "",
     "group": "Music",
     "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Music\",M1 (720p)",
+    "logo": "https://i.imgur.com/wbRdUw8.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://158.101.222.193:88/georgia_play.php?id=m1",
     "isHttps": false
   },
   {

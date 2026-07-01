@@ -9,24 +9,6 @@
     "isHttps": true
   },
   {
-    "name": ".black (1080p)",
-    "logo": "https://i.imgur.com/Q4A6ci4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Black.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": ".red HD (1080p)",
-    "logo": "https://i.imgur.com/GET9Qut.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/RedHD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "13 Entretención (720p)",
     "logo": "https://i.imgur.com/utI1tJV.png",
     "country": "",
@@ -42,15 +24,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "13th Street Universal HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8",
     "isHttps": true
   },
   {
@@ -126,48 +99,12 @@
     "isHttps": true
   },
   {
-    "name": "4ever Theater",
-    "logo": "https://i.imgur.com/kfngtev.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw",
-    "isHttps": true
-  },
-  {
-    "name": "4seven (576p)",
-    "logo": "https://i.imgur.com/Fpaxyop.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "4U TV (720p)",
     "logo": "https://i.imgur.com/PexhKwp.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://hls.4utv.live/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "5SELECT (576p)",
-    "logo": "https://i.imgur.com/WJ9xR6l.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "5STAR (576p)",
-    "logo": "https://i.imgur.com/PI11s9s.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8",
     "isHttps": true
   },
   {
@@ -531,6 +468,15 @@
     "isHttps": true
   },
   {
+    "name": "ARTE (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "arte HD",
     "logo": "https://i.imgur.com/ecXMjNl.png",
     "country": "",
@@ -882,12 +828,12 @@
     "isHttps": true
   },
   {
-    "name": "Blaze (576p)",
+    "name": "Blaze (576p) [Geo-blocked]",
     "logo": "https://i.imgur.com/6UcPWP9.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8",
+    "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8",
     "isHttps": true
   },
   {
@@ -1251,15 +1197,6 @@
     "isHttps": true
   },
   {
-    "name": "Challenge (576p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2202.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Chandel TV (720p)",
     "logo": "https://i.imgur.com/jQO7dVE.png",
     "country": "",
@@ -1311,15 +1248,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Che! (576p)",
-    "logo": "https://i.imgur.com/ZOcDGpB.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Che_Moskva.m3u8",
     "isHttps": true
   },
   {
@@ -1746,15 +1674,6 @@
     "isHttps": true
   },
   {
-    "name": "Energy (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ENT Channel (720p)",
     "logo": "https://static.elektamedia.com/ch/entch.png",
     "country": "",
@@ -1998,15 +1917,6 @@
     "isHttps": true
   },
   {
-    "name": "Friday! (1080p)",
-    "logo": "https://i.imgur.com/UfmlXxe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/FridayHD_Moskva.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Frusna Vägar",
     "logo": "https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png",
     "country": "",
@@ -2067,15 +1977,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Gametoon (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://iptv.prosto.tv/ch256/index.m3u8",
     "isHttps": true
   },
   {
@@ -2340,15 +2241,6 @@
     "isHttps": true
   },
   {
-    "name": "Happy Channel",
-    "logo": "https://i.imgur.com/kpFaiku.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://hls.rundletv.eu.org/LIVE$HappyChannel/6.m3u8/Level/300720051?end=END&start=LIVE",
-    "isHttps": true
-  },
-  {
     "name": "Heartland",
     "logo": "https://i.imgur.com/djCq2Z5.png",
     "country": "",
@@ -2472,24 +2364,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://limited39.todostreaming.es/live/salome-livestream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ICTV (1080p)",
-    "logo": "https://i.imgur.com/97W1NOW.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/ICTV.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ICTV2 (1080p)",
-    "logo": "https://i.imgur.com/J4zlRGv.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/ICTV2.m3u8",
     "isHttps": true
   },
   {
@@ -2751,24 +2625,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "K1 (1080p)",
-    "logo": "https://i.imgur.com/uuRGpEn.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/K1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "K2 (1080p)",
-    "logo": "https://i.imgur.com/NMhydr5.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/K2.m3u8",
     "isHttps": true
   },
   {
@@ -3183,15 +3039,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://dokagents.site/live/diva/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",Svarozhychy (576p)",
-    "logo": "https://i.imgur.com/VnAgQA4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://iptv.prosto.tv/ch168/index.m3u8",
     "isHttps": true
   },
   {
@@ -3708,30 +3555,12 @@
     "isHttps": true
   },
   {
-    "name": "More4 (576p)",
-    "logo": "https://i.imgur.com/cx5YcAU.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MRTV Entertainment",
     "logo": "https://i.imgur.com/c9q6oT0.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MTV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8",
     "isHttps": true
   },
   {
@@ -4302,15 +4131,6 @@
     "isHttps": true
   },
   {
-    "name": "Neox (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nepal 1 (396p)",
     "logo": "https://i.imgur.com/Xr4FjC8.png",
     "country": "",
@@ -4389,15 +4209,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Novyi Channel (1080p)",
-    "logo": "https://i.imgur.com/Dnfhdsm.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NoviyKanal.m3u8",
     "isHttps": true
   },
   {
@@ -4506,24 +4317,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://oitnhls.wns.live/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Oruzhie (576p)",
-    "logo": "https://i.imgur.com/lfJQJqa.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Oruzhie.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "OTSE (1080p)",
-    "logo": "https://i.imgur.com/SeRNJIS.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/OtseHD.m3u8",
     "isHttps": true
   },
   {
@@ -5505,15 +5298,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Super+",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Super%2B_UA_%282024%29.svg/960px-Super%2B_UA_%282024%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;General",
-    "url": "https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?cs_track=false&e=1783162263&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&ses=365ec247746bd22d&st=9GLxg7DNUXR_MCB9X30Qew&uid=9szoe89y",
     "isHttps": true
   },
   {
@@ -6561,6 +6345,15 @@
     "isHttps": true
   },
   {
+    "name": "Пятница! (576p)",
+    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://vod.tuva.ru/friday/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": ".red (576p)",
     "logo": "https://i.imgur.com/GET9Qut.png",
     "country": "",
@@ -6657,15 +6450,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://91.246.72.88:8000/play/a005/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "arte (1080p)",
-    "logo": "https://i.imgur.com/ecXMjNl.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8",
     "isHttps": false
   },
   {
@@ -7002,24 +6786,6 @@
     "isHttps": false
   },
   {
-    "name": "FX [Not 24/7]",
-    "logo": "https://i.imgur.com/qSeBqMg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19216/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX Life [Not 24/7]",
-    "logo": "https://i.imgur.com/VLv4r50.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/9232/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "FXX (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
     "country": "",
@@ -7053,6 +6819,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://8.243.126.131:8000/play/a0fg/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ICTV (720p)",
+    "logo": "https://i.imgur.com/97W1NOW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://15.204.53.12:80/ictv/index.m3u8",
     "isHttps": false
   },
   {
@@ -7395,15 +7170,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://198.58.104.90:8989/mtv/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MTV [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8",
     "isHttps": false
   },
   {
@@ -7899,6 +7665,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://31.148.48.15/TNT4/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Че! (576p)",
+    "logo": "https://i.imgur.com/ZOcDGpB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://31.148.48.15/Che/index.m3u8",
     "isHttps": false
   },
   {

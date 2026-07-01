@@ -9,15 +9,6 @@
     "isHttps": true
   },
   {
-    "name": "13th Street Universal HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "3sat (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
     "country": "",
@@ -141,6 +132,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ARTE (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
     "isHttps": true
   },
   {
@@ -351,15 +351,6 @@
     "isHttps": true
   },
   {
-    "name": "Das Erste (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Das Erste HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
     "country": "",
@@ -447,15 +438,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Disney Channel HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelDeutschland.m3u8",
     "isHttps": true
   },
   {
@@ -915,15 +897,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy\",Comedy Central",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "https://lb.dstvmultimedia.com/ComedyCentral/index.m3u8",
     "isHttps": true
   },
   {
@@ -2250,15 +2223,6 @@
     "isHttps": true
   },
   {
-    "name": "RTL Super HD (1080p)",
-    "logo": "https://i.imgur.com/KbdK8t9.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/RTLSuperToggoHD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RTL Zwee (1080p)",
     "logo": "https://i.imgur.com/7SmCtyy.png",
     "country": "",
@@ -2562,6 +2526,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Super RTL HD (720p)",
+    "logo": "https://i.imgur.com/KbdK8t9.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://forsizero.github.io/iptv/m3u/superrtlhd.m3u",
     "isHttps": true
   },
   {
@@ -2898,15 +2871,6 @@
     "isHttps": true
   },
   {
-    "name": "WELT (576p)",
-    "logo": "https://i.imgur.com/s4TZoxx.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://s6.hopslan.com/n24X/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Welt der Wunder TV (576p)",
     "logo": "https://i.imgur.com/DLXssJe.png",
     "country": "",
@@ -2997,15 +2961,6 @@
     "isHttps": false
   },
   {
-    "name": "arte (1080p)",
-    "logo": "https://i.imgur.com/ecXMjNl.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ATV HD (1080p)",
     "logo": "https://i.imgur.com/1pA0Tid.png",
     "country": "",
@@ -3030,15 +2985,6 @@
     "language": "",
     "group": "General",
     "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "kabel eins Doku (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://79.232.88.203:9981/stream/channelid/81078517",
     "isHttps": false
   },
   {
@@ -3192,24 +3138,6 @@
     "language": "",
     "group": "General",
     "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RTL Crime HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RTL Passion (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RTL_Passion_Logo_2021.svg/960px-RTL_Passion_Logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8",
     "isHttps": false
   },
   {

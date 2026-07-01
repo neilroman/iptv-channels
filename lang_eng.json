@@ -306,15 +306,6 @@
     "isHttps": true
   },
   {
-    "name": "4seven (576p)",
-    "logo": "https://i.imgur.com/Fpaxyop.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "5 Cops",
     "logo": "https://i.imgur.com/QFPRaXK.png",
     "country": "",
@@ -330,24 +321,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "5SELECT (576p)",
-    "logo": "https://i.imgur.com/WJ9xR6l.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "5STAR (576p)",
-    "logo": "https://i.imgur.com/PI11s9s.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8",
     "isHttps": true
   },
   {
@@ -1809,12 +1782,12 @@
     "isHttps": true
   },
   {
-    "name": "Aqlvoy (576p)",
+    "name": "Aqlvoy",
     "logo": "https://i.imgur.com/ekF5cAi.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8",
+    "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2178,15 +2151,6 @@
     "isHttps": true
   },
   {
-    "name": "BabyTV UK HD (720p)",
-    "logo": "https://i.imgur.com/4BDJ5FT.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://trs1.aynaott.com/babytv/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Backstage (1080p)",
     "logo": "https://i.imgur.com/qcTNvNU.png",
     "country": "",
@@ -2259,12 +2223,12 @@
     "isHttps": true
   },
   {
-    "name": "BBC Earth US (1080p)",
+    "name": "BBC Earth (1080p)",
     "logo": "https://i.imgur.com/nGSsUd4.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8",
+    "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2313,6 +2277,15 @@
     "isHttps": true
   },
   {
+    "name": "BBC News (1080p) [Geo-blocked]",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BBC One Channel Islands (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
     "country": "",
@@ -2331,12 +2304,39 @@
     "isHttps": true
   },
   {
+    "name": "BBC One East (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd",
+    "isHttps": true
+  },
+  {
     "name": "BBC One East Midlands (1080p) (HEVC) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "BBC One East Midlands (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "BBC One London (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd",
     "isHttps": true
   },
   {
@@ -2367,6 +2367,15 @@
     "isHttps": true
   },
   {
+    "name": "BBC One North West (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd",
+    "isHttps": true
+  },
+  {
     "name": "BBC One Northern Ireland HD (1080p) (HEVC) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
     "country": "",
@@ -2394,6 +2403,15 @@
     "isHttps": true
   },
   {
+    "name": "BBC One Scotland HD (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd",
+    "isHttps": true
+  },
+  {
     "name": "BBC One South (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
     "country": "",
@@ -2412,12 +2430,39 @@
     "isHttps": true
   },
   {
+    "name": "BBC One South West (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd",
+    "isHttps": true
+  },
+  {
     "name": "BBC One Wales (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "BBC One West (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "BBC One West Midlands (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd",
     "isHttps": true
   },
   {
@@ -2655,12 +2700,12 @@
     "isHttps": true
   },
   {
-    "name": "BBC Three HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",
+    "name": "BBC Scotland HD (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8",
+    "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd",
     "isHttps": true
   },
   {
@@ -2670,15 +2715,6 @@
     "language": "",
     "group": "General",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "BBC Two",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://x.canlitvapp.com/u-bbc2/index.m3u8",
     "isHttps": true
   },
   {
@@ -3231,12 +3267,12 @@
     "isHttps": true
   },
   {
-    "name": "Blaze (576p)",
+    "name": "Blaze (576p) [Geo-blocked]",
     "logo": "https://i.imgur.com/6UcPWP9.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8",
+    "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8",
     "isHttps": true
   },
   {
@@ -4734,15 +4770,6 @@
     "isHttps": true
   },
   {
-    "name": "Challenge (576p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2202.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Champaign Government Television (CGTV) (Champaign IL) (720p)",
     "logo": "https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg",
     "country": "",
@@ -4785,15 +4812,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Channel 4 UK HD (720p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8",
     "isHttps": true
   },
   {
@@ -5994,15 +6012,6 @@
     "isHttps": true
   },
   {
-    "name": "Da Vinci Asia Vietnam",
-    "logo": "https://i.imgur.com/iBx7K1M.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Dallas Cowboys Cheerleaders",
     "logo": "https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png",
     "country": "",
@@ -6687,15 +6696,6 @@
     "isHttps": true
   },
   {
-    "name": "DocuBox HD (1080p)",
-    "logo": "https://i.imgur.com/pX4U9OG.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://iptv.prosto.tv/ch93/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Documentary+ (1080p)",
     "logo": "https://i.imgur.com/x57klfS.png",
     "country": "",
@@ -7053,15 +7053,6 @@
     "language": "",
     "group": "General",
     "url": "https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "English Class (1080p)",
-    "logo": "https://i.imgur.com/gst7wW7.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8",
     "isHttps": true
   },
   {
@@ -7425,24 +7416,6 @@
     "isHttps": true
   },
   {
-    "name": "Fashion TV",
-    "logo": "https://i.imgur.com/Bk7W39G.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw",
-    "isHttps": true
-  },
-  {
-    "name": "FashionBox (1080p)",
-    "logo": "https://i.imgur.com/Taqj4yi.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://iptv.prosto.tv/ch369/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FashionTV Europe (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
     "country": "",
@@ -7566,15 +7539,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "FightBox",
-    "logo": "https://i.imgur.com/mRsnztA.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://iptv.prosto.tv/ch118/index.m3u8",
     "isHttps": true
   },
   {
@@ -8118,15 +8082,6 @@
     "isHttps": true
   },
   {
-    "name": "Gametoon (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://iptv.prosto.tv/ch256/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Garfield and Friends",
     "logo": "https://i.imgur.com/evzfe9C.png",
     "country": "",
@@ -8559,15 +8514,6 @@
     "isHttps": true
   },
   {
-    "name": "GREAT! action (576p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3708.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GREAT! movies (1080p)",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png",
     "country": "",
@@ -8577,30 +8523,12 @@
     "isHttps": true
   },
   {
-    "name": "GREAT! mystery (576p)",
-    "logo": "https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GREAT! romance (1080p)",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "GREAT! tv (576p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4266.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatTV.m3u8",
     "isHttps": true
   },
   {
@@ -10008,15 +9936,6 @@
     "isHttps": true
   },
   {
-    "name": "JimJam Europe (720p)",
-    "logo": "https://i.imgur.com/ODhkYyx.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "JooMusic (720p)",
     "logo": "https://i.imgur.com/KHuKQQL.png",
     "country": "",
@@ -10881,15 +10800,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Serbia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://lb.dstvmultimedia.com/AMC/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
     "logo": "https://i.imgur.com/GHNsctR.png",
     "country": "",
@@ -11322,15 +11232,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Auto\",Cars & Stars TV (1080p)",
-    "logo": "https://i.imgur.com/E8SorC5.png",
-    "country": "",
-    "language": "",
-    "group": "Auto",
-    "url": "https://iptv.prosto.tv/ch111/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",FashionBox",
     "logo": "https://i.imgur.com/Taqj4yi.png",
     "country": "",
@@ -11349,15 +11250,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Festival (576p)",
-    "logo": "https://i.imgur.com/hDg35ne.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://iptv.prosto.tv/ch63/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Adria",
     "logo": "https://i.imgur.com/RydfsE9.png",
     "country": "",
@@ -11373,15 +11265,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ One Baltics (576p)",
-    "logo": "https://i.imgur.com/gXu36aD.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://iptv.prosto.tv/ch64/index.m3u8",
     "isHttps": true
   },
   {
@@ -12231,6 +12114,15 @@
     "isHttps": true
   },
   {
+    "name": "Mercy TV",
+    "logo": "https://i.imgur.com/YPAM74x.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Merry Christmas from Viafree",
     "logo": "https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png",
     "country": "",
@@ -12723,15 +12615,6 @@
     "language": "",
     "group": "Comedy",
     "url": "https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "More4 (576p)",
-    "logo": "https://i.imgur.com/cx5YcAU.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8",
     "isHttps": true
   },
   {
@@ -13398,15 +13281,6 @@
     "language": "",
     "group": "General",
     "url": "https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "National Geographic HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8",
     "isHttps": true
   },
   {
@@ -14118,24 +13992,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nickelodeon (576p)",
-    "logo": "https://i.imgur.com/w8iE8dV.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/NickelodeonRussia.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nickelodeon (576p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://trs1.aynaott.com/nicklodean/index.m3u8",
     "isHttps": true
   },
   {
@@ -16992,15 +16848,6 @@
     "isHttps": true
   },
   {
-    "name": "PRO TV (1280p)",
-    "logo": "https://i.imgur.com/zVk3WlT.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://hls.rundletv.eu.org/LIVE$ProTV/Level/300720051?end=END&start=LIVE",
-    "isHttps": true
-  },
-  {
     "name": "Prudent Media (1080p)",
     "logo": "https://i.imgur.com/DG0x4UD.png",
     "country": "",
@@ -17529,15 +17376,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Really (576p)",
-    "logo": "https://i.imgur.com/lY5sFgo.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8",
     "isHttps": true
   },
   {
@@ -18663,15 +18501,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71",
-    "isHttps": true
-  },
-  {
-    "name": "Sky Nature (576p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://trs1.aynaott.com/skynature/index.m3u8",
     "isHttps": true
   },
   {
@@ -22433,7 +22262,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
+    "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
     "isHttps": true
   },
   {
@@ -24201,39 +24030,12 @@
     "isHttps": false
   },
   {
-    "name": "BBC News Europe (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.213.31.109:90/BBCNewsHD/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BBC News North America (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/1196/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One East Midlands (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/1263/index.m3u8",
     "isHttps": false
   },
   {
@@ -24246,87 +24048,6 @@
     "isHttps": false
   },
   {
-    "name": "BBC One North West (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/916/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One Scotland HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/225/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One South West (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/51/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One Wales HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/927/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One West (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/305/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One West Midlands (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/1261/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One Yorkshire & Lincolnshire (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://92.114.85.72:8000/play/a0mp",
-    "isHttps": false
-  },
-  {
-    "name": "BBC One Yorkshire HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/918/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC Scotland (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://92.114.85.72:8000/play/a0mf",
-    "isHttps": false
-  },
-  {
     "name": "BBC Three/CBBC (720p)",
     "logo": "https://i.imgur.com/CGXC5fp.png",
     "country": "",
@@ -24336,12 +24057,12 @@
     "isHttps": false
   },
   {
-    "name": "BBC Two HD (1080p)",
+    "name": "BBC Two HD (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://149.102.245.111/1197/index.m3u8",
+    "url": "http://193.46.58.239:8080/BBCTwoHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -24378,15 +24099,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Belarus-24 HD (1080p)",
-    "logo": "https://i.imgur.com/BP7tY6F.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://178.124.179.122:8080/Belarus24/index.m3u8",
     "isHttps": false
   },
   {
@@ -24495,15 +24207,6 @@
     "language": "",
     "group": "General",
     "url": "http://80.194.62.172:50002/stream/channelid/1940621521",
-    "isHttps": false
-  },
-  {
-    "name": "Channel 5 (1080p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://149.102.245.111/1242/index.m3u8",
     "isHttps": false
   },
   {
@@ -24768,15 +24471,6 @@
     "isHttps": false
   },
   {
-    "name": "DocuBox [Not 24/7]",
-    "logo": "https://i.imgur.com/pX4U9OG.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "E! (1080p)",
     "logo": "https://i.imgur.com/TWFDkap.png",
     "country": "",
@@ -24792,6 +24486,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://80.194.62.172:50002/stream/channelid/1096333958",
+    "isHttps": false
+  },
+  {
+    "name": "English Class HD (1080p)",
+    "logo": "https://i.imgur.com/gst7wW7.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -25137,6 +24840,15 @@
     "isHttps": false
   },
   {
+    "name": "JimJam Europe (576p)",
+    "logo": "https://i.imgur.com/ODhkYyx.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://158.160.149.81:8080/269/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "KBS World (576p)",
     "logo": "https://i.imgur.com/7DqgELX.png",
     "country": "",
@@ -25260,15 +24972,6 @@
     "language": "",
     "group": "Series",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 1 Baltic",
-    "logo": "https://i.imgur.com/aBY7QK4.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://ott.watch/XE5QWWBZ87/461/tracks-v2a1/mono.ts.m3u8?sid=c3f03b2b-bf32-49e2-8675-d1a321912ce8",
     "isHttps": false
   },
   {
@@ -25632,15 +25335,6 @@
     "isHttps": false
   },
   {
-    "name": "MTV [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "MTV Live (720p)",
     "logo": "https://i.imgur.com/3UByLqb.png",
     "country": "",
@@ -25818,15 +25512,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://195.64.140.147:10121/121",
     "isHttps": false
   },
   {
@@ -26538,24 +26223,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Viasat Kino [Not 24/7]",
-    "logo": "https://i.imgur.com/io0WAkA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31765/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Viasat Kino Action [Not 24/7]",
-    "logo": "https://i.imgur.com/HwsNIDK.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12024/index.m3u8",
     "isHttps": false
   },
   {
