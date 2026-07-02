@@ -1265,7 +1265,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8",
+    "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
     "isHttps": true
   },
   {
@@ -1464,6 +1464,15 @@
     "language": "",
     "group": "Animation;Movies",
     "url": "http://31.148.48.15/Fan/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MeTV Toons (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://206.212.244.63/112/index.m3u8",
     "isHttps": false
   },
   {

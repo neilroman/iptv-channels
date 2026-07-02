@@ -477,15 +477,6 @@
     "isHttps": true
   },
   {
-    "name": "Cine Nostalgia (720p)",
-    "logo": "https://i.imgur.com/LLwppwB.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cine Premiere",
     "logo": "https://i.imgur.com/PdhWTO6.png",
     "country": "",
@@ -1806,6 +1797,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NOST (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/250px-NOST-1080x1080.jpg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4689,6 +4689,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC East (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://41.223.30.230/AMC/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Amedia Hit (720p)",
     "logo": "https://i.imgur.com/a8ZBGBw.png",
     "country": "",
@@ -4767,24 +4776,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AXN Poland",
-    "logo": "https://i.imgur.com/i5wOhkf.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://81.15.109.89:8001/play/AXN",
-    "isHttps": false
-  },
-  {
-    "name": "AXN White",
-    "logo": "https://i.imgur.com/DaAyLE7.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://81.15.109.89:8001/play/AXNWhite",
     "isHttps": false
   },
   {
@@ -5127,15 +5118,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://83.167.253.107/hdmi1_ext",
-    "isHttps": false
-  },
-  {
-    "name": "Kino Polska (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/lbl8K23.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8",
     "isHttps": false
   },
   {
@@ -5910,6 +5892,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sundance TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://206.212.244.63/151/index.m3u8",
     "isHttps": false
   },
   {

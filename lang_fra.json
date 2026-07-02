@@ -342,15 +342,6 @@
     "isHttps": true
   },
   {
-    "name": "Babyfirst",
-    "logo": "https://i.imgur.com/WxLHBwu.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BAM-TV",
     "logo": "https://i.imgur.com/9UmR6cs.png",
     "country": "",
@@ -3933,6 +3924,15 @@
     "isHttps": false
   },
   {
+    "name": "BabyFirst (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/639/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BabyTV France HD (720p)",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
@@ -4203,8 +4203,8 @@
     "isHttps": false
   },
   {
-    "name": "MCM (720p)",
-    "logo": "https://i.imgur.com/F5WNCp0.png",
+    "name": "MCM Top (720p)",
+    "logo": "https://i.imgur.com/EVtWQLd.png",
     "country": "",
     "language": "",
     "group": "Music",

@@ -1476,6 +1476,15 @@
     "isHttps": true
   },
   {
+    "name": "Channel 24 Ucrania",
+    "logo": "https://graph.facebook.com/news24ukraine/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
+    "url": "https://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Channel NewsAsia EN",
     "logo": "https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",
     "country": "",
@@ -2358,15 +2367,6 @@
     "isHttps": true
   },
   {
-    "name": "GCM Internacional",
-    "logo": "https://pbs.twimg.com/profile_images/1752299087402041344/eAHH3L02_200x200.jpg",
-    "country": "",
-    "language": "",
-    "group": "Int. Europa",
-    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12128&live=1",
-    "isHttps": true
-  },
-  {
     "name": "Geo News Pakistan",
     "logo": "https://graph.facebook.com/GeoUrduDotTv/picture?width=200&height=200",
     "country": "",
@@ -2547,6 +2547,15 @@
     "isHttps": true
   },
   {
+    "name": "Islas Canarias TV",
+    "logo": "https://graph.facebook.com/IslasCanariasTelevision/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=17089&live=1",
+    "isHttps": true
+  },
+  {
     "name": "Junta Castilla y León",
     "logo": "https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200",
     "country": "",
@@ -2584,7 +2593,7 @@
   },
   {
     "name": "La 1",
-    "logo": "https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
     "country": "",
     "language": "",
     "group": "Generalistas",
@@ -2593,7 +2602,7 @@
   },
   {
     "name": "La 1",
-    "logo": "https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
     "country": "",
     "language": "",
     "group": "Generalistas",
@@ -3528,6 +3537,15 @@
     "isHttps": true
   },
   {
+    "name": "Retro Music TV Chequia EN",
+    "logo": "https://graph.facebook.com/retromusic/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Musicales",
+    "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Retro Plus TV Chile",
     "logo": "https://graph.facebook.com/retroplustv/picture?width=200&height=200",
     "country": "",
@@ -4235,7 +4253,7 @@
     "country": "",
     "language": "",
     "group": "Int. América",
-    "url": "https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8",
+    "url": "https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8",
     "isHttps": true
   },
   {
@@ -4244,7 +4262,7 @@
     "country": "",
     "language": "",
     "group": "Int. América",
-    "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/023/playlist.m3u8",
+    "url": "https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/live-origen/index.m3u8",
     "isHttps": true
   },
   {
@@ -4869,7 +4887,7 @@
     "isHttps": true
   },
   {
-    "name": "1Muz Bielorrusia",
+    "name": "1Muz Bielorrusia HD",
     "logo": "https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4878,7 +4896,7 @@
     "isHttps": false
   },
   {
-    "name": "1Muz Bielorrusia",
+    "name": "1Muz Bielorrusia SD",
     "logo": "https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4905,7 +4923,7 @@
     "isHttps": false
   },
   {
-    "name": "Cetelmon TV España",
+    "name": "Cetelmon TV España HD",
     "logo": "https://graph.facebook.com/cetelmon.television/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4914,12 +4932,12 @@
     "isHttps": false
   },
   {
-    "name": "Channel 24 Ucrania",
-    "logo": "https://graph.facebook.com/news24ukraine/picture?width=200&height=200",
+    "name": "Cetelmon TV España SD",
+    "logo": "https://graph.facebook.com/cetelmon.television/picture?width=200&height=200",
     "country": "",
     "language": "",
-    "group": "Int. Europa",
-    "url": "http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8",
+    "group": "Religiosos",
+    "url": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_low.m3u8",
     "isHttps": false
   },
   {
@@ -4928,7 +4946,7 @@
     "country": "",
     "language": "",
     "group": "Canarias",
-    "url": "http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8",
+    "url": "http://stream.estecanaltv.com:8009/live/stream/index.m3u8",
     "isHttps": false
   },
   {
@@ -4947,15 +4965,6 @@
     "language": "",
     "group": "Musicales",
     "url": "http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Retro Music TV Chequia EN",
-    "logo": "https://graph.facebook.com/retromusic/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Musicales",
-    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
     "isHttps": false
   }
 ]

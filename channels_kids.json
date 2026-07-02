@@ -216,15 +216,6 @@
     "isHttps": true
   },
   {
-    "name": "Babyfirst",
-    "logo": "https://i.imgur.com/WxLHBwu.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
@@ -933,15 +924,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Kids\",Карусель International (720p)",
-    "logo": "https://i.imgur.com/DnlngRZ.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
     "isHttps": true
   },
   {
@@ -1967,7 +1949,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8",
+    "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
     "isHttps": true
   },
   {
@@ -2466,6 +2448,15 @@
     "isHttps": false
   },
   {
+    "name": "BabyFirst (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/639/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BabyTV France HD (720p)",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
@@ -2556,15 +2547,6 @@
     "isHttps": false
   },
   {
-    "name": "CBeebies (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://81.15.109.89:8001/play/BBCCBeebies",
-    "isHttps": false
-  },
-  {
     "name": "CCTV-14 (1080p)",
     "logo": "https://i.imgur.com/c5SXW7i.png",
     "country": "",
@@ -2616,15 +2598,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://88.212.15.19/live/test_disney/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://81.15.109.89:8001/play/DisneyChannel2",
     "isHttps": false
   },
   {
@@ -2781,30 +2754,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://81.15.109.89:8001/play/DisneyJunior",
-    "isHttps": false
-  },
-  {
     "name": "Disney Junior MENA (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://116.90.120.157:8000/play/a0qo/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney XD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://81.15.109.89:8001/play/DisneyXD",
     "isHttps": false
   },
   {
@@ -3033,6 +2988,15 @@
     "isHttps": false
   },
   {
+    "name": "MeTV Toons (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://206.212.244.63/112/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Minimax",
     "logo": "https://i.imgur.com/WWOlm1x.png",
     "country": "",
@@ -3078,12 +3042,12 @@
     "isHttps": false
   },
   {
-    "name": "Nick Jr. (576p)",
+    "name": "Nick Jr. (1080p)",
     "logo": "https://i.imgur.com/KT4tdQs.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8",
+    "url": "http://40.160.24.55/NICK_JR/index.m3u8",
     "isHttps": false
   },
   {
@@ -3092,7 +3056,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://84.17.50.102/nickjr/index.m3u8",
+    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8",
     "isHttps": false
   },
   {
@@ -3192,6 +3156,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kanal-o-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PBS Kids 24/7 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
+    "country": "",
+    "language": "",
+    "group": "Education;Kids",
+    "url": "http://206.212.244.63/672/index.m3u8",
     "isHttps": false
   },
   {

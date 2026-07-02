@@ -180,15 +180,6 @@
     "isHttps": true
   },
   {
-    "name": "Babyfirst",
-    "logo": "https://i.imgur.com/WxLHBwu.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Baden TV Süd (480p)",
     "logo": "https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png",
     "country": "",
@@ -279,12 +270,12 @@
     "isHttps": true
   },
   {
-    "name": "BR Fernsehen Sud",
+    "name": "BR Fernsehen Sud (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8",
+    "url": "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8",
     "isHttps": true
   },
   {
@@ -2970,6 +2961,15 @@
     "isHttps": false
   },
   {
+    "name": "BabyFirst (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/639/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Baden TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/L6vE9Bz.png",
     "country": "",
@@ -3075,15 +3075,6 @@
     "language": "",
     "group": "General",
     "url": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ORF 2 Wien (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://79.127.207.193/ORF2/playlist.m3u8",
     "isHttps": false
   },
   {

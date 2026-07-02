@@ -126,15 +126,6 @@
     "isHttps": true
   },
   {
-    "name": "Babyfirst",
-    "logo": "https://i.imgur.com/WxLHBwu.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Belarus-1 (1080p)",
     "logo": "https://i.imgur.com/sUD9t5j.png",
     "country": "",
@@ -414,39 +405,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Перец International (576p)",
-    "logo": "https://i.imgur.com/On6ggLe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Пятница! International (576p)",
-    "logo": "https://i.imgur.com/N2z3EZC.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ТНТ International (480p)",
     "logo": "https://i.imgur.com/l0RGbRI.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ТНТ4 International (576p)",
-    "logo": "https://i.imgur.com/SjdOaya.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8",
     "isHttps": true
   },
   {
@@ -468,24 +432,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",РЕН ТВ International (720p)",
-    "logo": "https://i.imgur.com/gBjk9oF.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Kids\",Карусель International (720p)",
-    "logo": "https://i.imgur.com/DnlngRZ.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Legislative\",Дума ТВ (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/JvlO3PU.png",
     "country": "",
@@ -495,39 +441,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",Домашний International (720p)",
-    "logo": "https://i.imgur.com/nf7GRXb.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Sports\",Матч! Планета (720p)",
     "logo": "https://i.imgur.com/vhyMb9D.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",СТС International (720p)",
-    "logo": "https://i.imgur.com/mwiC0RG.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",ТВ Центр International (720p)",
-    "logo": "https://i.imgur.com/tsCOnBW.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8",
     "isHttps": true
   },
   {
@@ -2538,6 +2457,15 @@
     "isHttps": false
   },
   {
+    "name": "BabyFirst (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/639/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Bălţi TV (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/S1vEqZp.png",
     "country": "",
@@ -3195,6 +3123,15 @@
     "isHttps": false
   },
   {
+    "name": "REN TV International (576p)",
+    "logo": "https://i.imgur.com/gBjk9oF.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://178.134.1.158:8081/RENTV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "RTG TV (720p)",
     "logo": "https://i.imgur.com/ZMKPAho.png",
     "country": "",
@@ -3264,6 +3201,15 @@
     "language": "",
     "group": "Family",
     "url": "http://94.230.128.107:8080/CTC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "STS International (576p)",
+    "logo": "https://i.imgur.com/mwiC0RG.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://178.134.1.158:8081/CTC/index.m3u8",
     "isHttps": false
   },
   {
