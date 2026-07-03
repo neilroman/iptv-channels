@@ -63,15 +63,6 @@
     "isHttps": true
   },
   {
-    "name": "24/7 TV (1080p)",
-    "logo": "https://i.imgur.com/03YIXxd.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://master.tucableip.com/eldebertv/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "24KZ",
     "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
     "country": "",
@@ -492,6 +483,15 @@
     "language": "",
     "group": "News",
     "url": "https://acentotv01.streamprolive.com/hls/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ACN TV",
+    "logo": "https://i.imgur.com/aZyKsyN.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8",
     "isHttps": true
   },
   {
@@ -1431,15 +1431,6 @@
     "isHttps": true
   },
   {
-    "name": "BTB Info (1080p)",
-    "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
-    "country": "",
-    "language": "",
-    "group": "Documentary;News",
-    "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BTV News (720p)",
     "logo": "https://i.imgur.com/sUHiRj3.png",
     "country": "",
@@ -1878,6 +1869,15 @@
     "language": "",
     "group": "News",
     "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Channel 9 (1080p)",
+    "logo": "https://i.imgur.com/pttM3KQ.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://contact.gostreaming.tv/Con-11/index.m3u8",
     "isHttps": true
   },
   {
@@ -2706,6 +2706,15 @@
     "language": "",
     "group": "News",
     "url": "https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Flash Haber TV",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6138,15 +6147,6 @@
     "isHttps": true
   },
   {
-    "name": "RT en Español (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RT France (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
     "country": "",
@@ -6612,15 +6612,6 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-1.pishow.tv/live/385/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "T13 (720p)",
-    "logo": "https://i.imgur.com/2Vlkl2x.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8253,15 +8244,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"News\",Channel 9",
-    "logo": "https://i.imgur.com/pttM3KQ.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"News\",FuegoTV (1080p)",
     "logo": "https://i.imgur.com/1LuNEX4.png",
     "country": "",
@@ -8529,6 +8511,15 @@
     "language": "",
     "group": "News",
     "url": "http://103.250.28.74:8000/play/a01k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RT en Espanol (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://179.60.51.134:8888/RT/index.m3u8",
     "isHttps": false
   },
   {

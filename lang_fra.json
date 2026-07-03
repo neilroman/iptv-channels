@@ -108,6 +108,15 @@
     "isHttps": true
   },
   {
+    "name": "Acerfi TV",
+    "logo": "https://i.imgur.com/exX5djJ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streamtv.acerfi.net/hls/acerfitv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ACTV (504p)",
     "logo": "https://files.catbox.moe/8v2y8m.png",
     "country": "",
@@ -4200,6 +4209,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://103.154.3.101:5001/live/1736.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MCM Top (576p)",
+    "logo": "https://i.imgur.com/EVtWQLd.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://46.32.176.50/mcmtop/index.m3u8",
     "isHttps": false
   },
   {

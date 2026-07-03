@@ -162,15 +162,6 @@
     "isHttps": true
   },
   {
-    "name": "BTB Info (1080p)",
-    "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
-    "country": "",
-    "language": "",
-    "group": "Documentary;News",
-    "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cazador de Homicidas",
     "logo": "https://i.imgur.com/hy6FJLe.png",
     "country": "",
@@ -312,6 +303,15 @@
     "language": "",
     "group": "Culture;Documentary",
     "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "DocuBox",
+    "logo": "https://i.imgur.com/pX4U9OG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8",
     "isHttps": true
   },
   {

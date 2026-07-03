@@ -1071,15 +1071,6 @@
     "isHttps": true
   },
   {
-    "name": "Multimania (Latvia) (576p)",
-    "logo": "https://i.imgur.com/J9Lwc0T.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "My Kidz (720p)",
     "logo": "https://i.imgur.com/qzZFU6d.png",
     "country": "",
@@ -1908,15 +1899,6 @@
     "isHttps": true
   },
   {
-    "name": "Slime (576p) [Not 24/7]",
-    "logo": "https://x1co.com.br/slimelogo.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://slime.x1co.com.br/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Smile TV (720p)",
     "logo": "https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png",
     "country": "",
@@ -2394,15 +2376,6 @@
     "isHttps": true
   },
   {
-    "name": "Пингвин (720p)",
-    "logo": "https://i.imgur.com/hfXoJIY.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Тамыр (Уфа) (576p)",
     "logo": "https://i.imgur.com/Ia3acCB.png",
     "country": "",
@@ -2418,6 +2391,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "��ингвин (720p)",
+    "logo": "https://i.imgur.com/hfXoJIY.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
     "isHttps": true
   },
   {
@@ -2466,6 +2448,15 @@
     "isHttps": false
   },
   {
+    "name": "BabyTV Latin America (720p)",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://179.60.51.134:8888/BABY-TV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BabyTV Netherlands (576p)",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
@@ -2475,12 +2466,12 @@
     "isHttps": false
   },
   {
-    "name": "BabyTV Spain (1080p)",
+    "name": "BabyTV US (576p)",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://179.60.51.134:8888/BABY-TV/index.m3u8",
+    "url": "http://206.212.244.63/641/index.m3u8",
     "isHttps": false
   },
   {
@@ -2760,6 +2751,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://116.90.120.157:8000/play/a0qo/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Junior West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/655/index.m3u8",
     "isHttps": false
   },
   {
@@ -3246,6 +3246,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TeenNick (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/670/index.m3u8",
     "isHttps": false
   },
   {

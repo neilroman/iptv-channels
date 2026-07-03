@@ -189,6 +189,15 @@
     "isHttps": true
   },
   {
+    "name": "Channel 9 (1080p)",
+    "logo": "https://i.imgur.com/pttM3KQ.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://contact.gostreaming.tv/Con-11/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Channel One HD (720p)",
     "logo": "https://i.imgur.com/RUSX0rX.png",
     "country": "",
@@ -477,6 +486,15 @@
     "isHttps": true
   },
   {
+    "name": "Maidan (720p)",
+    "logo": "https://i.imgur.com/C8CCjZK.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Makon TV (576i)",
     "logo": "https://i.imgur.com/vCc0ED1.png",
     "country": "",
@@ -555,15 +573,6 @@
     "language": "",
     "group": "Classic;Movies",
     "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Multimania (Latvia) (576p)",
-    "logo": "https://i.imgur.com/J9Lwc0T.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
     "isHttps": true
   },
   {
@@ -738,16 +747,7 @@
     "isHttps": true
   },
   {
-    "name": "RTR-Planeta (720p)",
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RTR-Planeta Asia (720p)",
+    "name": "RTR-Planeta Asia (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/T42cuYx.png",
     "country": "",
     "language": "",
@@ -756,7 +756,16 @@
     "isHttps": true
   },
   {
-    "name": "RTR-Planeta Europe (720p)",
+    "name": "RTR-Planeta CIS (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/T42cuYx.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RTR-Planeta Europe (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/0YEahxs.png",
     "country": "",
     "language": "",
@@ -765,7 +774,7 @@
     "isHttps": true
   },
   {
-    "name": "RTVi (450p)",
+    "name": "RTVi (450p) [Geo-blocked]",
     "logo": "https://i.imgur.com/1AEhXyS.png",
     "country": "",
     "language": "",
@@ -793,7 +802,7 @@
   },
   {
     "name": "Russia-1 HD (1080p)",
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -837,11 +846,20 @@
     "isHttps": true
   },
   {
-    "name": "Silk Way (1080p)",
+    "name": "Silk Way",
     "logo": "https://i.imgur.com/SJNDksF.png",
     "country": "",
     "language": "",
     "group": "General",
+    "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Silk Way Cinema (1080p) [Geo-blocked]",
+    "logo": "https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
     "url": "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
     "isHttps": true
   },
@@ -1041,6 +1059,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TNV-Tatarstan (720p)",
+    "logo": "https://i.imgur.com/58u9TQT.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
     "isHttps": true
   },
   {
@@ -2646,6 +2673,15 @@
     "isHttps": false
   },
   {
+    "name": "Extreme Sports Channel (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://46.32.176.50/extremesport/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FAN (1080p)",
     "logo": "https://i.imgur.com/mDeTbaF.png",
     "country": "",
@@ -2808,15 +2844,6 @@
     "isHttps": false
   },
   {
-    "name": "Kukhnya TV (576p)",
-    "logo": "https://i.imgur.com/7jxZnuS.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Leva (1080p)",
     "logo": "https://i.imgur.com/lQzgmpz.png",
     "country": "",
@@ -2841,15 +2868,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"News\",Channel 9",
-    "logo": "https://i.imgur.com/pttM3KQ.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330",
     "isHttps": false
   },
   {
@@ -2904,15 +2922,6 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://103.154.3.101:5001/live/1736.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Maidan (576p)",
-    "logo": "https://i.imgur.com/C8CCjZK.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://hls127.freeott.top:8080/Maydan/video.m3u8",
     "isHttps": false
   },
   {
@@ -3123,15 +3132,6 @@
     "isHttps": false
   },
   {
-    "name": "REN TV International (576p)",
-    "logo": "https://i.imgur.com/gBjk9oF.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://178.134.1.158:8081/RENTV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "RTG TV (720p)",
     "logo": "https://i.imgur.com/ZMKPAho.png",
     "country": "",
@@ -3318,15 +3318,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://rtmp.tvpro-online.ru/hls/ch1.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV XXI (1080p)",
-    "logo": "https://i.imgur.com/Fja4bWt.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://31.148.48.15/TV_XXI/index.m3u8",
     "isHttps": false
   },
   {
@@ -3955,7 +3946,7 @@
     "logo": "https://i.imgur.com/ZNCpbII.png",
     "country": "",
     "language": "",
-    "group": "Entertainment",
+    "group": "Entertainment;Outdoor",
     "url": "http://31.148.48.15/Poehali/index.m3u8",
     "isHttps": false
   },

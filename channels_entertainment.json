@@ -2961,6 +2961,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Gametoon",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education;Entertainment\",Education (1080p)",
     "logo": "https://i.imgur.com/0m8t3vh.png",
     "country": "",
@@ -6822,15 +6831,6 @@
     "isHttps": false
   },
   {
-    "name": "GetTV (720p)",
-    "logo": "https://i.imgur.com/evOWORd.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://206.212.244.63/80/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Good Idea TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/ETgVyTy.png",
     "country": "",
@@ -7170,6 +7170,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://mytv.dothome.co.kr/ch/catv/26.php",
+    "isHttps": false
+  },
+  {
+    "name": "MegaTV (576p)",
+    "logo": "https://i.imgur.com/3d4uiZF.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -7726,7 +7735,7 @@
     "logo": "https://i.imgur.com/ZNCpbII.png",
     "country": "",
     "language": "",
-    "group": "Entertainment",
+    "group": "Entertainment;Outdoor",
     "url": "http://31.148.48.15/Poehali/index.m3u8",
     "isHttps": false
   },

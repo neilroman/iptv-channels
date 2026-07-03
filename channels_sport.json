@@ -567,6 +567,15 @@
     "isHttps": true
   },
   {
+    "name": "Fast&FunBox",
+    "logo": "https://i.imgur.com/a9ZtP17.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FCK Løvinderne",
     "logo": "https://images.pluto.tv/channels/68ac5403de4a734954b5ab75/colorLogoPNG_1756124331035.png",
     "country": "",
@@ -1602,12 +1611,12 @@
     "isHttps": true
   },
   {
-    "name": "Olympic Channel [Geo-blocked]",
+    "name": "Olympics Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/wPQVVtj.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8",
+    "url": "https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8",
     "isHttps": true
   },
   {
@@ -3150,6 +3159,15 @@
     "isHttps": false
   },
   {
+    "name": "Extreme Sports Channel (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://46.32.176.50/extremesport/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FanDuel TV (720p)",
     "logo": "https://i.imgur.com/YPHrFU0.png",
     "country": "",
@@ -3435,6 +3453,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MLB Strike Zone (720p)",
+    "logo": "https://i.imgur.com/uMI1ySO.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
     "isHttps": false
   },
   {

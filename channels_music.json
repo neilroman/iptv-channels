@@ -513,15 +513,6 @@
     "isHttps": true
   },
   {
-    "name": "BTB Music (1080p)",
-    "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Buenisima Radio TV",
     "logo": "https://i.imgur.com/URKDlOZ.png",
     "country": "",
@@ -1710,6 +1701,15 @@
     "isHttps": true
   },
   {
+    "name": "La Clave (720p)",
+    "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "La Fabulosa Radio y TV (720p)",
     "logo": "https://i.imgur.com/GjME5H0.png",
     "country": "",
@@ -2094,6 +2094,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Maidan (720p)",
+    "logo": "https://i.imgur.com/C8CCjZK.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3438,6 +3447,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Duna (720p)",
+    "logo": "https://cdn.m3u.cl/logo/427_Radio_Duna.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Freccia TV (1080p)",
     "logo": "https://i.imgur.com/RxeRlar.png",
     "country": "",
@@ -3579,6 +3597,15 @@
     "language": "",
     "group": "Music",
     "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Pudahuel (720p)",
+    "logo": "https://cdn.m3u.cl/logo/429_Pudahuel_FM.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3804,6 +3831,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Retromusica Television (720p)",
+    "logo": "https://cdn.m3u.cl/logo/1765_Retromusica_Television.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://vdochile.com:3864/stream/play.m3u8",
     "isHttps": true
   },
   {
@@ -6174,12 +6210,12 @@
     "isHttps": false
   },
   {
-    "name": "Maidan (576p)",
-    "logo": "https://i.imgur.com/C8CCjZK.png",
+    "name": "MCM Top (576p)",
+    "logo": "https://i.imgur.com/EVtWQLd.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://hls127.freeott.top:8080/Maydan/video.m3u8",
+    "url": "http://46.32.176.50/mcmtop/index.m3u8",
     "isHttps": false
   },
   {

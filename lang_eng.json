@@ -1125,6 +1125,15 @@
     "isHttps": true
   },
   {
+    "name": "ACN TV",
+    "logo": "https://i.imgur.com/aZyKsyN.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ACNN (480p)",
     "logo": "https://i.imgur.com/91JLpxr.png",
     "country": "",
@@ -1176,6 +1185,15 @@
     "language": "",
     "group": "News",
     "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Afaq TV",
+    "logo": "https://i.imgur.com/t7CaTu3.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3705,24 +3723,6 @@
     "language": "",
     "group": "Business;News",
     "url": "https://feeds.intoday.in/bttv/itgd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BTB Info (1080p)",
-    "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
-    "country": "",
-    "language": "",
-    "group": "Documentary;News",
-    "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BTB International (1080p)",
-    "logo": "https://kononopedia.ru/lib/exe/fetch.php?cache=&w=700&h=700&tok=dbc35d&media=kanaly:btbinternational.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8",
     "isHttps": true
   },
   {
@@ -6687,6 +6687,15 @@
     "isHttps": true
   },
   {
+    "name": "DocuBox",
+    "logo": "https://i.imgur.com/pX4U9OG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Documentary+ (1080p)",
     "logo": "https://i.imgur.com/x57klfS.png",
     "country": "",
@@ -7425,6 +7434,15 @@
     "isHttps": true
   },
   {
+    "name": "Fast&FunBox",
+    "logo": "https://i.imgur.com/a9ZtP17.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FBI Files",
     "logo": "https://i.imgur.com/vzYDSLo.png",
     "country": "",
@@ -7539,6 +7557,15 @@
     "language": "",
     "group": "General",
     "url": "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FilmBox Arthouse",
+    "logo": "https://i.imgur.com/hDg35ne.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -10773,6 +10800,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Gametoon",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",Diva Adria",
     "logo": "https://i.imgur.com/iiuTYRU.png",
     "country": "",
@@ -12183,6 +12219,15 @@
     "language": "",
     "group": "Legislative",
     "url": "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Middle East TV (1080p)",
+    "logo": "https://i.imgur.com/oKU5KeW.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8",
     "isHttps": true
   },
   {
@@ -17766,7 +17811,7 @@
     "isHttps": true
   },
   {
-    "name": "RTR-Planeta US (720p)",
+    "name": "RTR-Planeta US (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/0YEahxs.png",
     "country": "",
     "language": "",
@@ -18387,12 +18432,12 @@
     "isHttps": true
   },
   {
-    "name": "Silk Way (1080p)",
+    "name": "Silk Way",
     "logo": "https://i.imgur.com/SJNDksF.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
+    "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -22689,12 +22734,12 @@
     "isHttps": true
   },
   {
-    "name": "WCGtv Public (720p)",
+    "name": "WCGtv Public (1080p)",
     "logo": "https://i.imgur.com/q7UPbEG.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8",
+    "url": "https://wcgtv.ca/live-10/live/stream-1/live.m3u8",
     "isHttps": true
   },
   {
@@ -24012,6 +24057,15 @@
     "isHttps": false
   },
   {
+    "name": "BabyTV US (576p)",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/641/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BBC America (720p)",
     "logo": "https://i.imgur.com/pTiiPz0.png",
     "country": "",
@@ -24543,6 +24597,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Junior West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/655/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney XD (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "country": "",
@@ -24795,15 +24858,6 @@
     "isHttps": false
   },
   {
-    "name": "GetTV (720p)",
-    "logo": "https://i.imgur.com/evOWORd.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://206.212.244.63/80/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Global Christian Network America (GCN) (720p)",
     "logo": "https://i.imgur.com/DWSWrtV.png",
     "country": "",
@@ -24826,17 +24880,8 @@
     "logo": "https://i.imgur.com/TzvnHDn.png",
     "country": "",
     "language": "",
-    "group": "Family",
+    "group": "Family;Movies",
     "url": "http://206.212.244.63/81/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Great American Living (1080p)",
-    "logo": "https://i.imgur.com/ccBJuRA.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://206.212.244.63/82/index.m3u8",
     "isHttps": false
   },
   {
@@ -24862,8 +24907,17 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/960px-Hallmark_Family_2024.svg.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
+    "group": "Movies",
     "url": "http://206.212.244.63/85/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hallmark Movies & Mysteries (720p)",
+    "logo": "https://i.imgur.com/GPRGA9C.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://206.212.244.63/86/index.m3u8",
     "isHttps": false
   },
   {
@@ -25479,6 +25533,15 @@
     "isHttps": false
   },
   {
+    "name": "MLB Strike Zone (720p)",
+    "logo": "https://i.imgur.com/uMI1ySO.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MMA-TV (576p)",
     "logo": "https://i.imgur.com/Qxco1eW.png",
     "country": "",
@@ -26082,6 +26145,15 @@
     "isHttps": false
   },
   {
+    "name": "Screamfest (720p)",
+    "logo": "https://i.imgur.com/bZstXT1.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://206.212.244.63/147/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "SEC Network (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png",
     "country": "",
@@ -26230,7 +26302,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/960px-Start_TV_logo.svg.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
+    "group": "Series",
     "url": "http://206.212.244.63/150/index.m3u8",
     "isHttps": false
   },
@@ -26331,6 +26403,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TeenNick (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/670/index.m3u8",
     "isHttps": false
   },
   {
