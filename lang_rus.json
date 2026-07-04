@@ -450,21 +450,21 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Sports\",Матч! Планета (720p)",
-    "logo": "https://i.imgur.com/vhyMb9D.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)\" group-title=\"General\",Rossiya 1 Vainah (576i)",
     "logo": "https://i.imgur.com/GnbNG0r.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"General\",Belsat TV (576p)",
+    "logo": "https://i.imgur.com/qJyjSR6.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://iptv.prosto.tv/ch171/index.m3u8",
     "isHttps": true
   },
   {
@@ -711,12 +711,12 @@
     "isHttps": true
   },
   {
-    "name": "Rada TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png",
+    "name": "Qonaev Media",
+    "logo": "https://i.imgur.com/JLlqgdp.png",
     "country": "",
     "language": "",
-    "group": "Legislative",
-    "url": "https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8",
+    "group": "Entertainment",
+    "url": "https://s.qonaevtv.kz/live/qonaev/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -846,12 +846,12 @@
     "isHttps": true
   },
   {
-    "name": "Silk Way",
+    "name": "Silk Way (1080p)",
     "logo": "https://i.imgur.com/SJNDksF.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
     "isHttps": true
   },
   {
@@ -1068,6 +1068,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Sport Stars Russia (720p)",
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2502,15 +2511,6 @@
     "isHttps": false
   },
   {
-    "name": "Belsat TV (1080p)",
-    "logo": "https://i.imgur.com/qJyjSR6.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://91.246.72.88:8000/play/a01w/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Big Planet (1080p)",
     "logo": "https://i.imgur.com/wyuqWTR.png",
     "country": "",
@@ -3282,15 +3282,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Trace Sport Stars",
-    "logo": "https://i.imgur.com/FabFP5A.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8",
     "isHttps": false
   },
   {

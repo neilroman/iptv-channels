@@ -504,15 +504,6 @@
     "isHttps": true
   },
   {
-    "name": "ADN 40 (720p)",
-    "logo": "https://i.imgur.com/Og17U9N.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ADN TV (720p)",
     "logo": "https://i.imgur.com/AVfTwNw.png",
     "country": "",
@@ -1008,6 +999,15 @@
     "isHttps": true
   },
   {
+    "name": "ANC (480p)",
+    "logo": "https://i.imgur.com/odwRbRk.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streams.comclark.com/pknsd/anc/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AnewZ",
     "logo": "https://i.imgur.com/Lwgdbuu.png",
     "country": "",
@@ -1428,6 +1428,15 @@
     "language": "",
     "group": "Business;News",
     "url": "https://feeds.intoday.in/bttv/itgd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BTB Info (1080p)",
+    "logo": "https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info",
+    "country": "",
+    "language": "",
+    "group": "Documentary;News",
+    "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
     "isHttps": true
   },
   {
@@ -2034,12 +2043,12 @@
     "isHttps": true
   },
   {
-    "name": "CNews (1080p) [Geo-blocked]",
+    "name": "CNews (1080p)",
     "logo": "https://i.imgur.com/sSNhk2g.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8",
     "isHttps": true
   },
   {
@@ -2049,6 +2058,15 @@
     "language": "",
     "group": "News",
     "url": "https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CNEWS PRIME (1080p)",
+    "logo": "https://www.cnews.fr/themes/cnews/img/cnews-prime.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8",
     "isHttps": true
   },
   {
@@ -2112,6 +2130,15 @@
     "language": "",
     "group": "News",
     "url": "https://trs1.aynaott.com/cp24/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CRTV News",
+    "logo": "https://i.imgur.com/5CshVf9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2913,6 +2940,15 @@
     "language": "",
     "group": "News",
     "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "GTV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rWhamwh.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streams.comclark.com/pknsd/gtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5361,15 +5397,6 @@
     "language": "",
     "group": "News",
     "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "OAN (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7875,6 +7902,15 @@
     "isHttps": false
   },
   {
+    "name": "ADN 40 (1080p)",
+    "logo": "https://i.imgur.com/Og17U9N.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.189.62.33:8002/play/a0ob/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ALWifak News TV (720p)",
     "logo": "https://i.imgur.com/1vqhmNz.png",
     "country": "",
@@ -8091,6 +8127,15 @@
     "isHttps": false
   },
   {
+    "name": "ESPNews (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News;Sports",
+    "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Extra ProNews (576p)",
     "logo": "https://i.imgur.com/VKW9xw6.png",
     "country": "",
@@ -8151,15 +8196,6 @@
     "language": "",
     "group": "News",
     "url": "http://170.82.202.31/GNT/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "GTV (576p)",
-    "logo": "https://i.imgur.com/rWhamwh.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://pro.reott8k.xyz/play/live.php?extension=m3u8&mac=00:1A:79:7B:BB:36&stream=1548700",
     "isHttps": false
   },
   {
@@ -8235,6 +8271,15 @@
     "isHttps": false
   },
   {
+    "name": "LCI HD (1080p)",
+    "logo": "https://i.imgur.com/DED8EXs.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://151.80.18.177:86/LCI_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Léman Bleu (1080p)",
     "logo": "https://i.imgur.com/6ijbSTr.png",
     "country": "",
@@ -8286,6 +8331,24 @@
     "language": "",
     "group": "News",
     "url": "http://213.91.179.28:8000/play/a063",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"News\",Rai News 24 HD",
+    "logo": "https://i.imgur.com/n2u57y3.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://91.146.94.234:10001/play/a135",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"News\",TGCom24 HD",
+    "logo": "https://i.imgur.com/fPmvbGH.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://91.146.94.234:10001/play/a08t",
     "isHttps": false
   },
   {
@@ -8439,6 +8502,15 @@
     "language": "",
     "group": "News",
     "url": "http://103.250.28.74:8000/play/a046/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "One America News Network (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8",
     "isHttps": false
   },
   {

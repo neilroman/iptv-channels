@@ -3276,6 +3276,15 @@
     "isHttps": true
   },
   {
+    "name": "Karbala Documentary",
+    "logo": "https://www.karbala-tv.iq/documentary/static/img/logo.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Religious",
+    "url": "https://ktvlive.online/stream/hls/ch3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kerusso TV (720p)",
     "logo": "https://i.imgur.com/S79uof0.png",
     "country": "",
@@ -4320,6 +4329,15 @@
     "isHttps": true
   },
   {
+    "name": "Nesiha TV (720p)",
+    "logo": "https://i.imgur.com/rqEyzjE.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://stream.cisk.tech/nasihatv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "New Vision TV (360p)",
     "logo": "",
     "country": "",
@@ -4785,6 +4803,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://v2.tustreaming.cl/armoniamovil/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio El Sembrador (720p)",
+    "logo": "https://i.imgur.com/gBpMAc3.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6819,15 +6846,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TBN (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/960px-TBN_logo_2015.jpg",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://40.160.24.55/TBN/index.m3u8",
     "isHttps": false
   },
   {
