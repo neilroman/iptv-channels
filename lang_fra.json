@@ -1755,6 +1755,15 @@
     "isHttps": true
   },
   {
+    "name": "Le Monde en 24h",
+    "logo": "https://i.imgur.com/2igwi7g.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Le Nouveau Manager TV",
     "logo": "https://i.imgur.com/pEoOtEf.jpeg",
     "country": "",
@@ -1797,15 +1806,6 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Life TV (1080p)",
-    "logo": "https://i.imgur.com/iz9qHZk.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4437,6 +4437,15 @@
     "isHttps": false
   },
   {
+    "name": "Paris Premiere (1080p)",
+    "logo": "https://i.imgur.com/ily4bEm.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Passion Novelas (1080p)",
     "logo": "https://i.imgur.com/boo9jmf.png",
     "country": "",
@@ -4554,12 +4563,12 @@
     "isHttps": false
   },
   {
-    "name": "RTL9 (720p)",
+    "name": "RTL9 (1080p)",
     "logo": "https://i.imgur.com/nFqjVNW.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://rezofoot.tv/rtl-9/index.m3u8",
+    "url": "http://cdn.haititivi.com/rtl-9/index.m3u8",
     "isHttps": false
   },
   {
@@ -4650,6 +4659,15 @@
     "language": "",
     "group": "General",
     "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Teletoon+ (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://cdn.haititivi.com/TELETOON-HD/index.m3u8",
     "isHttps": false
   },
   {

@@ -10413,15 +10413,6 @@
     "isHttps": true
   },
   {
-    "name": "KOOL TV (720p)",
-    "logo": "https://i.imgur.com/YqhTtcw.jpeg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Kordia TV (1080p)",
     "logo": "https://i.imgur.com/BQ0qWzX.png",
     "country": "",
@@ -10680,6 +10671,15 @@
     "language": "",
     "group": "General",
     "url": "https://reflect-live-lawndale.cablecast.tv/live-4/live/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Le Monde en 24h",
+    "logo": "https://i.imgur.com/2igwi7g.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
     "isHttps": true
   },
   {
@@ -13668,6 +13668,15 @@
     "language": "",
     "group": "General",
     "url": "https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NBC Universo (720p)",
+    "logo": "https://i.imgur.com/RZ8pIKe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streamvidex.qzz.io/videx/universo/index.m3u8",
     "isHttps": true
   },
   {
@@ -20043,6 +20052,15 @@
     "isHttps": true
   },
   {
+    "name": "Telemundo (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streamvidex.qzz.io/videx/telemundo/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Telemundo telenovelas clásicas",
     "logo": "https://i.imgur.com/9bPcYIN.png",
     "country": "",
@@ -22212,6 +22230,15 @@
     "isHttps": true
   },
   {
+    "name": "Unite8 Sports 2 HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://mini.allinonereborn.fun/tata.php?id=11624",
+    "isHttps": true
+  },
+  {
     "name": "United TV (540p)",
     "logo": "https://i.imgur.com/2isM8xd.png",
     "country": "",
@@ -23725,7 +23752,7 @@
   },
   {
     "name": "YTA TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/84/YouToo_America_logo.png",
+    "logo": "",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -24867,6 +24894,15 @@
     "isHttps": false
   },
   {
+    "name": "Fox Sports 1",
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Freeform (720p)",
     "logo": "https://i.imgur.com/BGAGeIf.png",
     "country": "",
@@ -25011,11 +25047,11 @@
     "isHttps": false
   },
   {
-    "name": "Hallmark Movies & Mysteries (720p)",
-    "logo": "https://i.imgur.com/GPRGA9C.png",
+    "name": "Hallmark Mystery (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
     "country": "",
     "language": "",
-    "group": "Movies",
+    "group": "Movies;Series",
     "url": "http://206.212.244.63/86/index.m3u8",
     "isHttps": false
   },
@@ -25089,6 +25125,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://103.154.3.101:5001/live/577.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Home Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Home_Network_logo.svg/1920px-Home_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://40.160.24.53/HGTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -25350,15 +25395,6 @@
     "language": "",
     "group": "Auto",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Kids\",Disney Stories (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_STORIES/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -26253,8 +26289,8 @@
     "isHttps": false
   },
   {
-    "name": "Screamfest (720p)",
-    "logo": "https://i.imgur.com/bZstXT1.png",
+    "name": "Scares by Shudder (720p)",
+    "logo": "https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -26343,12 +26379,12 @@
     "isHttps": false
   },
   {
-    "name": "Smithsonian Channel (720p)",
+    "name": "Smithsonian Channel (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png",
     "country": "",
     "language": "",
     "group": "Science",
-    "url": "http://185.246.209.113/SmithsonianHD/index.m3u8",
+    "url": "http://40.160.24.55/SMITHSONIAN/index.m3u8",
     "isHttps": false
   },
   {
@@ -26739,12 +26775,12 @@
     "isHttps": false
   },
   {
-    "name": "Unite8 Sports 2 HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+    "name": "Univision (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
     "country": "",
     "language": "",
-    "group": "Sports",
-    "url": "http://212.102.34.8:9080/AndFlixHD/video.m3u8",
+    "group": "Undefined",
+    "url": "http://200.115.120.1:8000/play/ca106/index.m3u8",
     "isHttps": false
   },
   {
