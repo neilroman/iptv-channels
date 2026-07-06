@@ -257,7 +257,7 @@
     "country": "",
     "language": "",
     "group": "Informativos",
-    "url": "https://dpcj1q84r586o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkqd2yaveiqbt/24HES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621",
     "isHttps": true
   },
   {
@@ -879,6 +879,15 @@
     "language": "",
     "group": "R. de Murcia",
     "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Arabí TV",
+    "logo": "https://graph.facebook.com/arabitvyecla/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "R. de Murcia",
+    "url": "https://servidor.islahostingla.com:3548/live/arabitvlive.m3u8",
     "isHttps": true
   },
   {
@@ -1517,7 +1526,7 @@
     "country": "",
     "language": "",
     "group": "Infantiles",
-    "url": "https://d1wca51iywzyn1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2jakfg63mh4b/ClanES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620",
     "isHttps": true
   },
   {
@@ -2259,6 +2268,15 @@
     "isHttps": true
   },
   {
+    "name": "EWTN",
+    "logo": "https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Religiosos",
+    "url": "https://1211313014.rsc.cdn77.org/1211313014/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "EWTN EN",
     "logo": "https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",
     "country": "",
@@ -2611,7 +2629,7 @@
   },
   {
     "name": "La 1 Canarias",
-    "logo": "https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
     "country": "",
     "language": "",
     "group": "Canarias",
@@ -2620,7 +2638,7 @@
   },
   {
     "name": "La 1 Catalunya",
-    "logo": "https://pbs.twimg.com/profile_images/2008842210414915584/zIp_go25_200x200.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
     "country": "",
     "language": "",
     "group": "Cataluña",
@@ -2642,7 +2660,7 @@
     "country": "",
     "language": "",
     "group": "Generalistas",
-    "url": "https://d1yebix5w29z3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-haqfba85d1gvv/La2ES.m3u8",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618",
     "isHttps": true
   },
   {
@@ -3038,7 +3056,7 @@
     "country": "",
     "language": "",
     "group": "Int. América",
-    "url": "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-67e6979de1de65be88aeb39f/?X-Plex-Token=zBXsxVNLkczFVyqfDaGK",
+    "url": "https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8",
     "isHttps": true
   },
   {
@@ -3767,7 +3785,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://play.agenciastreaming.com:8081/saltv/index.m3u8",
+    "url": "https://nimble.tuyapro.es/saltv/tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4010,7 +4028,16 @@
     "country": "",
     "language": "",
     "group": "Int. Europa",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star TVE Europa",
+    "logo": "https://graph.facebook.com/STARTVEInternacional/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8",
     "isHttps": true
   },
   {
@@ -4590,12 +4617,57 @@
     "isHttps": true
   },
   {
+    "name": "TVE Int. América GEO",
+    "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. América",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVE Int. América GEO",
+    "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. América",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVE Int. Asia y Pacífico GEO",
+    "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Asia",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_dvr_1080.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVE Int. Asia y Pacífico GEO",
+    "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Asia",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_asia_main_dvr.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVE Int. Europa",
     "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. Europa",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVE Int. Europa",
+    "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8",
     "isHttps": true
   },
   {
