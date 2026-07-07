@@ -203,7 +203,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
+    "url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
     "isHttps": true
   },
   {
@@ -342,21 +342,21 @@
     "isHttps": true
   },
   {
-    "name": "Home Shopping Russia (576p)",
-    "logo": "https://i.imgur.com/7MrWzUT.png",
-    "country": "",
-    "language": "",
-    "group": "Shop",
-    "url": "https://moymir.ru/hls/onair.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Indiyskoye Kino",
     "logo": "https://i.imgur.com/LL8GyCh.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Istoki (1080p)",
+    "logo": "https://istoki.tv/local/templates/istoki_new/img/logo.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://istoki.tv/live/stream1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -441,6 +441,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Мир (720p)",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Legislative\",Дума ТВ (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/JvlO3PU.png",
     "country": "",
@@ -474,15 +483,6 @@
     "language": "",
     "group": "Outdoor",
     "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Lyubimoe.TV (720p)",
-    "logo": "https://i.imgur.com/JJv81ZP.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://istoki.tv/live/stream1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -573,6 +573,24 @@
     "language": "",
     "group": "Classic;Movies",
     "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Moy mir (720p)",
+    "logo": "https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png",
+    "country": "",
+    "language": "",
+    "group": "Shop",
+    "url": "https://moymir.ru/hls/onair.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MTRK (576p)",
+    "logo": "https://i.imgur.com/XMyRwDk.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8",
     "isHttps": true
   },
   {
@@ -837,12 +855,30 @@
     "isHttps": true
   },
   {
+    "name": "RU.TV Kids (720p)",
+    "logo": "https://rutvkids.ru/assets/logo_rutv_kids-Bn4u0Blf.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://rutvkids.ru/live/efir/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Russia-1 HD (1080p)",
     "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Russia-24 HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -1278,6 +1314,15 @@
     "isHttps": true
   },
   {
+    "name": "Zvezda HD (1080p)",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zvezda Plus (1080p)",
     "logo": "https://i.imgur.com/NNmjD9Z.png",
     "country": "",
@@ -1638,15 +1683,6 @@
     "isHttps": true
   },
   {
-    "name": "МТРК (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/XMyRwDk.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Муз союз (576p)",
     "logo": "https://i.imgur.com/Puk1Bhx.png",
     "country": "",
@@ -1905,6 +1941,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://vod.tuva.ru/friday/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Пятый Канал (540p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/KPXMa3U.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
     "isHttps": true
   },
   {
@@ -2547,6 +2592,15 @@
     "isHttps": false
   },
   {
+    "name": "Belarus-5 HD (1080p)",
+    "logo": "https://i.imgur.com/NJsRFud.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://178.124.179.122:8080/BT5/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Big Planet (1080p)",
     "logo": "https://i.imgur.com/wyuqWTR.png",
     "country": "",
@@ -2610,7 +2664,16 @@
     "isHttps": false
   },
   {
-    "name": "Channel 5 (576p)",
+    "name": "Carousel (720p)",
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.37.150.46/Karusel/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Channel 5 +2 (576p)",
     "logo": "https://i.imgur.com/KPXMa3U.png",
     "country": "",
     "language": "",
@@ -2625,6 +2688,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://45.11.139.43:8555/8kanal/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Channel One +8 (576p)",
+    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://188.113.190.13/1/video.m3u8",
     "isHttps": false
   },
   {
@@ -2781,15 +2853,6 @@
     "isHttps": false
   },
   {
-    "name": "Karapuz TV (720p)",
-    "logo": "https://i.imgur.com/7nSbEVv.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "KHL (720p)",
     "logo": "https://i.imgur.com/RgdHdOV.png",
     "country": "",
@@ -2868,6 +2931,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://hls127.freeott.top:8080/Kluch/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "KVN TV (576p)",
+    "logo": "https://i.imgur.com/Vw3LFLX.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://178.124.179.122:8080/KVN-TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -2958,6 +3030,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mir HD (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mir Kazakhstan (576p)",
+    "logo": "https://i.imgur.com/AqWaJT8.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://tvcdn01.esilnet.kz/tv/mir/index.m3u8",
     "isHttps": false
   },
   {
@@ -3155,6 +3245,15 @@
     "country": "",
     "language": "",
     "group": "General",
+    "url": "http://31.148.48.15/REN-TV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "REN TV +2 (576p)",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "country": "",
+    "language": "",
+    "group": "General",
     "url": "http://94.230.128.107:8080/PEH_TB/index.m3u8",
     "isHttps": false
   },
@@ -3222,12 +3321,30 @@
     "isHttps": false
   },
   {
+    "name": "Soyuzny (480p)",
+    "logo": "https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://178.124.179.122:8080/TRO/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "STS (576p)",
     "logo": "https://i.imgur.com/ilUzAeb.png",
     "country": "",
     "language": "",
     "group": "Family",
     "url": "http://94.230.128.107:8080/CTC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "STS (576p)",
+    "logo": "https://i.imgur.com/ilUzAeb.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://tshift-1.telecoma.tv/sts/index.m3u8",
     "isHttps": false
   },
   {
@@ -3303,6 +3420,15 @@
     "isHttps": false
   },
   {
+    "name": "Tooku (1080p)",
+    "logo": "https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Top Secret (576p)",
     "logo": "https://i.imgur.com/HM4xy4G.png",
     "country": "",
@@ -3345,6 +3471,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://178.124.179.122:8080/TB-3/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV-3 (576p)",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://94.230.129.31:8080/TB3/index.m3u8",
     "isHttps": false
   },
   {
@@ -3411,6 +3546,15 @@
     "isHttps": false
   },
   {
+    "name": "viju History (576p)",
+    "logo": "https://i.imgur.com/FqWkeXb.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "viju TV1000 Русское (576p)",
     "logo": "https://i.imgur.com/Meak2y4.png",
     "country": "",
@@ -3462,6 +3606,24 @@
     "language": "",
     "group": "General",
     "url": "http://51.158.144.33:2021/zvezda/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zvezda +2 (576p)",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://94.230.128.107:8080/Zvezda/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zvezda Plus HD (1080p)",
+    "logo": "https://i.imgur.com/NNmjD9Z.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3627,15 +3789,6 @@
     "isHttps": false
   },
   {
-    "name": "КВН ТВ (576p)",
-    "logo": "https://i.imgur.com/Vw3LFLX.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "http://31.148.48.15/KVN_TV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Кинеко (1080p)",
     "logo": "https://i.imgur.com/Otfvlmf.png",
     "country": "",
@@ -3759,15 +3912,6 @@
     "language": "",
     "group": "General",
     "url": "http://31.148.48.15/Mir/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Мир (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/AqWaJT8.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
     "isHttps": false
   },
   {

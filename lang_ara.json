@@ -261,6 +261,15 @@
     "isHttps": true
   },
   {
+    "name": "Al Janoub TV",
+    "logo": "https://i.imgur.com/rxDh6W1.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live.alissahost.net/hls/test.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Al Jazeera (1080p)",
     "logo": "https://i.imgur.com/7bRVpnu.png",
     "country": "",
@@ -618,6 +627,24 @@
     "language": "",
     "group": "News",
     "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Alawla TV",
+    "logo": "https://i.imgur.com/3Kv0t3X.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live.alawla.tv/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Alghadeer TV (1080p)",
+    "logo": "https://i.imgur.com/YPj6kXq.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8",
     "isHttps": true
   },
   {
@@ -1428,6 +1455,15 @@
     "language": "",
     "group": "General;Religious",
     "url": "https://aloula-redirect.vercel.app/13/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "i24NEWS Arabic (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
     "isHttps": true
   },
   {

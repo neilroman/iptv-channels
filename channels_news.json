@@ -738,6 +738,15 @@
     "isHttps": true
   },
   {
+    "name": "Al Janoub TV",
+    "logo": "https://i.imgur.com/rxDh6W1.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live.alissahost.net/hls/test.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Al Jazeera (1080p)",
     "logo": "https://i.imgur.com/7bRVpnu.png",
     "country": "",
@@ -897,6 +906,15 @@
     "language": "",
     "group": "News",
     "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Alghadeer TV (1080p)",
+    "logo": "https://i.imgur.com/YPj6kXq.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8",
     "isHttps": true
   },
   {
@@ -2574,6 +2592,15 @@
     "isHttps": true
   },
   {
+    "name": "Euro TV (432p)",
+    "logo": "https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Euronews (720p)",
     "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg",
     "country": "",
@@ -3222,24 +3249,6 @@
     "isHttps": true
   },
   {
-    "name": "I24 News English (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "I24 News French (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "I24 News Hebrew (1080p)",
     "logo": "https://www.i24news.tv/images/favicon.png",
     "country": "",
@@ -3249,12 +3258,39 @@
     "isHttps": true
   },
   {
+    "name": "i24NEWS Arabic (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "i24NEWS English USA (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "i24NEWS English World (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "i24NEWS French (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
     "isHttps": true
   },
   {
@@ -3687,6 +3723,33 @@
     "language": "",
     "group": "Legislative;News",
     "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KPVM Newsmax 2 [Not 24/7]",
+    "logo": "https://i.imgur.com/iE1izWq.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KPVM OAN Plus",
+    "logo": "https://i.imgur.com/T9VhMAD.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KPVM Real America's Voice",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4137,15 +4200,6 @@
     "language": "",
     "group": "News",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8?ads.vf=4diMqEgh9hm",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"News\",Newsmax TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=Td2nCUXB4ha",
     "isHttps": true
   },
   {
@@ -5202,6 +5256,15 @@
     "isHttps": true
   },
   {
+    "name": "Newsmax TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NewsNet (720p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
     "country": "",
@@ -5427,12 +5490,12 @@
     "isHttps": true
   },
   {
-    "name": "OAN Plus (1080p)",
+    "name": "OANPlus (1080p)",
     "logo": "https://i.imgur.com/0xW69iu.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
+    "url": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6282,6 +6345,15 @@
     "isHttps": true
   },
   {
+    "name": "Russia-24 HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SABC Lehae [Geo-blocked]",
     "logo": "https://i.imgur.com/YhdnZHH.png",
     "country": "",
@@ -6657,6 +6729,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-1.pishow.tv/live/385/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "T13 En Vivo (1080p)",
+    "logo": "https://i.imgur.com/2Vlkl2x.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://redirector.dps.live/hls/t13/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7992,6 +8073,15 @@
     "isHttps": false
   },
   {
+    "name": "BBC News UK HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.153.96.44:8001",
+    "isHttps": false
+  },
+  {
     "name": "Burkina Info TV (540p)",
     "logo": "https://i.imgur.com/a9v5CbU.png",
     "country": "",
@@ -8488,7 +8578,7 @@
   },
   {
     "name": "NewsNation (720p)",
-    "logo": "https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512",
+    "logo": "https://thehill.com/wp-content/uploads/sites/2/2025/08/NN-Stacked-Logo_Blue_1400x787.png",
     "country": "",
     "language": "",
     "group": "News",

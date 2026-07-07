@@ -1359,12 +1359,12 @@
     "isHttps": true
   },
   {
-    "name": "I24 News French (720p)",
+    "name": "i24NEWS French (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8",
+    "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
     "isHttps": true
   },
   {
@@ -3132,6 +3132,15 @@
     "isHttps": true
   },
   {
+    "name": "Sun+ TV",
+    "logo": "https://i.imgur.com/5XCXWy7.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://livemaraboo.com/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sunu Label TV (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/Ibp7IBk.jpeg",
     "country": "",
@@ -3426,6 +3435,24 @@
     "language": "",
     "group": "Music;Religious",
     "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Gospel Southern Africa",
+    "logo": "https://i.imgur.com/X0UmU3K.png",
+    "country": "",
+    "language": "",
+    "group": "Music;Religious",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Ivoire",
+    "logo": "https://ibb.co/JwMs0bFF",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8",
     "isHttps": true
   },
   {

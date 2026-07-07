@@ -504,12 +504,39 @@
     "isHttps": true
   },
   {
+    "name": "DSports (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "DSports 2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "DSports Uruguay",
     "logo": "https://i.imgur.com/2PoEm1x.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "DSports+ (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8",
     "isHttps": true
   },
   {
@@ -717,6 +744,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Fox Sports 1 (720p)",
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8",
     "isHttps": true
   },
   {
@@ -1527,6 +1563,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MTRSPT1 (1080p)",
+    "logo": "https://i.imgur.com/Rb1H5cV.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2736,15 +2781,6 @@
     "isHttps": true
   },
   {
-    "name": "TVRI Sport (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TVS Bowling Network (720p)",
     "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
     "country": "",
@@ -3024,6 +3060,15 @@
     "isHttps": false
   },
   {
+    "name": "Belarus-5 HD (1080p)",
+    "logo": "https://i.imgur.com/NJsRFud.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://178.124.179.122:8080/BT5/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canal+ Sport (1080p)",
     "logo": "https://i.imgur.com/EOXnU15.png",
     "country": "",
@@ -3141,6 +3186,33 @@
     "isHttps": false
   },
   {
+    "name": "ESPN (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ESPN 3 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://181.78.197.59:8000/play/a081/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ESPN 4 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ESPNews (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
     "country": "",
@@ -3192,15 +3264,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://91.146.94.234:10001/play/a085",
-    "isHttps": false
-  },
-  {
-    "name": "Fox Sports 1",
-    "logo": "https://i.imgur.com/O9BapV9.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
     "isHttps": false
   },
   {
@@ -3681,6 +3744,15 @@
     "isHttps": false
   },
   {
+    "name": "Sport TV (1080p)",
+    "logo": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://178.124.179.122:8080/SportTV/mpegts",
+    "isHttps": false
+  },
+  {
     "name": "SPOTV (720p)",
     "logo": "https://i.imgur.com/HaoVsm5.png",
     "country": "",
@@ -3777,6 +3849,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://cdn.tvmatic.net/fight.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVRI Sport (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://157.15.187.3:25092/hls/49/49.m3u8",
     "isHttps": false
   },
   {
