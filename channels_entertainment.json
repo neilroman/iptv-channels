@@ -2943,6 +2943,15 @@
     "isHttps": true
   },
   {
+    "name": "Lemar TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Lietuvos Rytas TV (1080p)",
     "logo": "https://i.imgur.com/5wpxVI0.png",
     "country": "",
@@ -6471,6 +6480,24 @@
     "isHttps": false
   },
   {
+    "name": "A&E Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.162.231.38:7779/AE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "A&E Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.6.4.35/AE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Aathavan TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/LEVEhTH.png",
     "country": "",
@@ -6777,6 +6804,24 @@
     "isHttps": false
   },
   {
+    "name": "E! Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;News",
+    "url": "http://45.162.231.38:7779/E/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "E! Latin America Mexico (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;News",
+    "url": "http://72.1.184.5:8089/play/a05d/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "E4 (1080p)",
     "logo": "https://i.imgur.com/22MfjF4.png",
     "country": "",
@@ -6855,6 +6900,33 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FX (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://138.121.15.230:9002/FX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FX Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://167.250.126.140:7777/FX-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FX Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.6.4.35/FX/index.m3u8",
     "isHttps": false
   },
   {
@@ -7053,6 +7125,24 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://138.121.15.230:9002/LIFETIME/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Lifetime Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.162.231.38:7779/Lifetime/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Lifetime Latin America Mexico (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://177.245.131.133:8080/LIFETIME/index.m3u8",
     "isHttps": false
   },
   {
@@ -7287,6 +7377,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/248.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MTV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.162.231.38:7779/MTV/index.m3u8",
     "isHttps": false
   },
   {

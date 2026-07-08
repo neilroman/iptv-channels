@@ -1116,15 +1116,6 @@
     "isHttps": true
   },
   {
-    "name": "Arirang TV HD",
-    "logo": "https://i.imgur.com/Asu5pE9.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Arirang TV UN (1080p)",
     "logo": "https://i.imgur.com/Jdy3WNm.png",
     "country": "",
@@ -1833,15 +1824,6 @@
     "language": "",
     "group": "News",
     "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CGTN Español (1080p)",
-    "logo": "https://i.imgur.com/Poz3xfi.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2706,15 +2688,6 @@
     "language": "",
     "group": "News",
     "url": "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Exitosa TV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/pu0BSB7.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
     "isHttps": true
   },
   {
@@ -6327,15 +6300,6 @@
     "isHttps": true
   },
   {
-    "name": "RTU (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/1OWvMP4.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
-    "isHttps": true
-  },
-  {
     "name": "Rudaw TV (1080p)",
     "logo": "https://i.imgur.com/Zo3IWOn.png",
     "country": "",
@@ -8010,6 +7974,15 @@
     "isHttps": false
   },
   {
+    "name": "AgroMais (720p)",
+    "logo": "https://i.imgur.com/sFcOZeo.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://167.250.126.140:7777/AGROMAIS-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ALWifak News TV (720p)",
     "logo": "https://i.imgur.com/1vqhmNz.png",
     "country": "",
@@ -8028,12 +8001,30 @@
     "isHttps": false
   },
   {
+    "name": "Argentina/12 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/330px-Argentina12_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.6.4.35/IP_NOTICIAS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Arirang TV (1080p)",
     "logo": "https://i.imgur.com/Asu5pE9.png",
     "country": "",
     "language": "",
     "group": "General;News",
     "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Arirang TV HD (720p)",
+    "logo": "https://i.imgur.com/Asu5pE9.png",
+    "country": "",
+    "language": "",
+    "group": "General;News",
+    "url": "http://45.162.64.114/ARIRANG/index.m3u8",
     "isHttps": false
   },
   {
@@ -8064,6 +8055,15 @@
     "isHttps": false
   },
   {
+    "name": "BBC News Latin America (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://138.121.15.230:9002/BBC-NEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BBC News North America (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -8088,6 +8088,24 @@
     "language": "",
     "group": "News",
     "url": "http://69.64.57.208/burkinainfo/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "C5N (720p)",
+    "logo": "https://i.imgur.com/5ZNZYjO.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.6.4.35/C5N/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cablenoticias (720p)",
+    "logo": "https://i.imgur.com/FfhOGR9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8",
     "isHttps": false
   },
   {
@@ -8124,6 +8142,15 @@
     "language": "",
     "group": "News",
     "url": "http://go.bkpcp.top/mg/cctv13",
+    "isHttps": false
+  },
+  {
+    "name": "CGTN Spanish (1080p)",
+    "logo": "https://i.imgur.com/Poz3xfi.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.6.4.35/CGTN/index.m3u8",
     "isHttps": false
   },
   {
@@ -8217,6 +8244,24 @@
     "isHttps": false
   },
   {
+    "name": "E! Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;News",
+    "url": "http://45.162.231.38:7779/E/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "E! Latin America Mexico (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;News",
+    "url": "http://72.1.184.5:8089/play/a05d/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/uFDkOhV.png",
     "country": "",
@@ -8241,6 +8286,24 @@
     "language": "",
     "group": "News;Sports",
     "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Euronews Georgia",
+    "logo": "https://i.imgur.com/VNJ4soR.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts",
+    "isHttps": false
+  },
+  {
+    "name": "Exitosa TV (720p)",
+    "logo": "https://i.imgur.com/pu0BSB7.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://187.102.210.46/EXITOSA/index.m3u8",
     "isHttps": false
   },
   {
@@ -8718,6 +8781,15 @@
     "language": "",
     "group": "News",
     "url": "http://178.33.11.6:8696/live/rtsh24/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RTU (1080p)",
+    "logo": "https://i.imgur.com/1OWvMP4.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.224.97.181:9999/RTU/index.m3u8",
     "isHttps": false
   },
   {

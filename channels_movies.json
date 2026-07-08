@@ -522,15 +522,6 @@
     "isHttps": true
   },
   {
-    "name": "Cine Sony (720p)",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cine terror",
     "logo": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
     "country": "",
@@ -4743,6 +4734,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://177.234.249.178:8888/AMC/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Amedia Hit (720p)",
     "logo": "https://i.imgur.com/a8ZBGBw.png",
     "country": "",
@@ -4788,6 +4788,15 @@
     "isHttps": false
   },
   {
+    "name": "AXN (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.162.231.38:7779/AXN/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AXN CEE Bulgary",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -4797,30 +4806,39 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America",
+    "name": "AXN Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.167.1.138:8000/play/a04s",
+    "url": "http://138.121.15.230:9002/AXN/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "AXN Latin America Mexico",
+    "name": "AXN Latin America Andes (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+    "url": "http://177.234.249.178:8888/AXN/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "AXN Latin America South",
+    "name": "AXN Latin America Mexico (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
+    "url": "http://177.245.131.133:8080/AXN/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.6.4.35/AXN/index.m3u8",
     "isHttps": false
   },
   {
@@ -4932,12 +4950,57 @@
     "isHttps": false
   },
   {
+    "name": "Cine Mexicano (1080p)",
+    "logo": "https://i.imgur.com/BhHKphL.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cine Premium (1080p)",
     "logo": "https://i.imgur.com/tC3jGd4.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cine Sony (1080p)",
+    "logo": "https://i.imgur.com/bZWoDTg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinecanal Mexico (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinecanal Pacific (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinecanal South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.6.4.35/CINECANAL/index.m3u8",
     "isHttps": false
   },
   {
@@ -5040,6 +5103,15 @@
     "isHttps": false
   },
   {
+    "name": "De Pelicula US (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/960px-DPel%C3%ADcula_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://138.121.15.230:9002/DEPELICULA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "DHE (1080p)",
     "logo": "https://i.imgur.com/nsttoEa.png",
     "country": "",
@@ -5064,6 +5136,15 @@
     "language": "",
     "group": "Animation;Movies",
     "url": "http://31.148.48.15/Fan/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Film & Arts (1080p)",
+    "logo": "https://i.imgur.com/ukdmEKD.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.6.4.35/FILM_AND_ARTS/index.m3u8",
     "isHttps": false
   },
   {
@@ -5841,6 +5922,15 @@
     "isHttps": false
   },
   {
+    "name": "Paramount Network Latin America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Polsat Film (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/wGH6shZ.png",
     "country": "",
@@ -5931,6 +6021,24 @@
     "isHttps": false
   },
   {
+    "name": "Star Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Channel Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://45.6.4.35/FOX/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Gold 2 (576p)",
     "logo": "https://i.imgur.com/G0ZfzZr.png",
     "country": "",
@@ -6009,6 +6117,60 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telecine Action (720p)",
+    "logo": "https://i.imgur.com/BHYWG0h.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.162.231.38:7779/Telecine_Action/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telecine Cult (720p)",
+    "logo": "https://i.imgur.com/6GuHXnr.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.162.231.38:7779/Telecine_Cult/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telecine Fun (720p)",
+    "logo": "https://i.imgur.com/MO2Ynki.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.162.231.38:7779/Telecine_Fun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telecine Pipoca (720p)",
+    "logo": "https://i.imgur.com/hW9JYXr.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.162.231.38:7779/Telecine_Pipoca/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telecine Premium (720p)",
+    "logo": "https://i.imgur.com/uVFgIr8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.162.231.38:7779/Telecine_Premium/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telecine Touch (720p)",
+    "logo": "https://i.imgur.com/Nky0hRo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.162.231.38:7779/Telecine_Touch/index.m3u8",
     "isHttps": false
   },
   {

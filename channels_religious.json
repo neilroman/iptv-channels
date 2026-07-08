@@ -2133,15 +2133,6 @@
     "isHttps": true
   },
   {
-    "name": "EWTN Spain & Latin America (720p)",
-    "logo": "https://i.imgur.com/sua70RO.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "EWTN Spanish (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/sua70RO.png",
     "country": "",
@@ -4986,15 +4977,6 @@
     "isHttps": true
   },
   {
-    "name": "Rede Vida (576p)",
-    "logo": "https://i.imgur.com/mP1qfp2.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Redemption TV Ministry (720p)",
     "logo": "https://i.imgur.com/63SmAby.png",
     "country": "",
@@ -5940,15 +5922,6 @@
     "isHttps": true
   },
   {
-    "name": "TV Evangelizar (480p)",
-    "logo": "https://i.imgur.com/IrYR7Kp.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV Famille (720p)",
     "logo": "https://i.imgur.com/Kbfihk5.png",
     "country": "",
@@ -6624,6 +6597,15 @@
     "isHttps": false
   },
   {
+    "name": "EWTN Spain & Latin America (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://138.186.23.7:8082/EWTN/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Fajar TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/mkuXxRK.png",
     "country": "",
@@ -6885,6 +6867,24 @@
     "isHttps": false
   },
   {
+    "name": "Rede Seculo 21 (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rede Vida (720p)",
+    "logo": "https://i.imgur.com/mP1qfp2.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.231.38:7779/Rede_Vida/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "RUTC TV (720p)",
     "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
     "country": "",
@@ -6927,6 +6927,24 @@
     "language": "",
     "group": "Religious",
     "url": "http://69.64.57.208/albayanetv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Evangelizar (720p)",
+    "logo": "https://i.imgur.com/IrYR7Kp.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.64.114/EVANGELIZAR/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Pai Eterno (720p)",
+    "logo": "https://i.imgur.com/iuoXchN.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.231.38:7779/Pai_Eterno/index.m3u8",
     "isHttps": false
   },
   {

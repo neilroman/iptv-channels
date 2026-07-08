@@ -1890,15 +1890,6 @@
     "isHttps": true
   },
   {
-    "name": "Arirang TV HD",
-    "logo": "https://i.imgur.com/Asu5pE9.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Arirang TV UN (1080p)",
     "logo": "https://i.imgur.com/Jdy3WNm.png",
     "country": "",
@@ -5193,15 +5184,6 @@
     "isHttps": true
   },
   {
-    "name": "Cine Sony (720p)",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cinema Hausa (720p)",
     "logo": "https://i.imgur.com/uV5cHDW.png",
     "country": "",
@@ -5658,6 +5640,15 @@
     "language": "",
     "group": "General",
     "url": "https://concordca.cablecast.tv/live/stream-2/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CongressTV (1080p)",
+    "logo": "https://i.imgur.com/0wJdri5.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
     "isHttps": true
   },
   {
@@ -24183,6 +24174,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC Series Latin America (1080p)",
+    "logo": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://177.245.131.133:8080/AMCSERIES/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Amedia 1 (576p)",
     "logo": "https://i.imgur.com/2pAHdAi.png",
     "country": "",
@@ -24216,6 +24216,15 @@
     "language": "",
     "group": "General;News",
     "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Arirang TV HD (720p)",
+    "logo": "https://i.imgur.com/Asu5pE9.png",
+    "country": "",
+    "language": "",
+    "group": "General;News",
+    "url": "http://45.162.64.114/ARIRANG/index.m3u8",
     "isHttps": false
   },
   {
@@ -24333,6 +24342,15 @@
     "language": "",
     "group": "Animation;General;Kids",
     "url": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BBC News Latin America (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://138.121.15.230:9002/BBC-NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -24624,6 +24642,15 @@
     "isHttps": false
   },
   {
+    "name": "Cine Sony (1080p)",
+    "logo": "https://i.imgur.com/bZWoDTg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CinemaWorld (720p)",
     "logo": "https://i.imgur.com/D2qNVZ7.png",
     "country": "",
@@ -24885,6 +24912,15 @@
     "isHttps": false
   },
   {
+    "name": "Distrito Comedia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://177.234.249.135:8888/DistritoComedia/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Dog TV (720p)",
     "logo": "https://i.imgur.com/dRKis0F.png",
     "country": "",
@@ -24957,12 +24993,21 @@
     "isHttps": false
   },
   {
-    "name": "Europa Europa",
+    "name": "Eurochannel (1080p)",
+    "logo": "https://i.imgur.com/yXAtmI6.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://177.245.131.133:8080/EUROCHANNEL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Europa Europa (1080p)",
     "logo": "https://i.imgur.com/w5SOfyJ.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
+    "url": "http://45.6.4.35/EUROPA/index.m3u8",
     "isHttps": false
   },
   {
@@ -25133,7 +25178,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle",
-    "url": "http://185.246.209.113/FYIHD/index.m3u8",
+    "url": "http://206.212.244.63/78/index.m3u8",
     "isHttps": false
   },
   {
@@ -25164,12 +25209,30 @@
     "isHttps": false
   },
   {
+    "name": "Golf Channel (1080p)",
+    "logo": "https://i.imgur.com/Lgux6Ik.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_GOLF/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Golf Zone (1080p)",
     "logo": "https://i.ibb.co/ZR8cRj8d/Golf-Zone.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://91.146.94.234:10001/play/a04b",
+    "isHttps": false
+  },
+  {
+    "name": "GolTV Latin America (720p)",
+    "logo": "https://i.imgur.com/pypul3s.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://177.234.249.178:8888/GOLTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -26943,6 +27006,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://92.114.85.72:8000/play/a070",
+    "isHttps": false
+  },
+  {
+    "name": "TV Pai Eterno (720p)",
+    "logo": "https://i.imgur.com/iuoXchN.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.231.38:7779/Pai_Eterno/index.m3u8",
     "isHttps": false
   },
   {

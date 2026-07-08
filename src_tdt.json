@@ -369,15 +369,6 @@
     "isHttps": true
   },
   {
-    "name": "3Cat El búnquer",
-    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "3Cat Exclusiu 1 GEO",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
@@ -1976,7 +1967,7 @@
     "country": "",
     "language": "",
     "group": "Int. América",
-    "url": "https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8",
+    "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
     "isHttps": true
   },
   {
@@ -2989,7 +2980,7 @@
   },
   {
     "name": "Negocios TV",
-    "logo": "https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg",
+    "logo": "https://graph.facebook.com/Negociostele/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Informativos",
@@ -3147,15 +3138,6 @@
     "language": "",
     "group": "C. Valenciana",
     "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Orgullo (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16620298.m3u8",
     "isHttps": true
   },
   {
@@ -3786,6 +3768,15 @@
     "language": "",
     "group": "Andalucía",
     "url": "https://nimble.tuyapro.es/saltv/tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "San Fermín (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://ztnr.rtve.es/ztnr/16641913.m3u8",
     "isHttps": true
   },
   {
@@ -4848,15 +4839,6 @@
     "language": "",
     "group": "Musicales",
     "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Vallès Visió",
-    "logo": "https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR",
     "isHttps": true
   },
   {

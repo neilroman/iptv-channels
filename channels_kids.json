@@ -235,7 +235,7 @@
   },
   {
     "name": "Balapan TV (1080p)",
-    "logo": "https://i.imgur.com/2o5T0gi.png",
+    "logo": "https://vote.rtrk.kz/img/balapan-logo.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1162,7 +1162,7 @@
   },
   {
     "name": "Nickelodeon CIS",
-    "logo": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
+    "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -2480,7 +2480,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://31.148.48.15/Ani/index.m3u8",
+    "url": "http://46.32.176.50/anitv/index.m3u8",
     "isHttps": false
   },
   {
@@ -2499,6 +2499,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://206.212.244.63/639/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BabyTV Brazil (720p)",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://167.250.126.140:7777/BABYTV-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -2562,6 +2571,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Box Kids TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://167.250.126.140:7777/NICKJR-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -2691,6 +2709,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://167.250.126.140:7777/DISNEY-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel EMEA (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "country": "",
@@ -2745,6 +2772,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://45.6.4.35/DISNEY/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney International HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
     "country": "",
@@ -2763,12 +2799,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Jr. Latin America (576p)",
+    "name": "Disney Jr. Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://45.189.62.33:8002/play/a0bz/index.m3u8",
+    "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
     "isHttps": false
   },
   {
@@ -2853,6 +2889,15 @@
     "isHttps": false
   },
   {
+    "name": "DumDum (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://45.162.231.38:7779/ZooMoo/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "EKids (576p)",
     "logo": "https://i.imgur.com/dux7sjZ.png",
     "country": "",
@@ -2895,15 +2940,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Hungama TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://149.71.34.166:8000/play/a075/index.m3u8",
     "isHttps": false
   },
   {

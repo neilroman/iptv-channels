@@ -4518,6 +4518,15 @@
     "isHttps": true
   },
   {
+    "name": "AMC Series Latin America (1080p)",
+    "logo": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://177.245.131.133:8080/AMCSERIES/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Amedia 2 (576p)",
     "logo": "https://i.imgur.com/NqHla2V.png",
     "country": "",
@@ -4554,12 +4563,12 @@
     "isHttps": false
   },
   {
-    "name": "Europa Europa",
+    "name": "Europa Europa (1080p)",
     "logo": "https://i.imgur.com/w5SOfyJ.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
+    "url": "http://45.6.4.35/EUROPA/index.m3u8",
     "isHttps": false
   },
   {
@@ -4698,12 +4707,39 @@
     "isHttps": false
   },
   {
+    "name": "Paramount Network Latin America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Saphire (1080p)",
     "logo": "https://i.imgur.com/NMOBvle.png",
     "country": "",
     "language": "",
     "group": "Series",
     "url": "http://77.232.131.211:80/Sapfir/manifest.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Channel Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://45.6.4.35/FOX/index.m3u8",
     "isHttps": false
   },
   {
@@ -4743,6 +4779,15 @@
     "isHttps": false
   },
   {
+    "name": "TNT Novelas (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://45.162.231.38:7779/TNT_Novelas/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVP Seriale (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/MuRtvXk.png",
     "country": "",
@@ -4758,6 +4803,15 @@
     "language": "",
     "group": "Series",
     "url": "http://92.114.85.72:8000/play/a0bi",
+    "isHttps": false
+  },
+  {
+    "name": "Univision Tlnovelas (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://45.6.4.35/TELENOVELAS/index.m3u8",
     "isHttps": false
   },
   {
