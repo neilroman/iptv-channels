@@ -747,6 +747,15 @@
     "isHttps": true
   },
   {
+    "name": "Amazonia TV",
+    "logo": "https://i.imgur.com/sSW7d8e.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://servilive.com:3199/live/amazoniatvlive.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Amazonica TV (720p)",
     "logo": "https://i.imgur.com/22ebHAX.jpeg",
     "country": "",
@@ -936,21 +945,21 @@
     "isHttps": true
   },
   {
-    "name": "Antena 21 (480p) [Not 24/7] [Geo-blocked]",
+    "name": "Antena 21 (480p)",
     "logo": "https://i.imgur.com/QE0XWLh.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
+    "url": "https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8",
     "isHttps": true
   },
   {
-    "name": "Antena 7 (720p)",
+    "name": "Antena 7 (480p)",
     "logo": "https://i.imgur.com/zKWFgeQ.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8",
+    "url": "https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8",
     "isHttps": true
   },
   {
@@ -1257,6 +1266,15 @@
     "language": "",
     "group": "General",
     "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Autonoma TV",
+    "logo": "https://i.imgur.com/kD6badL.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5199,15 +5217,6 @@
     "language": "",
     "group": "Music",
     "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Disney Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8",
     "isHttps": true
   },
   {
@@ -16362,6 +16371,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Canal 72",
+    "logo": "https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Canal Sur (1080p)",
     "logo": "",
     "country": "",
@@ -19476,6 +19494,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/650/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -19827,12 +19854,12 @@
     "isHttps": false
   },
   {
-    "name": "Golden Edge (720p)",
+    "name": "Golden Edge (1080p)",
     "logo": "https://i.imgur.com/SlSbcp3.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://177.234.249.135:8888/GoldenEdge/index.m3u8",
+    "url": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8",
     "isHttps": false
   },
   {
@@ -20997,12 +21024,12 @@
     "isHttps": false
   },
   {
-    "name": "TNT Novelas (720p)",
+    "name": "TNT Novelas (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://45.162.231.38:7779/TNT_Novelas/index.m3u8",
+    "url": "http://138.186.23.7:8082/TNTNOVELAS/index.m3u8",
     "isHttps": false
   },
   {
@@ -21084,6 +21111,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV UNAM (720p)",
+    "logo": "https://i.imgur.com/ayg5kRM.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://177.245.131.133:8080/UNAM/index.m3u8",
     "isHttps": false
   },
   {

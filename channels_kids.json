@@ -459,15 +459,6 @@
     "isHttps": true
   },
   {
-    "name": "Disney Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Disney Jr. (1080p) [Geo-blocked]",
     "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
     "country": "",
@@ -1270,7 +1261,7 @@
   },
   {
     "name": "NickOnline (360p)",
-    "logo": "https://x1co.com.br/logo.png",
+    "logo": "https://x1colegal.com/logo.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
@@ -1968,15 +1959,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Yay! (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8",
     "isHttps": true
   },
   {
@@ -2718,6 +2700,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/650/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel EMEA (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "country": "",
@@ -2904,6 +2895,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://78.108.244.134:8899/ekids",
+    "isHttps": false
+  },
+  {
+    "name": "France 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://176.65.146.100:8047/play/a074/index.m3u8",
     "isHttps": false
   },
   {
@@ -3372,15 +3372,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TeenNick (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://206.212.244.63/670/index.m3u8",
     "isHttps": false
   },
   {

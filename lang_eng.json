@@ -6561,15 +6561,6 @@
     "isHttps": true
   },
   {
-    "name": "Disney Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "District of Columbia Network (DCN) (1080p)",
     "logo": "https://i.imgur.com/GGZ8BQ8.png",
     "country": "",
@@ -10572,6 +10563,15 @@
     "language": "",
     "group": "General",
     "url": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KSTV Uganda",
+    "logo": "https://i.imgur.com/MMPzPSl.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
     "isHttps": true
   },
   {
@@ -23878,7 +23878,7 @@
   },
   {
     "name": "YTA TV",
-    "logo": "",
+    "logo": "https://i.imgur.com/UDpDJ7v.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -24837,6 +24837,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/650/index.m3u8",
     "isHttps": false
   },
   {
@@ -26844,15 +26853,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TeenNick (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://206.212.244.63/670/index.m3u8",
     "isHttps": false
   },
   {

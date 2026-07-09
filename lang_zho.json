@@ -405,15 +405,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Nei Monggol TV (960p)",
-    "logo": "https://i.imgur.com/WeugJBE.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Love Nature (1080p)",
     "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
     "country": "",
@@ -1149,6 +1140,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://103.154.3.101:5001/live/1736.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nei Monggol TV (1080i) [Not 24/7]",
+    "logo": "https://i.imgur.com/WeugJBE.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
     "isHttps": false
   },
   {
