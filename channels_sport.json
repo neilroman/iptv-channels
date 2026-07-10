@@ -162,15 +162,6 @@
     "isHttps": true
   },
   {
-    "name": "AntenaSport (1280p) [Not 24/7]",
-    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE",
-    "isHttps": true
-  },
-  {
     "name": "Arryadia (480p)",
     "logo": "https://i.imgur.com/XjzK3gZ.png",
     "country": "",
@@ -2691,6 +2682,15 @@
     "isHttps": true
   },
   {
+    "name": "Trace Sport Stars SD",
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TRT Spor (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/6tv0zxh.png",
     "country": "",
@@ -3519,6 +3519,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"Sports\",L1 Max (720p)",
+    "logo": "https://i.imgur.com/2fziU2B.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Lóverseny közvetítés (420p)",
     "logo": "https://i.imgur.com/IGajR6G.png",
     "country": "",
@@ -3930,6 +3939,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "UDAR (1080p)",
+    "logo": "https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://5.188.159.128:8070/udar/index.m3u8",
     "isHttps": false
   },
   {

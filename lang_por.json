@@ -90,15 +90,6 @@
     "isHttps": true
   },
   {
-    "name": "As Tartarugas Ninja (720p)",
-    "logo": "https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG_1768926936698.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Avatar: A lenda de Aang",
     "logo": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
     "country": "",
@@ -216,12 +207,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
+    "name": "Canal 25 Jundiai (720p)",
     "logo": "https://i.imgur.com/7igGMwH.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8",
     "isHttps": true
   },
   {
@@ -1926,6 +1917,24 @@
     "isHttps": true
   },
   {
+    "name": "Rede Meio Norte (720p)",
+    "logo": "https://i.imgur.com/KVdTi0M.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Rede Metropole (720p)",
+    "logo": "https://i.imgur.com/qJx9Zvd.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Rede Minas (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/MtQWAHv.png",
     "country": "",
@@ -1941,6 +1950,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Rede Premium TV (720p)",
+    "logo": "https://i.imgur.com/jMHaHAR.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2529,6 +2547,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Assembleia Piaui",
+    "logo": "https://i.imgur.com/eMguSjM.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Birigui (640p)",
     "logo": "https://i.imgur.com/z7VlNLR.png",
     "country": "",
@@ -2898,6 +2925,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Mon (720p)",
+    "logo": "https://i.imgur.com/Gjan8rl.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Padre Cicero (720p)",
     "logo": "https://i.imgur.com/Y7b29VG.png",
     "country": "",
@@ -2967,6 +3003,15 @@
     "language": "",
     "group": "Series",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Show Fortaleza (720p)",
+    "logo": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3210,6 +3255,15 @@
     "language": "",
     "group": "General",
     "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Vivax TV (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3933,6 +3987,15 @@
     "isHttps": false
   },
   {
+    "name": "TNT Novelas Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://167.250.126.140:7777/TBS-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Travel Box Brazil (720p)",
     "logo": "https://i.imgur.com/3tBJERH.png",
     "country": "",
@@ -4047,6 +4110,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.162.64.114/RA_TIM_BUM/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Senado (720p)",
+    "logo": "https://i.imgur.com/duy6waL.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.162.64.114/TV_SENADO/index.m3u8",
     "isHttps": false
   },
   {
@@ -4182,6 +4254,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.162.231.38:7779/Universal_TV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "USA Network Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8",
     "isHttps": false
   },
   {

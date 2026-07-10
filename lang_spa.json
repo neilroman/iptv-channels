@@ -351,15 +351,6 @@
     "isHttps": true
   },
   {
-    "name": "ACS Network (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/7aIab2r.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Activa TV (720p)",
     "logo": "https://i.imgur.com/VCUZKiw.png",
     "country": "",
@@ -447,15 +438,6 @@
     "language": "",
     "group": "General",
     "url": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Agenda Minera TV",
-    "logo": "https://i.imgur.com/hg2PiIn.png",
-    "country": "",
-    "language": "",
-    "group": "Business",
-    "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -852,6 +834,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Amitel TV (720p)",
+    "logo": "https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -1639,7 +1630,7 @@
   },
   {
     "name": "Bolivision Santa Cruz (720p)",
-    "logo": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -2043,12 +2034,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 11 (720p) [Geo-blocked]",
+    "name": "Canal 11 (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8",
+    "url": "https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8",
     "isHttps": true
   },
   {
@@ -2070,12 +2061,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 12 (220p)",
+    "name": "Canal 12 (480i)",
     "logo": "https://i.imgur.com/WMv3yEf.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8",
+    "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8",
     "isHttps": true
   },
   {
@@ -2268,12 +2259,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 2 (576p) [Geo-blocked]",
+    "name": "Canal 2 (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/Nn8BtH5.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8",
+    "url": "https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8",
     "isHttps": true
   },
   {
@@ -2592,12 +2583,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 4 (720p) [Geo-blocked]",
+    "name": "Canal 4 (720p)",
     "logo": "https://i.imgur.com/5arZEgO.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
+    "url": "https://dlhn7gdemxofz.cloudfront.net/ts:abr.m3u8",
     "isHttps": true
   },
   {
@@ -2835,12 +2826,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 6 (720p) [Geo-blocked]",
+    "name": "Canal 6 (720p)",
     "logo": "https://i.imgur.com/nfKJftW.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
+    "url": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8",
     "isHttps": true
   },
   {
@@ -4374,6 +4365,15 @@
     "isHttps": true
   },
   {
+    "name": "CNC Valledupar (720p)",
+    "logo": "https://i.imgur.com/y5N6PCg.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CNT Mas TV (720p) [Not 24/7]",
     "logo": "https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg",
     "country": "",
@@ -4455,12 +4455,12 @@
     "isHttps": true
   },
   {
-    "name": "Comercio TV (720p)",
+    "name": "Comercio TV (1080p)",
     "logo": "https://www.amagi.com/hubfs/Group%202-3.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/basket_TV.stream/playlist.m3u8",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960",
     "isHttps": true
   },
   {
@@ -5379,15 +5379,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "EBN Televisión (720p)",
-    "logo": "https://i.imgur.com/4OCptwT.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6759,6 +6750,15 @@
     "isHttps": true
   },
   {
+    "name": "Guatevision (720p)",
+    "logo": "https://i.imgur.com/mbmHPnO.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Guatuso TV",
     "logo": "https://www.grupodgrajal.com/images/logoguatusochannel.png",
     "country": "",
@@ -7512,15 +7512,6 @@
     "language": "",
     "group": "General",
     "url": "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Juntos TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -10332,15 +10323,6 @@
     "isHttps": true
   },
   {
-    "name": "NotiUno TV (854p) [Not 24/7]",
-    "logo": "https://i.imgur.com/qNdywBT.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Novelisima",
     "logo": "https://i.imgur.com/8dUS3Ih.png",
     "country": "",
@@ -12699,6 +12681,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Maria TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/1/1f/Radio_Maria_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://radiomaria.inovanex.stream/stream.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Master (720p)",
     "logo": "https://i.imgur.com/AUoxyzP.png",
     "country": "",
@@ -12732,6 +12723,15 @@
     "language": "",
     "group": "General",
     "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Nuble (720p)",
+    "logo": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8",
     "isHttps": true
   },
   {
@@ -12825,6 +12825,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio San Gabriel (720p)",
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Sublime Gracia TV (720p)",
     "logo": "https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",
     "country": "",
@@ -12835,7 +12844,7 @@
   },
   {
     "name": "Radio Suyai TV (1080p)",
-    "logo": "",
+    "logo": "https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350",
     "country": "",
     "language": "",
     "group": "Culture;Music",
@@ -12894,6 +12903,15 @@
     "language": "",
     "group": "General",
     "url": "https://videostream.chileservidores.com:8081/universal/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Universitaria San Andres (720p)",
+    "logo": "https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg",
+    "country": "",
+    "language": "",
+    "group": "Culture;Education;Entertainment",
+    "url": "https://edge.enhdtv.com/8054/index.m3u8",
     "isHttps": true
   },
   {
@@ -13218,6 +13236,15 @@
     "language": "",
     "group": "General",
     "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Red Rubi (720p)",
+    "logo": "https://i.imgur.com/Y4KOypc.jpeg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -14634,15 +14661,6 @@
     "isHttps": true
   },
   {
-    "name": "Suyai TV (720p)",
-    "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Suyapa TV (1080p)",
     "logo": "https://i.imgur.com/I7GuToz.png",
     "country": "",
@@ -15390,15 +15408,6 @@
     "isHttps": true
   },
   {
-    "name": "TeleOnce (1080p)",
-    "logo": "https://i.imgur.com/Crt3P4N.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Teleonuba (1080p)",
     "logo": "https://i.imgur.com/cHMfmO7.png",
     "country": "",
@@ -15414,6 +15423,15 @@
     "language": "",
     "group": "General",
     "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Telepasto (720p)",
+    "logo": "https://i.imgur.com/AhkdRba.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -15648,15 +15666,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Television Azanaque (720p)",
-    "logo": "https://i.imgur.com/zEIz6LU.jpeg",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8",
     "isHttps": true
   },
   {
@@ -18234,6 +18243,15 @@
     "isHttps": true
   },
   {
+    "name": "WATC The Loop (1080p)",
+    "logo": "https://i.imgur.com/4SmNFCX.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Wayra TV (720p)",
     "logo": "https://i.imgur.com/eQLRVFp.png",
     "country": "",
@@ -18384,15 +18402,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "WZNT (Zeta 93) (1080p) [Not 24/7]",
-    "logo": "https://i.ibb.co/KzqWLZR/images-57.jpg",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -18771,24 +18780,6 @@
     "language": "",
     "group": "General",
     "url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AMC Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://177.234.249.178:8888/AMC/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AMC Series Latin America (1080p)",
-    "logo": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://177.245.131.133:8080/AMCSERIES/index.m3u8",
     "isHttps": false
   },
   {
@@ -19863,6 +19854,15 @@
     "isHttps": false
   },
   {
+    "name": "Golden Plus (1080p)",
+    "logo": "https://i.imgur.com/OOEkyM2.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://177.234.249.135:8888/GoldenPlus/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Golf Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "country": "",
@@ -19923,15 +19923,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "IVC (576p)",
-    "logo": "https://i.imgur.com/HyXYR2o.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://138.186.23.7:8082/IVC/index.m3u8",
     "isHttps": false
   },
   {
@@ -20178,6 +20169,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"General\",Juntos TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"Sports\",L1 Max (720p)",
+    "logo": "https://i.imgur.com/2fziU2B.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Limón TV (1080p) [Not 24/7]",
     "logo": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
     "country": "",
@@ -20413,7 +20422,7 @@
   },
   {
     "name": "Oromar TV (1080p)",
-    "logo": "https://i.imgur.com/j5Vvxd5.png",
+    "logo": "https://oromartv.com/images/OTV400.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -21024,15 +21033,6 @@
     "isHttps": false
   },
   {
-    "name": "TNT Novelas (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://138.186.23.7:8082/TNTNOVELAS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Transmedia Televisión Morelia (614p) [Geo-blocked]",
     "logo": "https://i.imgur.com/jYMpVQA.png",
     "country": "",
@@ -21084,15 +21084,6 @@
     "language": "",
     "group": "News",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV Publica (1080p)",
-    "logo": "https://i.imgur.com/XGrkzN3.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8",
     "isHttps": false
   },
   {

@@ -54,6 +54,15 @@
     "isHttps": true
   },
   {
+    "name": "5 minut tishiny (1080p)",
+    "logo": "https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "alpha Cinema (1080p)",
     "logo": "https://i.imgur.com/146OgfU.png",
     "country": "",
@@ -123,6 +132,15 @@
     "language": "",
     "group": "Culture",
     "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Balabol (1080p)",
+    "logo": "https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/Balabol/index.m3u8",
     "isHttps": true
   },
   {
@@ -342,12 +360,12 @@
     "isHttps": true
   },
   {
-    "name": "Indiyskoye Kino",
-    "logo": "https://i.imgur.com/LL8GyCh.png",
+    "name": "Horoshee Kino (720p)",
+    "logo": "https://i.imgur.com/ZbOqfy4.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8",
+    "url": "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -630,6 +648,15 @@
     "isHttps": true
   },
   {
+    "name": "Nevskiy (1080p)",
+    "logo": "https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nick Jr.",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "country": "",
@@ -693,6 +720,15 @@
     "isHttps": true
   },
   {
+    "name": "NTV Vitrina (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.ntv.ru/vitrina/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NTV-Hit (1080p)",
     "logo": "https://i.imgur.com/FfKBvz5.png",
     "country": "",
@@ -729,12 +765,39 @@
     "isHttps": true
   },
   {
+    "name": "Perviy otdel (1080p)",
+    "logo": "https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pes (1080p)",
+    "logo": "https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/Pes/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Pobeda (1080p)",
     "logo": "https://i.imgur.com/4KiYSln.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/pobeda-hd/video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pro Business (720p)",
+    "logo": "https://i.imgur.com/1u8KvTD.png",
+    "country": "",
+    "language": "",
+    "group": "Business",
+    "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -762,6 +825,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://s.qonaevtv.kz/live/qonaev/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Mir (720p)",
+    "logo": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -909,6 +981,15 @@
     "isHttps": true
   },
   {
+    "name": "Shef (1080p)",
+    "logo": "https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/Shef/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Shopping Live (720p)",
     "logo": "https://i.imgur.com/EMmGnjV.png",
     "country": "",
@@ -942,6 +1023,15 @@
     "language": "",
     "group": "General",
     "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Skoraya pomoshch (1080p)",
+    "logo": "https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8",
     "isHttps": true
   },
   {
@@ -1063,7 +1153,7 @@
   },
   {
     "name": "START Air",
-    "logo": "https://i.imgur.com/4bACa7x.png",
+    "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1072,7 +1162,7 @@
   },
   {
     "name": "START World",
-    "logo": "https://i.imgur.com/TXtY5eM.png",
+    "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1086,15 +1176,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https",
-    "isHttps": true
-  },
-  {
-    "name": "T24",
-    "logo": "https://i.imgur.com/1W6R14o.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2565,6 +2646,15 @@
     "isHttps": false
   },
   {
+    "name": "ART (576p)",
+    "logo": "https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://89.104.114.24:8080/art/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Baby Time",
     "logo": "https://i.imgur.com/lW3WIBD.png",
     "country": "",
@@ -2844,6 +2934,15 @@
     "isHttps": false
   },
   {
+    "name": "Indiyskoye Kino (576p)",
+    "logo": "https://i.imgur.com/LL8GyCh.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://188.113.190.12/329/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Istoriya (576p)",
     "logo": "https://i.imgur.com/eEjPail.png",
     "country": "",
@@ -2886,6 +2985,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://176.118.197.101:80/KinoTvHD/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kinomix (576p)",
+    "logo": "https://i.imgur.com/D4q2XUT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://93.170.254.17/Kinomiks/index.m3u8",
     "isHttps": false
   },
   {
@@ -3384,6 +3492,15 @@
     "isHttps": false
   },
   {
+    "name": "T24 (576p)",
+    "logo": "https://i.imgur.com/1W6R14o.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://178.134.1.158:8081/t24/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TBN Baltia (1080p)",
     "logo": "https://i.imgur.com/rKBaK56.png",
     "country": "",
@@ -3525,6 +3642,15 @@
     "language": "",
     "group": "Documentary;News",
     "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "UDAR (1080p)",
+    "logo": "https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://5.188.159.128:8070/udar/index.m3u8",
     "isHttps": false
   },
   {

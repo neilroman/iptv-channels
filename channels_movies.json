@@ -1035,6 +1035,15 @@
     "isHttps": true
   },
   {
+    "name": "Horoshee Kino (720p)",
+    "logo": "https://i.imgur.com/ZbOqfy4.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ICC Plus (1080p)",
     "logo": "",
     "country": "",
@@ -1077,15 +1086,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Indiyskoye Kino",
-    "logo": "https://i.imgur.com/LL8GyCh.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1314,24 +1314,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",CineMaraton",
-    "logo": "https://i.imgur.com/BY8UZa0.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Film Now",
-    "logo": "https://i.imgur.com/sSoRvGz.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/filmnow/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Adria",
     "logo": "https://i.imgur.com/ML7SlIW.png",
     "country": "",
@@ -1350,30 +1332,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Romania",
-    "logo": "https://i.imgur.com/RydfsE9.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/filmboxp/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Adria",
     "logo": "https://i.imgur.com/eZFdHbR.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Pro Cinema",
-    "logo": "https://i.imgur.com/TvHFGwZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/procinema/mono.m3u8",
     "isHttps": true
   },
   {
@@ -3483,15 +3447,6 @@
     "isHttps": true
   },
   {
-    "name": "Rai Movie (576p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/0FjxXU9.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-    "isHttps": true
-  },
-  {
     "name": "Raj Digital Plus (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
     "country": "",
@@ -4150,7 +4105,7 @@
   },
   {
     "name": "START Air",
-    "logo": "https://i.imgur.com/4bACa7x.png",
+    "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -4159,7 +4114,7 @@
   },
   {
     "name": "START World",
-    "logo": "https://i.imgur.com/TXtY5eM.png",
+    "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5256,6 +5211,15 @@
     "isHttps": false
   },
   {
+    "name": "Indiyskoye Kino (576p)",
+    "logo": "https://i.imgur.com/LL8GyCh.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://188.113.190.12/329/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "J Movie (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png",
     "country": "",
@@ -5289,6 +5253,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://176.118.197.101:80/KinoTvHD/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kinomix (576p)",
+    "logo": "https://i.imgur.com/D4q2XUT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://93.170.254.17/Kinomiks/index.m3u8",
     "isHttps": false
   },
   {
@@ -5784,6 +5757,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Rai Movie",
+    "logo": "https://i.imgur.com/0FjxXU9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://91.146.94.234:10001/play/a02r",
     "isHttps": false
   },
   {

@@ -1602,15 +1602,6 @@
     "isHttps": true
   },
   {
-    "name": "Rai 5 (576p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276",
-    "isHttps": true
-  },
-  {
     "name": "Rai Gulp (576p)",
     "logo": "https://i.imgur.com/irAhPJM.png",
     "country": "",
@@ -1620,39 +1611,12 @@
     "isHttps": true
   },
   {
-    "name": "Rai Movie (576p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/0FjxXU9.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-    "isHttps": true
-  },
-  {
     "name": "Rai News 24 (720p)",
     "logo": "https://i.imgur.com/n2u57y3.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Rai Premium (576p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/40g5Urz.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992",
-    "isHttps": true
-  },
-  {
-    "name": "Rai YoYo (576p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/9gCxiDy.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
     "isHttps": true
   },
   {
@@ -2700,6 +2664,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Kids\",Rai Yoyo",
+    "logo": "https://i.imgur.com/9gCxiDy.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://91.146.94.234:10001/play/a039",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Rai Movie",
+    "logo": "https://i.imgur.com/0FjxXU9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://91.146.94.234:10001/play/a02r",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"News\",Rai News 24 HD",
     "logo": "https://i.imgur.com/n2u57y3.png",
     "country": "",
@@ -2736,12 +2718,30 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://91.146.94.234:10001/play/a03a",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai Gulp HD",
     "logo": "https://i.imgur.com/irAhPJM.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://91.146.94.234:10001/play/a037",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai Premium",
+    "logo": "https://i.imgur.com/40g5Urz.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://91.146.94.234:10001/play/a02q",
     "isHttps": false
   },
   {
