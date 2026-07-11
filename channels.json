@@ -119124,15 +119124,6 @@
     "isHttps": false
   },
   {
-    "name": "湖北卫视 (1080p)",
-    "logo": "https://i.imgur.com/CTRa9BJ.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://118.81.195.79:9003/hls/32/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "湘潭公共 (576p)",
     "logo": "",
     "country": "",
@@ -120156,6 +120147,15 @@
     "language": "",
     "group": "General",
     "url": "http://118.81.195.79:9003/hls/31/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "���北卫视 (1080p)",
+    "logo": "https://i.imgur.com/CTRa9BJ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://118.81.195.79:9003/hls/32/index.m3u8",
     "isHttps": false
   }
 ]
