@@ -1926,15 +1926,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Music\",Trace Urban HD",
-    "logo": "https://i.imgur.com/DLIbUMx.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Comedy\",Novo Comedy (720p)",
     "logo": "https://novocomedy.com/wp-content/uploads/LogoNovocomedy.png",
     "country": "",
@@ -3393,7 +3384,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Africa",
+    "name": "Trace Africa (1080p)",
     "logo": "https://i.imgur.com/kPUkoS7.png",
     "country": "",
     "language": "",
@@ -3402,16 +3393,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Afrikora",
-    "logo": "https://i.imgur.com/CQDdnhp.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Trace Ayiti",
+    "name": "Trace Ayiti (1080p)",
     "logo": "https://i.imgur.com/KkJ6fet.png",
     "country": "",
     "language": "",
@@ -3420,7 +3402,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Caribbean",
+    "name": "Trace Caribbean (1080p)",
     "logo": "https://i.imgur.com/ZHD7Vxy.png",
     "country": "",
     "language": "",
@@ -3429,25 +3411,25 @@
     "isHttps": true
   },
   {
-    "name": "Trace Gospel (1080p)",
+    "name": "Trace Gospel Africa Franco (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Gospel Southern Africa",
+    "name": "Trace Gospel Southern Africa (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Ivoire",
+    "name": "Trace Ivoire (1080p)",
     "logo": "https://ibb.co/JwMs0bFF",
     "country": "",
     "language": "",
@@ -3456,7 +3438,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Kitoko",
+    "name": "Trace Kitoko (1080p)",
     "logo": "https://i.imgur.com/q6vkMrU.png",
     "country": "",
     "language": "",
@@ -3470,11 +3452,11 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Mboa",
+    "name": "Trace Mboa (1080p)",
     "logo": "https://i.imgur.com/cYwkCj2.png",
     "country": "",
     "language": "",
@@ -3483,7 +3465,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Muzika",
+    "name": "Trace Muzika (1080p)",
     "logo": "https://i.imgur.com/xsEGIXO.png",
     "country": "",
     "language": "",
@@ -3501,6 +3483,15 @@
     "isHttps": true
   },
   {
+    "name": "Trace Teranga (1080p)",
+    "logo": "https://i.imgur.com/CQDdnhp.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Trace Urban (Australia) (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
@@ -3510,7 +3501,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Urban Africa Franco",
+    "name": "Trace Urban Africa Franco (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
     "language": "",
@@ -3519,7 +3510,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Urban Caribbean And Indian Ocean",
+    "name": "Trace Urban Caribbean and Indian Ocean (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
     "language": "",
@@ -3528,7 +3519,16 @@
     "isHttps": true
   },
   {
-    "name": "Trace Urban Southern Africa",
+    "name": "Trace Urban France (1080p)",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Urban Southern Africa (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
     "language": "",
@@ -3537,7 +3537,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Vanilla Islands",
+    "name": "Trace Vanilla Islands (1080p)",
     "logo": "https://i.imgur.com/ngF58fe.png",
     "country": "",
     "language": "",
@@ -4059,15 +4059,6 @@
     "isHttps": false
   },
   {
-    "name": "Canal+ (1080p)",
-    "logo": "https://i.imgur.com/5HcyMnW.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Canal+ Cinemas (720p)",
     "logo": "https://i.imgur.com/fvPoNEa.jpeg",
     "country": "",
@@ -4083,15 +4074,6 @@
     "language": "",
     "group": "Family",
     "url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal+ Sport (1080p)",
-    "logo": "https://i.imgur.com/EOXnU15.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
     "isHttps": false
   },
   {

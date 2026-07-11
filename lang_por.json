@@ -792,15 +792,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Music\",Trace Urban HD",
-    "logo": "https://i.imgur.com/DLIbUMx.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Loading (720p)",
     "logo": "https://i.imgur.com/R0aflu1.png",
     "country": "",
@@ -2439,7 +2430,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Toca",
+    "name": "Trace Toca (1080p)",
     "logo": "https://i.imgur.com/6SpWnBR.png",
     "country": "",
     "language": "",
@@ -2454,6 +2445,15 @@
     "language": "",
     "group": "Music",
     "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Urban France (1080p)",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
     "isHttps": true
   },
   {

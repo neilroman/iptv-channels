@@ -45,15 +45,6 @@
     "isHttps": true
   },
   {
-    "name": "20 Mediaset [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "247 Box TV",
     "logo": "https://i.imgur.com/t5AUthL.png",
     "country": "",
@@ -1053,15 +1044,6 @@
     "isHttps": true
   },
   {
-    "name": "Canale 5 [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canela.TV (1080p)",
     "logo": "https://i.imgur.com/8Hllkpk.png",
     "country": "",
@@ -1998,15 +1980,6 @@
     "isHttps": true
   },
   {
-    "name": "Game Show Network East (720p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Gangaur TV (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png",
     "country": "",
@@ -2385,6 +2358,15 @@
     "isHttps": true
   },
   {
+    "name": "ICTV (1080p)",
+    "logo": "https://i.imgur.com/97W1NOW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/ICTV.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/R3icGuG.png",
     "country": "",
@@ -2463,15 +2445,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Iris [Geo-blocked]",
-    "logo": "https://i.imgur.com/ZLnSLh4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8",
     "isHttps": true
   },
   {
@@ -2877,15 +2850,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://latamvdo.com:3626/hybrid/play.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "La5 [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8",
     "isHttps": true
   },
   {
@@ -6552,6 +6516,15 @@
     "isHttps": false
   },
   {
+    "name": "BBC America East HD (720p)",
+    "logo": "https://i.imgur.com/pTiiPz0.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.52/BBC_AMERICA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BET Her (720p)",
     "logo": "https://i.imgur.com/oafsrlo.png",
     "country": "",
@@ -6579,12 +6552,12 @@
     "isHttps": false
   },
   {
-    "name": "Canal+ (1080p)",
-    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "name": "Catchy Comedy (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/250px-Catchy_Comedy_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
+    "url": "http://40.160.24.52/DECADES/index.m3u8",
     "isHttps": false
   },
   {
@@ -6732,12 +6705,12 @@
     "isHttps": false
   },
   {
-    "name": "Cozi TV (720p)",
+    "name": "Cozi TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://206.212.244.63/49/index.m3u8",
+    "url": "http://40.160.24.52/COZI_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -6930,6 +6903,15 @@
     "isHttps": false
   },
   {
+    "name": "Game Show Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.52/GSN/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Geo Kahani (576p)",
     "logo": "https://i.imgur.com/uKYH0IM.png",
     "country": "",
@@ -6957,12 +6939,12 @@
     "isHttps": false
   },
   {
-    "name": "Grit (720p)",
+    "name": "Grit (1080p)",
     "logo": "https://i.imgur.com/6w1Wj3j.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://206.212.244.63/83/index.m3u8",
+    "url": "http://40.160.24.52/GRIT/index.m3u8",
     "isHttps": false
   },
   {
@@ -6972,15 +6954,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://8.243.126.131:8000/play/a0fg/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ICTV (720p)",
-    "logo": "https://i.imgur.com/97W1NOW.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://15.204.53.12:80/ictv/index.m3u8",
     "isHttps": false
   },
   {
@@ -7137,6 +7110,15 @@
     "isHttps": false
   },
   {
+    "name": "Lifetime Real Women (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LRW_logo_2012.png/960px-LRW_logo_2012.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN White",
     "logo": "https://i.imgur.com/47IKxmt.png",
     "country": "",
@@ -7263,12 +7245,48 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",20",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.146.94.234:10001/play/a08s",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Canale 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.146.94.234:10001/play/a03g",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",FX Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Iris",
+    "logo": "https://i.imgur.com/ZLnSLh4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.146.94.234:10001/play/a03i",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",La5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.146.94.234:10001/play/a03k",
     "isHttps": false
   },
   {
@@ -7425,12 +7443,12 @@
     "isHttps": false
   },
   {
-    "name": "MTV2 (720p)",
+    "name": "MTV2 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
+    "url": "http://40.160.24.53/MTV2/index.m3u8",
     "isHttps": false
   },
   {
@@ -7836,6 +7854,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Universal Reality (720p)",
+    "logo": "https://i.imgur.com/mqfUD1R.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://200.91.32.158:8080/universalrealityhd/index.m3u8",
     "isHttps": false
   },
   {

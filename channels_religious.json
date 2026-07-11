@@ -1647,15 +1647,6 @@
     "isHttps": true
   },
   {
-    "name": "Damsathara TV (720p)",
-    "logo": "https://i.imgur.com/nZE8XjY.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11591",
-    "isHttps": true
-  },
-  {
     "name": "Darshan 24 (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
     "country": "",
@@ -3399,6 +3390,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KWHY 63.1 (720p)",
+    "logo": "https://i.imgur.com/RcdOYIL.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8",
     "isHttps": true
   },
   {
@@ -5832,30 +5832,30 @@
     "isHttps": true
   },
   {
-    "name": "Trace Gospel (1080p)",
+    "name": "Trace Gospel Africa Franco (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Gospel Nigeria and East Africa",
+    "name": "Trace Gospel Nigeria and East Africa (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Gospel Southern Africa",
+    "name": "Trace Gospel Southern Africa (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -6225,6 +6225,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Vision Latina (1080p)",
+    "logo": "https://i.imgur.com/TG30lWA.jpg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8",
     "isHttps": true
   },
   {

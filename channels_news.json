@@ -990,6 +990,15 @@
     "isHttps": true
   },
   {
+    "name": "Amu TV",
+    "logo": "https://i.imgur.com/KXdvPum.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://jmc-live.ercdn.net/amutv/amutv.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AMX Noticias (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/snIU1UA.jpg",
     "country": "",
@@ -4689,6 +4698,15 @@
     "isHttps": true
   },
   {
+    "name": "My-Ukraina TV (1080p)",
+    "logo": "https://i.imgur.com/OD84Oga.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/WEUKRAINETV.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nablus TV (1080p)",
     "logo": "https://i.imgur.com/GoLhaDK.png",
     "country": "",
@@ -4722,6 +4740,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-6.pishow.tv/live/10014/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NAN TV",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5238,6 +5265,15 @@
     "isHttps": true
   },
   {
+    "name": "Newsmax Spanish (1080p)",
+    "logo": "https://i.imgur.com/mrXMW7H.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Newsmax TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
     "country": "",
@@ -5451,15 +5487,6 @@
     "language": "",
     "group": "News",
     "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "OAN Encore (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/9S4ZbPL.jpg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6723,6 +6750,15 @@
     "isHttps": true
   },
   {
+    "name": "Telecanal Santa Cruz (720p)",
+    "logo": "https://i.imgur.com/5byPkd7.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TeleCauquenes (720p)",
     "logo": "https://i.imgur.com/cNYDqhp.png",
     "country": "",
@@ -7929,15 +7965,6 @@
     "isHttps": false
   },
   {
-    "name": "ABC-TV Paraguay",
-    "logo": "https://i.imgur.com/OqfBMGy.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ABN News (1080p)",
     "logo": "",
     "country": "",
@@ -8187,6 +8214,15 @@
     "language": "",
     "group": "News",
     "url": "http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cronica TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://200.91.32.158:8080/cronica/index.m3u8",
     "isHttps": false
   },
   {

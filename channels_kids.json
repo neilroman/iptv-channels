@@ -2700,6 +2700,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel HD East (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -3195,15 +3204,6 @@
     "isHttps": false
   },
   {
-    "name": "Nickelodeon (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://149.71.34.166:8000/play/a00u/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nickelodeon Asia Indonesia (720p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -3273,6 +3273,15 @@
     "language": "",
     "group": "Education;Kids",
     "url": "http://45.189.62.33:8002/play/a0p7/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Pakapaka (720p)",
+    "logo": "https://i.imgur.com/GJbRWwH.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://200.91.32.158:8080/pakapaka/index.m3u8",
     "isHttps": false
   },
   {
@@ -3363,6 +3372,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TeenNick (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://40.160.24.55/TEEN_NICK/index.m3u8",
     "isHttps": false
   },
   {

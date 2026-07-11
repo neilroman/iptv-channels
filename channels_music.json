@@ -558,6 +558,15 @@
     "isHttps": true
   },
   {
+    "name": "California Music Channel (1080p)",
+    "logo": "https://i.imgur.com/L38mC6H.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal 3 KMK TV (720p)",
     "logo": "https://i.imgur.com/sgRDRBK.jpg",
     "country": "",
@@ -657,21 +666,21 @@
     "isHttps": true
   },
   {
-    "name": "CMC (California Music Channel) (1080p)",
-    "logo": "https://i.imgur.com/L38mC6H.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CMC TV (1080p)",
     "logo": "https://i.imgur.com/FCb7Ag2.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CMC-USA Country Music Channel (720p)",
+    "logo": "https://i.imgur.com/QsANRSu.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1923,15 +1932,6 @@
     "language": "",
     "group": "Music",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Music\",Trace Urban HD",
-    "logo": "https://i.imgur.com/DLIbUMx.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -4914,7 +4914,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Africa",
+    "name": "Trace Africa (1080p)",
     "logo": "https://i.imgur.com/kPUkoS7.png",
     "country": "",
     "language": "",
@@ -4923,16 +4923,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Afrikora",
-    "logo": "https://i.imgur.com/CQDdnhp.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Trace Ayiti",
+    "name": "Trace Ayiti (1080p)",
     "logo": "https://i.imgur.com/KkJ6fet.png",
     "country": "",
     "language": "",
@@ -4959,7 +4950,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Caribbean",
+    "name": "Trace Caribbean (1080p)",
     "logo": "https://i.imgur.com/ZHD7Vxy.png",
     "country": "",
     "language": "",
@@ -4968,34 +4959,34 @@
     "isHttps": true
   },
   {
-    "name": "Trace Gospel (1080p)",
+    "name": "Trace Gospel Africa Franco (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Gospel Nigeria and East Africa",
+    "name": "Trace Gospel Nigeria and East Africa (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Gospel Southern Africa",
+    "name": "Trace Gospel Southern Africa (1080p)",
     "logo": "https://i.imgur.com/X0UmU3K.png",
     "country": "",
     "language": "",
     "group": "Music;Religious",
-    "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Ivoire",
+    "name": "Trace Ivoire (1080p)",
     "logo": "https://ibb.co/JwMs0bFF",
     "country": "",
     "language": "",
@@ -5004,16 +4995,16 @@
     "isHttps": true
   },
   {
-    "name": "Trace Jama",
+    "name": "Trace Jama (1080p)",
     "logo": "https://i.imgur.com/pthX34m.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Kitoko",
+    "name": "Trace Kitoko (1080p)",
     "logo": "https://i.imgur.com/q6vkMrU.png",
     "country": "",
     "language": "",
@@ -5027,11 +5018,11 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Mboa",
+    "name": "Trace Mboa (1080p)",
     "logo": "https://i.imgur.com/cYwkCj2.png",
     "country": "",
     "language": "",
@@ -5040,7 +5031,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Muzika",
+    "name": "Trace Muzika (1080p)",
     "logo": "https://i.imgur.com/xsEGIXO.png",
     "country": "",
     "language": "",
@@ -5049,7 +5040,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Mziki",
+    "name": "Trace Mziki (1080p)",
     "logo": "https://i.imgur.com/l3X9Gg4.png",
     "country": "",
     "language": "",
@@ -5058,7 +5049,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Naija",
+    "name": "Trace Naija (1080p)",
     "logo": "https://i.imgur.com/Rguekcp.png",
     "country": "",
     "language": "",
@@ -5067,16 +5058,25 @@
     "isHttps": true
   },
   {
-    "name": "Trace Ngoma",
+    "name": "Trace Ngoma (1080p)",
     "logo": "https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/AFRICA_EN_ld/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Toca",
+    "name": "Trace Teranga (1080p)",
+    "logo": "https://i.imgur.com/CQDdnhp.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Toca (1080p)",
     "logo": "https://i.imgur.com/6SpWnBR.png",
     "country": "",
     "language": "",
@@ -5090,7 +5090,16 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Urban (1080p)",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -5103,7 +5112,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Urban Africa Franco",
+    "name": "Trace Urban Africa Franco (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
     "language": "",
@@ -5112,7 +5121,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Urban Caribbean And Indian Ocean",
+    "name": "Trace Urban Caribbean and Indian Ocean (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
     "language": "",
@@ -5121,16 +5130,16 @@
     "isHttps": true
   },
   {
-    "name": "Trace Urban International HD (1080p)",
+    "name": "Trace Urban France (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8",
+    "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Trace Urban Southern Africa",
+    "name": "Trace Urban Southern Africa (1080p)",
     "logo": "https://i.imgur.com/DLIbUMx.png",
     "country": "",
     "language": "",
@@ -5139,7 +5148,7 @@
     "isHttps": true
   },
   {
-    "name": "Trace Vanilla Islands",
+    "name": "Trace Vanilla Islands (1080p)",
     "logo": "https://i.imgur.com/ngF58fe.png",
     "country": "",
     "language": "",
@@ -5586,6 +5595,15 @@
     "language": "",
     "group": "Music",
     "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "VIVA Russia",
+    "logo": "https://i.imgur.com/OFhQQCD.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6120,6 +6138,15 @@
     "isHttps": false
   },
   {
+    "name": "CM El Canal de la Musica (720p)",
+    "logo": "https://i.imgur.com/gwpETyS.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://200.91.32.158:8080/cm/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CMT (720p)",
     "logo": "https://i.imgur.com/S7DOpdY.png",
     "country": "",
@@ -6453,12 +6480,21 @@
     "isHttps": false
   },
   {
-    "name": "MTV Live (720p)",
+    "name": "MTV Live (1080p)",
     "logo": "https://i.imgur.com/3UByLqb.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+    "url": "http://40.160.24.53/MTV_LIVE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Much (720p)",
+    "logo": "https://i.imgur.com/JjYki5V.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://40.160.24.53/MUCH/index.m3u8",
     "isHttps": false
   },
   {
@@ -6729,6 +6765,15 @@
     "language": "",
     "group": "Music",
     "url": "http://rezofoot.tv/VH1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VH1 West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://40.160.24.55/VH1_WEST/index.m3u8",
     "isHttps": false
   },
   {
