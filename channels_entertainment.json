@@ -153,6 +153,15 @@
     "isHttps": true
   },
   {
+    "name": "Ace TV (480p)",
+    "logo": "https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AfroLandTV (1080p)",
     "logo": "https://i.imgur.com/jvnkrEF.png",
     "country": "",
@@ -1890,6 +1899,15 @@
     "isHttps": true
   },
   {
+    "name": "Fillka TV (720p)",
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Movies;Series",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "For lækker til love",
     "logo": "https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png",
     "country": "",
@@ -1968,6 +1986,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Galxy TV (720p)",
+    "logo": "https://i.imgur.com/7gZlQDn.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2230",
     "isHttps": true
   },
   {
@@ -6210,12 +6237,12 @@
     "isHttps": true
   },
   {
-    "name": "YTA TV",
+    "name": "YTA TV (720p)",
     "logo": "https://i.imgur.com/UDpDJ7v.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://yta.unitedteleports.tv/hls/YTA.m3u8",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767",
     "isHttps": true
   },
   {
@@ -6462,12 +6489,30 @@
     "isHttps": false
   },
   {
+    "name": "AMC+ (1080p)",
+    "logo": "https://i.imgur.com/abtANyj.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.52/AMC_PLUS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ANT1 Cyprus (1080p)",
     "logo": "https://i.imgur.com/2KAObBt.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Antenna TV (576p)",
+    "logo": "https://i.imgur.com/ocs2DeU.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.52/ANTENNA_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -6732,6 +6777,15 @@
     "isHttps": false
   },
   {
+    "name": "CTV Drama Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/960px-CTV_Drama_Channel_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Dangal 2 (720p)",
     "logo": "https://i.imgur.com/BEr1r7L.png",
     "country": "",
@@ -6783,6 +6837,15 @@
     "language": "",
     "group": "Entertainment;News",
     "url": "http://72.1.184.5:8089/play/a05d/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "E! West (720p)",
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.52/E_ENTERTAINMENT_WEST/index.m3u8",
     "isHttps": false
   },
   {
@@ -7542,6 +7605,15 @@
     "isHttps": false
   },
   {
+    "name": "Pasiones (1080p)",
+    "logo": "https://i.imgur.com/BCWbGf9.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://190.61.43.123:8081/PasionesHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Pasiones Latin America (1080p)",
     "logo": "https://i.imgur.com/VGnbWjO.png",
     "country": "",
@@ -7614,12 +7686,12 @@
     "isHttps": false
   },
   {
-    "name": "RCN Novelas (576p)",
+    "name": "RCN Novelas (1080p)",
     "logo": "https://i.imgur.com/9wxdWNQ.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+    "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
     "isHttps": false
   },
   {
