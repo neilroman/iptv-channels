@@ -126,15 +126,6 @@
     "isHttps": true
   },
   {
-    "name": "Channel 8",
-    "logo": "https://i.imgur.com/6YPZc24.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Channel U",
     "logo": "https://i.imgur.com/9MzEjoY.png",
     "country": "",
@@ -1071,7 +1062,7 @@
     "isHttps": false
   },
   {
-    "name": "EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",
+    "name": "EBC Financial News (東森財經��聞台) (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/uFDkOhV.png",
     "country": "",
     "language": "",
@@ -1239,6 +1230,15 @@
     "language": "",
     "group": "News",
     "url": "http://seb.sason.top/sc/sllive_fhd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Shaanxi Satelital TV",
+    "logo": "https://logo9.net/userfiles/images/877r3.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8",
     "isHttps": false
   },
   {

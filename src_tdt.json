@@ -684,15 +684,6 @@
     "isHttps": true
   },
   {
-    "name": "ABC TV Paraguay",
-    "logo": "https://graph.facebook.com/ABCTVpy/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. América",
-    "url": "https://cdn.jwplayer.com/live/broadcast/aide2636.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Activa TV España",
     "logo": "https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200",
     "country": "",
@@ -820,7 +811,7 @@
   },
   {
     "name": "America TeVe USA",
-    "logo": "https://graph.facebook.com/americateve/picture?width=200&height=200",
+    "logo": "https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Int. América",
@@ -1026,7 +1017,7 @@
     "isHttps": true
   },
   {
-    "name": "Bloomberg Quicktake EN",
+    "name": "Bloomberg Originals EN",
     "logo": "https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200",
     "country": "",
     "language": "",
@@ -1116,12 +1107,21 @@
     "isHttps": true
   },
   {
-    "name": "Canal 3 Biar",
+    "name": "Canal 3 Biar HD",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200",
     "country": "",
     "language": "",
     "group": "C. Valenciana",
-    "url": "https://avantstreaming.es/hls/canal3.m3u8",
+    "url": "https://avantstreaming.es/hls/canal3hd_hi.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal 3 Biar SD",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200",
+    "country": "",
+    "language": "",
+    "group": "C. Valenciana",
+    "url": "https://avantstreaming.es/hls/canal3_hi.m3u8",
     "isHttps": true
   },
   {
@@ -1374,15 +1374,6 @@
     "language": "",
     "group": "Cataluña",
     "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal Terres de l'Ebre",
-    "logo": "https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1908,15 +1899,6 @@
     "isHttps": true
   },
   {
-    "name": "Ditty TV USA EN",
-    "logo": "https://graph.facebook.com/DittyTV/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Musicales",
-    "url": "https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Durangaldeko TV",
     "logo": "https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200",
     "country": "",
@@ -1932,15 +1914,6 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DW Alemania DE",
-    "logo": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Europa",
-    "url": "https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8",
     "isHttps": true
   },
   {
@@ -2376,15 +2349,6 @@
     "isHttps": true
   },
   {
-    "name": "Geo News Pakistan",
-    "logo": "https://graph.facebook.com/GeoUrduDotTv/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Asia",
-    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Globovision Venezuela",
     "logo": "https://graph.facebook.com/globovision/picture?width=200&height=200",
     "country": "",
@@ -2615,7 +2579,7 @@
     "country": "",
     "language": "",
     "group": "Generalistas",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]",
     "isHttps": true
   },
   {
@@ -2664,8 +2628,8 @@
     "isHttps": true
   },
   {
-    "name": "La 2 Catalunya",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
+    "name": "La 2 Cat",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-PTZCuOfGtshG9A9z2phYEL97ppHhD0cug&s",
     "country": "",
     "language": "",
     "group": "Cataluña",
@@ -2769,6 +2733,15 @@
     "language": "",
     "group": "Cataluña",
     "url": "https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR",
+    "isHttps": true
+  },
+  {
+    "name": "Lleida TV",
+    "logo": "https://graph.facebook.com/LleidaTV/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://liveingesta118.cdnmedia.tv/lleidatvlive/smil:lleidatvocasional.smil/playlist.m3u8?DVR",
     "isHttps": true
   },
   {
@@ -2958,6 +2931,15 @@
     "language": "",
     "group": "Deportivos Int.",
     "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Music TV Granada",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10",
+    "country": "",
+    "language": "",
+    "group": "Andalucía",
+    "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
     "isHttps": true
   },
   {
@@ -3741,15 +3723,6 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RÚV Islandia",
-    "logo": "https://graph.facebook.com/RUVohf/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Europa",
-    "url": "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8",
     "isHttps": true
   },
   {

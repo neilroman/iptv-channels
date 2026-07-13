@@ -441,6 +441,15 @@
     "isHttps": true
   },
   {
+    "name": "Cultura Fast (720p)",
+    "logo": "https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CWB TV (720p)",
     "logo": "https://i.imgur.com/S0ISpmU.png",
     "country": "",
@@ -1149,6 +1158,15 @@
     "language": "",
     "group": "Music",
     "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Petlovers TV",
+    "logo": "https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3132,6 +3150,15 @@
     "isHttps": true
   },
   {
+    "name": "TV+Pet",
+    "logo": "https://www.tvmaispet.com.br/images/tvpet-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVC-Rio",
     "logo": "https://i.imgur.com/WDiikWv.png",
     "country": "",
@@ -3321,6 +3348,15 @@
     "isHttps": false
   },
   {
+    "name": "Adult Swim Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AgroBrasil TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/aNkP7Zd.png",
     "country": "",
@@ -3362,7 +3398,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/AXN/index.m3u8",
+    "url": "http://45.190.28.50/AXN_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3384,21 +3420,21 @@
     "isHttps": false
   },
   {
+    "name": "Band (720p)",
+    "logo": "https://i.imgur.com/1r5T6Pw.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://45.190.28.50/BAND_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Bis (1080p)",
     "logo": "https://i.imgur.com/VUt1lmH.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://143.14.178.40:7777/BIS_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Boa Vontade TV (720p)",
-    "logo": "https://i.imgur.com/Ms5tSgu.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://45.162.231.38:7779/Boa_Vontade_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3416,7 +3452,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.231.38:7779/Canal_do_Boi/index.m3u8",
+    "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8",
     "isHttps": false
   },
   {
@@ -3444,6 +3480,15 @@
     "language": "",
     "group": "General",
     "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Chef TV (720p)",
+    "logo": "https://i.imgur.com/UYksTee.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://45.190.28.50/CHEF_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3479,7 +3524,7 @@
     "country": "",
     "language": "",
     "group": "Culture",
-    "url": "http://45.162.231.38:7779/Curta/index.m3u8",
+    "url": "http://167.250.126.140:7777/CURTA!-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3528,12 +3573,12 @@
     "isHttps": false
   },
   {
-    "name": "DumDum (720p)",
+    "name": "DumDum (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://45.162.231.38:7779/ZooMoo/index.m3u8",
+    "url": "http://45.190.156.152/ZOOMOO/index.m3u8",
     "isHttps": false
   },
   {
@@ -3587,7 +3632,7 @@
     "country": "",
     "language": "",
     "group": "Outdoor",
-    "url": "http://45.162.231.38:7779/Fish_TV/index.m3u8",
+    "url": "http://167.250.126.140:7777/FISHTV-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3597,15 +3642,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Futura (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://45.162.231.38:7779/Futura/index.m3u8",
     "isHttps": false
   },
   {
@@ -3735,30 +3771,84 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",RTPm Asia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://103.137.83.62:9090/play/58/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 5",
+    "logo": "https://i.imgur.com/HD2XaeS.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV+",
+    "logo": "https://i.imgur.com/R5FZEW6.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV1",
+    "logo": "https://i.imgur.com/YWic36u.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv1.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV2",
+    "logo": "https://i.imgur.com/0jSR6yG.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv2.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV3",
+    "logo": "https://i.imgur.com/6Dw3GUx.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv3.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV4",
+    "logo": "https://i.imgur.com/mJlbVfW.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv4.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV5",
+    "logo": "https://i.imgur.com/4w4vuad.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv5.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Megapix (1080p)",
     "logo": "https://i.imgur.com/qTYv5jt.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://143.14.178.40:7777/Megapix_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Modo Viagem (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "http://45.162.231.38:7779/Modo_Viagem/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MTV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://45.162.231.38:7779/MTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3798,21 +3888,12 @@
     "isHttps": false
   },
   {
-    "name": "Polishop (720p)",
-    "logo": "https://i.imgur.com/gnfxeio.png",
-    "country": "",
-    "language": "",
-    "group": "Shop",
-    "url": "http://45.162.231.38:7779/Polishop_TV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Premiere Clubes (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://45.162.231.38:7779/Premiere_Clubes/index.m3u8",
+    "url": "http://45.190.156.152/PREMIERE_CLUBES/index.m3u8",
     "isHttps": false
   },
   {
@@ -3825,21 +3906,12 @@
     "isHttps": false
   },
   {
-    "name": "RBI TV (720p)",
-    "logo": "https://i.imgur.com/T1wU2HU.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://45.162.231.38:7779/RBI/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Record (720p)",
     "logo": "https://i.imgur.com/sz9gTTr.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.162.231.38:7779/RECORDTV/index.m3u8",
+    "url": "http://167.250.126.140:7777/RECORDTV-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3857,7 +3929,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.231.38:7779/CNT/index.m3u8",
+    "url": "http://45.162.64.114/CNT/index.m3u8",
     "isHttps": false
   },
   {
@@ -3888,12 +3960,12 @@
     "isHttps": false
   },
   {
-    "name": "Rede TV! (720p)",
+    "name": "Rede TV! (1080p)",
     "logo": "https://i.imgur.com/ZJgD38F.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.162.231.38:7779/Rede_TV/index.m3u8",
+    "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3902,7 +3974,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.162.231.38:7779/Rede_Vida/index.m3u8",
+    "url": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3947,7 +4019,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Action/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCACTION-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3956,7 +4028,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Cult/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCCULT-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3965,7 +4037,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Fun/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCFUN-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3974,7 +4046,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Pipoca/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCPIPOCA-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3983,7 +4055,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Premium/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCPREMIUM-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3992,7 +4064,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Touch/index.m3u8",
+    "url": "http://167.250.126.140:7777/TELECINETOUCH-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4001,7 +4073,7 @@
     "country": "",
     "language": "",
     "group": "Outdoor",
-    "url": "http://45.162.231.38:7779/Terra_Viva/index.m3u8",
+    "url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
     "isHttps": false
   },
   {
@@ -4050,6 +4122,15 @@
     "isHttps": false
   },
   {
+    "name": "TV Escola (720p)",
+    "logo": "https://i.imgur.com/OF6aGQj.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.190.28.50/TV_ESCOLA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Evangelizar (720p)",
     "logo": "https://i.imgur.com/IrYR7Kp.png",
     "country": "",
@@ -4065,6 +4146,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Globo Rio de Janeiro (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.190.28.50/GLOBO_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4091,7 +4181,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.231.38:7779/TV_Justica/index.m3u8",
+    "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
     "isHttps": false
   },
   {
@@ -4109,7 +4199,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.162.231.38:7779/Pai_Eterno/index.m3u8",
+    "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
     "isHttps": false
   },
   {
@@ -4122,12 +4212,12 @@
     "isHttps": false
   },
   {
-    "name": "TV Ra Tim Bum (576p)",
+    "name": "TV Ra Tim Bum (720p)",
     "logo": "https://i.imgur.com/JIQwz0w.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.64.114/RA_TIM_BUM/index.m3u8",
+    "url": "http://45.190.28.50/RATIMBUM/index.m3u8",
     "isHttps": false
   },
   {
@@ -4172,7 +4262,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.231.38:7779/TVE/index.m3u8",
+    "url": "http://45.190.28.50/TVE/index.m3u8",
     "isHttps": false
   },
   {
@@ -4275,12 +4365,12 @@
     "isHttps": false
   },
   {
-    "name": "USA Network Latin America Brazil (720p)",
+    "name": "USA Network Latin America Brazil (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8",
+    "url": "http://45.190.156.152/USA/index.m3u8",
     "isHttps": false
   },
   {

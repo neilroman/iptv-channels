@@ -1845,12 +1845,12 @@
     "isHttps": true
   },
   {
-    "name": "CGTN Europe",
-    "logo": "https://i.imgur.com/oz0FQsE.png",
+    "name": "CGTN Español (1080p)",
+    "logo": "https://i.imgur.com/Poz3xfi.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8",
+    "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2634,15 +2634,6 @@
     "language": "",
     "group": "News",
     "url": "https://jmp2.uk/plu-61de96114757070008d33cae.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Euronews English HD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://dash4.antik.sk/live/test_euronews/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5284,7 +5275,7 @@
   },
   {
     "name": "Newsmax Balkans",
-    "logo": "https://iab.rs/wp-content/uploads/2026/01/newsmax_logo.png",
+    "logo": "https://i.imgur.com/BXFPz8c.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -6418,7 +6409,7 @@
   },
   {
     "name": "Salem News Channel (1080p)",
-    "logo": "https://salemnewschannel.com/img/logo3.svg",
+    "logo": "https://i.imgur.com/aDbc64y.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -6594,6 +6585,15 @@
     "language": "",
     "group": "News",
     "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sky News Urdu (720p)",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8055,15 +8055,6 @@
     "isHttps": false
   },
   {
-    "name": "Argentina/12 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/330px-Argentina12_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://45.6.4.35/IP_NOTICIAS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Arirang TV (1080p)",
     "logo": "https://i.imgur.com/Asu5pE9.png",
     "country": "",
@@ -8150,7 +8141,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://45.6.4.35/C5N/index.m3u8",
+    "url": "http://200.91.32.158:8080/c5n/index.m3u8",
     "isHttps": false
   },
   {
@@ -8196,15 +8187,6 @@
     "language": "",
     "group": "News",
     "url": "http://go.bkpcp.top/mg/cctv13",
-    "isHttps": false
-  },
-  {
-    "name": "CGTN Spanish (1080p)",
-    "logo": "https://i.imgur.com/Poz3xfi.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://45.6.4.35/CGTN/index.m3u8",
     "isHttps": false
   },
   {
@@ -8349,6 +8331,15 @@
     "language": "",
     "group": "News;Sports",
     "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Euronews English HD (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.190.28.50/EURONEWS_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -8862,6 +8853,15 @@
     "language": "",
     "group": "News",
     "url": "http://41.223.30.230/ROSSIYA24/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Samay National (576p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://206.212.244.63/674/index.m3u8",
     "isHttps": false
   },
   {

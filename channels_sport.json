@@ -2664,12 +2664,12 @@
     "isHttps": true
   },
   {
-    "name": "Trace Sport Stars (1080p)",
+    "name": "Trace Sport Stars (Australia) (1080p)",
     "logo": "https://i.imgur.com/FabFP5A.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2679,6 +2679,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Trace Sport Stars SD",
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -3317,7 +3326,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://45.6.4.35/FOX_SPORT/index.m3u8",
+    "url": "http://200.91.32.158:8080/foxsports/index.m3u8",
     "isHttps": false
   },
   {
@@ -3579,6 +3588,69 @@
     "language": "",
     "group": "Sports",
     "url": "http://86.87.15.10:8003/play/a02k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 5",
+    "logo": "https://i.imgur.com/HD2XaeS.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV+",
+    "logo": "https://i.imgur.com/R5FZEW6.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV1",
+    "logo": "https://i.imgur.com/YWic36u.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv1.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV2",
+    "logo": "https://i.imgur.com/0jSR6yG.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv2.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV3",
+    "logo": "https://i.imgur.com/6Dw3GUx.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv3.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV4",
+    "logo": "https://i.imgur.com/mJlbVfW.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv4.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV5",
+    "logo": "https://i.imgur.com/4w4vuad.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://znty.dyndns.org:5010/hls/stv5.m3u8",
     "isHttps": false
   },
   {
@@ -3866,7 +3938,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://45.162.231.38:7779/Premiere_Clubes/index.m3u8",
+    "url": "http://45.190.156.152/PREMIERE_CLUBES/index.m3u8",
     "isHttps": false
   },
   {
@@ -3957,6 +4029,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://40.160.24.55/SNY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SPOTV (720p)",
+    "logo": "https://i.imgur.com/HaoVsm5.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://103.137.83.62:9090/play/32/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SPOTV 2 (720p)",
+    "logo": "https://i.imgur.com/YD8fbTH.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://103.137.83.62:9090/play/33/index.m3u8",
     "isHttps": false
   },
   {

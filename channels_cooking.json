@@ -423,6 +423,15 @@
     "isHttps": true
   },
   {
+    "name": "Chef TV (720p)",
+    "logo": "https://i.imgur.com/UYksTee.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://45.190.28.50/CHEF_TV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "El Gourmet (1080p)",
     "logo": "https://i.imgur.com/ByMyRI9.png",
     "country": "",
@@ -432,12 +441,12 @@
     "isHttps": false
   },
   {
-    "name": "El Gourmet South (1080p)",
+    "name": "El Gourmet South (720p)",
     "logo": "https://i.imgur.com/ByMyRI9.png",
     "country": "",
     "language": "",
     "group": "Cooking",
-    "url": "http://45.6.4.35/GOURMET/index.m3u8",
+    "url": "http://200.91.32.158:8080/gourmet/index.m3u8",
     "isHttps": false
   },
   {

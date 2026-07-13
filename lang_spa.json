@@ -3942,6 +3942,15 @@
     "isHttps": true
   },
   {
+    "name": "CGTN Español (1080p)",
+    "logo": "https://i.imgur.com/Poz3xfi.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Chaco TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/b6RerDw.png",
     "country": "",
@@ -6324,6 +6333,15 @@
     "language": "",
     "group": "Music",
     "url": "https://v2.tustreaming.cl/fmplus/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Folcloreando TV",
+    "logo": "https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -10728,6 +10746,15 @@
     "isHttps": true
   },
   {
+    "name": "Oromar TV+ (720p)",
+    "logo": "https://oromartv.com/images/OTV400.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.oromar.tv/hls/camriva/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Osorno TV (720p)",
     "logo": "https://i.imgur.com/0ELjva6.png",
     "country": "",
@@ -12075,6 +12102,15 @@
     "language": "",
     "group": "Music",
     "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Preludio TV",
+    "logo": "https://www.preludioradio.cl/wp-content/uploads/2023/06/logopreludio.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -18801,12 +18837,12 @@
     "isHttps": false
   },
   {
-    "name": "A&E Latin America South (1080p)",
+    "name": "A&E Latin America South (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.6.4.35/AE/index.m3u8",
+    "url": "http://200.91.32.158:8080/ae/index.m3u8",
     "isHttps": false
   },
   {
@@ -18918,15 +18954,6 @@
     "isHttps": false
   },
   {
-    "name": "Argentina/12 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/330px-Argentina12_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://45.6.4.35/IP_NOTICIAS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ARTV (720p)",
     "logo": "https://i.imgur.com/rKP1ihL.png",
     "country": "",
@@ -19008,12 +19035,12 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America South (1080p)",
+    "name": "AXN Latin America South (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.6.4.35/AXN/index.m3u8",
+    "url": "http://200.91.32.158:8080/axn/index.m3u8",
     "isHttps": false
   },
   {
@@ -19085,7 +19112,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://45.6.4.35/C5N/index.m3u8",
+    "url": "http://200.91.32.158:8080/c5n/index.m3u8",
     "isHttps": false
   },
   {
@@ -19404,15 +19431,6 @@
     "isHttps": false
   },
   {
-    "name": "CGTN Spanish (1080p)",
-    "logo": "https://i.imgur.com/Poz3xfi.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://45.6.4.35/CGTN/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ChileVision (1080p)",
     "logo": "https://i.imgur.com/PRijvR0.png",
     "country": "",
@@ -19508,7 +19526,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.6.4.35/CINECANAL/index.m3u8",
+    "url": "http://45.162.193.35:80/CINECANAL/index.m3u8",
     "isHttps": false
   },
   {
@@ -19710,15 +19728,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel Latin America South (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://45.6.4.35/DISNEY/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Jr. Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
@@ -19863,12 +19872,12 @@
     "isHttps": false
   },
   {
-    "name": "El Gourmet South (1080p)",
+    "name": "El Gourmet South (720p)",
     "logo": "https://i.imgur.com/ByMyRI9.png",
     "country": "",
     "language": "",
     "group": "Cooking",
-    "url": "http://45.6.4.35/GOURMET/index.m3u8",
+    "url": "http://200.91.32.158:8080/gourmet/index.m3u8",
     "isHttps": false
   },
   {
@@ -19935,12 +19944,12 @@
     "isHttps": false
   },
   {
-    "name": "Europa Europa (1080p)",
+    "name": "Europa Europa (720p)",
     "logo": "https://i.imgur.com/w5SOfyJ.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://45.6.4.35/EUROPA/index.m3u8",
+    "url": "http://200.91.32.158:8080/europa/index.m3u8",
     "isHttps": false
   },
   {
@@ -19980,12 +19989,12 @@
     "isHttps": false
   },
   {
-    "name": "Film & Arts (1080p)",
+    "name": "Film & Arts (720p)",
     "logo": "https://i.imgur.com/ukdmEKD.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.6.4.35/FILM_AND_ARTS/index.m3u8",
+    "url": "http://200.91.32.158:8080/filmarts/index.m3u8",
     "isHttps": false
   },
   {
@@ -20003,7 +20012,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://45.6.4.35/FOX_SPORT/index.m3u8",
+    "url": "http://200.91.32.158:8080/foxsports/index.m3u8",
     "isHttps": false
   },
   {
@@ -20052,12 +20061,12 @@
     "isHttps": false
   },
   {
-    "name": "FX Latin America South (1080p)",
+    "name": "FX Latin America South (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.6.4.35/FX/index.m3u8",
+    "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
     "isHttps": false
   },
   {
@@ -20160,15 +20169,6 @@
     "isHttps": false
   },
   {
-    "name": "History Latin America South (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://45.6.4.35/HISTORY/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Hits 360 TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/Cx5V233.jpg",
     "country": "",
@@ -20241,12 +20241,12 @@
     "isHttps": false
   },
   {
-    "name": "La Nacion + (1080p)",
+    "name": "La Nacion + (720p)",
     "logo": "https://i.imgur.com/Gj1kqH5.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.6.4.35/LA_NACION/index.m3u8",
+    "url": "http://200.91.32.158:8080/lnmas/index.m3u8",
     "isHttps": false
   },
   {
@@ -21042,12 +21042,12 @@
     "isHttps": false
   },
   {
-    "name": "Star Channel Latin America South (1080p)",
+    "name": "Star Channel Latin America South (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
-    "url": "http://45.6.4.35/FOX/index.m3u8",
+    "url": "http://200.91.32.158:8080/starchannel/index.m3u8",
     "isHttps": false
   },
   {
@@ -21681,12 +21681,12 @@
     "isHttps": false
   },
   {
-    "name": "Via X (576p)",
+    "name": "Via X (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.170.130.224:8000/play/a025/index.m3u8",
+    "url": "http://45.162.193.35/VIAX/index.m3u8",
     "isHttps": false
   },
   {
@@ -21726,12 +21726,12 @@
     "isHttps": false
   },
   {
-    "name": "Volver (720p)",
+    "name": "Volver (576p)",
     "logo": "https://i.imgur.com/PYvSZMb.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.6.4.35/VOLVER/index.m3u8",
+    "url": "http://200.91.32.158:8080/volver/index.m3u8",
     "isHttps": false
   },
   {
@@ -21762,12 +21762,12 @@
     "isHttps": false
   },
   {
-    "name": "Zona Latina (576p)",
+    "name": "Zona Latina (720p)",
     "logo": "https://i.imgur.com/lMyZZtk.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
+    "url": "http://45.162.193.35/ZONALATINA/index.m3u8",
     "isHttps": false
   }
 ]

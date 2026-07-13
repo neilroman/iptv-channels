@@ -1386,15 +1386,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel Latin America South (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://45.6.4.35/DISNEY/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Jr. Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
@@ -1458,12 +1449,30 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Animation\",DreamWorks Channel Asia",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "http://103.137.83.62:9090/play/30/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MeTV Toons (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
     "url": "http://206.212.244.63/112/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick Jr. Indonesia (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/960px-Nick_Jr._logo_2023_%28outline%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "http://103.137.83.62:9090/play/27/index.m3u8",
     "isHttps": false
   },
   {

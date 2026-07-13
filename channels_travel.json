@@ -63,12 +63,12 @@
     "isHttps": true
   },
   {
-    "name": "Fun Roads TV (720p)",
+    "name": "Fun Roads (720p)",
     "logo": "https://i.imgur.com/2Q6TENm.png",
     "country": "",
     "language": "",
     "group": "Auto;Travel",
-    "url": "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978",
     "isHttps": true
   },
   {
@@ -384,15 +384,6 @@
     "language": "",
     "group": "Travel",
     "url": "http://213.91.179.28:8000/play/a0bw",
-    "isHttps": false
-  },
-  {
-    "name": "Modo Viagem (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "http://45.162.231.38:7779/Modo_Viagem/index.m3u8",
     "isHttps": false
   },
   {

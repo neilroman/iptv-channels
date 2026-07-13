@@ -2790,6 +2790,15 @@
     "isHttps": true
   },
   {
+    "name": "House Radio",
+    "logo": "https://graph.facebook.com/houseradiofm/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Musicales",
+    "url": "https://house.urbanrevolution.es:8446/houseaac",
+    "isHttps": true
+  },
+  {
     "name": "IB3 Música",
     "logo": "https://pbs.twimg.com/profile_images/1920138003608940544/NnmOFGb8_200x200.jpg",
     "country": "",
@@ -3146,7 +3155,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Musicales",
-    "url": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3",
+    "url": "https://radio.urbanrevolution.es:8443/hispano",
     "isHttps": true
   },
   {
@@ -6849,6 +6858,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Santa María",
+    "logo": "https://pbs.twimg.com/profile_images/1730156030795939840/NtRBSxdr_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Radio_Castilla-La Mancha",
+    "url": "https://s20.myradiostream.com/15414/listen.mp3",
+    "isHttps": true
+  },
+  {
     "name": "Radio Santoña",
     "logo": "https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200",
     "country": "",
@@ -7997,7 +8015,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Andalucía",
-    "url": "https://eu1.lhdserver.es:8073/stream",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LA_JANDA.mp3",
     "isHttps": true
   },
   {
@@ -9078,6 +9096,15 @@
     "language": "",
     "group": "Radio_Cantabria",
     "url": "http://ns100.emisionlocal.com:9428/live",
+    "isHttps": false
+  },
+  {
+    "name": "FLOW Radio",
+    "logo": "https://graph.facebook.com/flowradio.es/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Musicales",
+    "url": "http://flow.urbanrevolution.es:8445/flow",
     "isHttps": false
   },
   {

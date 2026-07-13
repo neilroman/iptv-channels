@@ -4766,7 +4766,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/AXN/index.m3u8",
+    "url": "http://45.190.28.50/AXN_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4806,12 +4806,12 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America South (1080p)",
+    "name": "AXN Latin America South (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.6.4.35/AXN/index.m3u8",
+    "url": "http://200.91.32.158:8080/axn/index.m3u8",
     "isHttps": false
   },
   {
@@ -4848,6 +4848,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Bolt (1080p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://176.122.125.10:8080/bolt/index.m3u8",
     "isHttps": false
   },
   {
@@ -4959,6 +4968,24 @@
     "isHttps": false
   },
   {
+    "name": "Cine+ (1080p)",
+    "logo": "https://i.imgur.com/SAtdShq.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.122.125.10:8080/CinePlusHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cine+ Hit (1080p)",
+    "logo": "https://i.imgur.com/b3FcLU1.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.122.125.10:8080/CinePlusHitHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cinecanal Mexico (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
     "country": "",
@@ -4982,7 +5009,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.6.4.35/CINECANAL/index.m3u8",
+    "url": "http://45.162.193.35:80/CINECANAL/index.m3u8",
     "isHttps": false
   },
   {
@@ -5103,6 +5130,15 @@
     "isHttps": false
   },
   {
+    "name": "Enter-Film (1080p)",
+    "logo": "https://i.imgur.com/wQbiGs6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.122.125.10:8080/enterfilm/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Epic Bhojpuri (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
     "country": "",
@@ -5121,12 +5157,12 @@
     "isHttps": false
   },
   {
-    "name": "Film & Arts (1080p)",
+    "name": "Film & Arts (720p)",
     "logo": "https://i.imgur.com/ukdmEKD.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.6.4.35/FILM_AND_ARTS/index.m3u8",
+    "url": "http://200.91.32.158:8080/filmarts/index.m3u8",
     "isHttps": false
   },
   {
@@ -5442,15 +5478,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies;Series\",AXN Asia Thailand (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://54.37.19.157/axn/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5796,6 +5823,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Indonesia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://103.137.83.62:9090/play/21/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Twentyseven",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
     "country": "",
@@ -6093,12 +6129,21 @@
     "isHttps": false
   },
   {
-    "name": "Star Channel Latin America South (1080p)",
+    "name": "Star Channel Latin America South (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
-    "url": "http://45.6.4.35/FOX/index.m3u8",
+    "url": "http://200.91.32.158:8080/starchannel/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Cinema (1080p)",
+    "logo": "https://i.imgur.com/5sis895.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.122.125.10:8080/starcinema/index.m3u8",
     "isHttps": false
   },
   {
@@ -6188,7 +6233,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Action/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCACTION-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6197,7 +6242,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Cult/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCCULT-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6206,7 +6251,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Fun/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCFUN-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6215,7 +6260,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Pipoca/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCPIPOCA-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6224,7 +6269,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Premium/index.m3u8",
+    "url": "http://167.250.126.140:7777/TCPREMIUM-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6233,7 +6278,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.231.38:7779/Telecine_Touch/index.m3u8",
+    "url": "http://167.250.126.140:7777/TELECINETOUCH-HD/index.m3u8",
     "isHttps": false
   },
   {
