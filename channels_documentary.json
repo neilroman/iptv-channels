@@ -234,15 +234,6 @@
     "isHttps": true
   },
   {
-    "name": "Court TV (1080p)",
-    "logo": "https://i.imgur.com/qkfe3o9.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Crime360 (1080p)",
     "logo": "https://i.imgur.com/IjtaG1m.png",
     "country": "",
@@ -582,6 +573,33 @@
     "language": "",
     "group": "Documentary",
     "url": "https://lb.dstvmultimedia.com/ViasatNature/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (1080p)",
+    "logo": "https://i.imgur.com/R270aef.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (1080p)",
+    "logo": "https://i.imgur.com/AnYgIvZ.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature",
+    "logo": "https://i.imgur.com/mhyK4v1.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
     "isHttps": true
   },
   {
@@ -1472,7 +1490,7 @@
     "country": "",
     "language": "",
     "group": "Documentary;Education;Science",
-    "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+    "url": "https://edge.enhdtv.com/8026/index.m3u8",
     "isHttps": true
   },
   {
@@ -1566,6 +1584,15 @@
     "isHttps": false
   },
   {
+    "name": "Court TV (1080p)",
+    "logo": "https://i.imgur.com/qkfe3o9.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://40.160.24.52/COURT_TV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ČT 2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
     "country": "",
@@ -1580,7 +1607,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://45.162.193.35:80/DOCU/index.m3u8",
+    "url": "http://45.162.193.35/DOCU/index.m3u8",
     "isHttps": false
   },
   {
@@ -1598,7 +1625,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://177.52.24.163/HISTORY-HD/index.m3u8",
+    "url": "http://45.190.28.50/HISTORY_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -1607,7 +1634,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://206.212.244.63/91/index.m3u8",
+    "url": "http://40.160.24.53/HISTORY_CHANNEL/index.m3u8",
     "isHttps": false
   },
   {
@@ -1701,15 +1728,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",BBC Earth",
-    "logo": "https://i.imgur.com/nGSsUd4.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://81.15.109.89:8001/play/BBCEarth",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",H2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
     "country": "",
@@ -1773,24 +1791,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Explore",
-    "logo": "https://i.imgur.com/gDlqO9h.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://81.15.109.89:8001/play/PolsatViasatExplore",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Nature",
-    "logo": "https://i.imgur.com/TUcM0oS.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://81.15.109.89:8001/play/PolsatViasatNature",
-    "isHttps": false
-  },
-  {
     "name": "National Geographic (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
@@ -1823,7 +1823,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8",
+    "url": "http://40.160.24.53/NAT_GEO/index.m3u8",
     "isHttps": false
   },
   {
@@ -1850,7 +1850,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://177.234.249.178:8888/NATGEO/index.m3u8",
+    "url": "http://45.162.193.35/NATGEO/index.m3u8",
     "isHttps": false
   },
   {
@@ -1895,7 +1895,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://206.212.244.63/123/index.m3u8",
+    "url": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8",
     "isHttps": false
   },
   {

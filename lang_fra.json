@@ -477,15 +477,6 @@
     "isHttps": true
   },
   {
-    "name": "Business 24 Africa (480p)",
-    "logo": "https://i.imgur.com/zZFl3vy.png",
-    "country": "",
-    "language": "",
-    "group": "Business",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BX1 (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/0OkSa6c.png",
     "country": "",
@@ -1647,7 +1638,7 @@
     "isHttps": true
   },
   {
-    "name": "KassouaTV",
+    "name": "KassouaTV (720p)",
     "logo": "https://i.imgur.com/EfX3HNG.png",
     "country": "",
     "language": "",
@@ -2229,15 +2220,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "NCI",
-    "logo": "https://i.imgur.com/I3pv69r.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://cs2.push2stream.com/NCI-DVR/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3421,7 +3403,7 @@
   },
   {
     "name": "Trace Ivoire (1080p)",
-    "logo": "https://ibb.co/JwMs0bFF",
+    "logo": "https://i.imgur.com/W2l3rVx.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -3951,15 +3933,6 @@
     "isHttps": false
   },
   {
-    "name": "A+ Ivoire (720p)",
-    "logo": "https://i.imgur.com/yOW0vyP.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "http://69.64.57.208/atv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Action HD (720p)",
     "logo": "https://i.imgur.com/Zv9VsVq.png",
     "country": "",
@@ -4118,7 +4091,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle",
-    "url": "http://167.250.126.140:7777/FASHIONTV-HD/index.m3u8",
+    "url": "http://45.190.28.50/FASHION_TV_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4190,7 +4163,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
     "isHttps": false
   },
   {
@@ -4199,7 +4172,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
     "isHttps": false
   },
   {
@@ -4581,24 +4554,6 @@
     "isHttps": false
   },
   {
-    "name": "RTI 2 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/73ueXrp.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://69.64.57.208:8080/rti2/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RTI La 3 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/HdNshgF.png",
-    "country": "",
-    "language": "",
-    "group": "Music;Sports",
-    "url": "http://69.64.57.208/la3/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "RTL9 (1080p)",
     "logo": "https://i.imgur.com/nFqjVNW.png",
     "country": "",
@@ -4739,7 +4694,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
     "isHttps": false
   },
   {
@@ -4793,7 +4748,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://5.9.121.178:80/tv5monde/index.m3u8",
+    "url": "http://5.9.121.178/tv5monde/index.m3u8",
     "isHttps": false
   },
   {
@@ -4802,7 +4757,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://54.37.19.157:80/TV5MONDE/index.m3u8",
+    "url": "http://54.37.19.157/TV5MONDE/index.m3u8",
     "isHttps": false
   },
   {
@@ -4811,7 +4766,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.14.84.37:80/tv5monde/index.m3u8",
+    "url": "http://45.14.84.37/tv5monde/index.m3u8",
     "isHttps": false
   },
   {

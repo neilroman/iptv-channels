@@ -117,24 +117,6 @@
     "isHttps": true
   },
   {
-    "name": "Band Sports (1080p)",
-    "logo": "https://i.imgur.com/EuPvzJe.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BandNews (1080p)",
-    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BDC TV (576p)",
     "logo": "https://i.imgur.com/6ckHV6k.jpeg",
     "country": "",
@@ -240,15 +222,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal Educação (720p)",
-    "logo": "https://i.imgur.com/OOB7nrS.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
     "isHttps": true
   },
   {
@@ -414,6 +387,15 @@
     "isHttps": true
   },
   {
+    "name": "Conecta Mais TV (720p)",
+    "logo": "https://i.imgur.com/qHwTWlz.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ConecTV Brasil (720p)",
     "logo": "https://i.imgur.com/XN6jjMR.png",
     "country": "",
@@ -464,7 +446,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+    "url": "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -792,12 +774,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Latin America Brazil (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "name": "Laboral TV (360p)",
+    "logo": "https://tv.laboralsst.com.br/logo.png",
     "country": "",
     "language": "",
-    "group": "Movies",
-    "url": "https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8",
+    "group": "Business",
+    "url": "https://tv.laboralsst.com.br/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -1080,15 +1062,6 @@
     "isHttps": true
   },
   {
-    "name": "Novo Tempo (720p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NPC Rádio e TV (720p)",
     "logo": "https://i.imgur.com/mw1lYWE.png",
     "country": "",
@@ -1098,7 +1071,7 @@
     "isHttps": true
   },
   {
-    "name": "NTV",
+    "name": "NTV (720p)",
     "logo": "https://i.imgur.com/n79nkVC.png",
     "country": "",
     "language": "",
@@ -1167,15 +1140,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Play TV (720p)",
-    "logo": "https://i.imgur.com/Ikrj3lk.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
     "isHttps": true
   },
   {
@@ -1818,15 +1782,6 @@
     "isHttps": true
   },
   {
-    "name": "Record News (720p)",
-    "logo": "https://i.imgur.com/HZDRG0K.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Record TV Belem (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/gEEiN10.png",
     "country": "",
@@ -2160,15 +2115,6 @@
     "isHttps": true
   },
   {
-    "name": "SBT Nacional (720p)",
-    "logo": "https://i.imgur.com/tc1ALuu.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "SBT Nova Mutum",
     "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
     "country": "",
@@ -2256,15 +2202,6 @@
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8",
     "isHttps": true
   },
   {
@@ -2409,15 +2346,6 @@
     "language": "",
     "group": "Music",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
-    "isHttps": true
-  },
-  {
-    "name": "Times Brasil (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2583,15 +2511,6 @@
     "isHttps": true
   },
   {
-    "name": "TV Brasil (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV Brasil Oeste (720p)",
     "logo": "https://i.imgur.com/noqGfuy.png",
     "country": "",
@@ -2643,15 +2562,6 @@
     "language": "",
     "group": "Legislative",
     "url": "https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Cancao Nova (720p)",
-    "logo": "https://i.imgur.com/OaM9hkH.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2715,15 +2625,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Cultura (720p)",
-    "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvlafaietehd/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3380,7 +3281,16 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://167.250.126.140:7777/AGROMAIS-HD/index.m3u8",
+    "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AMC Latin America Brazil (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.190.156.152/AMC/index.m3u8",
     "isHttps": false
   },
   {
@@ -3429,6 +3339,24 @@
     "isHttps": false
   },
   {
+    "name": "Band Sports (1080p)",
+    "logo": "https://i.imgur.com/EuPvzJe.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://143.14.178.40:7777/Band_Sports_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BandNews (1080p)",
+    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://143.14.178.40:7777/Band_News_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Bis (1080p)",
     "logo": "https://i.imgur.com/VUt1lmH.png",
     "country": "",
@@ -3443,7 +3371,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://167.250.126.140:7777/NICKJR-HD/index.m3u8",
+    "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3453,6 +3381,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal Educacao (720p)",
+    "logo": "https://i.imgur.com/OOB7nrS.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
     "isHttps": false
   },
   {
@@ -3470,7 +3407,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://170.82.202.31/OFF/index.m3u8",
+    "url": "http://143.14.178.40:7777/OFF_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3497,16 +3434,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://143.14.134.107:80/167/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Conecta+ TV (720p)",
-    "logo": "https://i.imgur.com/qHwTWlz.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8",
+    "url": "http://45.190.156.152/COMBATE/index.m3u8",
     "isHttps": false
   },
   {
@@ -3524,7 +3452,7 @@
     "country": "",
     "language": "",
     "group": "Culture",
-    "url": "http://167.250.126.140:7777/CURTA!-HD/index.m3u8",
+    "url": "http://45.190.156.152/CURTA!/index.m3u8",
     "isHttps": false
   },
   {
@@ -3551,7 +3479,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+    "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
     "isHttps": false
   },
   {
@@ -3569,7 +3497,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+    "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
     "isHttps": false
   },
   {
@@ -3632,7 +3560,7 @@
     "country": "",
     "language": "",
     "group": "Outdoor",
-    "url": "http://167.250.126.140:7777/FISHTV-HD/index.m3u8",
+    "url": "http://45.162.64.114/FISH_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3668,7 +3596,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://170.82.202.31/Viva/index.m3u8",
+    "url": "http://143.14.178.40:7777/Globoplay_Novelas_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3695,7 +3623,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://170.82.202.31/GNT/index.m3u8",
+    "url": "http://143.14.178.40:7777/GNT_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3704,7 +3632,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://177.52.24.163/HISTORY-HD/index.m3u8",
+    "url": "http://45.190.28.50/HISTORY_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3753,7 +3681,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
     "logo": "https://i.imgur.com/47IKxmt.png",
     "country": "",
     "language": "",
@@ -3762,7 +3690,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (720p)",
     "logo": "https://i.imgur.com/tJQckal.png",
     "country": "",
     "language": "",
@@ -3888,6 +3816,24 @@
     "isHttps": false
   },
   {
+    "name": "Novo Tempo (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Play TV (720p)",
+    "logo": "https://i.imgur.com/Ikrj3lk.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.162.64.114/PLAY_TV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Premiere Clubes (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
     "country": "",
@@ -3911,7 +3857,16 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://167.250.126.140:7777/RECORDTV-HD/index.m3u8",
+    "url": "http://45.190.28.50/RECORD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Record News (720p)",
+    "logo": "https://i.imgur.com/HZDRG0K.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3978,12 +3933,21 @@
     "isHttps": false
   },
   {
+    "name": "SBT Nacional (720p)",
+    "logo": "https://i.imgur.com/tc1ALuu.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.190.28.50/SBT_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "SBT News (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8",
+    "url": "http://45.190.156.152/SBT_NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3993,6 +3957,15 @@
     "language": "",
     "group": "General",
     "url": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sony Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.190.28.50/SONY_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4077,12 +4050,21 @@
     "isHttps": false
   },
   {
+    "name": "Times Brasil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.190.28.50/CNBC/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TNT Novelas Brazil (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://167.250.126.140:7777/TBS-HD/index.m3u8",
+    "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8",
     "isHttps": false
   },
   {
@@ -4091,7 +4073,34 @@
     "country": "",
     "language": "",
     "group": "Travel",
-    "url": "http://167.250.126.140:7777/TRAVELBOX-HD/index.m3u8",
+    "url": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Brasil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.162.64.114/TV_BRASIL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Cancao Nova (720p)",
+    "logo": "https://i.imgur.com/OaM9hkH.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Cultura (720p)",
+    "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
     "isHttps": false
   },
   {
@@ -4145,7 +4154,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
+    "url": "http://45.162.64.114/GAZETA/index.m3u8",
     "isHttps": false
   },
   {

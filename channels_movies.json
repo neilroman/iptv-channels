@@ -171,6 +171,15 @@
     "isHttps": true
   },
   {
+    "name": "Allo Cine (1080p)",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "alpha Cinema (1080p)",
     "logo": "https://i.imgur.com/146OgfU.png",
     "country": "",
@@ -357,15 +366,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Charge! (1080p)",
-    "logo": "https://i.imgur.com/1rxmu2u.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
     "isHttps": true
   },
   {
@@ -702,12 +702,12 @@
     "isHttps": true
   },
   {
-    "name": "Fillka TV (720p)",
+    "name": "Fillka TV (1080p)",
     "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png",
     "country": "",
     "language": "",
     "group": "Entertainment;Movies;Series",
-    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8",
+    "url": "https://amixtv.com/fillkatvhd/index.m3u8",
     "isHttps": true
   },
   {
@@ -1215,15 +1215,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Latin America Brazil (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
     "logo": "https://i.imgur.com/GHNsctR.png",
     "country": "",
@@ -1338,6 +1329,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Movie Star (720p)",
+    "logo": "https://i.imgur.com/DdZH49P.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://shift03.isp.bg/MovieStar/index.m3u8",
     "isHttps": true
   },
   {
@@ -3870,15 +3870,6 @@
     "isHttps": true
   },
   {
-    "name": "Sony Movies Latin America (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sony One Favoris (1080p)",
     "logo": "https://i.imgur.com/RO4AM4b.png",
     "country": "",
@@ -4703,7 +4694,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.193.35:80/AMC/index.m3u8",
+    "url": "http://45.162.193.35/AMC/index.m3u8",
     "isHttps": false
   },
   {
@@ -4712,7 +4703,16 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://177.234.249.178:8888/AMC/index.m3u8",
+    "url": "http://45.171.108.253:8888/AMC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AMC Latin America Brazil (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.190.156.152/AMC/index.m3u8",
     "isHttps": false
   },
   {
@@ -4793,7 +4793,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://177.234.249.178:8888/AXN/index.m3u8",
+    "url": "http://138.186.23.7:8082/AXN/index.m3u8",
     "isHttps": false
   },
   {
@@ -4914,6 +4914,15 @@
     "isHttps": false
   },
   {
+    "name": "Charge! (1080p)",
+    "logo": "https://i.imgur.com/1rxmu2u.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/CHARGE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cine Familiar (1080p)",
     "logo": "https://i.imgur.com/ZgP2hE3.png",
     "country": "",
@@ -4986,6 +4995,15 @@
     "isHttps": false
   },
   {
+    "name": "Cinecanal (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://138.186.23.7:8082/CINECANAL/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cinecanal Mexico (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
     "country": "",
@@ -5009,7 +5027,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.193.35:80/CINECANAL/index.m3u8",
+    "url": "http://45.162.193.35/CINECANAL/index.m3u8",
     "isHttps": false
   },
   {
@@ -5018,7 +5036,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.162.193.35:80/CINELATINO_HD/index.m3u8",
+    "url": "http://45.162.193.35/CINELATINO_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -5036,7 +5054,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
+    "url": "http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=",
     "isHttps": false
   },
   {
@@ -5126,7 +5144,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8",
+    "url": "http://177.245.131.133:8080/DHE/index.m3u8",
     "isHttps": false
   },
   {
@@ -5225,7 +5243,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle;Movies",
-    "url": "http://206.212.244.63/82/index.m3u8",
+    "url": "http://40.160.24.52/GAC_LIVING/index.m3u8",
     "isHttps": false
   },
   {
@@ -5234,7 +5252,7 @@
     "country": "",
     "language": "",
     "group": "Family;Movies",
-    "url": "http://40.160.24.58/GAC_FAMILY/index.m3u8",
+    "url": "http://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8",
     "isHttps": false
   },
   {
@@ -5261,7 +5279,7 @@
     "country": "",
     "language": "",
     "group": "Movies;Series",
-    "url": "http://206.212.244.63/86/index.m3u8",
+    "url": "http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8",
     "isHttps": false
   },
   {
@@ -5333,7 +5351,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://176.118.197.101:80/KinoTvHD/playlist.m3u8",
+    "url": "http://176.118.197.101/KinoTvHD/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5445,15 +5463,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Star Channel Latin America (1080i)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",
     "country": "",
@@ -5495,7 +5504,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://213.91.179.28:8000/play/a0by",
+    "url": "http://212.70.131.37:8000/play/a05k",
     "isHttps": false
   },
   {
@@ -5571,7 +5580,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (720p)",
     "logo": "https://i.imgur.com/tJQckal.png",
     "country": "",
     "language": "",
@@ -5769,15 +5778,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Movie Star",
-    "logo": "https://i.imgur.com/DdZH49P.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://85.14.32.26:8800/udp/239.100.10.160:5000",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Star Channel",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
@@ -5847,15 +5847,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://91.146.94.234:10001/play/a04o",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinecanal (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6008,7 +5999,7 @@
     "country": "",
     "language": "",
     "group": "Movies;Series",
-    "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
+    "url": "http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8",
     "isHttps": false
   },
   {
@@ -6018,15 +6009,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Film (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/wGH6shZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8",
     "isHttps": false
   },
   {
@@ -6120,12 +6102,30 @@
     "isHttps": false
   },
   {
+    "name": "Sony Movies Latin America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.55/SONY_MOVIES/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Channel (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
     "url": "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Channel Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://45.162.193.35/STAR_CHANNEL/index.m3u8",
     "isHttps": false
   },
   {
@@ -6215,7 +6215,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://206.212.244.63/151/index.m3u8",
+    "url": "http://40.160.24.55/SUNDANCE/index.m3u8",
     "isHttps": false
   },
   {

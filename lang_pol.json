@@ -18,15 +18,6 @@
     "isHttps": true
   },
   {
-    "name": "ATM Rozrywka REWORK (1080p)",
-    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://grupaatmrr.org.pl:8888/fallback/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bialogardzka Telewizja Kablowa (1080p)",
     "logo": "https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png",
     "country": "",
@@ -162,6 +153,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVP2 (1080p)",
+    "logo": "https://i.imgur.com/XxCc32B.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://tvpi.travny.workers.dev/tvp2.m3u",
+    "isHttps": true
+  },
+  {
     "name": "Mango (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg",
     "country": "",
@@ -216,12 +216,30 @@
     "isHttps": true
   },
   {
+    "name": "Polsat (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/xff6zGN.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Polsat News (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/sx1yPuc.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Polsat News 2 (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
     "isHttps": true
   },
   {
@@ -432,21 +450,12 @@
     "isHttps": true
   },
   {
-    "name": "TVP 3 Warszawa (1080p)",
-    "logo": "https://i.imgur.com/AfZOO8U.jpg",
+    "name": "TVP Historia",
+    "logo": "https://i.imgur.com/Bc4QZiy.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpwarszawa.m3u",
-    "isHttps": true
-  },
-  {
-    "name": "TVP ABC 2 (1080p)",
-    "logo": "https://i.imgur.com/Ur7CUAh.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://tvp8.cache.orange.pl/tvp/live/EkoIysgDYnUEz6n-9Jfa3A/1783369428/video/live/live249/bpk-tv/TVP_ABC_2/156/master.m3u8",
+    "url": "https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8",
     "isHttps": true
   },
   {
@@ -468,30 +477,12 @@
     "isHttps": true
   },
   {
-    "name": "TVP Sport (1080p)",
-    "logo": "https://i.imgur.com/JUZDOCO.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-    "isHttps": true
-  },
-  {
     "name": "TVP1 (1080p)",
     "logo": "https://i.imgur.com/ewpSjBs.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TVP2 (1080p)",
-    "logo": "https://i.imgur.com/XxCc32B.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd",
     "isHttps": true
   },
   {
@@ -510,15 +501,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TVT Zgorzelec (576p)",
-    "logo": "https://i.imgur.com/zhzVpgf.jpg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://lowa8026-cmyk.github.io/Poland/TVTZGORHD.m3u8",
     "isHttps": true
   },
   {
@@ -594,6 +576,15 @@
     "isHttps": false
   },
   {
+    "name": "BBC First",
+    "logo": "https://i.imgur.com/UBoBYUI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.146.94.234:10001/play/a087",
+    "isHttps": false
+  },
+  {
     "name": "Eska TV (1080p)",
     "logo": "https://i.imgur.com/N0eH0Cg.png",
     "country": "",
@@ -603,264 +594,48 @@
     "isHttps": false
   },
   {
-    "name": "FightBox Poland (1080p)",
-    "logo": "https://i.imgur.com/mRsnztA.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a085",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Explore",
-    "logo": "https://i.imgur.com/gDlqO9h.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://81.15.109.89:8001/play/PolsatViasatExplore",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",Polsat Viasat Nature",
-    "logo": "https://i.imgur.com/TUcM0oS.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://81.15.109.89:8001/play/PolsatViasatNature",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",BBC First",
-    "logo": "https://i.imgur.com/UBoBYUI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://81.15.109.89:8001/play/BBCFirst",
-    "isHttps": false
-  },
-  {
-    "name": "MTV [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7294/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polo TV (1080i)",
-    "logo": "https://i.imgur.com/GEJZjRB.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19170/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/xff6zGN.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7299/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat 2 (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/960px-Polsat_2_2021_gradient.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6084/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Cafe (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/500px-Polsat_Caf%C3%A9_2021_gradient.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6085/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Film (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/wGH6shZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6086/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Games (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/OSCrBvh.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7295/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat JimJam (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/GjppUlg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7298/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat News 2 (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7297/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Play (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/500px-Polsat_Play_2021_gradient.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6087/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Rodzina (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/IS0AW48.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7301/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport 1 (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7296/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport 2 (1080p) [Not 24/7]",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Polsat Sport 2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7310/index.m3u8",
+    "url": "http://91.146.94.234:10001/play/a06z",
     "isHttps": false
   },
   {
-    "name": "Polsat Sport 3 (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7303/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 1 (1080p)",
-    "logo": "https://i.imgur.com/g2YieTL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07r",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 2 (1080p)",
-    "logo": "https://i.imgur.com/Jg4n9R2.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07s",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 3 (1080p)",
-    "logo": "https://i.imgur.com/9SRFaux.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07a",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 4 (1080p)",
-    "logo": "https://i.imgur.com/UZQvdEA.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07b",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Fight (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/8x1FV3o.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7311/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Premium 1 (1080p)",
-    "logo": "https://i.imgur.com/hy1SKE0.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a05a",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Premium 2 (1080p)",
-    "logo": "https://i.imgur.com/myyWeXY.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a05b",
-    "isHttps": false
-  },
-  {
-    "name": "Sport Klub (1080p) [Not 24/7]",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport Klub",
     "logo": "https://i.imgur.com/DpJUrlr.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/2521/index.m3u8",
+    "url": "http://91.146.94.234:10001/play/a079",
     "isHttps": false
   },
   {
-    "name": "Stars TV (1080p)",
-    "logo": "https://i.imgur.com/NdITPCk.png",
+    "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19168/index.m3u8",
+    "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
     "isHttps": false
   },
   {
-    "name": "Super Polsat (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/6KXJRHc.png",
+    "name": "Polsat Sport Premium 1 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/hy1SKE0.png",
     "country": "",
     "language": "",
-    "group": "General",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7312/index.m3u8",
+    "group": "Sports",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "Szlagier TV",
-    "logo": "https://i.imgur.com/VQk19Ng.png",
+    "name": "Polsat Sport Premium 2 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/myyWeXY.png",
     "country": "",
     "language": "",
-    "group": "General",
-    "url": "http://78.130.250.2:8023/play/a03t/index.m3u8",
+    "group": "Sports",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8",
     "isHttps": false
   },
   {
@@ -891,21 +666,30 @@
     "isHttps": false
   },
   {
-    "name": "TVP Historia (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/Bc4QZiy.png",
+    "name": "TVP 3 Warszawa (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/AfZOO8U.jpg",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7283/index.m3u8",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7284/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "TVP Seriale (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/MuRtvXk.png",
+    "name": "TVP Sport (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/JUZDOCO.png",
     "country": "",
     "language": "",
-    "group": "Series",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7281/index.m3u8",
+    "group": "Sports",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVT Zgorzelec (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/zhzVpgf.jpg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
     "isHttps": false
   },
   {
@@ -915,15 +699,6 @@
     "language": "",
     "group": "Music",
     "url": "http://45.190.28.50/ULTRA/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "VOX Music TV (1080p)",
-    "logo": "https://i.imgur.com/N993msF.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19171/index.m3u8",
     "isHttps": false
   }
 ]

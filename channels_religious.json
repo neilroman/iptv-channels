@@ -284,7 +284,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://v4.tustreaming.cl/adatvchile/index.m3u8",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1256,7 +1256,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8",
+    "url": "https://s.emisoras.tv:8081/radiomaya/index.m3u8",
     "isHttps": true
   },
   {
@@ -1977,15 +1977,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Enlace (720p)",
-    "logo": "https://i.imgur.com/YwUVTmS.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3263,7 +3254,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://kalemeh.tv/live/hls/gate.php?p=%2Flive%2Fngrp%3Akalemeh_all%2Fplaylist.m3u8",
+    "url": "https://kalemeh.tv/live/hls/gate.php?p=/live/ngrp:kalemeh_all/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4464,15 +4455,6 @@
     "isHttps": true
   },
   {
-    "name": "Novo Tempo (720p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NRBTV (720p)",
     "logo": "https://i.imgur.com/2PL1Au7.png",
     "country": "",
@@ -5499,15 +5481,6 @@
     "isHttps": true
   },
   {
-    "name": "Spas (576p)",
-    "logo": "https://i.imgur.com/yY39nMg.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "SperantaTV (1080p)",
     "logo": "https://i.imgur.com/KUyqQCX.png",
     "country": "",
@@ -6237,7 +6210,7 @@
     "isHttps": true
   },
   {
-    "name": "Vision",
+    "name": "Vision (480p)",
     "logo": "https://i.imgur.com/gyuoNZk.png",
     "country": "",
     "language": "",
@@ -6669,6 +6642,15 @@
     "isHttps": false
   },
   {
+    "name": "Enlace (720p)",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://177.234.249.178:8888/ENLACE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "EWTN Spain & Latin America (720p)",
     "logo": "https://i.imgur.com/sua70RO.png",
     "country": "",
@@ -6903,6 +6885,15 @@
     "isHttps": false
   },
   {
+    "name": "Novo Tempo (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Paighan TV (1080p)",
     "logo": "https://i.imgur.com/zokC3gO.png",
     "country": "",
@@ -6972,6 +6963,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Spas (576p)",
+    "logo": "https://i.imgur.com/yY39nMg.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://94.230.129.31:8080/SPAS/index.m3u8",
     "isHttps": false
   },
   {
