@@ -1611,6 +1611,15 @@
     "isHttps": true
   },
   {
+    "name": "CTN (720p)",
+    "logo": "https://i.imgur.com/mHCabmJ.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CTNi (Christian Television Network International) (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/42UdwD0.png",
     "country": "",
@@ -2904,42 +2913,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Imam Hussein TV 1 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/pDdUvz7.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Imam Hussein TV 2 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/IXVSPdJ.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Imam Hussein TV 3 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/emQRHQZ.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Imam Hussein TV 4 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/0UYcylY.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
     "isHttps": true
   },
   {
@@ -6765,6 +6738,60 @@
     "language": "",
     "group": "Religious",
     "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Imam Hussein TV 1 (1080p)",
+    "logo": "https://i.imgur.com/pDdUvz7.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://fa.imamhossaintv.com/live/ih1.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Imam Hussein TV 2 (1080p)",
+    "logo": "https://i.imgur.com/IXVSPdJ.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://ar.imamhossaintv.com/live/ih2.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Imam Hussein TV 3 (1080p)",
+    "logo": "https://i.imgur.com/emQRHQZ.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://en.imamhossaintv.com/live/ih3.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Imam Hussein TV 4 (1080p)",
+    "logo": "https://i.imgur.com/0UYcylY.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://ur.imamhossaintv.com/live/ih4.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Imam Hussein TV 5 (720p)",
+    "logo": "https://i.imgur.com/Oq2Ve7C.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://live.al-zahratv.com/live/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Imam Hussein TV 6 (1080p)",
+    "logo": "https://i.imgur.com/lqhU0PY.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://live.imamhossaintv.com/live/ih6.m3u8",
     "isHttps": false
   },
   {

@@ -207,6 +207,15 @@
     "isHttps": true
   },
   {
+    "name": "Channel 7 Kazakhstan (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/LebKU09.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://adpnetworkhd-cmd.github.io/iptv/7_kanal_Kazakhstan.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Channel 8 International (576p)",
     "logo": "https://i.imgur.com/I8OU9oa.png",
     "country": "",
@@ -765,6 +774,15 @@
     "isHttps": true
   },
   {
+    "name": "Patriot (720p)",
+    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Perviy otdel (1080p)",
     "logo": "https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg",
     "country": "",
@@ -837,12 +855,30 @@
     "isHttps": true
   },
   {
+    "name": "Radio 1 (720p) [Geo-blocked]",
+    "logo": "https://radiopotok.ru/f/station/512/1812.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Mir (720p)",
     "logo": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Rossii (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
     "isHttps": true
   },
   {
@@ -960,6 +996,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sankt-Peterburg HD (720p)",
+    "logo": "https://i.imgur.com/9At4oG7.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8",
     "isHttps": true
   },
   {
@@ -1296,6 +1341,15 @@
     "isHttps": true
   },
   {
+    "name": "Vesti FM (720p)",
+    "logo": "https://i.imgur.com/ZBHqSZj.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "viju Nature",
     "logo": "https://i.imgur.com/8BPZ18l.png",
     "country": "",
@@ -1347,6 +1401,15 @@
     "language": "",
     "group": "Music",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Vmeste-RF (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/KI1qZNc.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streaming.thestream.cyou/live/7006.m3u8",
     "isHttps": true
   },
   {
@@ -1536,24 +1599,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Вести ФМ",
-    "logo": "https://i.imgur.com/ZBHqSZj.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173",
-    "isHttps": true
-  },
-  {
-    "name": "Вместе РФ",
-    "logo": "https://i.imgur.com/KI1qZNc.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3114,6 +3159,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",Inter+ HD (1080p)",
+    "logo": "https://i.imgur.com/Y392Hh4.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://176.122.125.10:8080/interplus/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Love Nature HD (720p)",
     "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
     "country": "",
@@ -4236,15 +4290,6 @@
     "language": "",
     "group": "General",
     "url": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Патриот (576i)",
-    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://catchup.videoline.ru/asvtv/index.m3u8",
     "isHttps": false
   },
   {

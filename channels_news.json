@@ -1845,15 +1845,6 @@
     "isHttps": true
   },
   {
-    "name": "CGTN Français (1080p)",
-    "logo": "https://i.imgur.com/BwhledK.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CGTN Русский (1080p)",
     "logo": "https://i.imgur.com/nDWkCmL.png",
     "country": "",
@@ -4671,15 +4662,6 @@
     "isHttps": true
   },
   {
-    "name": "My-Ukraina TV (1080p)",
-    "logo": "https://i.imgur.com/OD84Oga.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/WEUKRAINETV.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nablus TV (1080p)",
     "logo": "https://i.imgur.com/GoLhaDK.png",
     "country": "",
@@ -4725,12 +4707,12 @@
     "isHttps": true
   },
   {
-    "name": "Nanduti (720p)",
+    "name": "Nanduti (1080p)",
     "logo": "https://i.imgur.com/vnIkhRO.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8",
+    "url": "https://nanduti.b-cdn.net/Source.m3u8",
     "isHttps": true
   },
   {
@@ -7425,6 +7407,15 @@
     "isHttps": true
   },
   {
+    "name": "Vesti FM (720p)",
+    "logo": "https://i.imgur.com/ZBHqSZj.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Vĩnh Long TV1 (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/5YFsqPx.png",
     "country": "",
@@ -7776,15 +7767,6 @@
     "isHttps": true
   },
   {
-    "name": "Вести ФМ",
-    "logo": "https://i.imgur.com/ZBHqSZj.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173",
-    "isHttps": true
-  },
-  {
     "name": "Дон 24 (1080p)",
     "logo": "https://i.imgur.com/fW15la1.png",
     "country": "",
@@ -8133,6 +8115,15 @@
     "language": "",
     "group": "News",
     "url": "http://go.bkpcp.top/mg/cctv13",
+    "isHttps": false
+  },
+  {
+    "name": "CGTN French (1080p)",
+    "logo": "https://i.imgur.com/BwhledK.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://145.239.5.177/214/index.m3u8",
     "isHttps": false
   },
   {

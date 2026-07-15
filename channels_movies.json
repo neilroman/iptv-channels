@@ -1863,6 +1863,15 @@
     "isHttps": true
   },
   {
+    "name": "Patriot (720p)",
+    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Persiana Cinema",
     "logo": "https://i.imgur.com/hgIro9r.png",
     "country": "",
@@ -4140,6 +4149,15 @@
     "isHttps": true
   },
   {
+    "name": "SYFY (1080p)",
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://gpuserver5.tier1streams.com/SYFY/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "T2 Movies",
     "logo": "",
     "country": "",
@@ -5841,6 +5859,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://znty.dyndns.org:5010/hls/axn.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Cine34",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png",
     "country": "",
@@ -5856,6 +5883,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://91.146.94.234:10001/play/a02r",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Star Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://znty.dyndns.org:5010/hls/foxm.m3u8",
     "isHttps": false
   },
   {
@@ -5883,6 +5919,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://40.160.24.52/EPIX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MGM+ Drive-In (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8",
     "isHttps": false
   },
   {
@@ -6219,15 +6264,6 @@
     "isHttps": false
   },
   {
-    "name": "SYFY (720p)",
-    "logo": "https://i.imgur.com/4fMWhUE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Telecine Action (720p)",
     "logo": "https://i.imgur.com/BHYWG0h.png",
     "country": "",
@@ -6504,15 +6540,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/Kineko/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Патриот (576i)",
-    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://catchup.videoline.ru/asvtv/index.m3u8",
     "isHttps": false
   },
   {

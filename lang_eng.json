@@ -5985,6 +5985,15 @@
     "isHttps": true
   },
   {
+    "name": "CTN (720p)",
+    "logo": "https://i.imgur.com/mHCabmJ.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CTV19 (720p)",
     "logo": "https://i.imgur.com/qkd2m24.png",
     "country": "",
@@ -9504,15 +9513,6 @@
     "isHttps": true
   },
   {
-    "name": "Imam Hussein TV 3 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/emQRHQZ.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Impact Network (720p)",
     "logo": "https://i.imgur.com/57NH9sS.png",
     "country": "",
@@ -10125,6 +10125,15 @@
     "isHttps": true
   },
   {
+    "name": "Kantipur TV",
+    "logo": "https://i.imgur.com/HEVo2Gc.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kartoon Channel (1080p)",
     "logo": "https://i.imgur.com/1luzP3T.png",
     "country": "",
@@ -10518,6 +10527,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KRC TV",
+    "logo": "https://i.imgur.com/8c9Uqks.jpeg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://channels.ad-ug.com/live/ch03/index.m3u8",
     "isHttps": true
   },
   {
@@ -19935,6 +19953,15 @@
     "isHttps": true
   },
   {
+    "name": "SYFY (1080p)",
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://gpuserver5.tier1streams.com/SYFY/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Synagogue TV (576p)",
     "logo": "https://i.imgur.com/MOaBr9M.png",
     "country": "",
@@ -20097,12 +20124,12 @@
     "isHttps": true
   },
   {
-    "name": "TCT Network (720p)",
+    "name": "TCT (1080p)",
     "logo": "https://i.imgur.com/J5iRMgi.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://a-cdn.klowdtv.com/live2/tct_720p/playlist.m3u8",
+    "url": "https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8",
     "isHttps": true
   },
   {
@@ -25704,6 +25731,15 @@
     "isHttps": false
   },
   {
+    "name": "Imam Hussein TV 3 (1080p)",
+    "logo": "https://i.imgur.com/emQRHQZ.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://en.imamhossaintv.com/live/ih3.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "INSP (720p)",
     "logo": "https://i.imgur.com/YgOC51j.png",
     "country": "",
@@ -26250,6 +26286,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://40.160.24.52/EPIX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MGM+ Drive-In (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8",
     "isHttps": false
   },
   {
@@ -27243,15 +27288,6 @@
     "isHttps": false
   },
   {
-    "name": "SYFY (720p)",
-    "logo": "https://i.imgur.com/4fMWhUE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "T+E (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png",
     "country": "",
@@ -27312,6 +27348,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TFX (720p)",
+    "logo": "https://i.imgur.com/d91GcVf.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://145.239.5.177/315/index.m3u8",
     "isHttps": false
   },
   {

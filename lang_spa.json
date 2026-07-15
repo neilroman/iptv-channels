@@ -2763,12 +2763,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 5 TV Max (720p)",
+    "name": "Canal 5 TV Max (1080p)",
     "logo": "https://i.imgur.com/6oihaDM.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+    "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
     "isHttps": true
   },
   {
@@ -6548,7 +6548,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion",
+    "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
     "isHttps": true
   },
   {
@@ -9513,12 +9513,12 @@
     "isHttps": true
   },
   {
-    "name": "Monumental TV",
+    "name": "Monumental TV (1080p)",
     "logo": "https://i.imgur.com/kEcOYML.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+    "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
     "isHttps": true
   },
   {
@@ -9972,12 +9972,12 @@
     "isHttps": true
   },
   {
-    "name": "Nanduti (720p)",
+    "name": "Nanduti (1080p)",
     "logo": "https://i.imgur.com/vnIkhRO.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8",
+    "url": "https://nanduti.b-cdn.net/Source.m3u8",
     "isHttps": true
   },
   {
@@ -15206,7 +15206,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion",
+    "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -20454,6 +20454,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://40.160.24.52/EPIX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MGM+ Drive-In (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8",
     "isHttps": false
   },
   {

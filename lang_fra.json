@@ -657,15 +657,6 @@
     "isHttps": true
   },
   {
-    "name": "CGTN Français (1080p)",
-    "logo": "https://i.imgur.com/BwhledK.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Chabiba TV (360p) [Not 24/7]",
     "logo": "https://i.imgur.com/qVTOklV.png",
     "country": "",
@@ -1986,15 +1977,6 @@
     "language": "",
     "group": "News",
     "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "M6 Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
     "isHttps": true
   },
   {
@@ -3933,6 +3915,15 @@
     "isHttps": false
   },
   {
+    "name": "AB1 (720p)",
+    "logo": "https://i.imgur.com/9C7UsOe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://145.239.5.177/332/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Action HD (720p)",
     "logo": "https://i.imgur.com/Zv9VsVq.png",
     "country": "",
@@ -4041,6 +4032,24 @@
     "isHttps": false
   },
   {
+    "name": "Cap Terre (1080p)",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/capterre_white.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://145.239.5.177/359a/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CGTN French (1080p)",
+    "logo": "https://i.imgur.com/BwhledK.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://145.239.5.177/214/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cherifla TV (360p)",
     "logo": "https://i.imgur.com/V8nuoEW.png",
     "country": "",
@@ -4092,6 +4101,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://45.190.28.50/FASHION_TV_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Foot+",
+    "logo": "https://i.imgur.com/qsLLyn4.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://145.239.5.177/556a/index.m3u8",
     "isHttps": false
   },
   {
@@ -4272,6 +4290,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://103.154.3.101:5001/live/1736.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "M6 Music (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://145.239.5.177/320/index.m3u8",
     "isHttps": false
   },
   {
@@ -4527,12 +4554,12 @@
     "isHttps": false
   },
   {
-    "name": "RMC Life (720p)",
+    "name": "RMC Life (1080p)",
     "logo": "https://img1.dc2.oqee.net/channel_pictures/3606/w512",
     "country": "",
     "language": "",
     "group": "Entertainment;Interactive",
-    "url": "http://41.205.77.102/CHERIE25/index.m3u8",
+    "url": "http://145.239.5.177/333/index.m3u8",
     "isHttps": false
   },
   {
@@ -4635,6 +4662,15 @@
     "isHttps": false
   },
   {
+    "name": "Serie Club (720p)",
+    "logo": "https://i.imgur.com/V8wRRg5.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://145.239.5.177/355/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Tele Congo (720p)",
     "logo": "https://i.imgur.com/r4B5zq4.png",
     "country": "",
@@ -4662,12 +4698,12 @@
     "isHttps": false
   },
   {
-    "name": "Teva (720p)",
+    "name": "Teva (1080p)",
     "logo": "https://i.imgur.com/kDW0hN5.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://41.205.77.102/TEVA/index.m3u8",
+    "url": "http://145.239.5.177/356/index.m3u8",
     "isHttps": false
   },
   {
@@ -4677,6 +4713,15 @@
     "language": "",
     "group": "General",
     "url": "http://69.64.57.208/tfm/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TFX (720p)",
+    "logo": "https://i.imgur.com/d91GcVf.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://145.239.5.177/315/index.m3u8",
     "isHttps": false
   },
   {
@@ -4722,6 +4767,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://69.64.57.208/albayanetv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Breizh (1080p)",
+    "logo": "https://i.imgur.com/O8W4yhn.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://145.239.5.177/318/index.m3u8",
     "isHttps": false
   },
   {

@@ -1998,6 +1998,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Music\",DM Sat (576p)",
+    "logo": "https://i.imgur.com/LdeA1Cn.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://shift03.isp.bg/DMSat/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Music\",TV Rodina (1080p)",
     "logo": "",
     "country": "",
@@ -2121,15 +2130,6 @@
     "language": "",
     "group": "Music",
     "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "M6 Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
     "isHttps": true
   },
   {
@@ -6444,15 +6444,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",DM Sat",
-    "logo": "https://i.imgur.com/LdeA1Cn.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://85.14.32.26:8800/udp/239.100.10.40:5000",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",Hit Mix Music",
     "logo": "https://i.imgur.com/Gbaxq6P.png",
     "country": "",
@@ -6477,6 +6468,15 @@
     "language": "",
     "group": "Music",
     "url": "http://176.122.125.10:8080/m2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "M6 Music (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://145.239.5.177/320/index.m3u8",
     "isHttps": false
   },
   {

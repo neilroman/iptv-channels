@@ -3744,6 +3744,15 @@
     "isHttps": true
   },
   {
+    "name": "Series Classic (720p)",
+    "logo": "https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured/bg_mobile.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Shef (1080p)",
     "logo": "https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg",
     "country": "",
@@ -3966,6 +3975,15 @@
     "language": "",
     "group": "Series",
     "url": "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "SYFY (1080p)",
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://gpuserver5.tier1streams.com/SYFY/index.m3u8",
     "isHttps": true
   },
   {
@@ -4839,15 +4857,6 @@
     "language": "",
     "group": "General;Series",
     "url": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "SYFY (720p)",
-    "logo": "https://i.imgur.com/4fMWhUE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
     "isHttps": false
   },
   {
