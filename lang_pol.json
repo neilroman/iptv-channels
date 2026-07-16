@@ -18,15 +18,6 @@
     "isHttps": true
   },
   {
-    "name": "ATM Rozrywka REWORK (720p)",
-    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://grupaatmrr.org.pl:8888/fallback/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bialogardzka Telewizja Kablowa (1080p)",
     "logo": "https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png",
     "country": "",
@@ -573,6 +564,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://91.146.94.234:10001/play/a088",
+    "isHttps": false
+  },
+  {
+    "name": "ATM Rozrywka REWORK (1080p)",
+    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.38.132.146:8877/ATMRR/index.m3u8",
     "isHttps": false
   },
   {

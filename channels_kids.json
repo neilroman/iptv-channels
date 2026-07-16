@@ -846,15 +846,6 @@
     "isHttps": true
   },
   {
-    "name": "Kids Pang TV (1080p)",
-    "logo": "https://i.imgur.com/mhAAIa2.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "KidsFlix (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/4Pn0ADQ.png",
     "country": "",
@@ -2826,15 +2817,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (1080i)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Junior (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
@@ -2850,6 +2832,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Junior (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://40.160.24.52/Disney_JR/index.m3u8",
     "isHttps": false
   },
   {
@@ -2876,7 +2867,16 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+    "url": "http://40.160.24.52/DISNEY_XD_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney XD West (480p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://tvsen5.aynascope.net/disneyxd/index.m3u8",
     "isHttps": false
   },
   {
@@ -3012,15 +3012,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://82.78.243.219:45739/play/a00y/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Kids\",Chikitoonz (1080p)",
-    "logo": "https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8",
     "isHttps": false
   },
   {

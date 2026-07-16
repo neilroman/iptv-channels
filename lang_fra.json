@@ -315,15 +315,6 @@
     "isHttps": true
   },
   {
-    "name": "Arte (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/ecXMjNl.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Assadissa (480p)",
     "logo": "https://freebox.cdn.scw.iliad.fr/medium_Assadissa_f8b25de821.png",
     "country": "",
@@ -486,15 +477,6 @@
     "isHttps": true
   },
   {
-    "name": "C Star (477p)",
-    "logo": "https://i.imgur.com/w4kAX1V.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Caillou",
     "logo": "https://i.imgur.com/RgKaoe4.png",
     "country": "",
@@ -564,15 +546,6 @@
     "language": "",
     "group": "General",
     "url": "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal+ Haiti [Geo-blocked]",
-    "logo": "https://i.imgur.com/Gad5qrd.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8",
     "isHttps": true
   },
   {
@@ -1647,6 +1620,15 @@
     "isHttps": true
   },
   {
+    "name": "Kozoom TV (1080p)",
+    "logo": "https://i.imgur.com/M1Ee79b.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "L'Equipe (1080p)",
     "logo": "https://i.imgur.com/t35zhM9.png",
     "country": "",
@@ -1905,15 +1887,6 @@
     "language": "",
     "group": "Comedy",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Sports\",KOZOOM TV (1080p)",
-    "logo": "https://i.imgur.com/M1Ee79b.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0",
     "isHttps": true
   },
   {
@@ -3915,6 +3888,15 @@
     "isHttps": false
   },
   {
+    "name": "6ter (1080p)",
+    "logo": "https://i.imgur.com/2nd5Cox.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://145.239.5.177/314/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AB1 (720p)",
     "logo": "https://i.imgur.com/9C7UsOe.png",
     "country": "",
@@ -3960,6 +3942,15 @@
     "isHttps": false
   },
   {
+    "name": "arte (720p)",
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://145.239.5.177/300/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BabyFirst (720p)",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "country": "",
@@ -3996,6 +3987,15 @@
     "isHttps": false
   },
   {
+    "name": "C Star (1080p)",
+    "logo": "https://i.imgur.com/w4kAX1V.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://145.239.5.177/361/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canal 2 International (720p)",
     "logo": "https://i.imgur.com/BzA2z7m.png",
     "country": "",
@@ -4020,15 +4020,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal+ Family (720p)",
-    "logo": "https://i.imgur.com/TXI8hM1.png",
-    "country": "",
-    "language": "",
-    "group": "Family",
-    "url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4059,12 +4050,21 @@
     "isHttps": false
   },
   {
-    "name": "CRTV (360p)",
+    "name": "Cine+ Emotion (720p)",
+    "logo": "https://i.imgur.com/upYjPvc.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://145.239.5.177/337/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CRTV (576p)",
     "logo": "https://i.imgur.com/cQWNh3L.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://69.64.57.208/crtv/playlist.m3u8",
+    "url": "http://145.239.5.177/147/index.m3u8",
     "isHttps": false
   },
   {

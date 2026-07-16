@@ -423,6 +423,15 @@
     "isHttps": true
   },
   {
+    "name": "Kongress TV (1080p)",
+    "logo": "https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kulinar TV (576p)",
     "logo": "https://smotret.tv/images/kulinar-tv.webp",
     "country": "",
@@ -918,30 +927,12 @@
     "isHttps": true
   },
   {
-    "name": "RTR-Planeta Asia (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_asia/playlist_4.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RTR-Planeta CIS (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RTR-Planeta Europe (720p) [Geo-blocked]",
+    "name": "RTR Planeta Europe [Geo-blocked]",
     "logo": "https://i.imgur.com/0YEahxs.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.smotrim.ru/hls2/planeta_rtr_euro/playlist_4.m3u8",
+    "url": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d",
     "isHttps": true
   },
   {
@@ -969,6 +960,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://rutvkids.ru/live/efir/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Russia RTR CIS [Geo-blocked]",
+    "logo": "https://i.imgur.com/T42cuYx.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410",
     "isHttps": true
   },
   {
@@ -2076,6 +2076,15 @@
     "language": "",
     "group": "General",
     "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Россия-РТР",
+    "logo": "https://i.imgur.com/T42cuYx.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
     "isHttps": true
   },
   {

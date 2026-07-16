@@ -3186,6 +3186,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal de la Fe (720p)",
+    "logo": "https://i.imgur.com/n3FffgF.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal del Sol (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/gK0M1jB.png",
     "country": "",
@@ -7677,15 +7686,6 @@
     "isHttps": true
   },
   {
-    "name": "KWHY 63.1 (720p)",
-    "logo": "https://i.imgur.com/RcdOYIL.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "La 1 (720p)",
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
     "country": "",
@@ -8313,15 +8313,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://sc2.escuela4.com/live/92974f62a8d5e5caf8f6d1c98fe9b2615f2238c5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Undefined\",Viajar TV (1080p)",
-    "logo": "https://i.imgur.com/LxB7ZIu.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS",
     "isHttps": true
   },
   {
@@ -14859,6 +14850,15 @@
     "isHttps": true
   },
   {
+    "name": "Tele Federal (720p)",
+    "logo": "https://www.5900.tv/storage/thumbnails/1783991515_6a558cdb34917.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Tele Mocoa Canal 10 (720p)",
     "logo": "https://i.imgur.com/XHtpEfu.png",
     "country": "",
@@ -17343,6 +17343,15 @@
     "isHttps": true
   },
   {
+    "name": "TVSA Public Channel (720p)",
+    "logo": "https://i.imgur.com/3Om5TUc.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVU Concepción (1080p)",
     "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
     "country": "",
@@ -19674,12 +19683,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (1080i)",
+    "name": "Disney Junior (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+    "url": "http://40.160.24.52/Disney_JR/index.m3u8",
     "isHttps": false
   },
   {
@@ -19697,7 +19706,16 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+    "url": "http://40.160.24.52/DISNEY_XD_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney XD West (480p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://tvsen5.aynascope.net/disneyxd/index.m3u8",
     "isHttps": false
   },
   {
@@ -19707,6 +19725,15 @@
     "language": "",
     "group": "Comedy",
     "url": "http://177.234.249.135:8888/DistritoComedia/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "DNews (720p)",
+    "logo": "https://i.imgur.com/jF2BabI.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://38.19.16.151:8000/play/a0a3",
     "isHttps": false
   },
   {
@@ -20337,15 +20364,6 @@
     "language": "",
     "group": "General",
     "url": "http://190.7.19.197:232/play/a04l/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Kids\",Chikitoonz (1080p)",
-    "logo": "https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8",
     "isHttps": false
   },
   {

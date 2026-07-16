@@ -108,12 +108,12 @@
     "isHttps": true
   },
   {
-    "name": "Aadinath TV (576p)",
+    "name": "Aadinath TV (396p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://mumt01.tangotv.in/AADINATHTV/index.m3u8",
+    "url": "https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8",
     "isHttps": true
   },
   {
@@ -963,15 +963,6 @@
     "isHttps": true
   },
   {
-    "name": "Awakening TV (576p)",
-    "logo": "https://i.imgur.com/p26iWOi.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Azan TV",
     "logo": "https://i.imgur.com/JlqS6I4.jpeg",
     "country": "",
@@ -1080,15 +1071,6 @@
     "isHttps": true
   },
   {
-    "name": "Bhakti Sagar (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Boonniyom TV",
     "logo": "https://i.imgur.com/KvdFCD5.png",
     "country": "",
@@ -1176,6 +1158,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal de la Fe (720p)",
+    "logo": "https://i.imgur.com/n3FffgF.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8",
     "isHttps": true
   },
   {
@@ -1656,15 +1647,6 @@
     "isHttps": true
   },
   {
-    "name": "Darshan 24 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt05.tangotv.in/DARSHAN24/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Daystar TV (1080p)",
     "logo": "https://i.imgur.com/IjzCv8f.png",
     "country": "",
@@ -1701,12 +1683,12 @@
     "isHttps": true
   },
   {
-    "name": "Dharm Sandesh (576p)",
+    "name": "Dharm Sandesh",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8",
+    "url": "https://cdn-2.pishow.tv/live/1455/master.m3u8",
     "isHttps": true
   },
   {
@@ -2565,15 +2547,6 @@
     "isHttps": true
   },
   {
-    "name": "Grace TV (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Grace_TV.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt03.tangotv.in/GRACETV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Gran TV (720p)",
     "logo": "https://i.ibb.co/qJN7Qh2/gran-kicsi.png",
     "country": "",
@@ -2769,15 +2742,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Hope Channel India (576p)",
-    "logo": "https://i.imgur.com/wPzPUrK.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8",
     "isHttps": true
   },
   {
@@ -3114,6 +3078,15 @@
     "isHttps": true
   },
   {
+    "name": "JBS (720p)",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "JCM TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/28YB7dD.jpg",
     "country": "",
@@ -3138,6 +3111,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://mp.panelchs.com:1936/8038/8038/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Jewish Life Television (1080p)",
+    "logo": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj",
+    "country": "",
+    "language": "",
+    "group": "Culture;Religious",
+    "url": "https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8",
     "isHttps": true
   },
   {
@@ -3357,15 +3339,6 @@
     "isHttps": true
   },
   {
-    "name": "KWHY 63.1 (720p)",
-    "logo": "https://i.imgur.com/RcdOYIL.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "La Salvacion del Alma TV",
     "logo": "https://www.zradios.com/files/1/1/9/11942-627.jpg",
     "country": "",
@@ -3555,30 +3528,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Culture;Religious\",Jewish Life Television JLTV (1080p)",
-    "logo": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj",
-    "country": "",
-    "language": "",
-    "group": "Culture;Religious",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/jltv.m3u8?ads.vf=sDqPiBzBf9O",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Religious\",Bhakthi Siri (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/f6da6ddbbd4e157e54904f34196118e7.png",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8?ads.vf=gdvNYWzRJii",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Religious\",Bless TV (1080p)",
-    "logo": "https://i.imgur.com/USshSMj.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bless-tv/master.m3u8?ads.vf=V3yg36zq5AW",
     "isHttps": true
   },
   {
@@ -3762,12 +3717,12 @@
     "isHttps": true
   },
   {
-    "name": "Madha TV (576p)",
+    "name": "Madha TV",
     "logo": "https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://mumt02.tangotv.in/MADHATV/index.m3u8",
+    "url": "https://cdn-3.pishow.tv/live/1265/master.m3u8",
     "isHttps": true
   },
   {
@@ -3957,15 +3912,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MH One Shraddha (360p)",
-    "logo": "https://i.imgur.com/Lrm8qTO.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://paramount.jswk.online/shraddhamhone/index.m3u8",
     "isHttps": true
   },
   {
@@ -4500,15 +4446,6 @@
     "isHttps": true
   },
   {
-    "name": "OM TV (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt01.tangotv.in/OMTV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ONE-TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/Wob7gjp.png",
     "country": "",
@@ -4536,15 +4473,6 @@
     "isHttps": true
   },
   {
-    "name": "Paras Gold (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt04.tangotv.in/PARASGOLD/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Parole di Vita (1080p)",
     "logo": "https://i.imgur.com/vkFlXbR.png",
     "country": "",
@@ -4569,15 +4497,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Peace Of Mind TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8",
     "isHttps": true
   },
   {
@@ -5085,12 +5004,12 @@
     "isHttps": true
   },
   {
-    "name": "Sairam TV (576p)",
+    "name": "Sairam TV",
     "logo": "",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8",
+    "url": "https://cdn-3.pishow.tv/live/1611/master.m3u8",
     "isHttps": true
   },
   {
@@ -5424,15 +5343,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://tv.streamcasthd.com:3536/live/siontvlive.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Soham TV (576p)",
-    "logo": "https://i.imgur.com/cpedJ0L.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://mumt03.tangotv.in/SOHAMTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -6801,15 +6711,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "JBS (404p) [Not 24/7]",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
     "isHttps": false
   },
   {
