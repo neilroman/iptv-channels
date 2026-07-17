@@ -3816,6 +3816,15 @@
     "isHttps": true
   },
   {
+    "name": "Star Channel Latin America Central America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Star Trek",
     "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
     "country": "",
@@ -4581,15 +4590,6 @@
     "isHttps": false
   },
   {
-    "name": "AMC Series Latin America (720p)",
-    "logo": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://200.91.32.158:8080/amcserieshd/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Amedia 2 (576p)",
     "logo": "https://i.imgur.com/NqHla2V.png",
     "country": "",
@@ -4815,15 +4815,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Channel Latin America South (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://200.91.32.158:8080/starchannel/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Start TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/960px-Start_TV_logo.svg.png",
     "country": "",
@@ -4839,6 +4830,15 @@
     "language": "",
     "group": "General;Series",
     "url": "http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SYFY West (720p)",
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23111",
     "isHttps": false
   },
   {
@@ -4869,15 +4869,6 @@
     "isHttps": false
   },
   {
-    "name": "TNT Novelas (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://200.91.32.158:8080/tntnovelas/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TNT Novelas Brazil (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
     "country": "",
@@ -4893,15 +4884,6 @@
     "language": "",
     "group": "Series",
     "url": "http://92.114.85.72:8000/play/a0bi",
-    "isHttps": false
-  },
-  {
-    "name": "Universal Crime (720p)",
-    "logo": "https://i.imgur.com/OwSlGMu.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://200.91.32.158:8080/universalcrimehd/index.m3u8",
     "isHttps": false
   },
   {

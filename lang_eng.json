@@ -19377,6 +19377,15 @@
     "isHttps": true
   },
   {
+    "name": "Stingray iConcerts HD",
+    "logo": "https://i.imgur.com/GKc7RFz.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Stingray Jukebox Oldies (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
     "country": "",
@@ -24012,6 +24021,15 @@
     "isHttps": false
   },
   {
+    "name": "A&E West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23104",
+    "isHttps": false
+  },
+  {
     "name": "ABC (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
     "country": "",
@@ -24615,15 +24633,6 @@
     "isHttps": false
   },
   {
-    "name": "Channel 4 (1080p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://80.194.62.172:50002/stream/channelid/1940621521",
-    "isHttps": false
-  },
-  {
     "name": "Channel 5 HD (720p)",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",
     "country": "",
@@ -24714,12 +24723,12 @@
     "isHttps": false
   },
   {
-    "name": "CNBC World (576p)",
+    "name": "CNBC World (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/960px-CNBC_World_2025.svg.png",
     "country": "",
     "language": "",
     "group": "Business",
-    "url": "http://40.160.24.52/CNBC_WORLD/index.m3u8",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23117",
     "isHttps": false
   },
   {
@@ -25362,6 +25371,15 @@
     "isHttps": false
   },
   {
+    "name": "FYI West (1080p)",
+    "logo": "https://i.imgur.com/PggQk7F.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23108",
+    "isHttps": false
+  },
+  {
     "name": "Gagsnetwork (576p)",
     "logo": "https://i.imgur.com/ENj5GIp.png",
     "country": "",
@@ -25548,6 +25566,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://103.154.3.101:5001/live/577.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History West (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23105",
     "isHttps": false
   },
   {
@@ -25821,12 +25848,30 @@
     "isHttps": false
   },
   {
+    "name": "Lifetime Movies West (1080p)",
+    "logo": "https://i.imgur.com/BWmqYTO.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107",
+    "isHttps": false
+  },
+  {
     "name": "Lifetime Real Women (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LRW_logo_2012.png/960px-LRW_logo_2012.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Lifetime West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23106",
     "isHttps": false
   },
   {
@@ -26010,15 +26055,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Comedy Hungary",
-    "logo": "https://i.imgur.com/CGFyAyc.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9000/play/a057",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Star Channel",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
@@ -26070,6 +26106,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://91.146.94.234:10001/play/a03i",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Family Hungary (576p)",
+    "logo": "https://i.imgur.com/CGFyAyc.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -26178,6 +26223,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://40.160.24.52/EPIX_2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MGM+ Marquee (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23075",
+    "isHttps": false
+  },
+  {
+    "name": "MGM+ West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23073",
     "isHttps": false
   },
   {
@@ -26631,12 +26694,30 @@
     "isHttps": false
   },
   {
+    "name": "Nickelodeon West (720p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23019",
+    "isHttps": false
+  },
+  {
     "name": "Nicktoons (720p)",
     "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://40.160.24.55/NICKTOONS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nicktoons West (720p)",
+    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23079",
     "isHttps": false
   },
   {
@@ -27162,6 +27243,15 @@
     "isHttps": false
   },
   {
+    "name": "SYFY West (720p)",
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23111",
+    "isHttps": false
+  },
+  {
     "name": "T+E (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png",
     "country": "",
@@ -27213,6 +27303,15 @@
     "language": "",
     "group": "General",
     "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telemundo West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23002",
     "isHttps": false
   },
   {
@@ -27513,24 +27612,6 @@
     "isHttps": false
   },
   {
-    "name": "Universal Premiere (720p)",
-    "logo": "https://i.imgur.com/KdFk80C.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://200.91.32.158:8080/universalpremierehd/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Universal Reality (720p)",
-    "logo": "https://i.imgur.com/mqfUD1R.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://200.91.32.158:8080/universalrealityhd/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Univision (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
     "country": "",
@@ -27762,15 +27843,6 @@
     "language": "",
     "group": "Outdoor",
     "url": "http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "WPIX-HD (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://84.17.50.102/cw/index.m3u8",
     "isHttps": false
   },
   {

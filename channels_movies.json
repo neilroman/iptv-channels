@@ -3897,6 +3897,15 @@
     "isHttps": true
   },
   {
+    "name": "Star Channel Latin America Central America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Star Cinema",
     "logo": "https://i.imgur.com/5sis895.png",
     "country": "",
@@ -4779,12 +4788,12 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America South (720p)",
+    "name": "AXN Latin America South",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://200.91.32.158:8080/axn/index.m3u8",
+    "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
     "isHttps": false
   },
   {
@@ -5400,6 +5409,15 @@
     "isHttps": false
   },
   {
+    "name": "Lifetime Movies West (1080p)",
+    "logo": "https://i.imgur.com/BWmqYTO.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Star Gold Thrills (576p)",
     "logo": "https://i.imgur.com/azqtpYh.png",
     "country": "",
@@ -5652,15 +5670,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Comedy Hungary",
-    "logo": "https://i.imgur.com/CGFyAyc.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9000/play/a057",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Bulgary",
     "logo": "https://i.imgur.com/ML7SlIW.png",
     "country": "",
@@ -5676,15 +5685,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Hungary",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9005/play/a01j",
     "isHttps": false
   },
   {
@@ -5841,6 +5841,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Extra Hungary (1080p)",
+    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Family Hungary (576p)",
+    "logo": "https://i.imgur.com/CGFyAyc.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Rai Movie",
     "logo": "https://i.imgur.com/0FjxXU9.png",
     "country": "",
@@ -5901,6 +5919,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://40.160.24.52/EPIX_2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MGM+ Marquee (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23075",
+    "isHttps": false
+  },
+  {
+    "name": "MGM+ West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23073",
     "isHttps": false
   },
   {
@@ -6138,15 +6174,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Channel Latin America South (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://200.91.32.158:8080/starchannel/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Cinema (1080p)",
     "logo": "https://i.imgur.com/5sis895.png",
     "country": "",
@@ -6228,6 +6255,15 @@
     "isHttps": false
   },
   {
+    "name": "SYFY West (720p)",
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23111",
+    "isHttps": false
+  },
+  {
     "name": "Telecine Action (720p)",
     "logo": "https://i.imgur.com/BHYWG0h.png",
     "country": "",
@@ -6288,15 +6324,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://213.91.179.28:8000/play/a0bx",
-    "isHttps": false
-  },
-  {
-    "name": "Universal Premiere (720p)",
-    "logo": "https://i.imgur.com/KdFk80C.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://200.91.32.158:8080/universalpremierehd/index.m3u8",
     "isHttps": false
   },
   {

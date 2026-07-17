@@ -837,15 +837,6 @@
     "isHttps": true
   },
   {
-    "name": "Loupe (1080p)",
-    "logo": "https://i.imgur.com/T6tsw0O.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MacGyver",
     "logo": "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
     "country": "",
@@ -3294,6 +3285,15 @@
     "isHttps": true
   },
   {
+    "name": "VEJA+ TV (1080p)",
+    "logo": "https://i.imgur.com/n0pxHo4.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Vivax TV (720p)",
     "logo": "",
     "country": "",
@@ -3353,7 +3353,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.162.231.38:7779/AE/index.m3u8",
+    "url": "http://45.190.28.50/AE_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3623,7 +3623,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment;News",
-    "url": "http://45.162.231.38:7779/E/index.m3u8",
+    "url": "http://45.190.156.152/E/index.m3u8",
     "isHttps": false
   },
   {
@@ -3749,7 +3749,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://45.162.231.38:7779/History_2/index.m3u8",
+    "url": "http://45.190.28.50/H2_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3768,15 +3768,6 @@
     "language": "",
     "group": "Music",
     "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Lifetime Latin America Brazil (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://45.162.231.38:7779/Lifetime/index.m3u8",
     "isHttps": false
   },
   {
@@ -4163,7 +4154,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.231.38:7779/Studio_Universal/index.m3u8",
+    "url": "http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8",
     "isHttps": false
   },
   {
@@ -4550,7 +4541,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.162.231.38:7779/Universal_TV/index.m3u8",
+    "url": "http://45.190.156.152/UNIVERSAL_TV/index.m3u8",
     "isHttps": false
   },
   {
