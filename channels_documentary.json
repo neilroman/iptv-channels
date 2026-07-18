@@ -234,6 +234,15 @@
     "isHttps": true
   },
   {
+    "name": "Court TV (1080p)",
+    "logo": "https://i.imgur.com/qkfe3o9.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Crime 360 (720p)",
     "logo": "https://i.imgur.com/IjtaG1m.png",
     "country": "",
@@ -1593,15 +1602,6 @@
     "isHttps": false
   },
   {
-    "name": "Court TV (1080p)",
-    "logo": "https://i.imgur.com/qkfe3o9.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://40.160.24.52/COURT_TV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ČT 2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
     "country": "",
@@ -1809,12 +1809,30 @@
     "isHttps": false
   },
   {
+    "name": "Nano (576p)",
+    "logo": "https://i.imgur.com/dYj3XDa.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://stream.mcquack.net/419/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "National Geographic (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://stream.mcquack.net/116/index.m3u8",
     "isHttps": false
   },
   {
@@ -1950,6 +1968,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://31.148.48.15/Terra_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tochka RF (1080p)",
+    "logo": "https://i.imgur.com/tKgmhxh.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Travel",
+    "url": "http://stream.mcquack.net/161/index.m3u8",
     "isHttps": false
   },
   {

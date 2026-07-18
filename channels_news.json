@@ -1949,7 +1949,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8",
+    "url": "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4734,15 +4734,6 @@
     "isHttps": true
   },
   {
-    "name": "News India 24x7",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cdn-3.pishow.tv/live/273/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "News J (720p) [Not 24/7]",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png",
     "country": "",
@@ -4776,6 +4767,15 @@
     "language": "",
     "group": "News",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "News of the World (720p)",
+    "logo": "https://i.imgur.com/MfyRQCs.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://nowhls.wns.live/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -7722,6 +7722,15 @@
     "isHttps": false
   },
   {
+    "name": "Al Jazeera English HD (576p)",
+    "logo": "https://i.imgur.com/7bRVpnu.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://stream.mcquack.net/131/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ALWifak News TV (720p)",
     "logo": "https://i.imgur.com/1vqhmNz.png",
     "country": "",
@@ -8042,7 +8051,7 @@
     "country": "",
     "language": "",
     "group": "News;Sports",
-    "url": "http://40.160.24.52/ESPN_NEWS/index.m3u8",
+    "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -8087,7 +8096,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://40.160.24.52/FOX_NEWS/index.m3u8",
+    "url": "http://41.205.77.102/FOX-NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -8271,6 +8280,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Culture;News\",Ost West 24 (1080p)",
+    "logo": "https://i.imgur.com/voeQ6x1.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;News",
+    "url": "http://stream.mcquack.net/455/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"News\",My-Ukraina TV (1080p)",
+    "logo": "https://i.imgur.com/OD84Oga.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://stream.mcquack.net/442/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"News\",Rai News 24 HD",
     "logo": "https://i.imgur.com/n2u57y3.png",
     "country": "",
@@ -8412,6 +8439,15 @@
     "language": "",
     "group": "News",
     "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "News India 24x7 (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8",
     "isHttps": false
   },
   {
@@ -8700,6 +8736,15 @@
     "language": "",
     "group": "News",
     "url": "http://name-port.to/live/Gregory123/Gregory321/2420047.ts",
+    "isHttps": false
+  },
+  {
+    "name": "Time TV (576p)",
+    "logo": "https://i.imgur.com/yxpeWnY.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://tvsen5.aynascope.net/timetv/index.m3u8",
     "isHttps": false
   },
   {

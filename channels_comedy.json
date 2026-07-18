@@ -1827,15 +1827,6 @@
     "isHttps": false
   },
   {
-    "name": "Comedy TV (720p)",
-    "logo": "https://i.imgur.com/KLfXnba.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "http://40.160.24.52/COMEDY_TV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Distrito Comedia (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png",
     "country": "",
@@ -1851,6 +1842,15 @@
     "language": "",
     "group": "Comedy",
     "url": "http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Komedia (576p)",
+    "logo": "https://i.imgur.com/VRC5juh.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://stream.mcquack.net/68/index.m3u8",
     "isHttps": false
   },
   {

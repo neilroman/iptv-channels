@@ -369,15 +369,6 @@
     "isHttps": true
   },
   {
-    "name": "CBeebies Asia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "CBeebies HD (720p) [Geo-blocked]",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
     "country": "",
@@ -2421,6 +2412,15 @@
     "isHttps": true
   },
   {
+    "name": "4Kids TV (576p)",
+    "logo": "https://i.imgur.com/507piHp.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://tvsen5.aynascope.net/4KidsTV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Amou Yazid TV (576p)",
     "logo": "https://i.imgur.com/L8UPGPC.png",
     "country": "",
@@ -2709,15 +2709,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel HD East (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -2760,6 +2751,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/3146/index.m3u8",
     "isHttps": false
   },
   {
@@ -2817,6 +2817,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Junior (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Junior (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
@@ -2832,15 +2841,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Junior (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://40.160.24.52/Disney_JR/index.m3u8",
     "isHttps": false
   },
   {
@@ -3105,6 +3105,15 @@
     "isHttps": false
   },
   {
+    "name": "Mama (576p)",
+    "logo": "https://i.imgur.com/kmMIjjf.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://stream.mcquack.net/79/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MeTV Toons (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
     "country": "",
@@ -3213,6 +3222,15 @@
     "isHttps": false
   },
   {
+    "name": "Nickelodeon (576p)",
+    "logo": "https://i.imgur.com/w8iE8dV.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://stream.mcquack.net/443/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nickelodeon Asia Indonesia (720p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -3267,21 +3285,21 @@
     "isHttps": false
   },
   {
-    "name": "Nicktoons (720p)",
+    "name": "Nicktoons (1080p)",
     "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://40.160.24.55/NICKTOONS/index.m3u8",
+    "url": "http://206.212.244.63/3151/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "Nicktoons West (720p)",
+    "name": "Nicktoons West (1080p)",
     "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23079",
+    "url": "http://206.212.244.63/3152/index.m3u8",
     "isHttps": false
   },
   {
@@ -3489,15 +3507,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Мама (576p)",
-    "logo": "https://i.imgur.com/kmMIjjf.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://31.148.48.15/Mama/index.m3u8",
     "isHttps": false
   },
   {

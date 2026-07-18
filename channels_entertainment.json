@@ -1341,6 +1341,15 @@
     "isHttps": true
   },
   {
+    "name": "Comet (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Conecta Mais TV (720p)",
     "logo": "https://i.imgur.com/qHwTWlz.png",
     "country": "",
@@ -6246,6 +6255,15 @@
     "isHttps": true
   },
   {
+    "name": ".black (576p)",
+    "logo": "https://i.imgur.com/Q4A6ci4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/263/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": ".red (576p)",
     "logo": "https://i.imgur.com/GET9Qut.png",
     "country": "",
@@ -6381,30 +6399,12 @@
     "isHttps": false
   },
   {
-    "name": "AMC+ (1080p)",
-    "logo": "https://i.imgur.com/abtANyj.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.52/AMC_PLUS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ANT1 Cyprus (1080p)",
     "logo": "https://i.imgur.com/2KAObBt.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Antenna TV (576p)",
-    "logo": "https://i.imgur.com/ocs2DeU.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.52/ANTENNA_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -6431,7 +6431,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.52/ASPIRE/index.m3u8",
+    "url": "http://206.212.244.63/10/index.m3u8",
     "isHttps": false
   },
   {
@@ -6471,15 +6471,6 @@
     "isHttps": false
   },
   {
-    "name": "BBC America East HD (720p)",
-    "logo": "https://i.imgur.com/pTiiPz0.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.52/BBC_AMERICA/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BBC First",
     "logo": "https://i.imgur.com/UBoBYUI.png",
     "country": "",
@@ -6494,7 +6485,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.52/BET_HER/index.m3u8",
+    "url": "http://41.205.93.154/BETHER/index.m3u8",
     "isHttps": false
   },
   {
@@ -6669,21 +6660,12 @@
     "isHttps": false
   },
   {
-    "name": "Comet (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.52/COMET/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Cozi TV (1080p)",
+    "name": "Cozi TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.52/COZI_TV/index.m3u8",
+    "url": "http://206.212.244.63/49/index.m3u8",
     "isHttps": false
   },
   {
@@ -6702,15 +6684,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://88.212.15.19/live/test_cai_hevc/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CTV Drama Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/960px-CTV_Drama_Channel_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.52/DISCOVERY_SCIENCE_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6768,15 +6741,6 @@
     "isHttps": false
   },
   {
-    "name": "E! West (720p)",
-    "logo": "https://i.imgur.com/TWFDkap.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.52/E_ENTERTAINMENT_WEST/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "E4 (1080p)",
     "logo": "https://i.imgur.com/22MfjF4.png",
     "country": "",
@@ -6828,6 +6792,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fox (576p)",
+    "logo": "https://i.imgur.com/nr1Y67Z.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/182/index.m3u8",
     "isHttps": false
   },
   {
@@ -6912,12 +6885,12 @@
     "isHttps": false
   },
   {
-    "name": "Game Show Network (720p)",
+    "name": "Game Show Network (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.52/GSN/index.m3u8",
+    "url": "http://206.212.244.63/4237/index.m3u8",
     "isHttps": false
   },
   {
@@ -6944,16 +6917,16 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.52/GetTV/index.m3u8",
+    "url": "http://206.212.244.63/80/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "Grit (1080p)",
+    "name": "Grit (720p)",
     "logo": "https://i.imgur.com/6w1Wj3j.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.52/GRIT/index.m3u8",
+    "url": "http://206.212.244.63/83/index.m3u8",
     "isHttps": false
   },
   {
@@ -7281,6 +7254,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Novyi Channel (1080p)",
+    "logo": "https://i.imgur.com/Dnfhdsm.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/157/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Star Channel",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
@@ -7296,6 +7278,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://151.80.18.177:86/TF1_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Logo (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/500px-Logo_TV_2015.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://206.212.244.63/4242/index.m3u8",
     "isHttps": false
   },
   {
@@ -7755,6 +7746,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Jalsha HD (720p)",
+    "logo": "https://i.imgur.com/IlufzR5.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://tvsen7.aynascope.net/sjhdbd/index.m3u8",
     "isHttps": false
   },
   {

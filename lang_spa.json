@@ -3546,6 +3546,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal Showsport (720p)",
+    "logo": "https://i.imgur.com/0L9tW3Z.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal Sierra de Cádiz (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/94rn7pb.png",
     "country": "",
@@ -5031,12 +5040,12 @@
     "isHttps": true
   },
   {
-    "name": "Daystar TV Espanol (1080p)",
+    "name": "Daystar Español (720p)",
     "logo": "https://i.imgur.com/4nP7j4M.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://hls-live-media-gc.cdn01.net/mpegts/232076_2222907/karlKyiKToEdHsTFUcjs9g/1776816000/master_mpegts.m3u8",
+    "url": "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5805,12 +5814,12 @@
     "isHttps": true
   },
   {
-    "name": "EnerGeek (720p) [Not 24/7]",
+    "name": "EnerGeek (1080p)",
     "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
     "country": "",
     "language": "",
     "group": "Animation",
-    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+    "url": "https://iptv2.cronet.cl/ENERGEEK_RETRO/index.m3u8",
     "isHttps": true
   },
   {
@@ -7728,6 +7737,15 @@
     "language": "",
     "group": "General;Public",
     "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "La 2",
+    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+    "country": "",
+    "language": "",
+    "group": "General;Public",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
     "isHttps": true
   },
   {
@@ -19305,15 +19323,6 @@
     "isHttps": false
   },
   {
-    "name": "CBS Sports Network USA (720p)",
-    "logo": "https://i.imgur.com/A8CnA8g.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "CDN (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/eQyjIgf.png",
     "country": "",
@@ -19593,15 +19602,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel HD East (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://40.160.24.52/Disney_Channel_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -19647,6 +19647,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://206.212.244.63/3146/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Jr. Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
@@ -19683,12 +19692,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (720p)",
+    "name": "Disney Junior (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://40.160.24.52/Disney_JR/index.m3u8",
+    "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
     "isHttps": false
   },
   {
@@ -19941,15 +19950,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://200.91.32.158:8080/filmarts/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Flix (720p)",
-    "logo": "https://i.imgur.com/N1d23J3.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/FLIX/index.m3u8",
     "isHttps": false
   },
   {
@@ -20340,6 +20340,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Movies\",Az Cinema (1080p)",
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -20439,33 +20448,6 @@
     "isHttps": false
   },
   {
-    "name": "MGM+ (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/EPIX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MGM+ Drive-In (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MGM+ Hits (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/EPIX_2/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "MGM+ Marquee (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png",
     "country": "",
@@ -20489,7 +20471,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://40.160.24.52/MLB_Network/index.m3u8",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23103",
     "isHttps": false
   },
   {
@@ -20535,15 +20517,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://40.160.24.52/MSG_2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MSG Plus (720p)",
-    "logo": "https://i.imgur.com/7suDpSK.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.52/MSG_PLUS/index.m3u8",
     "isHttps": false
   },
   {

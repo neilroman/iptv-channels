@@ -360,6 +360,15 @@
     "isHttps": true
   },
   {
+    "name": "Charge! (1080p)",
+    "logo": "https://i.imgur.com/1rxmu2u.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CINDIE TV (1080p)",
     "logo": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",
     "country": "",
@@ -702,21 +711,21 @@
     "isHttps": true
   },
   {
-    "name": "FilmBox Arthouse",
-    "logo": "https://i.imgur.com/hDg35ne.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FilmBox Baltics (450p) [Geo-blocked]",
     "logo": "https://i.imgur.com/gXu36aD.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FILMBOX+ Festival",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1278,8 +1287,8 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Adria",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Emotion Adria",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1287,8 +1296,8 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Adria",
-    "logo": "https://i.imgur.com/RydfsE9.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Hits Adria",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1296,8 +1305,8 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Adria",
-    "logo": "https://i.imgur.com/eZFdHbR.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Love & Crime Adria",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -4077,15 +4086,6 @@
     "isHttps": true
   },
   {
-    "name": "START Air",
-    "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "START World",
     "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
     "country": "",
@@ -4698,12 +4698,12 @@
     "isHttps": false
   },
   {
-    "name": "Amedia Hit (720p)",
+    "name": "Amedia Hit (1080p)",
     "logo": "https://i.imgur.com/a8ZBGBw.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
-    "url": "http://31.148.48.15/Amedia_HIT_HD/index.m3u8",
+    "url": "http://stream.mcquack.net/162/index.m3u8",
     "isHttps": false
   },
   {
@@ -4893,15 +4893,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Charge! (1080p)",
-    "logo": "https://i.imgur.com/1rxmu2u.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/CHARGE/index.m3u8",
     "isHttps": false
   },
   {
@@ -5157,6 +5148,15 @@
     "isHttps": false
   },
   {
+    "name": "Evrokino HD (1080p)",
+    "logo": "https://i.imgur.com/8LPtPf6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/385/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FAN (1080p)",
     "logo": "https://i.imgur.com/mDeTbaF.png",
     "country": "",
@@ -5184,39 +5184,12 @@
     "isHttps": false
   },
   {
-    "name": "Film4 (1080p)",
-    "logo": "https://i.imgur.com/MTSgoGI.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://80.194.62.172:50002/stream/channelid/1764271106",
-    "isHttps": false
-  },
-  {
     "name": "Filmazia (576p)",
     "logo": "https://i.imgur.com/hpTCANa.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://103.250.28.74:8000/play/a02k/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Flix (720p)",
-    "logo": "https://i.imgur.com/N1d23J3.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/FLIX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FXM (720p)",
-    "logo": "https://comteco.com.bo/img/upload/canales/svCJXa.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/FXM/index.m3u8",
     "isHttps": false
   },
   {
@@ -5234,7 +5207,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle;Movies",
-    "url": "http://40.160.24.52/GAC_LIVING/index.m3u8",
+    "url": "http://206.212.244.63/82/index.m3u8",
     "isHttps": false
   },
   {
@@ -5243,7 +5216,7 @@
     "country": "",
     "language": "",
     "group": "Family;Movies",
-    "url": "http://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8",
+    "url": "http://40.160.24.58/GAC_FAMILY/index.m3u8",
     "isHttps": false
   },
   {
@@ -5463,6 +5436,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Movies\",Az Cinema (1080p)",
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",
     "country": "",
@@ -5661,8 +5643,8 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Comedy",
-    "logo": "https://i.imgur.com/CGFyAyc.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Comedy Czechia",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5670,8 +5652,8 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Bulgary",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Emotion Bulgaria",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5679,8 +5661,8 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Emotion Czech Republic",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Emotion Czechia",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5688,8 +5670,8 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Czech Republic",
-    "logo": "https://i.imgur.com/RydfsE9.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Hits Czechia",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5697,26 +5679,8 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Hits Hungary",
-    "logo": "https://i.imgur.com/RydfsE9.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9005/play/a01x",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Bulgary",
-    "logo": "https://i.imgur.com/eZFdHbR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://213.91.179.28:8000/play/a066",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Czech Republic",
-    "logo": "https://i.imgur.com/eZFdHbR.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Love & Crime",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5724,17 +5688,17 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ Love & Crime Hungary",
-    "logo": "https://i.imgur.com/eZFdHbR.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Love & Crime Bulgaria",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://46.149.191.217:9007/play/a01o",
+    "url": "http://213.91.179.28:8000/play/a066",
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ One Bulgary",
-    "logo": "https://i.imgur.com/VyaslIY.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ One Bulgaria",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5742,8 +5706,8 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox+ One Czech Republic",
-    "logo": "https://i.imgur.com/VyaslIY.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ One Czechia",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5841,8 +5805,17 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Extra Hungary (1080p)",
-    "logo": "https://i.imgur.com/ML7SlIW.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Comedy Magyar & Romania (576p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Emotion Hungary (1080p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5850,12 +5823,21 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FilmBox Family Hungary (576p)",
-    "logo": "https://i.imgur.com/CGFyAyc.png",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ One Magyar",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino Barrandov",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5892,33 +5874,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://146.59.85.40:89/max4/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MGM+ (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/EPIX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MGM+ Drive-In (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MGM+ Hits (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/EPIX_2/index.m3u8",
     "isHttps": false
   },
   {
@@ -6003,6 +5958,15 @@
     "isHttps": false
   },
   {
+    "name": "Nashe HD (576p)",
+    "logo": "https://i.imgur.com/KO8dhi9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://stream.mcquack.net/217/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nashe Lubimoe Kino (576p)",
     "logo": "https://i.imgur.com/iKPfM5K.png",
     "country": "",
@@ -6018,6 +5982,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nollywood TV (720p)",
+    "logo": "https://i.imgur.com/29L2gbb.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://145.239.5.177/148/index.m3u8",
     "isHttps": false
   },
   {
@@ -6066,6 +6039,15 @@
     "isHttps": false
   },
   {
+    "name": "Premialnoe HD (1080p)",
+    "logo": "https://i.imgur.com/ck4aLBP.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/421/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "QTV-3",
     "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
     "country": "",
@@ -6090,6 +6072,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Russkiy Bestseller (576p)",
+    "logo": "https://i.imgur.com/w0ZE9QJ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/208/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Russkiy Detektiv (576p)",
+    "logo": "https://i.imgur.com/H3qhN8S.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/204/index.m3u8",
     "isHttps": false
   },
   {
@@ -6237,6 +6237,15 @@
     "isHttps": false
   },
   {
+    "name": "START Air (576p)",
+    "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/128/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Starz Cinema (720p)",
     "logo": "https://i.imgur.com/ghzzKoT.png",
     "country": "",
@@ -6252,6 +6261,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://40.160.24.55/SUNDANCE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Super Channel Vault (1080p)",
+    "logo": "https://i.imgur.com/mH8Yv7u.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://206.212.244.63/6142/index.m3u8",
     "isHttps": false
   },
   {
@@ -6540,24 +6558,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Русский Бестселлер (576p)",
-    "logo": "https://i.imgur.com/w0ZE9QJ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Русский Детектив (576p)",
-    "logo": "https://i.imgur.com/H3qhN8S.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Russkiy_Detektiv/index.m3u8",
     "isHttps": false
   },
   {

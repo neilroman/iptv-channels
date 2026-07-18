@@ -342,6 +342,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal Showsport (720p)",
+    "logo": "https://i.imgur.com/0L9tW3Z.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CazeTV (1080i)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
     "country": "",
@@ -1410,15 +1419,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "LRT Plius (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;Sports",
-    "url": "https://stream-live.lrt.lt/plius/master.m3u8",
     "isHttps": true
   },
   {
@@ -2826,15 +2826,6 @@
     "isHttps": true
   },
   {
-    "name": "viju+ Sport",
-    "logo": "https://i.imgur.com/fXESG0l.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "VITAL Drive",
     "logo": "https://i.imgur.com/XoR9zLh.png",
     "country": "",
@@ -3002,7 +2993,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://40.160.24.52/ACC_NETWORK/index.m3u8",
+    "url": "http://206.212.244.63/2486/index.m3u8",
     "isHttps": false
   },
   {
@@ -3057,15 +3048,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://185.102.171.218/CablenetSports2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CBS Sports Network USA (720p)",
-    "logo": "https://i.imgur.com/A8CnA8g.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8",
     "isHttps": false
   },
   {
@@ -3227,7 +3209,7 @@
     "country": "",
     "language": "",
     "group": "News;Sports",
-    "url": "http://40.160.24.52/ESPN_NEWS/index.m3u8",
+    "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3282,15 +3264,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://145.239.5.177/556a/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Fox Soccer Plus (720p)",
-    "logo": "https://i.imgur.com/gR7u8DM.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3375,12 +3348,12 @@
     "isHttps": false
   },
   {
-    "name": "KHL Prime (720p)",
+    "name": "KHL Prime (1080p)",
     "logo": "https://i.imgur.com/pwxT0ON.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://31.148.48.15/KHL_TV_HD/index.m3u8",
+    "url": "http://stream.mcquack.net/178/index.m3u8",
     "isHttps": false
   },
   {
@@ -3546,6 +3519,42 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 1 Eurasia (1080p)",
+    "logo": "https://i.imgur.com/zlJK7ca.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/234/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 2 Eurasia (1080p)",
+    "logo": "https://i.imgur.com/ouHunnK.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/235/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports+ Ukraine (1080p)",
+    "logo": "https://i.imgur.com/gHAP4p0.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/390/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 1 Baltic (1080p)",
+    "logo": "https://i.imgur.com/aBY7QK4.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/461/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport Klub",
     "logo": "https://i.imgur.com/DpJUrlr.png",
     "country": "",
@@ -3654,6 +3663,15 @@
     "isHttps": false
   },
   {
+    "name": "LRT Plius (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Sports",
+    "url": "http://stream.mcquack.net/353/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "M-Net Sport (720p)",
     "logo": "https://i.imgur.com/7k8ar1Z.png",
     "country": "",
@@ -3672,21 +3690,21 @@
     "isHttps": false
   },
   {
-    "name": "Marquee Sports Network (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Match! Strana (720p)",
     "logo": "https://i.imgur.com/X02s2UE.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Match! Ultra (720p)",
+    "logo": "https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/169/index.m3u8",
     "isHttps": false
   },
   {
@@ -3704,7 +3722,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://40.160.24.52/MLB_Network/index.m3u8",
+    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23103",
     "isHttps": false
   },
   {
@@ -3750,15 +3768,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://40.160.24.52/MSG_2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MSG Plus (720p)",
-    "logo": "https://i.imgur.com/7suDpSK.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.52/MSG_PLUS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3849,6 +3858,51 @@
     "language": "",
     "group": "Sports",
     "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PokerGo (1080p)",
+    "logo": "https://i.imgur.com/1603HED.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://206.212.244.63/4249/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Sport Extra 1 (1080p)",
+    "logo": "https://i.imgur.com/g2YieTL.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://91.146.94.234:10001/play/a07r",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Sport Extra 2 (1080p)",
+    "logo": "https://i.imgur.com/Jg4n9R2.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://91.146.94.234:10001/play/a07s",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Sport Extra 3 (1080p)",
+    "logo": "https://i.imgur.com/9SRFaux.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://91.146.94.234:10001/play/a07a",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Sport Extra 4 (1080p)",
+    "logo": "https://i.imgur.com/UZQvdEA.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://91.146.94.234:10001/play/a07b",
     "isHttps": false
   },
   {
@@ -4002,6 +4056,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Sports Select 1 HD (720p)",
+    "logo": "https://i.imgur.com/Mh9tKPx.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://tvsen7.aynascope.net/sspts1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Sports Select 2 HD (720p)",
+    "logo": "https://i.imgur.com/FtRT73R.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
     "isHttps": false
   },
   {
@@ -4164,6 +4236,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "viju+ Sport (576p)",
+    "logo": "https://i.imgur.com/fXESG0l.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/333/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Willow (720p)",
+    "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
     "isHttps": false
   },
   {
