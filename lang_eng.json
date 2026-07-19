@@ -7470,6 +7470,15 @@
     "isHttps": true
   },
   {
+    "name": "FashionBox",
+    "logo": "https://i.imgur.com/Taqj4yi.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FashionTV Europe (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
     "country": "",
@@ -7836,6 +7845,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Fortis TV",
+    "logo": "https://i.imgur.com/HoO9Urd.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.fortistv.com/hls/fortis-news/index.m3u8",
     "isHttps": true
   },
   {
@@ -11187,15 +11205,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",FashionBox",
-    "logo": "https://i.imgur.com/Taqj4yi.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Emotion Adria",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
     "country": "",
@@ -11247,6 +11256,33 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://shift03.isp.bg/MTVEurope/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE Romania (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://aes.m3u8simplu.workers.dev/axn/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Love & Crime Romania (576p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://aes.m3u8simplu.workers.dev/filmboxstars/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",PRO TV International (1080p)",
+    "logo": "https://i.imgur.com/vfr1ZYw.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://aes.m3u8simplu.workers.dev/protvint/index.m3u8",
     "isHttps": true
   },
   {
@@ -24912,15 +24948,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Junior (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
@@ -24936,6 +24963,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Junior (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
     "isHttps": false
   },
   {
@@ -25101,6 +25137,15 @@
     "isHttps": false
   },
   {
+    "name": "Family Jr (576p)",
+    "logo": "https://i.imgur.com/6xbK9lv.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://tvsen5.aynascope.net/familyjr/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FanDuel Racing (720p)",
     "logo": "https://i.imgur.com/84lMjSj.png",
     "country": "",
@@ -25161,6 +25206,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.250.28.74:8000/play/a02k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fox (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
     "isHttps": false
   },
   {
@@ -25776,15 +25830,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://82.78.243.219:45739/play/a01n/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Universal Crime (1080p)",
     "logo": "https://i.imgur.com/OwSlGMu.png",
     "country": "",
@@ -25971,6 +26016,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://91.146.94.234:10001/play/a03i",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Film1 Action",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://86.87.15.10:8008/play/a01l/index.m3u8",
     "isHttps": false
   },
   {
@@ -26532,6 +26586,15 @@
     "isHttps": false
   },
   {
+    "name": "Nickelodeon (576p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nickelodeon Asia Indonesia (720p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -26970,6 +27033,15 @@
     "language": "",
     "group": "News",
     "url": "http://41.205.77.102/SKYNEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SkyShowtime 1",
+    "logo": "https://i.imgur.com/Dw9Yv9P.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://91.146.94.234:10001/play/a0bg",
     "isHttps": false
   },
   {

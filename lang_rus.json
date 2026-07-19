@@ -207,15 +207,6 @@
     "isHttps": true
   },
   {
-    "name": "Channel 7 Kazakhstan (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/LebKU09.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://adpnetworkhd-cmd.github.io/iptv/7_kanal_Kazakhstan.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Channel 8 International (576p)",
     "logo": "https://i.imgur.com/I8OU9oa.png",
     "country": "",
@@ -2817,6 +2808,15 @@
     "isHttps": false
   },
   {
+    "name": "Channel 7 Kazakhstan (576p)",
+    "logo": "https://i.imgur.com/LebKU09.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://stream.mcquack.net/27/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Channel 8 (576p)",
     "logo": "https://i.imgur.com/nUSx1jF.png",
     "country": "",
@@ -3240,6 +3240,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Education\",Fauna (576p)",
+    "logo": "https://i.imgur.com/UwQcDTm.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://stream.mcquack.net/401/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Novyi Channel (1080p)",
     "logo": "https://i.imgur.com/Dnfhdsm.png",
     "country": "",
@@ -3255,6 +3264,60 @@
     "language": "",
     "group": "General",
     "url": "http://176.122.125.10:8080/interplus/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",Kentron TV (1080p)",
+    "logo": "https://i.imgur.com/eCaxBFn.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://stream.mcquack.net/39/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",Law TV (1080p)",
+    "logo": "https://i.imgur.com/X0Vp6fd.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://stream.mcquack.net/406/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Dorama HD (1080p)",
+    "logo": "https://i.imgur.com/ZH5LuXU.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/412/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino 1 (1080p)",
+    "logo": "https://i.imgur.com/FWVxBWI.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/395/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Outdoor\",Trofei (1080p)",
+    "logo": "https://i.imgur.com/VDt4mKB.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "http://stream.mcquack.net/357/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Science\",Nauka (576p)",
+    "logo": "https://i.imgur.com/ClGdZCe.png",
+    "country": "",
+    "language": "",
+    "group": "Science",
+    "url": "http://stream.mcquack.net/403/index.m3u8",
     "isHttps": false
   },
   {
@@ -3291,6 +3354,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://stream.mcquack.net/461/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Terra (576p)",
+    "logo": "https://i.imgur.com/HFY61gj.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://stream.mcquack.net/402/index.m3u8",
     "isHttps": false
   },
   {

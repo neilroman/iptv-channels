@@ -873,78 +873,6 @@
     "isHttps": true
   },
   {
-    "name": "Aragón Deporte",
-    "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://cartv-streaming.aranova.es/hls/live/adeportes_deporte7.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aragón Deporte",
-    "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte6.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aragón Deporte",
-    "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aragón Deporte",
-    "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aragón Deporte",
-    "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aragón Deporte",
-    "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aragón Deporte",
-    "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://cartv-streaming.aranova.es/hls/live/adeportes_deporte1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aragón TV INT",
-    "logo": "https://graph.facebook.com/AragonTV/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Europa",
-    "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ARD Das Erste Alemania DE",
     "logo": "https://pbs.twimg.com/profile_images/1605959306435756038/_EiuBjQ8_200x200.png",
     "country": "",
@@ -981,7 +909,7 @@
     "isHttps": true
   },
   {
-    "name": "Badalona TV",
+    "name": "BDN Badalona TV",
     "logo": "https://pbs.twimg.com/profile_images/1993636082642976768/7YX0mFB8_200x200.jpg",
     "country": "",
     "language": "",
@@ -1152,7 +1080,7 @@
     "isHttps": true
   },
   {
-    "name": "Canal 4 TV Cataluña",
+    "name": "Canal 4 TV Catalunya",
     "logo": "https://graph.facebook.com/GRUP4COM/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1269,7 +1197,7 @@
     "isHttps": true
   },
   {
-    "name": "Canal Reus TV",
+    "name": "Canal Reus",
     "logo": "https://graph.facebook.com/canalreus.cat/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1440,15 +1368,6 @@
     "isHttps": true
   },
   {
-    "name": "CGTN China",
-    "logo": "https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Asia",
-    "url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CGTN Documentary China EN",
     "logo": "https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200",
     "country": "",
@@ -1549,7 +1468,7 @@
   },
   {
     "name": "CNN Internacional",
-    "logo": "https://graph.facebook.com/cnninternational/picture?width=320&height=320",
+    "logo": "https://graph.facebook.com/cnninternational/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. Europa",
@@ -2651,7 +2570,7 @@
     "country": "",
     "language": "",
     "group": "Musicales",
-    "url": "https://server40.servistreaming.com:3477/stream/play.m3u8",
+    "url": "https://server80.servistreaming.com:3477/stream/play.m3u8",
     "isHttps": true
   },
   {
@@ -3744,15 +3663,6 @@
     "isHttps": true
   },
   {
-    "name": "San Fermín (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16641913.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "San Marino RTV IT",
     "logo": "https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200",
     "country": "",
@@ -3897,12 +3807,30 @@
     "isHttps": true
   },
   {
-    "name": "Solidaria TV España",
+    "name": "Solidaria TV",
     "logo": "https://graph.facebook.com/solidariatv/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Religiosos",
     "url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Solidaria TV",
+    "logo": "https://graph.facebook.com/solidariatv/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Religiosos",
+    "url": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Solidaria TV",
+    "logo": "https://graph.facebook.com/solidariatv/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Religiosos",
+    "url": "https://canadaremar2.todostreaming.es/live/bolivia-stream.m3u8",
     "isHttps": true
   },
   {
@@ -4136,7 +4064,7 @@
     "country": "",
     "language": "",
     "group": "Deportivos",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15601&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]",
     "isHttps": true
   },
   {
@@ -4545,7 +4473,7 @@
     "isHttps": true
   },
   {
-    "name": "TV Sabadell Vallès",
+    "name": "TV Sabadell - Vallès",
     "logo": "https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200",
     "country": "",
     "language": "",
