@@ -2088,6 +2088,15 @@
     "isHttps": true
   },
   {
+    "name": "M2 (540p)",
+    "logo": "https://i.imgur.com/AfcBWCg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live.m2.tv/hls3/stream.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "m2o TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png",
     "country": "",
@@ -6399,6 +6408,33 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Music\",M1 (720p)",
+    "logo": "https://i.imgur.com/wbRdUw8.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://158.101.222.193:88/georgia_play.php?id=m1",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",B4U Music (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://103.175.73.12:8080/live/157/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",Insync (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://103.175.73.12:8080/live/160/master.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",BOX TV",
     "logo": "https://i.imgur.com/swFzesA.png",
     "country": "",
@@ -6423,24 +6459,6 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/147/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "M1 (1080p)",
-    "logo": "https://i.imgur.com/wbRdUw8.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://176.122.125.10:8080/m1/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "M2 (1080p)",
-    "logo": "https://i.imgur.com/AfcBWCg.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://176.122.125.10:8080/m2/index.m3u8",
     "isHttps": false
   },
   {

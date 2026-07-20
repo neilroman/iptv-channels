@@ -126,6 +126,15 @@
     "isHttps": true
   },
   {
+    "name": "Aastha (720p)",
+    "logo": "https://i.imgur.com/IqgrV92.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Aastha Bhajan (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -4698,21 +4707,21 @@
     "isHttps": true
   },
   {
-    "name": "PTC Simran",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn-6.pishow.tv/live/1503/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "PTL Television Network (1080p)",
     "logo": "https://i.imgur.com/EhISpCd.png",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Qatar TV The Holy Quran (1080p)",
+    "logo": "https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8",
     "isHttps": true
   },
   {
@@ -6792,6 +6801,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",PTC Simran (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://103.175.73.12:8080/live/183/master.m3u8",
     "isHttps": false
   },
   {

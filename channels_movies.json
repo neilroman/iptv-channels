@@ -711,21 +711,21 @@
     "isHttps": true
   },
   {
-    "name": "FilmBox Baltics (450p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/gXu36aD.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FILMBOX+ Festival",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8",
     "isHttps": true
   },
   {
@@ -1292,7 +1292,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8",
+    "url": "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8",
     "isHttps": true
   },
   {
@@ -1301,7 +1301,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8",
+    "url": "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8",
     "isHttps": true
   },
   {
@@ -1310,7 +1310,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
+    "url": "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8",
     "isHttps": true
   },
   {
@@ -4878,15 +4878,6 @@
     "isHttps": false
   },
   {
-    "name": "Bolt (1080p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://176.122.125.10:8080/bolt/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Bolt (576p)",
     "logo": "https://i.imgur.com/YdIHXOR.png",
     "country": "",
@@ -4995,30 +4986,12 @@
     "isHttps": false
   },
   {
-    "name": "Cine+ (1080p)",
-    "logo": "https://i.imgur.com/SAtdShq.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://176.122.125.10:8080/CinePlusHD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Cine+ Emotion (720p)",
     "logo": "https://i.imgur.com/upYjPvc.jpeg",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://145.239.5.177/337/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Cine+ Hit (1080p)",
-    "logo": "https://i.imgur.com/b3FcLU1.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://176.122.125.10:8080/CinePlusHitHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -5172,15 +5145,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://177.245.131.133:8080/DHE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Enter-Film (1080p)",
-    "logo": "https://i.imgur.com/wQbiGs6.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://176.122.125.10:8080/enterfilm/index.m3u8",
     "isHttps": false
   },
   {
@@ -5469,6 +5433,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Bolt (1080p)",
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://stream.mcquack.net/73/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Enter-Film (1080p)",
+    "logo": "https://i.imgur.com/wQbiGs6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://stream.mcquack.net/322/index.m3u8",
     "isHttps": false
   },
   {
@@ -6291,15 +6273,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Cinema (1080p)",
-    "logo": "https://i.imgur.com/5sis895.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://176.122.125.10:8080/starcinema/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Gold 2 (576p)",
     "logo": "https://i.imgur.com/G0ZfzZr.png",
     "country": "",
@@ -6477,15 +6450,6 @@
     "language": "",
     "group": "Comedy;Movies;Series;Sports",
     "url": "http://40.160.24.55/USA_NETWORK_WEST/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Viasat Kino Comedy (720p)",
-    "logo": "https://i.imgur.com/qVYt8kP.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy;Movies",
-    "url": "http://ukr.ukrainske.tv/493/keytvainua/video.m3u8",
     "isHttps": false
   },
   {

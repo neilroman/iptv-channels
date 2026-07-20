@@ -1350,6 +1350,15 @@
     "isHttps": true
   },
   {
+    "name": "Colors HD (720p)",
+    "logo": "https://i.imgur.com/M8uCJ0D.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://trs1.aynaott.com/colorshd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Comet (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
     "country": "",
@@ -2601,6 +2610,15 @@
     "isHttps": true
   },
   {
+    "name": "K2 (720p)",
+    "logo": "https://i.imgur.com/NMhydr5.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "kabel eins",
     "logo": "https://i.imgur.com/6pulSHZ.png",
     "country": "",
@@ -2912,7 +2930,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://webtvstream.bhtelecom.ba/hls15/gametoon.m3u8",
+    "url": "https://webtvstream.bhtelecom.ba/gametoon.m3u8",
     "isHttps": true
   },
   {
@@ -4707,21 +4725,21 @@
     "isHttps": true
   },
   {
-    "name": "PTC Punjabi (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "PTC Punjabi Gold (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "PTC Punjabi HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8",
     "isHttps": true
   },
   {
@@ -5082,6 +5100,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Siri Kannada (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8",
     "isHttps": true
   },
   {
@@ -6597,15 +6624,6 @@
     "isHttps": false
   },
   {
-    "name": "Colors HD (1080p)",
-    "logo": "https://i.imgur.com/M8uCJ0D.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00c/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Colors Infinity HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
     "country": "",
@@ -6957,15 +6975,6 @@
     "isHttps": false
   },
   {
-    "name": "ICTV2 (1080p)",
-    "logo": "https://i.imgur.com/J4zlRGv.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://176.122.125.10:8080/ictv2/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "INSP (720p)",
     "logo": "https://i.imgur.com/YgOC51j.png",
     "country": "",
@@ -7035,24 +7044,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "K1 (1080p)",
-    "logo": "https://i.imgur.com/uuRGpEn.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://176.122.125.10:8080/k1/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "K2 (1080p)",
-    "logo": "https://i.imgur.com/NMhydr5.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://176.122.125.10:8080/k2/index.m3u8",
     "isHttps": false
   },
   {
@@ -7164,6 +7155,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",K1 (1080p)",
+    "logo": "https://i.imgur.com/uuRGpEn.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/270/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Zoom (1080p)",
+    "logo": "https://i.imgur.com/EzIiXIT.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/327/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Anmol TV (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
     "country": "",
@@ -7263,6 +7272,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ICTV2 (1080p)",
+    "logo": "https://i.imgur.com/J4zlRGv.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/368/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Iris",
     "logo": "https://i.imgur.com/ZLnSLh4.png",
     "country": "",
@@ -7305,6 +7323,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://stream.mcquack.net/157/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",OTSE (1080p)",
+    "logo": "https://i.imgur.com/SeRNJIS.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/329/index.m3u8",
     "isHttps": false
   },
   {
@@ -7560,15 +7587,6 @@
     "isHttps": false
   },
   {
-    "name": "OTSE (1080p)",
-    "logo": "https://i.imgur.com/SeRNJIS.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://176.122.125.10:8080/oce/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Oxygen (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
     "country": "",
@@ -7665,6 +7683,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PTC Punjabi (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.213.31.109:90/ActionCinema/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -7998,15 +8025,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/414.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zoom (1080p)",
-    "logo": "https://i.imgur.com/EzIiXIT.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://176.122.125.10:8080/zoom/index.m3u8",
     "isHttps": false
   },
   {

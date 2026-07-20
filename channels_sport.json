@@ -1400,7 +1400,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8",
+    "url": "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
     "isHttps": true
   },
   {
@@ -3111,6 +3111,33 @@
     "language": "",
     "group": "Sports",
     "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cytavision Sports 3 (1080p)",
+    "logo": "https://i.imgur.com/k7apW1o.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://185.102.171.218/Cytavisionsports3/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cytavision Sports 4 (720p)",
+    "logo": "https://i.imgur.com/HWVe5hT.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://185.102.171.218/Cytavisionsports4/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cytavision Sports 5 (720p)",
+    "logo": "https://i.imgur.com/Hb4kYZy.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://185.102.171.218/Cytavisionsports5/index.m3u8",
     "isHttps": false
   },
   {

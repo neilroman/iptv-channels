@@ -72,6 +72,15 @@
     "isHttps": true
   },
   {
+    "name": "Aastha (720p)",
+    "logo": "https://i.imgur.com/IqgrV92.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Aastha Bhajan (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -303,6 +312,15 @@
     "language": "",
     "group": "News",
     "url": "https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Colors HD (720p)",
+    "logo": "https://i.imgur.com/M8uCJ0D.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://trs1.aynaott.com/colorshd/index.m3u8",
     "isHttps": true
   },
   {
@@ -1863,15 +1881,6 @@
     "isHttps": false
   },
   {
-    "name": "Colors HD (1080p)",
-    "logo": "https://i.imgur.com/M8uCJ0D.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00c/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Dangal 2 (720p)",
     "logo": "https://i.imgur.com/BEr1r7L.png",
     "country": "",
@@ -2148,6 +2157,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",Insync (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://103.175.73.12:8080/live/160/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Public First (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://103.175.73.12:8080/live/237/master.m3u8",
     "isHttps": false
   },
   {
