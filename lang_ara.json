@@ -1755,15 +1755,6 @@
     "isHttps": true
   },
   {
-    "name": "LBC (1080p) [Geo-blocked]",
-    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Libya Al Ahrar TV (1080p)",
     "logo": "https://i.imgur.com/xkQKVGi.png",
     "country": "",
@@ -2700,6 +2691,15 @@
     "isHttps": true
   },
   {
+    "name": "Seraj TV (1080i)",
+    "logo": "https://i.imgur.com/1d25a9Q.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Shabab FM (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/4Cyz4Bn.png",
     "country": "",
@@ -3159,6 +3159,15 @@
     "isHttps": false
   },
   {
+    "name": "Alikhbaria Syria (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://185.9.2.18/chid_423/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ALWifak News TV (720p)",
     "logo": "https://i.imgur.com/1vqhmNz.png",
     "country": "",
@@ -3285,12 +3294,30 @@
     "isHttps": false
   },
   {
-    "name": "LBC International",
-    "logo": "https://i.imgur.com/h26xtUv.png",
+    "name": "LBC (1080p)",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://185.9.2.18/chid_327/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "LBC International (1080p)",
+    "logo": "https://i.imgur.com/h26xtUv.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_521/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mazzika (576p)",
+    "logo": "https://i.imgur.com/P7PUHIx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://149.100.11.235:8080/Mazzika/index.m3u8",
     "isHttps": false
   },
   {

@@ -2727,6 +2727,15 @@
     "isHttps": true
   },
   {
+    "name": "TVRI Sport (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVS Bowling Network (720p)",
     "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
     "country": "",
@@ -3114,6 +3123,24 @@
     "isHttps": false
   },
   {
+    "name": "Cytavision Sports 1 (1080p)",
+    "logo": "https://i.imgur.com/zMNSlyA.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://185.102.171.218/Cytavisionsports1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cytavision Sports 2 (1080p)",
+    "logo": "https://i.imgur.com/YAJdd5x.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://185.102.171.218/Cytavisionsports2/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cytavision Sports 3 (1080p)",
     "logo": "https://i.imgur.com/k7apW1o.png",
     "country": "",
@@ -3435,6 +3462,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://88.212.15.19/live/test_sport_2/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Unite8 Sports 1",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://59.103.38.46:8000/play/a125/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Unite8 Sports 2",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
     "isHttps": false
   },
   {
@@ -4290,15 +4335,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://91.146.94.234:10001/play/a07f",
-    "isHttps": false
-  },
-  {
-    "name": "TVRI Sport (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://157.15.187.3:25092/hls/49/49.m3u8",
     "isHttps": false
   },
   {
