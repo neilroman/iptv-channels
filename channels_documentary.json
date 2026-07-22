@@ -585,6 +585,42 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Romania (720p)",
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://aes.m3u8simplu.workers.dev/bbcearth/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",History (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://aes.m3u8simplu.workers.dev/history/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (1080p)",
     "logo": "https://i.imgur.com/R270aef.png",
     "country": "",
@@ -1728,21 +1764,21 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",History",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Latin America South (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NatGeo.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary;Education\",Chemodan TV (1080p)",
+    "logo": "https://i.imgur.com/1WjGN8u.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Education",
+    "url": "http://stream.mcquack.net/399/index.m3u8",
     "isHttps": false
   },
   {

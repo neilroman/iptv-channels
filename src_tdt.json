@@ -649,7 +649,7 @@
   },
   {
     "name": "8TV Chiclana",
-    "logo": "https://graph.facebook.com/8tvChiclana/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/8tvcadiz/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Andalucía",
@@ -657,8 +657,17 @@
     "isHttps": true
   },
   {
+    "name": "8TV La Janda",
+    "logo": "https://graph.facebook.com/8tvcadiz/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Andalucía",
+    "url": "https://s.emisoras.tv:8081/lajanda/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "8TV Sierra de Cádiz",
-    "logo": "https://graph.facebook.com/8tvChiclana/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/8tvcadiz/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Andalucía",
@@ -1926,21 +1935,57 @@
     "isHttps": true
   },
   {
-    "name": "EnerGeek TV",
-    "logo": "https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200",
+    "name": "EnerGeek Fan HD",
+    "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
     "country": "",
     "language": "",
     "group": "Infantiles",
-    "url": "https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k2026",
+    "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES",
     "isHttps": true
   },
   {
-    "name": "EnerGeek TV",
-    "logo": "https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200",
+    "name": "EnerGeek Fan SD",
+    "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
     "country": "",
     "language": "",
     "group": "Infantiles",
-    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=W3bEnerG33k2026",
+    "url": "https://backend.energeek.cl/webtv/egfan/mobile/index.m3u8?token=TDTCh4nnelsES",
+    "isHttps": true
+  },
+  {
+    "name": "EnerGeek Radio Chile HD",
+    "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
+    "country": "",
+    "language": "",
+    "group": "Musicales",
+    "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=TDTCh4nnelsES",
+    "isHttps": true
+  },
+  {
+    "name": "EnerGeek Radio Chile SD",
+    "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
+    "country": "",
+    "language": "",
+    "group": "Musicales",
+    "url": "https://backend.energeek.cl/webtv/egradio/mobile/index.m3u8?token=TDTCh4nnelsES",
+    "isHttps": true
+  },
+  {
+    "name": "EnerGeek Retro HD",
+    "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+    "country": "",
+    "language": "",
+    "group": "Infantiles",
+    "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES",
+    "isHttps": true
+  },
+  {
+    "name": "EnerGeek Retro SD",
+    "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+    "country": "",
+    "language": "",
+    "group": "Infantiles",
+    "url": "https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=TDTCh4nnelsES",
     "isHttps": true
   },
   {
@@ -3489,24 +3534,6 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RTHK 31 32 Hong Kong",
-    "logo": "https://graph.facebook.com/RTHK.HK/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Asia",
-    "url": "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RTHK 31 32 Hong Kong",
-    "logo": "https://graph.facebook.com/RTHK.HK/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Asia",
-    "url": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8",
     "isHttps": true
   },
   {

@@ -1755,6 +1755,15 @@
     "isHttps": true
   },
   {
+    "name": "LBC (1080p) [Geo-blocked]",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Libya Al Ahrar TV (1080p)",
     "logo": "https://i.imgur.com/xkQKVGi.png",
     "country": "",
@@ -2187,6 +2196,15 @@
     "isHttps": true
   },
   {
+    "name": "Muslim Network TV",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nablus TV (1080p)",
     "logo": "https://i.imgur.com/GoLhaDK.png",
     "country": "",
@@ -2256,6 +2274,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NOW News Arabic (720p)",
+    "logo": "https://i.imgur.com/MfyRQCs.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live.nowtelly.com/now_arabic/live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2364,6 +2391,15 @@
     "language": "",
     "group": "Music",
     "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Prime (1080p)",
+    "logo": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
+    "country": "",
+    "language": "",
+    "group": "General;Sports",
+    "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
     "isHttps": true
   },
   {
@@ -2695,7 +2731,7 @@
     "logo": "https://i.imgur.com/1d25a9Q.png",
     "country": "",
     "language": "",
-    "group": "Religious",
+    "group": "General;News",
     "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
     "isHttps": true
   },
@@ -3222,15 +3258,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior MENA (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://116.90.120.157:8000/play/a0qo/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Dubai TV International (1080p)",
     "logo": "https://i.imgur.com/UMmbyHv.png",
     "country": "",
@@ -3291,15 +3318,6 @@
     "language": "",
     "group": "General",
     "url": "http://82.212.74.2:8000/live/7311.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "LBC (1080p)",
-    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://185.9.2.18/chid_327/index.m3u8",
     "isHttps": false
   },
   {

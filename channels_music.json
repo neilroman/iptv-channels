@@ -378,6 +378,15 @@
     "isHttps": true
   },
   {
+    "name": "AXS TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Azahares Radio Multimedia (720p)",
     "logo": "https://i.imgur.com/g1BFoSs.png",
     "country": "",
@@ -681,6 +690,15 @@
     "language": "",
     "group": "Music",
     "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CMT (1080p)",
+    "logo": "https://i.imgur.com/S7DOpdY.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://gpuserver3.tier1streams.com/CMT/index.m3u8",
     "isHttps": true
   },
   {
@@ -1014,6 +1032,15 @@
     "language": "",
     "group": "Music",
     "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "EMI TV",
+    "logo": "https://i.imgur.com/B5zssCz.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
     "isHttps": true
   },
   {
@@ -1932,6 +1959,33 @@
     "language": "",
     "group": "Music",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Music Channel (576p)",
+    "logo": "https://i.imgur.com/nadVCxM.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",ZU TV (1080p)",
+    "logo": "https://i.imgur.com/1gtkGhB.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://aes.m3u8simplu.workers.dev/zutv/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",ZU TV HD (720p)",
+    "logo": "https://i.imgur.com/1gtkGhB.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://aes.m3u8simplu.workers.dev/chefi/index.m3u8",
     "isHttps": true
   },
   {
@@ -6030,15 +6084,6 @@
     "isHttps": false
   },
   {
-    "name": "AXS TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://23.239.31.26:8989/axstv/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "B4U Hitz (576p)",
     "logo": "",
     "country": "",
@@ -6138,21 +6183,21 @@
     "isHttps": false
   },
   {
+    "name": "Clubland TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://bore.pub:14073/live.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CM El Canal de la Musica (720p)",
     "logo": "https://i.imgur.com/gwpETyS.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://200.91.32.158:8080/cm/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CMT (720p)",
-    "logo": "https://i.imgur.com/S7DOpdY.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
     "isHttps": false
   },
   {

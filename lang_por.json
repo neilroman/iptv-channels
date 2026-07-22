@@ -1494,7 +1494,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Minha Obsessão Favorita",
+    "name": "Pluto TV Minha Obsess��o Favorita",
     "logo": "https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2997,6 +2997,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Profissao",
+    "logo": "https://i.imgur.com/c33suOT.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Sandegi (360p)",
     "logo": "https://i.imgur.com/vJ6ZQSG.png",
     "country": "",
@@ -3546,12 +3555,12 @@
     "isHttps": false
   },
   {
-    "name": "Cultura Pará (480p) [Not 24/7]",
+    "name": "Cultura Para (720p)",
     "logo": "https://i.imgur.com/5jPEI5c.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+    "url": "http://170.84.165.204:80/CANAL_21_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3681,6 +3690,15 @@
     "isHttps": false
   },
   {
+    "name": "Futura (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://168.197.104.22:80/FUTURA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FX Latin America Brazil (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "country": "",
@@ -3768,6 +3786,15 @@
     "language": "",
     "group": "Music",
     "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Lifetime Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8",
     "isHttps": false
   },
   {
@@ -4065,6 +4092,15 @@
     "language": "",
     "group": "General",
     "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rede Familia (720p)",
+    "logo": "https://i.imgur.com/7KVFCrQ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://168.197.104.22:80/REDE_FAMILIA/index.m3u8",
     "isHttps": false
   },
   {
