@@ -405,15 +405,6 @@
     "isHttps": true
   },
   {
-    "name": "Clan TVE (1080p) [Geo-blocked]",
-    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
-    "country": "",
-    "language": "",
-    "group": "Kids;Public",
-    "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cufo",
     "logo": "https://i.imgur.com/GbBHtwD.png",
     "country": "",
@@ -2682,6 +2673,15 @@
     "isHttps": false
   },
   {
+    "name": "Clan (1080p)",
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Public",
+    "url": "http://185.47.212.25:8080/Clan_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ČT:D/ČT art (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
     "country": "",
@@ -3024,6 +3024,15 @@
     "isHttps": false
   },
   {
+    "name": "KidOO (1080p)",
+    "logo": "https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Kids TV (1080p)",
     "logo": "https://i.imgur.com/B5YiUIP.png",
     "country": "",
@@ -3048,6 +3057,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ljova-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Kids\",Disney Channel",
+    "logo": "https://i.imgur.com/aOa73uT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -3141,15 +3159,6 @@
     "isHttps": false
   },
   {
-    "name": "M2 Petofi (720 p)",
-    "logo": "https://i.imgur.com/N7fc9X6.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://46.149.191.217:9005/play/a016",
-    "isHttps": false
-  },
-  {
     "name": "Mama (576p)",
     "logo": "https://i.imgur.com/kmMIjjf.png",
     "country": "",
@@ -3165,15 +3174,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://206.212.244.63/112/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Minimax",
-    "logo": "https://i.imgur.com/WWOlm1x.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://46.149.191.217:9002/play/a01y",
     "isHttps": false
   },
   {
@@ -3291,15 +3291,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://103.137.83.62:9090/play/28/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon Global (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://46.149.191.217:9011/play/a018",
     "isHttps": false
   },
   {

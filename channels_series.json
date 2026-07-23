@@ -1665,15 +1665,6 @@
     "isHttps": true
   },
   {
-    "name": "Latina Clasicos (1080p)",
-    "logo": "https://i.imgur.com/q0dAWyj.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Le miracle de l'amour",
     "logo": "https://i.imgur.com/3Xz4hjD.png",
     "country": "",
@@ -4662,6 +4653,15 @@
     "isHttps": false
   },
   {
+    "name": "Latina Clasicos (1080p)",
+    "logo": "https://i.imgur.com/q0dAWyj.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
     "logo": "https://i.imgur.com/avBL8pQ.png",
     "country": "",
@@ -4902,6 +4902,15 @@
     "language": "",
     "group": "Series",
     "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT Novelas (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://15.204.246.24:8080/TNTNovelasHD/index.m3u8",
     "isHttps": false
   },
   {

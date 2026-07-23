@@ -1539,15 +1539,6 @@
     "isHttps": true
   },
   {
-    "name": "Canal 24 Horas (720p)",
-    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-    "country": "",
-    "language": "",
-    "group": "News;Public",
-    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canal 24 Horas Canarias (720p)",
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "country": "",
@@ -3780,12 +3771,12 @@
     "isHttps": true
   },
   {
-    "name": "Latina Noticias 24/7 (720p)",
+    "name": "Latina Noticias 24/7 (1080p)",
     "logo": "https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
+    "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
     "isHttps": true
   },
   {
@@ -7755,6 +7746,15 @@
     "language": "",
     "group": "Business;News",
     "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "24 Horas (1080p)",
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+    "country": "",
+    "language": "",
+    "group": "News;Public",
+    "url": "http://185.47.212.25:8080/24h_HD/index.m3u8",
     "isHttps": false
   },
   {

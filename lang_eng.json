@@ -5319,6 +5319,15 @@
     "isHttps": true
   },
   {
+    "name": "CinemaWorld (720p)",
+    "logo": "https://i.imgur.com/D2qNVZ7.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn.qd.je/163189/cinemaworld",
+    "isHttps": true
+  },
+  {
     "name": "Cinevault 80s (720p)",
     "logo": "https://i.imgur.com/xaCyyDd.png",
     "country": "",
@@ -8340,15 +8349,6 @@
     "language": "",
     "group": "Comedy",
     "url": "https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "FX Movie Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8",
     "isHttps": true
   },
   {
@@ -25677,6 +25677,15 @@
     "isHttps": false
   },
   {
+    "name": "FX Movie Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/FXM/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FXX (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
     "country": "",
@@ -26154,6 +26163,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Film",
+    "logo": "https://i.imgur.com/5CoP6ex.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/viasat_film/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 5 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg",
     "country": "",
@@ -26169,6 +26187,33 @@
     "language": "",
     "group": "Sports",
     "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 3",
+    "logo": "https://i.imgur.com/ehx7R3A.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://88.212.15.19/live/viasat3/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 6",
+    "logo": "https://i.imgur.com/kypSbFX.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://88.212.15.19/live/viasat6/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat2",
+    "logo": "https://i.imgur.com/lEAhKPa.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://88.212.15.19/live/viasat2/index.m3u8",
     "isHttps": false
   },
   {
@@ -26226,15 +26271,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe Hungary",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9007/play/a01d",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -26262,15 +26298,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN CEE",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9009/play/a02d",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox (1080p)",
     "logo": "https://i.imgur.com/VyaslIY.png",
     "country": "",
@@ -26289,30 +26316,12 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Viasat Film",
-    "logo": "https://i.imgur.com/5CoP6ex.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://46.149.191.217:9009/play/a028",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Travel\",RTG int.",
     "logo": "https://i.imgur.com/ZpUNou4.png",
     "country": "",
     "language": "",
     "group": "Travel",
     "url": "http://213.91.179.28:8000/play/a0bw",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Viasat2",
-    "logo": "https://i.imgur.com/lEAhKPa.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://46.149.191.217:9009/play/a023",
     "isHttps": false
   },
   {
@@ -26910,15 +26919,6 @@
     "isHttps": false
   },
   {
-    "name": "Nickelodeon Global (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://46.149.191.217:9011/play/a018",
-    "isHttps": false
-  },
-  {
     "name": "Nickelodeon West (720p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -27087,6 +27087,15 @@
     "language": "",
     "group": "Education;Kids",
     "url": "http://206.212.244.63/672/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Plus TLT (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://15.204.246.24:8080/PlusTLTHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -27306,12 +27315,12 @@
     "isHttps": false
   },
   {
-    "name": "Showtime Extreme (720p)",
+    "name": "Showtime Extreme (1080p)",
     "logo": "https://i.imgur.com/byJNJdm.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8",
+    "url": "http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8",
     "isHttps": false
   },
   {
@@ -27321,6 +27330,24 @@
     "language": "",
     "group": "Family",
     "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Showtime Next (720p)",
+    "logo": "https://i.imgur.com/1Ak2MX2.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Showtime West (720p)",
+    "logo": "https://i.imgur.com/Or0LKsu.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.55/SHOWTIME_WEST/index.m3u8",
     "isHttps": false
   },
   {
@@ -27513,12 +27540,39 @@
     "isHttps": false
   },
   {
+    "name": "Starz Edge (1080p)",
+    "logo": "https://i.imgur.com/MvH3Cz2.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.55/STARZ_EDGE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Starz Encore (1080p)",
+    "logo": "https://i.imgur.com/5ieoKO1.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.55/STARZ_ENCORE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Starz Kids & Family (1080p)",
     "logo": "https://i.imgur.com/eE9FzEP.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Starz West (720p)",
+    "logo": "https://i.imgur.com/N7oSm4d.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.55/STARZ_WEST/index.m3u8",
     "isHttps": false
   },
   {
