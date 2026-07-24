@@ -1,5 +1,14 @@
 [
   {
+    "name": "+SBT Novelas (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "1001 Noites (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/dWA9y2J.png",
     "country": "",
@@ -384,6 +393,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cinturao Verde",
+    "logo": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://play.redecinturaoverde.com.br/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -864,12 +882,30 @@
     "isHttps": true
   },
   {
+    "name": "MBC Brasil TV",
+    "logo": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://play.mbcbrasil.tv.br/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "MKK Web TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/A8Yhtid.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MNTV",
+    "logo": "https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8",
     "isHttps": true
   },
   {
@@ -1494,7 +1530,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Minha Obsess��o Favorita",
+    "name": "Pluto TV Minha Obsessão Favorita",
     "logo": "https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1815,6 +1851,15 @@
     "language": "",
     "group": "General",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RCTV Brasil",
+    "logo": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2151,6 +2196,15 @@
     "isHttps": true
   },
   {
+    "name": "SBT Kids (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/1/19/SBTKids2026.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SBT Nova Mutum",
     "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
     "country": "",
@@ -2193,6 +2247,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Show do Milhao (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Show_do_Milh%C3%A3o_Logo_2024.webp",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8",
     "isHttps": true
   },
   {
@@ -2454,6 +2517,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV 3 Curitiba",
+    "logo": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8",
     "isHttps": true
   },
   {

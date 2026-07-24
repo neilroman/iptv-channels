@@ -1296,6 +1296,15 @@
     "isHttps": true
   },
   {
+    "name": "BBC News (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://xemzi.short.gy/1000015",
+    "isHttps": true
+  },
+  {
     "name": "BBC News (1080p) (HEVC) (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -1338,6 +1347,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Belarus-24 HD (1080p)",
+    "logo": "https://i.imgur.com/BP7tY6F.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2853,6 +2871,15 @@
     "isHttps": true
   },
   {
+    "name": "GB News HD (2160p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://xemzi.short.gy/1000017",
+    "isHttps": true
+  },
+  {
     "name": "Geb Tv (KBPX LD5) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GEB_logo_blue.png/960px-GEB_logo_blue.png",
     "country": "",
@@ -3768,6 +3795,15 @@
     "language": "",
     "group": "News",
     "url": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lanzhou Comprehensive News Channel",
+    "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8",
     "isHttps": true
   },
   {
@@ -6372,6 +6408,15 @@
     "isHttps": true
   },
   {
+    "name": "Sky News HD (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://xemzi.short.gy/1000018",
+    "isHttps": true
+  },
+  {
     "name": "Sky News Urdu (720p)",
     "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
     "country": "",
@@ -7641,15 +7686,6 @@
     "isHttps": true
   },
   {
-    "name": "Беларусь 24 (1080p)",
-    "logo": "https://i.imgur.com/BP7tY6F.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Дон 24 (1080p)",
     "logo": "https://i.imgur.com/fW15la1.png",
     "country": "",
@@ -7840,7 +7876,7 @@
   },
   {
     "name": "Alikhbaria Syria (1080p)",
-    "logo": "",
+    "logo": "https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp",
     "country": "",
     "language": "",
     "group": "News",
@@ -7935,6 +7971,15 @@
     "language": "",
     "group": "News",
     "url": "http://45.153.96.44:8001",
+    "isHttps": false
+  },
+  {
+    "name": "Belarus-24 (576p)",
+    "logo": "https://i.imgur.com/BP7tY6F.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://ott-7.sevstar.net/belarus24/index.m3u8",
     "isHttps": false
   },
   {

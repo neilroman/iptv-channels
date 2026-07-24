@@ -225,8 +225,17 @@
     "isHttps": true
   },
   {
-    "name": "Balapan (1080p)",
+    "name": "Balapan HD (1080p)",
     "logo": "https://vote.rtrk.kz/img/balapan-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Balapan International (1080p)",
+    "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -1953,6 +1962,15 @@
     "isHttps": true
   },
   {
+    "name": "SBT Kids (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/1/19/SBTKids2026.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SKWAD (1080p)",
     "logo": "https://i.imgur.com/cP56PrG.png",
     "country": "",
@@ -2692,7 +2710,7 @@
   },
   {
     "name": "Detski mir (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg",
+    "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -3237,15 +3255,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://138.186.23.7:8082/NICKJR/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon (1080p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
     "isHttps": false
   },
   {

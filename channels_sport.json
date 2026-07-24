@@ -315,6 +315,15 @@
     "isHttps": true
   },
   {
+    "name": "Belarus-5 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/NJsRFud.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bellator MMA",
     "logo": "https://i.imgur.com/VBKoLHk.png",
     "country": "",
@@ -2331,6 +2340,51 @@
     "isHttps": true
   },
   {
+    "name": "Sky Sports Cricket HD (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://xemzi.short.gy/2000006",
+    "isHttps": true
+  },
+  {
+    "name": "Sky Sports F1 (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://xemzi.short.gy/2000005",
+    "isHttps": true
+  },
+  {
+    "name": "Sky Sports Football (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://xemzi.short.gy/2000003",
+    "isHttps": true
+  },
+  {
+    "name": "Sky Sports Golf HD (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://xemzi.short.gy/2000009",
+    "isHttps": true
+  },
+  {
+    "name": "Sky Sports Main Event HD (1080p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://xemzi.short.gy/2000001",
+    "isHttps": true
+  },
+  {
     "name": "Sky Thoroughbred Central (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/1SxIsnw.png",
     "country": "",
@@ -2952,6 +3006,15 @@
     "isHttps": true
   },
   {
+    "name": "VSBet HD (1080p)",
+    "logo": "https://i.imgur.com/sMhL2Nl.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://live05.meung.app/live/90865415.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "VTV6 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
     "country": "",
@@ -3057,15 +3120,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Беларусь 5 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/NJsRFud.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3465,7 +3519,7 @@
     "isHttps": false
   },
   {
-    "name": "Gol (720p)",
+    "name": "Gol HD (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png",
     "country": "",
     "language": "",
@@ -4509,15 +4563,6 @@
     "isHttps": false
   },
   {
-    "name": "МАТЧ! Арена (720p)",
-    "logo": "https://i.imgur.com/udTzwzu.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://31.148.48.15/Match_Arena_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "МАТЧ! Боец (576p)",
     "logo": "https://i.imgur.com/DogOkA4.png",
     "country": "",
@@ -4533,6 +4578,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Match_Igra_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "МА��Ч! Арена (720p)",
+    "logo": "https://i.imgur.com/udTzwzu.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://31.148.48.15/Match_Arena_HD/index.m3u8",
     "isHttps": false
   },
   {
