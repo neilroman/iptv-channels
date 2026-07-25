@@ -4473,6 +4473,15 @@
     "isHttps": true
   },
   {
+    "name": "Color Vision (1080p)",
+    "logo": "https://i.imgur.com/rkgWToA.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn3.wind.do/streams/colorvision/colorvision_master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Comedia a lo bestia de Pluto TV",
     "logo": "https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png",
     "country": "",
@@ -14517,6 +14526,24 @@
     "isHttps": true
   },
   {
+    "name": "Starz Encore Classic (720p)",
+    "logo": "https://i.imgur.com/L6GjoS4.png",
+    "country": "",
+    "language": "",
+    "group": "Classic",
+    "url": "https://sra72yz.s.gy/starz-encore-classic",
+    "isHttps": true
+  },
+  {
+    "name": "Starz Encore West (1080p)",
+    "logo": "https://i.imgur.com/5ieoKO1.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://sra72yz.s.gy/STARZ_ENCORE_WEST_US",
+    "isHttps": true
+  },
+  {
     "name": "Stingray Classica (1080p)",
     "logo": "https://i.imgur.com/nh1k5RC.png",
     "country": "",
@@ -15648,6 +15675,15 @@
     "language": "",
     "group": "General",
     "url": "https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Telesistema 11 (1080p)",
+    "logo": "https://i.imgur.com/ZzeZKCu.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8",
     "isHttps": true
   },
   {
@@ -16953,6 +16989,15 @@
     "language": "",
     "group": "General",
     "url": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Publica Fueguina (1080p)",
+    "logo": "https://i.imgur.com/4dUvFqa.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://nd106.republicaservers.com/hls/c8094/index.m3u8",
     "isHttps": true
   },
   {
@@ -20124,24 +20169,6 @@
     "isHttps": false
   },
   {
-    "name": "Galavision (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23090",
-    "isHttps": false
-  },
-  {
-    "name": "Galavision West (720p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23091",
-    "isHttps": false
-  },
-  {
     "name": "Gamavision (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
     "country": "",
@@ -20346,15 +20373,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "LaLiga TV",
-    "logo": "https://i.imgur.com/ilay5Jr.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8",
     "isHttps": false
   },
   {
@@ -21480,15 +21498,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telesistema 11 (480p)",
-    "logo": "https://i.imgur.com/ZzeZKCu.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://200.125.170.122:8000/play/a0ci/index.m3u8",
     "isHttps": false
   },
   {

@@ -2151,15 +2151,6 @@
     "isHttps": true
   },
   {
-    "name": "M2 (540p)",
-    "logo": "https://i.imgur.com/AfcBWCg.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://live.m2.tv/hls3/stream.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "m2o TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png",
     "country": "",
@@ -2409,15 +2400,6 @@
     "language": "",
     "group": "Music",
     "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mezzo Live",
-    "logo": "https://i.imgur.com/H9ytKPN.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6",
     "isHttps": true
   },
   {
@@ -6125,7 +6107,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://31.148.48.15/Bridge_TV/index.m3u8",
+    "url": "http://stream.mcquack.net/318/index.m3u8",
     "isHttps": false
   },
   {
@@ -6134,7 +6116,7 @@
     "country": "",
     "language": "",
     "group": "Classic;Music",
-    "url": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8",
+    "url": "http://stream.mcquack.net/272/index.m3u8",
     "isHttps": false
   },
   {
@@ -6161,7 +6143,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://31.148.48.15/Bridge_TV_Dance/index.m3u8",
+    "url": "http://stream.mcquack.net/320/index.m3u8",
     "isHttps": false
   },
   {
@@ -6417,6 +6399,15 @@
     "isHttps": false
   },
   {
+    "name": "Jalwa TV",
+    "logo": "https://i.imgur.com/HWb5Iat.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://119.156.228.231:9983/stream/channelid/1893273325?ticket=B3DB50D5930411D593B973B8404789C46D3559B8&profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "Jawhara TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/mRSQ5bP.png",
     "country": "",
@@ -6462,12 +6453,39 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Music\",M1 (720p)",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",M1 (1080p)",
     "logo": "https://i.imgur.com/wbRdUw8.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://158.101.222.193:88/georgia_play.php?id=m1",
+    "url": "http://stream.mcquack.net/218/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",M2 (1080p)",
+    "logo": "https://i.imgur.com/AfcBWCg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://stream.mcquack.net/330/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Muzsika TV",
+    "logo": "https://i.imgur.com/kmQ5vYC.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Slager TV",
+    "logo": "https://i.imgur.com/qDNRgSQ.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6567,6 +6585,15 @@
     "language": "",
     "group": "Music",
     "url": "http://54.36.110.140/live3/live3.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mezzo Live (1080p)",
+    "logo": "https://i.imgur.com/H9ytKPN.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://stream.mcquack.net/276/index.m3u8",
     "isHttps": false
   },
   {

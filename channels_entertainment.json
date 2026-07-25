@@ -1620,6 +1620,15 @@
     "isHttps": true
   },
   {
+    "name": "E! (720p)",
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://sra72yz.s.gy/E_ENTERTAINMENT_CANADA",
+    "isHttps": true
+  },
+  {
     "name": "E! Keeping Up (1080p)",
     "logo": "https://i.imgur.com/9F7VYDM.png",
     "country": "",
@@ -2007,6 +2016,15 @@
     "isHttps": true
   },
   {
+    "name": "FX (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://sra72yz.s.gy/FX_CANADA",
+    "isHttps": true
+  },
+  {
     "name": "FX TV 1",
     "logo": "",
     "country": "",
@@ -2022,6 +2040,33 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://toonixhls.wns.live/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FX West (1080p)",
+    "logo": "https://i.imgur.com/ZScwrpi.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://sra72yz.s.gy/fx-west",
+    "isHttps": true
+  },
+  {
+    "name": "FXX (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://sra72yz.s.gy/FXX_CANADA",
+    "isHttps": true
+  },
+  {
+    "name": "FXX West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://sra72yz.s.gy/fxx-west",
     "isHttps": true
   },
   {
@@ -7083,21 +7128,21 @@
     "isHttps": false
   },
   {
+    "name": "Hum Sitaray",
+    "logo": "https://i.imgur.com/D0A0eUJ.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.86.135.164:9981/stream/channelid/2007922618?ticket=A568146B33A8AC741F94DA1630EDF7590877F305&profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "INSP (720p)",
     "logo": "https://i.imgur.com/YgOC51j.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.53/INSP/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Izaura TV (576p)",
-    "logo": "https://i.imgur.com/p9YFnpw.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://146.59.85.40:89/izaura/index.m3u8",
     "isHttps": false
   },
   {
@@ -7125,15 +7170,6 @@
     "language": "",
     "group": "Culture;Entertainment",
     "url": "http://103.72.101.252:8080/live/419.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jocky TV (576p)",
-    "logo": "https://i.imgur.com/wLawFVP.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://146.59.85.40:89/jocky/index.m3u8",
     "isHttps": false
   },
   {
@@ -7254,12 +7290,39 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Colors HD",
+    "logo": "https://i.imgur.com/M8uCJ0D.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://59.103.38.46:8000/play/a00b/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",FEM3",
+    "logo": "https://i.imgur.com/AF4Sz8Z.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ICTV (1080p)",
     "logo": "https://i.imgur.com/97W1NOW.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://stream.mcquack.net/158/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Izaura TV (1080p)",
+    "logo": "https://i.imgur.com/p9YFnpw.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/izaura/index.m3u8",
     "isHttps": false
   },
   {
@@ -7767,6 +7830,15 @@
     "isHttps": false
   },
   {
+    "name": "Peretz International (576p)",
+    "logo": "https://i.imgur.com/On6ggLe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/121/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Play Entertainment (576p)",
     "logo": "https://i.imgur.com/BnNNDrE.png",
     "country": "",
@@ -7836,6 +7908,24 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/707.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RAZ 1 (1080p)",
+    "logo": "https://s2.vcdn.biz/static/f/7607683721/image.jpg/pt/c192x192x4",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/463/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RAZ 2 (1080p)",
+    "logo": "https://s7.vcdn.biz/static/f/7607698621/image.jpg/pt/c192x192x4",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/464/index.m3u8",
     "isHttps": false
   },
   {
@@ -8037,6 +8127,15 @@
     "isHttps": false
   },
   {
+    "name": "TNT HD (1080p)",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.153.24.78:80/TNT/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Digital Biriguí (640p)",
     "logo": "https://i.imgur.com/B5ZTMzY.png",
     "country": "",
@@ -8097,6 +8196,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Voprosy i Otvety (576p)",
+    "logo": "https://i.imgur.com/yjETxk1.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/76/index.m3u8",
     "isHttps": false
   },
   {

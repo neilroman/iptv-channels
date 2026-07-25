@@ -1134,15 +1134,6 @@
     "isHttps": true
   },
   {
-    "name": "Nick Jr. Asia (360p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nick Jr. Club (720p)",
     "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
     "country": "",
@@ -1185,6 +1176,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nick Jr. West (720p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://sra72yz.s.gy/NICK_JR_WEST_US",
     "isHttps": true
   },
   {
@@ -1302,6 +1302,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nickelodeon West (1080p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://sra72yz.s.gy/NICK_WEST_US",
     "isHttps": true
   },
   {
@@ -2772,15 +2781,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel EMEA (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://185.102.171.218/DisneyChannel/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -3006,12 +3006,12 @@
     "isHttps": false
   },
   {
-    "name": "Hop! (576p)",
+    "name": "Hop! (1080p)",
     "logo": "https://i.imgur.com/bScuilD.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8",
+    "url": "http://stream.mcquack.net/44/index.m3u8",
     "isHttps": false
   },
   {
@@ -3030,6 +3030,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kapitan Fantastika (1080p)",
+    "logo": "https://i.imgur.com/K3PSHiT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://stream.mcquack.net/144/index.m3u8",
     "isHttps": false
   },
   {
@@ -3096,6 +3105,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Kids\",TV2 Kids",
+    "logo": "https://i.imgur.com/Zltlezm.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88.212.15.19/live/tv2_kids/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment;Kids\",Veronica / Disney Jr.",
     "logo": "https://i.imgur.com/5L5TcYz.png",
     "country": "",
@@ -3129,15 +3147,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://213.91.179.28:8000/play/a056",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Nickelodeon (1080p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://193.239.186.231/NICK/index.m3u8",
     "isHttps": false
   },
   {
@@ -3318,15 +3327,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://138.186.23.7:8082/NICK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon West (720p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23019",
     "isHttps": false
   },
   {
@@ -3516,15 +3516,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV2 Kids (576p)",
-    "logo": "https://i.imgur.com/Zltlezm.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://146.59.85.40:89/tv2kids/index.m3u8",
     "isHttps": false
   },
   {
