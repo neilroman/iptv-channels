@@ -171,6 +171,24 @@
     "isHttps": true
   },
   {
+    "name": "Etno TV (1080p)",
+    "logo": "https://i.imgur.com/jzhZ8kl.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://aes.m3u8simplu.workers.dev/etno/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Favorit TV (1440p)",
+    "logo": "https://i.imgur.com/sTy4FHs.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://aes.m3u8simplu.workers.dev/favorit/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Hello Taste (720p)",
     "logo": "https://i.imgur.com/TdKO0er.png",
     "country": "",
@@ -549,6 +567,24 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 1 (720p)",
+    "logo": "https://i.imgur.com/5zMxDYq.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://aes.m3u8simplu.workers.dev/digi1/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 2 (720p)",
+    "logo": "https://i.imgur.com/KWDUi3v.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://aes.m3u8simplu.workers.dev/digi2/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 3 (720p)",
     "logo": "https://i.imgur.com/T1ci5UK.png",
     "country": "",
@@ -807,6 +843,15 @@
     "language": "",
     "group": "General",
     "url": "https://aes.m3u8simplu.workers.dev/nationalplus/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "National TV (576p)",
+    "logo": "https://i.imgur.com/KHzUIwG.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://aes.m3u8simplu.workers.dev/nationaltv/index.m3u8",
     "isHttps": true
   },
   {
@@ -1167,24 +1212,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Digi Sport 1 HD",
-    "logo": "https://i.imgur.com/5zMxDYq.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.201.172.14:35005",
-    "isHttps": false
-  },
-  {
-    "name": "Digi Sport 2 HD",
-    "logo": "https://i.imgur.com/KWDUi3v.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.201.172.14:35006",
     "isHttps": false
   },
   {
