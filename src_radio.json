@@ -1688,7 +1688,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Andalucía",
-    "url": "https://securestreams5.autopo.st:1869/;?type=http&nocache=347&url=copesedes/ronda.mp3",
+    "url": "https://wecast10-h-cloud.flumotion.com/copesedes/ronda.mp3",
     "isHttps": true
   },
   {
@@ -2598,6 +2598,15 @@
     "language": "",
     "group": "Radio_Andalucía",
     "url": "https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "FLOW Radio",
+    "logo": "https://graph.facebook.com/flowradio.es/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Musicales",
+    "url": "https://flow.urbanrevolution.es:8445/flow",
     "isHttps": true
   },
   {
@@ -5441,7 +5450,7 @@
     "country": "",
     "language": "",
     "group": "Radio_C. Valenciana",
-    "url": "https://azura.radio90.fm/listen/radio90/stream",
+    "url": "https://stream90.es/listen/radio90fm/radio",
     "isHttps": true
   },
   {
@@ -6350,7 +6359,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Populares",
-    "url": "https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/;.mp3",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmspain1?mp=/stream",
     "isHttps": true
   },
   {
@@ -9141,15 +9150,6 @@
     "language": "",
     "group": "Radio_Cantabria",
     "url": "http://ns100.emisionlocal.com:9428/live",
-    "isHttps": false
-  },
-  {
-    "name": "FLOW Radio",
-    "logo": "https://graph.facebook.com/flowradio.es/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Musicales",
-    "url": "http://flow.urbanrevolution.es:8445/flow",
     "isHttps": false
   },
   {

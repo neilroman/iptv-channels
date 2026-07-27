@@ -302,7 +302,25 @@
     "country": "",
     "language": "",
     "group": "Cataluña",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "33 GEO",
+    "logo": "https://graph.facebook.com/Canal33/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
     "url": "https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "33 GEO CAT",
+    "logo": "https://graph.facebook.com/Canal33/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -342,12 +360,21 @@
     "isHttps": true
   },
   {
-    "name": "3Cat Anime",
+    "name": "3Cat Anime GEO",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Cataluña",
     "url": "https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3Cat Anime GEO CAT",
+    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/tem2-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -360,21 +387,30 @@
     "isHttps": true
   },
   {
+    "name": "3Cat Càmeres del temps GEO",
+    "logo": "https://graph.facebook.com/3CatInfoElTemps/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3Cat Càmeres del temps GEO CAT",
+    "logo": "https://graph.facebook.com/3CatInfoElTemps/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "3Cat Doraemon",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Cataluña",
     "url": "https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "3Cat Exclusiu 1 GEO",
-    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://directes-tv-es.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -387,12 +423,12 @@
     "isHttps": true
   },
   {
-    "name": "3Cat Exclusiu 2 GEO",
+    "name": "3Cat Exclusiu 1 GEO CAT",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Cataluña",
-    "url": "https://directes-tv-es.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -405,12 +441,12 @@
     "isHttps": true
   },
   {
-    "name": "3Cat Exclusiu 3 GEO",
+    "name": "3Cat Exclusiu 2 GEO CAT",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Cataluña",
-    "url": "https://directes-tv-es.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -420,6 +456,33 @@
     "language": "",
     "group": "Cataluña",
     "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3Cat Exclusiu 3 GEO CAT",
+    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3Cat Exclusiu 4 GEO CAT",
+    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca4-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3Cat Exclusiu 4 GEO CAT",
+    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca4-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -441,12 +504,21 @@
     "isHttps": true
   },
   {
-    "name": "3Cat Verdi Clàssics",
+    "name": "3Cat Verdi Clàssics GEO",
     "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Cataluña",
     "url": "https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3Cat Verdi Clàssics GEO CAT",
+    "logo": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/tem1-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -465,6 +537,51 @@
     "language": "",
     "group": "Informativos",
     "url": "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3CatInfo",
+    "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Informativos",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3CatInfo GEO",
+    "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Informativos",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3CatInfo GEO",
+    "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Informativos",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3CatInfo GEO CAT",
+    "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Informativos",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "3CatInfo GEO CAT",
+    "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Informativos",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -982,11 +1099,56 @@
   },
   {
     "name": "Bon Dia TV",
-    "logo": "https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png",
+    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
     "country": "",
     "language": "",
     "group": "Cataluña",
     "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bon Dia TV",
+    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bon Dia TV GEO",
+    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bon Dia TV GEO",
+    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bon Dia TV GEO CAT",
+    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bon Dia TV GEO CAT",
+    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -1998,7 +2160,34 @@
     "isHttps": true
   },
   {
-    "name": "Esport 3 GEO",
+    "name": "Esport3",
+    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Deportivos",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Esport3",
+    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Deportivos",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Esport3 GEO",
+    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Deportivos",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Esport3 GEO",
     "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2007,7 +2196,16 @@
     "isHttps": true
   },
   {
-    "name": "Esport 3 GEO CAT",
+    "name": "Esport3 GEO CAT",
+    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Deportivos",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Esport3 GEO CAT",
     "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2854,7 +3052,7 @@
   },
   {
     "name": "MiBit Almansa TV",
-    "logo": "https://yt3.googleusercontent.com/fZuxmUyLoiA6cHfEOGiJvvOhUZO_7W5ZBA7Tjui60IUM3HVCvP-ffk5gE8qxGhdlyql9XbHk9A=s200",
+    "logo": "https://graph.facebook.com/mibittelecom/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Castilla-La Mancha",
@@ -3978,12 +4176,30 @@
     "isHttps": true
   },
   {
+    "name": "SX3 GEO",
+    "logo": "https://graph.facebook.com/SomSX3/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Infantiles",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SX3 GEO CAT",
     "logo": "https://graph.facebook.com/SomSX3/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Infantiles",
     "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "SX3 GEO CAT",
+    "logo": "https://graph.facebook.com/SomSX3/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Infantiles",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -4209,15 +4425,6 @@
     "language": "",
     "group": "Int. América",
     "url": "https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/live-origen/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TeleRibera",
-    "logo": "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg",
-    "country": "",
-    "language": "",
-    "group": "C. Foral de Navarra",
-    "url": "https://video3.lhdserver.es/teleribera/live.m3u8",
     "isHttps": true
   },
   {
@@ -4509,21 +4716,39 @@
     "isHttps": true
   },
   {
+    "name": "TV3 CAT",
+    "logo": "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
+    "url": "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV3 CAT GEO",
+    "logo": "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV3 CAT GEO",
+    "logo": "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png",
+    "country": "",
+    "language": "",
+    "group": "Int. Europa",
+    "url": "https://directes-tv-es.3catdirectes.cat/live-origin/tvc-hls/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV3 GEO CAT",
     "logo": "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png",
     "country": "",
     "language": "",
     "group": "Cataluña",
     "url": "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV3.CAT",
-    "logo": "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png",
-    "country": "",
-    "language": "",
-    "group": "Int. Europa",
-    "url": "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
     "isHttps": true
   },
   {
