@@ -261,6 +261,15 @@
     "isHttps": true
   },
   {
+    "name": "Band Sports (1080p)",
+    "logo": "https://i.imgur.com/EuPvzJe.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Barca TV",
     "logo": "https://i.imgur.com/d8x7c8i.png",
     "country": "",
@@ -546,15 +555,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "EDGEsport (576p)",
-    "logo": "https://i.imgur.com/bgQ6kz7.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sra72yz.s.gy/EDGE_SPORTS_SD",
     "isHttps": true
   },
   {
@@ -1098,84 +1098,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",AntenaSport",
-    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 1 (720p)",
-    "logo": "https://i.imgur.com/5zMxDYq.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/digi1/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 2 (720p)",
-    "logo": "https://i.imgur.com/KWDUi3v.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/digi2/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 3 (720p)",
-    "logo": "https://i.imgur.com/T1ci5UK.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/digi3/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 4 (720p)",
-    "logo": "https://i.imgur.com/Knj9I6f.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/digi4/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Premier Sports 1",
     "logo": "https://i.imgur.com/eOybZMU.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Prima 4K (720p)",
-    "logo": "https://i.imgur.com/fOFgdHj.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Prima Sport 5 (1080p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport Extra (1080p)",
-    "logo": "https://i.imgur.com/3MH2OIr.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8",
     "isHttps": true
   },
   {
@@ -1719,15 +1647,6 @@
     "isHttps": true
   },
   {
-    "name": "NBA TV Canada (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sra72yz.s.gy/NBA_TV_CANADA",
-    "isHttps": true
-  },
-  {
     "name": "NBC Sports NOW (1080p)",
     "logo": "https://i.imgur.com/EzNf2Yx.png",
     "country": "",
@@ -1779,15 +1698,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "One Sports (576p)",
-    "logo": "https://i.imgur.com/ig5PBMu.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sra72yz.s.gy/ONE_SPORTS_PH_SD",
     "isHttps": true
   },
   {
@@ -2340,21 +2250,21 @@
     "isHttps": true
   },
   {
-    "name": "S Sport",
+    "name": "S Sport (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
+    "url": "https://corestream.siteyaptim.live/s-sport/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "S Sport 2",
+    "name": "S Sport 2 (720p)",
     "logo": "https://i.imgur.com/2jIItAy.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
+    "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8",
     "isHttps": true
   },
   {
@@ -3258,15 +3168,6 @@
     "isHttps": false
   },
   {
-    "name": "Band Sports (1080p)",
-    "logo": "https://i.imgur.com/EuPvzJe.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://143.14.178.40:7777/Band_Sports_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "beIN Sports USA (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
     "country": "",
@@ -3344,7 +3245,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://45.190.156.152/COMBATE/index.m3u8",
+    "url": "http://143.14.134.107/167/index.m3u8",
     "isHttps": false
   },
   {
@@ -3408,6 +3309,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "DiviSport (1080p)",
+    "logo": "https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/457/index.m3u8",
     "isHttps": false
   },
   {
@@ -4281,15 +4191,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Premiere Clubes (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://45.190.156.152/PREMIERE_CLUBES/index.m3u8",
     "isHttps": false
   },
   {

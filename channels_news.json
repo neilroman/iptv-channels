@@ -1269,6 +1269,15 @@
     "isHttps": true
   },
   {
+    "name": "BandNews (1080p)",
+    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bansal News (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -4005,33 +4014,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"News\",B1 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://aes.m3u8simplu.workers.dev/b1/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"News\",Euronews Romania (1080p)",
-    "logo": "https://i.imgur.com/jUOVUXt.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://aes.m3u8simplu.workers.dev/euronews/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"News\",Prima News (576p)",
-    "logo": "https://i.imgur.com/wlqGfU2.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://aes.m3u8simplu.workers.dev/primanews/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\" group-title=\"News\",Bharat24 (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -5445,15 +5427,6 @@
     "isHttps": true
   },
   {
-    "name": "Observator News (720p)",
-    "logo": "https://i.imgur.com/f6xEIAr.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Olay Türk TV Kayseri (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/e9ca6gc.png",
     "country": "",
@@ -5487,15 +5460,6 @@
     "language": "",
     "group": "Music;News",
     "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "One PH (720p)",
-    "logo": "https://i.imgur.com/UU2VvGd.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://sra72yz.s.gy/ONE_PH_SD",
     "isHttps": true
   },
   {
@@ -7965,15 +7929,6 @@
     "isHttps": false
   },
   {
-    "name": "BandNews (1080p)",
-    "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://143.14.178.40:7777/Band_News_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BBC News Latin America (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -8168,7 +8123,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment;News",
-    "url": "http://45.190.156.152/E/index.m3u8",
+    "url": "http://167.250.126.140:7777/E!-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -8280,12 +8235,12 @@
     "isHttps": false
   },
   {
-    "name": "GloboNews (1080p)",
+    "name": "GloboNews (720p)",
     "logo": "https://i.imgur.com/3yZyaCm.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://143.14.178.40:7777/GloboNews_HD/index.m3u8",
+    "url": "http://41.205.70.146/GLOBONEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -8294,7 +8249,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://143.14.178.40:7777/GNT_HD/index.m3u8",
+    "url": "http://170.82.202.31/GNT/index.m3u8",
     "isHttps": false
   },
   {
@@ -8816,7 +8771,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://45.190.156.152/SBT_NEWS/index.m3u8",
+    "url": "http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8",
     "isHttps": false
   },
   {

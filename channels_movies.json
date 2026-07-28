@@ -207,15 +207,6 @@
     "isHttps": true
   },
   {
-    "name": "AXN Asia Indonesia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/AXN_ASIA_VISION_PLUS",
-    "isHttps": true
-  },
-  {
     "name": "AXN Asia Taiwan (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -609,15 +600,6 @@
     "language": "",
     "group": "Movies;News",
     "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Crave 1 (720p)",
-    "logo": "https://i.imgur.com/ZkRQ0r1.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/CRAVE_1_CANADA",
     "isHttps": true
   },
   {
@@ -1251,48 +1233,21 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Latin America Brazil (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
     "logo": "https://i.imgur.com/GHNsctR.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://lb.dstvmultimedia.com/NovaMax/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Classic;Movies\",Bollywood Classic (1080p)",
-    "logo": "https://i.imgur.com/ugPo6ca.png",
-    "country": "",
-    "language": "",
-    "group": "Classic;Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Romania (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/amc/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Black Romania (406p)",
-    "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/axnblack/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",CineMaraton (720p)",
-    "logo": "https://i.imgur.com/BY8UZa0.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8",
     "isHttps": true
   },
   {
@@ -1305,39 +1260,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Film Now (720p)",
-    "logo": "https://i.imgur.com/sSoRvGz.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Festival HD",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Pro Cinema (1080p)",
-    "logo": "https://i.imgur.com/TvHFGwZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/procinema/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000 (720p)",
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8",
     "isHttps": true
   },
   {
@@ -1419,51 +1347,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE Romania (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/axn/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Emotion Romania (1080p)",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/filmboxextra/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Romania (576p)",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/filmboxpremium/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Love & Crime Romania (576p)",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/filmboxstars/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ One Romania (576p)",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/filmbox/index.m3u8",
     "isHttps": true
   },
   {
@@ -1644,24 +1527,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MGM+ Hits (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/MGM_PLUS_HITS_HD",
-    "isHttps": true
-  },
-  {
-    "name": "MGM+ Marquee (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD",
     "isHttps": true
   },
   {
@@ -3933,15 +3798,6 @@
     "isHttps": true
   },
   {
-    "name": "Roja Movies (1080p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Rotana Cinema Egypt (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/dGlKoLW.png",
     "country": "",
@@ -4293,15 +4149,6 @@
     "isHttps": true
   },
   {
-    "name": "Starz Encore Action (1080p)",
-    "logo": "https://i.imgur.com/wIf4X0i.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/STARZ_ENCORE_ACTION_EAST_HD",
-    "isHttps": true
-  },
-  {
     "name": "Studio One + (720p)",
     "logo": "https://i.imgur.com/yOPB7JB.png",
     "country": "",
@@ -4338,15 +4185,6 @@
     "isHttps": true
   },
   {
-    "name": "SYFY West (1080p)",
-    "logo": "https://i.imgur.com/4fMWhUE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/syfy-west",
-    "isHttps": true
-  },
-  {
     "name": "T2 Movies",
     "logo": "",
     "country": "",
@@ -4380,24 +4218,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "The Movie Channel West (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/960px-The_Movie_Channel.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST",
-    "isHttps": true
-  },
-  {
-    "name": "The Movie Channel Xtra West (1080p)",
-    "logo": "https://i.imgur.com/J3qpQ8X.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST",
     "isHttps": true
   },
   {
@@ -4914,15 +4734,6 @@
     "isHttps": false
   },
   {
-    "name": "AMC Latin America Brazil (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://45.190.156.152/AMC/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Amedia Hit (1080p)",
     "logo": "https://i.imgur.com/a8ZBGBw.png",
     "country": "",
@@ -4974,6 +4785,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://45.190.28.50/AXN_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Black Romania [Not 24/7]",
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
     "isHttps": false
   },
   {
@@ -5082,6 +4902,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Action Europe Czechia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.219:9106/play/a01g",
     "isHttps": false
   },
   {
@@ -5391,6 +5220,15 @@
     "isHttps": false
   },
   {
+    "name": "FilmBox",
+    "logo": "https://i.imgur.com/VyaslIY.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.219:9100/play/a015",
+    "isHttps": false
+  },
+  {
     "name": "FX Movie Channel (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
     "country": "",
@@ -5640,6 +5478,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Hungary",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -6063,6 +5910,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Indonesia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://103.137.83.62:9090/play/21/index.m3u8",
     "isHttps": false
   },
   {

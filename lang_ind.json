@@ -54,15 +54,6 @@
     "isHttps": true
   },
   {
-    "name": "Animax Asia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
-    "country": "",
-    "language": "",
-    "group": "Animation",
-    "url": "https://sra72yz.s.gy/ANIMAX_ASIA_SD",
-    "isHttps": true
-  },
-  {
     "name": "Antara TV",
     "logo": "https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg",
     "country": "",
@@ -96,15 +87,6 @@
     "language": "",
     "group": "General",
     "url": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "AXN Asia Indonesia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/AXN_ASIA_VISION_PLUS",
     "isHttps": true
   },
   {
@@ -1635,6 +1617,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kids-tv-hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Indonesia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://103.137.83.62:9090/play/21/index.m3u8",
     "isHttps": false
   },
   {
