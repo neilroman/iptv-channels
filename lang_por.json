@@ -855,15 +855,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Latin America Brazil (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",NickToons Brasil (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",
     "country": "",
@@ -2232,6 +2223,15 @@
     "isHttps": true
   },
   {
+    "name": "SBT News (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SBT Nova Mutum",
     "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
     "country": "",
@@ -3501,6 +3501,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Arte 1 (720p)",
     "logo": "https://i.imgur.com/Ivnk7A6.png",
     "country": "",
@@ -3528,30 +3537,12 @@
     "isHttps": false
   },
   {
-    "name": "BabyTV Brazil (720p)",
-    "logo": "https://i.imgur.com/4BDJ5FT.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://167.250.126.140:7777/BABYTV-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Band (720p)",
     "logo": "https://i.imgur.com/1r5T6Pw.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://45.190.28.50/BAND_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Bis (720p)",
-    "logo": "https://i.imgur.com/VUt1lmH.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://167.250.126.140:7777/BIS-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3636,30 +3627,12 @@
     "isHttps": false
   },
   {
-    "name": "Curta! (720p)",
-    "logo": "https://i.imgur.com/Rwrh0zU.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "http://167.250.126.140:7777/CURTA!-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Channel (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://167.250.126.140:7777/DISNEY-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3699,12 +3672,12 @@
     "isHttps": false
   },
   {
-    "name": "E! Latin America Brazil (720p)",
+    "name": "E! Latin America Brazil (432p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment;News",
-    "url": "http://167.250.126.140:7777/E!-HD/index.m3u8",
+    "url": "http://145.239.5.177/111/index.m3u8",
     "isHttps": false
   },
   {
@@ -3771,15 +3744,6 @@
     "isHttps": false
   },
   {
-    "name": "FX Latin America Brazil (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://167.250.126.140:7777/FX-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "GloboNews (720p)",
     "logo": "https://i.imgur.com/3yZyaCm.png",
     "country": "",
@@ -3798,12 +3762,12 @@
     "isHttps": false
   },
   {
-    "name": "Gloob (720p)",
+    "name": "Gloob (576p)",
     "logo": "https://i.imgur.com/N1BUULh.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://167.250.126.140:7777/GLOOB-HD/index.m3u8",
+    "url": "http://45.235.0.78/Gloob/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3912,15 +3876,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://znty.dyndns.org:5010/hls/fox.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",RTPm Asia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://103.137.83.62:9090/play/58/index.m3u8",
     "isHttps": false
   },
   {
@@ -4046,16 +4001,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://167.250.126.140:7777/MEGAPIX-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Multishow (720p)",
-    "logo": "https://i.imgur.com/bqVg8nT.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://167.250.126.140:7777/MULTISHOW-HD/index.m3u8",
+    "url": "http://177.52.24.163/MEGAPIX-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4065,15 +4011,6 @@
     "language": "",
     "group": "Music",
     "url": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://167.250.126.140:7777/NATGEO-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4212,15 +4149,6 @@
     "isHttps": false
   },
   {
-    "name": "SBT News (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sertão TV (720p)",
     "logo": "https://i.imgur.com/b5xOCsC.png",
     "country": "",
@@ -4253,61 +4181,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Action (720p)",
-    "logo": "https://i.imgur.com/BHYWG0h.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCACTION-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Cult (720p)",
-    "logo": "https://i.imgur.com/6GuHXnr.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCCULT-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Fun (720p)",
-    "logo": "https://i.imgur.com/MO2Ynki.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCFUN-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Pipoca (720p)",
-    "logo": "https://i.imgur.com/hW9JYXr.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCPIPOCA-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Premium (720p)",
-    "logo": "https://i.imgur.com/uVFgIr8.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCPREMIUM-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Touch (720p)",
-    "logo": "https://i.imgur.com/Nky0hRo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TELECINETOUCH-HD/index.m3u8",
+    "url": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4640,7 +4514,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8",
+    "url": "http://177.52.24.163/USA-HD/index.m3u8",
     "isHttps": false
   },
   {

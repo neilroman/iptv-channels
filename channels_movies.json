@@ -1233,15 +1233,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Latin America Brazil (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
     "logo": "https://i.imgur.com/GHNsctR.png",
     "country": "",
@@ -4712,7 +4703,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://41.223.30.230/AMC/index.m3u8",
+    "url": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -4731,6 +4722,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://45.171.108.253:8888/AMC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AMC Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://170.83.49.66:8083/AMCHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4767,15 +4767,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://149.71.34.166:8000/play/a06e/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Atrescine (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
     "isHttps": false
   },
   {
@@ -4848,15 +4839,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "B4U Movies USA (576p)",
-    "logo": "https://i.imgur.com/M9kMFJl.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://41.223.30.230/B4UPLUS/index.m3u8",
     "isHttps": false
   },
   {
@@ -5472,12 +5454,30 @@
     "isHttps": false
   },
   {
-    "name": "Lifetime Movies West (1080p)",
-    "logo": "https://i.imgur.com/BWmqYTO.png",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Hungary",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107",
+    "url": "http://88.212.15.19/live/amc_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/axn_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Film Cafe",
+    "logo": "https://i.imgur.com/jaKRnzU.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/film_cafe/index.m3u8",
     "isHttps": false
   },
   {
@@ -5568,6 +5568,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/465/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Magyar Mozi TV",
+    "logo": "https://i.imgur.com/cXajs8V.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/mozi/index.m3u8",
     "isHttps": false
   },
   {
@@ -5676,15 +5685,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.19/live/test_amc_25p/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://cdn.haititivi.com/AXN/index.m3u8",
     "isHttps": false
   },
   {
@@ -5910,15 +5910,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Indonesia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://103.137.83.62:9090/play/21/index.m3u8",
     "isHttps": false
   },
   {
@@ -6525,60 +6516,6 @@
     "isHttps": false
   },
   {
-    "name": "Telecine Action (720p)",
-    "logo": "https://i.imgur.com/BHYWG0h.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCACTION-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Cult (720p)",
-    "logo": "https://i.imgur.com/6GuHXnr.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCCULT-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Fun (720p)",
-    "logo": "https://i.imgur.com/MO2Ynki.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCFUN-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Pipoca (720p)",
-    "logo": "https://i.imgur.com/hW9JYXr.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCPIPOCA-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Premium (720p)",
-    "logo": "https://i.imgur.com/uVFgIr8.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TCPREMIUM-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telecine Touch (720p)",
-    "logo": "https://i.imgur.com/Nky0hRo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://167.250.126.140:7777/TELECINETOUCH-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TV 21 International (576p)",
     "logo": "https://ibb.co/BH6CZx3K",
     "country": "",
@@ -6678,15 +6615,6 @@
     "isHttps": false
   },
   {
-    "name": "Zee Aflam (720p)",
-    "logo": "https://i.imgur.com/ZxknutA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://41.223.30.230/ZEEAFLAM/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Zee Biskope (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
@@ -6711,24 +6639,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.72.101.252:8080/live/165.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Cinema ME (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://41.205.77.102/ZEE-CINEMA/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Cinema UK (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://41.223.30.230/ZEECINEMA/index.m3u8",
     "isHttps": false
   },
   {

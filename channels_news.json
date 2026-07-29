@@ -2205,15 +2205,6 @@
     "isHttps": true
   },
   {
-    "name": "Current Time TV (1080p)",
-    "logo": "https://i.imgur.com/hKo8ApU.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CVR English (720p)",
     "logo": "https://i.imgur.com/k0WTQKi.png",
     "country": "",
@@ -2517,6 +2508,15 @@
     "language": "",
     "group": "News",
     "url": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ESPNews (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News;Sports",
+    "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -3264,15 +3264,6 @@
     "language": "",
     "group": "News",
     "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "i24NEWS English USA (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8",
     "isHttps": true
   },
   {
@@ -6273,6 +6264,15 @@
     "isHttps": true
   },
   {
+    "name": "SBT News (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SC Currents",
     "logo": "https://i.imgur.com/8FZsNyK.png",
     "country": "",
@@ -6342,6 +6342,15 @@
     "language": "",
     "group": "News",
     "url": "https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "Sky News",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8",
     "isHttps": true
   },
   {
@@ -7713,6 +7722,15 @@
     "isHttps": true
   },
   {
+    "name": "Настоящее Время (1080p)",
+    "logo": "https://i.imgur.com/hKo8ApU.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Первый Республиканский",
     "logo": "https://i.imgur.com/ti4OMBv.png",
     "country": "",
@@ -7728,6 +7746,15 @@
     "language": "",
     "group": "News",
     "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Россия 24 (Хабаровск) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -8118,12 +8145,12 @@
     "isHttps": false
   },
   {
-    "name": "E! Latin America Brazil (720p)",
+    "name": "E! Latin America Brazil (432p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment;News",
-    "url": "http://167.250.126.140:7777/E!-HD/index.m3u8",
+    "url": "http://145.239.5.177/111/index.m3u8",
     "isHttps": false
   },
   {
@@ -8151,15 +8178,6 @@
     "language": "",
     "group": "News",
     "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ESPNews (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -8204,7 +8222,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://41.205.77.102/FOX-NEWS/index.m3u8",
+    "url": "http://45.190.28.50/FOX_NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -8739,15 +8757,6 @@
     "isHttps": false
   },
   {
-    "name": "Russia-24 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://41.223.30.230/ROSSIYA24/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Russia-24 HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
     "country": "",
@@ -8763,15 +8772,6 @@
     "language": "",
     "group": "News",
     "url": "http://206.212.244.63/674/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "SBT News (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -8799,15 +8799,6 @@
     "language": "",
     "group": "News",
     "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Sky News (576p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://41.205.77.102/SKYNEWS/index.m3u8",
     "isHttps": false
   },
   {

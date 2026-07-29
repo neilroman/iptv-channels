@@ -279,39 +279,12 @@
     "isHttps": true
   },
   {
-    "name": "beIN Sports en Espanol (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/J5aurrb.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "beIN Sports Haber (720p)",
-    "logo": "https://i.imgur.com/QWo0x7S.jpg",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "beIN SPORTS XTRA (1080p)",
     "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "beIN Sports XTRA en Espanol (1080p)",
-    "logo": "https://i.imgur.com/V562tpO.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
     "isHttps": true
   },
   {
@@ -522,39 +495,12 @@
     "isHttps": true
   },
   {
-    "name": "DSports (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DSports 2 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "DSports Uruguay",
     "logo": "https://i.imgur.com/2PoEm1x.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DSports+ (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8",
     "isHttps": true
   },
   {
@@ -582,6 +528,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ESPNews (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News;Sports",
+    "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -771,15 +726,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Fox Sports 2",
-    "logo": "https://i.imgur.com/LHtxKI8.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streamvidex.qzz.io/videx/fox2usa/index.m3u8",
     "isHttps": true
   },
   {
@@ -2142,15 +2088,6 @@
     "isHttps": true
   },
   {
-    "name": "Real Madrid TV English [Geo-blocked]",
-    "logo": "https://i.imgur.com/5pMo7dL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Realitatea Sportiva (720p)",
     "logo": "https://i.imgur.com/BaEyZto.png",
     "country": "",
@@ -3177,6 +3114,15 @@
     "isHttps": false
   },
   {
+    "name": "beIN SPORTS XTRA en Espanol (1080p)",
+    "logo": "https://i.imgur.com/V562tpO.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://201.190.41.246:9060/play/a03y/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Belarus-5 HD (1080p)",
     "logo": "https://i.imgur.com/NJsRFud.png",
     "country": "",
@@ -3330,6 +3276,15 @@
     "isHttps": false
   },
   {
+    "name": "DSports (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://8.243.126.131:8000/play/a05a/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ERT Sports 1 (1080p)",
     "logo": "https://i.imgur.com/EsczO2H.png",
     "country": "",
@@ -3381,15 +3336,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ESPNews (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3474,15 +3420,6 @@
     "isHttps": false
   },
   {
-    "name": "Gol HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Golf Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "country": "",
@@ -3534,6 +3471,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://45.4.1.201:8000/play/a1ai/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 1",
+    "logo": "https://i.imgur.com/X5X3tKC.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://88.212.15.19/live/sport1_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 2",
+    "logo": "https://i.imgur.com/UxflVoU.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://88.212.15.19/live/sport2_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -4203,6 +4158,15 @@
     "isHttps": false
   },
   {
+    "name": "Real Madrid TV English",
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "RTSH Sport (1080p)",
     "logo": "https://i.imgur.com/J6NKXyJ.png",
     "country": "",
@@ -4245,24 +4209,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://40.160.24.55/SNY/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "SPOTV (720p)",
-    "logo": "https://i.imgur.com/HaoVsm5.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.137.83.62:9090/play/32/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "SPOTV 2 (720p)",
-    "logo": "https://i.imgur.com/YD8fbTH.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.137.83.62:9090/play/33/index.m3u8",
     "isHttps": false
   },
   {

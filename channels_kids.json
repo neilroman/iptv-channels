@@ -2466,24 +2466,6 @@
     "isHttps": false
   },
   {
-    "name": "BabyTV Brazil (720p)",
-    "logo": "https://i.imgur.com/4BDJ5FT.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://167.250.126.140:7777/BABYTV-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BabyTV France HD (720p)",
-    "logo": "https://i.imgur.com/4BDJ5FT.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.223.30.230/BABYTV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BabyTV Latin America (720p)",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
@@ -2525,7 +2507,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Family;Kids",
-    "url": "http://41.205.77.102/BBC-THREE/index.m3u8",
+    "url": "http://193.46.58.239:8080/CBBCHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -2562,15 +2544,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal J HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.205.77.102/CANALJ/index.m3u8",
     "isHttps": false
   },
   {
@@ -2679,15 +2652,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/960px-Disney_channel_2019.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://167.250.126.140:7777/DISNEY-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -2898,12 +2862,12 @@
     "isHttps": false
   },
   {
-    "name": "Gloob (720p)",
+    "name": "Gloob (576p)",
     "logo": "https://i.imgur.com/N1BUULh.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://167.250.126.140:7777/GLOOB-HD/index.m3u8",
+    "url": "http://45.235.0.78/Gloob/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2913,15 +2877,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://177.52.24.163/GLOOBINHO-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Gulli HD (720p)",
-    "logo": "https://i.imgur.com/kqYssbW.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.205.77.102/GULLI/index.m3u8",
     "isHttps": false
   },
   {
@@ -3015,6 +2970,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Minimax",
+    "logo": "https://i.imgur.com/WWOlm1x.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88.212.15.19/live/minimax_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr.",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "country": "",
@@ -3057,6 +3021,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/167/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon",
+    "logo": "https://i.imgur.com/fXs8f6a.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3276,15 +3249,6 @@
     "isHttps": false
   },
   {
-    "name": "Nickelodeon Asia Indonesia (720p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://103.137.83.62:9090/play/28/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nickelodeon Junior (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
     "country": "",
@@ -3453,15 +3417,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://cdn.haititivi.com/TELETOON-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TiJi HD (720p)",
-    "logo": "https://i.imgur.com/ZjsfAGb.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.205.77.102/TIJI/index.m3u8",
     "isHttps": false
   },
   {

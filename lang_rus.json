@@ -288,15 +288,6 @@
     "isHttps": true
   },
   {
-    "name": "Current Time TV (1080p)",
-    "logo": "https://i.imgur.com/hKo8ApU.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Dacha (1080p)",
     "logo": "https://i.imgur.com/xq6p9BZ.png",
     "country": "",
@@ -1971,6 +1962,15 @@
     "isHttps": true
   },
   {
+    "name": "Настоящее Время (1080p)",
+    "logo": "https://i.imgur.com/hKo8ApU.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "НВК Саха (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/LwXNUhf.png",
     "country": "",
@@ -2187,6 +2187,15 @@
     "isHttps": true
   },
   {
+    "name": "Россия 24 (Хабаровск) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Россия-РТР",
     "logo": "https://i.imgur.com/T42cuYx.png",
     "country": "",
@@ -2340,15 +2349,6 @@
     "isHttps": true
   },
   {
-    "name": "Сити Эдем КиноДрама [Not 24/7]",
-    "logo": "https://i.imgur.com/29ddffh.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cityeden.catcast.tv/content/45269/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Сити Эдем КиноКлассика [Not 24/7]",
     "logo": "https://i.imgur.com/0qGCS1S.png",
     "country": "",
@@ -2400,6 +2400,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://cityeden.catcast.tv/content/41333/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Сити Эдем Кин��Драма [Not 24/7]",
+    "logo": "https://i.imgur.com/29ddffh.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cityeden.catcast.tv/content/45269/index.m3u8",
     "isHttps": true
   },
   {
@@ -4164,15 +4173,6 @@
     "language": "",
     "group": "General",
     "url": "http://91.146.94.234:10001/play/a090",
-    "isHttps": false
-  },
-  {
-    "name": "Russia-24 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://41.223.30.230/ROSSIYA24/index.m3u8",
     "isHttps": false
   },
   {

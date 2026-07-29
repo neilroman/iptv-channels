@@ -180,15 +180,6 @@
     "isHttps": true
   },
   {
-    "name": "Adult Swim Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "AfroLandTV (1080p)",
     "logo": "https://i.imgur.com/jvnkrEF.png",
     "country": "",
@@ -798,6 +789,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BET Her (720p)",
+    "logo": "https://i.imgur.com/oafsrlo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
     "isHttps": true
   },
   {
@@ -6291,6 +6291,15 @@
     "isHttps": true
   },
   {
+    "name": "Zee Alwan (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/OLuCox7.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Series",
+    "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zee Bangla Sonar (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
     "country": "",
@@ -6480,24 +6489,6 @@
     "isHttps": false
   },
   {
-    "name": "A&E Latin America South (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://200.91.32.158:8080/ae/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "A&E West (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23104",
-    "isHttps": false
-  },
-  {
     "name": "Aathavan TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/LEVEhTH.png",
     "country": "",
@@ -6612,15 +6603,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://91.146.94.234:10001/play/a087",
-    "isHttps": false
-  },
-  {
-    "name": "BET Her (720p)",
-    "logo": "https://i.imgur.com/oafsrlo.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://41.205.93.154/BETHER/index.m3u8",
     "isHttps": false
   },
   {
@@ -6831,12 +6813,12 @@
     "isHttps": false
   },
   {
-    "name": "E! Latin America Brazil (720p)",
+    "name": "E! Latin America Brazil (432p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment;News",
-    "url": "http://167.250.126.140:7777/E!-HD/index.m3u8",
+    "url": "http://145.239.5.177/111/index.m3u8",
     "isHttps": false
   },
   {
@@ -6963,15 +6945,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://45.162.193.35/FX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX Latin America Brazil (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://167.250.126.140:7777/FX-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7155,15 +7128,6 @@
     "isHttps": false
   },
   {
-    "name": "Lifetime Latin America Mexico (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://177.245.131.133:8080/LIFETIME/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Lifetime Real Women (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LRW_logo_2012.png/960px-LRW_logo_2012.png",
     "country": "",
@@ -7173,21 +7137,21 @@
     "isHttps": false
   },
   {
-    "name": "Lifetime West (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23106",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Jocky TV",
     "logo": "https://i.imgur.com/wLawFVP.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://88.212.15.19/live/jocky/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Life TV",
+    "logo": "https://i.imgur.com/3znYv1N.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/lifetv/index.m3u8",
     "isHttps": false
   },
   {
@@ -7632,15 +7596,6 @@
     "isHttps": false
   },
   {
-    "name": "Multishow (720p)",
-    "logo": "https://i.imgur.com/bqVg8nT.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://167.250.126.140:7777/MULTISHOW-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -7722,30 +7677,12 @@
     "isHttps": false
   },
   {
-    "name": "Pasiones (1080p)",
-    "logo": "https://i.imgur.com/BCWbGf9.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://190.61.43.123:8081/PasionesHD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Pasiones Latin America (1080p)",
     "logo": "https://i.imgur.com/VGnbWjO.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://45.162.193.35/PASIONESHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Passion Novelas (1080p)",
-    "logo": "https://i.imgur.com/boo9jmf.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://41.223.30.230/PASSIONTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -7857,12 +7794,12 @@
     "isHttps": false
   },
   {
-    "name": "RCN Novelas (1080p)",
+    "name": "RCN Novelas (720p)",
     "logo": "https://i.imgur.com/9wxdWNQ.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
+    "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8",
     "isHttps": false
   },
   {
@@ -7889,7 +7826,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://103.137.83.62:9090/play/19/index.m3u8",
+    "url": "http://45.144.165.187:8080/live/playidlive/12345/81.m3u8",
     "isHttps": false
   },
   {
@@ -8133,15 +8070,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://stream.mcquack.net/76/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Alwan (576p)",
-    "logo": "https://i.imgur.com/OLuCox7.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "http://41.223.30.230/ZEEALWAN/index.m3u8",
     "isHttps": false
   },
   {

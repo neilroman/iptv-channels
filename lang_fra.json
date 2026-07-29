@@ -1116,6 +1116,15 @@
     "isHttps": true
   },
   {
+    "name": "Exploits TV",
+    "logo": "https://i.imgur.com/3wC7tSG.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FashionTV Paris L'Original (1080p)",
     "logo": "https://i.imgur.com/GFTAN5Q.png",
     "country": "",
@@ -4032,15 +4041,6 @@
     "isHttps": false
   },
   {
-    "name": "BabyTV France HD (720p)",
-    "logo": "https://i.imgur.com/4BDJ5FT.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.223.30.230/BABYTV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Boss Brothers TV (1080p)",
     "logo": "https://i.imgur.com/rc9MXm5.png",
     "country": "",
@@ -4074,15 +4074,6 @@
     "language": "",
     "group": "General",
     "url": "http://69.64.57.208/canal2international/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal J HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.205.77.102/CANALJ/index.m3u8",
     "isHttps": false
   },
   {
@@ -4212,15 +4203,6 @@
     "isHttps": false
   },
   {
-    "name": "Gulli HD (720p)",
-    "logo": "https://i.imgur.com/kqYssbW.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.205.77.102/GULLI/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "KC2 (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/PsYPzNc.png",
     "country": "",
@@ -4239,12 +4221,12 @@
     "isHttps": false
   },
   {
-    "name": "KTO (720p)",
+    "name": "KTO (504p)",
     "logo": "https://i.imgur.com/EY6TsdV.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://41.205.77.102/KTO/index.m3u8",
+    "url": "http://145.239.5.177/354/index.m3u8",
     "isHttps": false
   },
   {
@@ -4446,15 +4428,6 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic Wild (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://41.205.77.102/NATGEO-WILD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Natural TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/rfcJ674.png",
     "country": "",
@@ -4554,15 +4527,6 @@
     "isHttps": false
   },
   {
-    "name": "Passion Novelas (1080p)",
-    "logo": "https://i.imgur.com/boo9jmf.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://41.223.30.230/PASSIONTV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Play TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/1dmBqpf.png",
     "country": "",
@@ -4614,15 +4578,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RMC Decouverte (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://41.205.77.102/RMCDECOUVERTE/index.m3u8",
     "isHttps": false
   },
   {
@@ -4803,15 +4758,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://145.239.5.177/315/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TiJi HD (720p)",
-    "logo": "https://i.imgur.com/ZjsfAGb.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.205.77.102/TIJI/index.m3u8",
     "isHttps": false
   },
   {
