@@ -540,15 +540,6 @@
     "isHttps": true
   },
   {
-    "name": "Al Aoula (480p)",
-    "logo": "https://i.imgur.com/nq53d2N.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://snrtworker.kharazbelaid.workers.dev/?id=alaoula.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Al Aoula Inter (1080p)",
     "logo": "https://i.imgur.com/nq53d2N.png",
     "country": "",
@@ -13194,21 +13185,21 @@
     "isHttps": true
   },
   {
+    "name": "Real Madrid TV (726p)",
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Real Television (720p)",
     "logo": "https://i.imgur.com/7KECyh5.jpeg",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Realmadrid TV (720p)",
-    "logo": "https://i.imgur.com/5pMo7dL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
     "isHttps": true
   },
   {
@@ -15468,6 +15459,15 @@
     "language": "",
     "group": "General",
     "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TeleQuindio (1080p)",
+    "logo": "https://i.imgur.com/bJWj5ja.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -18267,6 +18267,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "https://stream.wapptv.cl/video/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Wata Vision",
+    "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8",
     "isHttps": true
   },
   {

@@ -162,60 +162,6 @@
     "isHttps": true
   },
   {
-    "name": "Arryadia (480p)",
-    "logo": "https://i.imgur.com/XjzK3gZ.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://snrtworker.kharazbelaid.workers.dev/?id=arryadia.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Arryadia (720p)",
-    "logo": "https://i.imgur.com/XjzK3gZ.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stream-lb.livemediama.com/arryadia/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Arryadia HD 1 (1080p)",
-    "logo": "https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Arryadia HD 2 (1080p)",
-    "logo": "https://i.ibb.co/jPFCVFNS/image-removebg-preview-3.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Arryadia HD 3 (1080p)",
-    "logo": "https://i.ibb.co/mCnJzvvB/image-removebg-preview-4.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Arryadia HD TNT (1080p)",
-    "logo": "https://i.imgur.com/XjzK3gZ.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "AS3 Sport TV (1080p)",
     "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
     "country": "",
@@ -2034,15 +1980,6 @@
     "isHttps": true
   },
   {
-    "name": "QazSport (480p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/UDJ0P5Q.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RACER International (1080p)",
     "logo": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
     "country": "",
@@ -2088,21 +2025,21 @@
     "isHttps": true
   },
   {
+    "name": "Real Madrid TV (726p)",
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Realitatea Sportiva (720p)",
     "logo": "https://i.imgur.com/BaEyZto.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Realmadrid TV (720p)",
-    "logo": "https://i.imgur.com/5pMo7dL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
     "isHttps": true
   },
   {
@@ -4155,6 +4092,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "QazSport (1080p)",
+    "logo": "https://i.imgur.com/UDJ0P5Q.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/72/index.m3u8",
     "isHttps": false
   },
   {
