@@ -3960,15 +3960,6 @@
     "isHttps": false
   },
   {
-    "name": "Action HD (720p)",
-    "logo": "https://i.imgur.com/Zv9VsVq.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://rezofoot.tv/Action/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Africable TV (360p)",
     "logo": "https://i.imgur.com/iQE57Z2.png",
     "country": "",
@@ -4155,6 +4146,24 @@
     "language": "",
     "group": "General",
     "url": "http://69.64.57.208/france2/mono.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "France 3 Cote d'Azur",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://89.187.185.76:8080/France3/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "France 3 Lorraine (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://5.180.164.197:8080/FRANCE3/index.m3u8",
     "isHttps": false
   },
   {
@@ -4347,15 +4356,6 @@
     "isHttps": false
   },
   {
-    "name": "MCM Top (720p)",
-    "logo": "https://i.imgur.com/EVtWQLd.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rezofoot.tv/MCM/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "MDL (720p)",
     "logo": "https://i.imgur.com/REN30bx.png",
     "country": "",
@@ -4491,15 +4491,6 @@
     "isHttps": false
   },
   {
-    "name": "Paris Premiere (1080p)",
-    "logo": "https://i.imgur.com/ily4bEm.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Play TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/1dmBqpf.png",
     "country": "",
@@ -4572,12 +4563,12 @@
     "isHttps": false
   },
   {
-    "name": "RTL9 (1080p)",
+    "name": "RTL9 (720p)",
     "logo": "https://i.imgur.com/nFqjVNW.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://cdn.haititivi.com/rtl-9/index.m3u8",
+    "url": "http://145.239.5.177/308/index.m3u8",
     "isHttps": false
   },
   {
@@ -4668,15 +4659,6 @@
     "language": "",
     "group": "General",
     "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Teletoon+ (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://cdn.haititivi.com/TELETOON-HD/index.m3u8",
     "isHttps": false
   },
   {

@@ -675,6 +675,24 @@
     "isHttps": true
   },
   {
+    "name": "Fox Sports 1 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Fox Sports 2 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/LHtxKI8.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FTF Sports (720p)",
     "logo": "https://i.imgur.com/yvUjOI3.png",
     "country": "",
@@ -2475,12 +2493,12 @@
     "isHttps": true
   },
   {
-    "name": "T Sports (720p)",
+    "name": "T Sports (1080p)",
     "logo": "https://i.imgur.com/2JzlorD.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://trs1.aynaott.com/tsports/index.m3u8",
+    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
     "isHttps": true
   },
   {
@@ -3249,12 +3267,12 @@
     "isHttps": false
   },
   {
-    "name": "ESPN 3 (720p)",
+    "name": "ESPN 3 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://181.78.197.59:8000/play/a081/index.m3u8",
+    "url": "http://190.83.2.182:8090/ESPN3/index.m3u8",
     "isHttps": false
   },
   {
@@ -3327,24 +3345,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://145.239.5.177/556a/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Fox Sports 1 (720p)",
-    "logo": "https://i.imgur.com/O9BapV9.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Fox Sports Premium (720p)",
-    "logo": "https://i.imgur.com/3lOZWeD.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23054",
     "isHttps": false
   },
   {

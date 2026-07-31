@@ -3186,6 +3186,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal del Congreso 45.1",
+    "logo": "https://i.imgur.com/xAC6gQO.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal del Sol (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/gK0M1jB.png",
     "country": "",
@@ -6459,6 +6468,15 @@
     "language": "",
     "group": "General",
     "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FX Movie Channel (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -15147,7 +15165,7 @@
     "isHttps": true
   },
   {
-    "name": "Telecosta (720p)",
+    "name": "Telecosta",
     "logo": "https://i.imgur.com/1DqLy8H.png",
     "country": "",
     "language": "",
@@ -16251,6 +16269,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://streaming.alwaysdata.net/tudn.php",
+    "isHttps": true
+  },
+  {
+    "name": "TUDN (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/oT5CAvd.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
     "isHttps": true
   },
   {
@@ -18945,12 +18972,12 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America Mexico (1080p)",
+    "name": "AXN Latin America Mexico",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://177.245.131.133:8080/AXN/index.m3u8",
+    "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -19233,15 +19260,6 @@
     "isHttps": false
   },
   {
-    "name": "Canal del Congreso 45.1 (720p)",
-    "logo": "https://i.imgur.com/xAC6gQO.png",
-    "country": "",
-    "language": "",
-    "group": "Legislative",
-    "url": "http://177.245.131.133:8080/CONGRESO/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Canal Dos Yopal (720p)",
     "logo": "https://i.imgur.com/BYsyNHZ.jpg",
     "country": "",
@@ -19404,30 +19422,12 @@
     "isHttps": false
   },
   {
-    "name": "Cine.Ar (576p)",
-    "logo": "https://i.imgur.com/Iozv4tT.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://200.91.32.158:8080/cinear/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Cinecanal (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://138.186.23.7:8082/CINECANAL/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Cinecanal Mexico (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8",
     "isHttps": false
   },
   {
@@ -19473,15 +19473,6 @@
     "language": "",
     "group": "Kids;Public",
     "url": "http://185.47.212.25:8080/Clan_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CM El Canal de la Musica (720p)",
-    "logo": "https://i.imgur.com/gwpETyS.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://200.91.32.158:8080/cm/index.m3u8",
     "isHttps": false
   },
   {
@@ -19580,7 +19571,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://177.245.131.133:8080/DHE/index.m3u8",
+    "url": "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -19818,15 +19809,6 @@
     "isHttps": false
   },
   {
-    "name": "El Gourmet South (720p)",
-    "logo": "https://i.imgur.com/ByMyRI9.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "http://200.91.32.158:8080/gourmet/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "El Nueve (1080p)",
     "logo": "https://i.imgur.com/cJHP7bU.png",
     "country": "",
@@ -19881,21 +19863,12 @@
     "isHttps": false
   },
   {
-    "name": "Eurochannel (1080p)",
-    "logo": "https://i.imgur.com/yXAtmI6.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://177.245.131.133:8080/EUROCHANNEL/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Europa Europa (720p)",
+    "name": "Europa Europa",
     "logo": "https://i.imgur.com/w5SOfyJ.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://200.91.32.158:8080/europa/index.m3u8",
+    "url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
     "isHttps": false
   },
   {
@@ -19962,15 +19935,6 @@
     "isHttps": false
   },
   {
-    "name": "Fox Sports Premium (720p)",
-    "logo": "https://i.imgur.com/3lOZWeD.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23054",
-    "isHttps": false
-  },
-  {
     "name": "FunBox",
     "logo": "https://i.imgur.com/9MXM6jD.png",
     "country": "",
@@ -20004,15 +19968,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX Movie Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/FXM/index.m3u8",
     "isHttps": false
   },
   {
@@ -20187,12 +20142,12 @@
     "isHttps": false
   },
   {
-    "name": "La Nacion + (720p)",
+    "name": "La Nacion + (576p)",
     "logo": "https://i.imgur.com/Gj1kqH5.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://200.91.32.158:8080/lnmas/index.m3u8",
+    "url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -20952,15 +20907,6 @@
     "isHttps": false
   },
   {
-    "name": "Sony Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://177.245.131.133:8080/SONY/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sony Channel Andes (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
     "country": "",
@@ -21393,15 +21339,6 @@
     "isHttps": false
   },
   {
-    "name": "TUDN (1080p)",
-    "logo": "https://i.imgur.com/oT5CAvd.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23092",
-    "isHttps": false
-  },
-  {
     "name": "TV Camara (1080p)",
     "logo": "https://i.imgur.com/Mfypr0t.png",
     "country": "",
@@ -21444,15 +21381,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV UNAM (720p)",
-    "logo": "https://i.imgur.com/ayg5kRM.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://177.245.131.133:8080/UNAM/index.m3u8",
     "isHttps": false
   },
   {
@@ -21579,15 +21507,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Universal TV Latin America Mexico (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://177.245.131.133:8080/UNIVERSAL/index.m3u8",
     "isHttps": false
   },
   {

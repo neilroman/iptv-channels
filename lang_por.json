@@ -3690,12 +3690,12 @@
     "isHttps": false
   },
   {
-    "name": "ESPN 3 (720p)",
+    "name": "ESPN 3 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://181.78.197.59:8000/play/a081/index.m3u8",
+    "url": "http://190.83.2.182:8090/ESPN3/index.m3u8",
     "isHttps": false
   },
   {
@@ -3705,15 +3705,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Eurochannel (1080p)",
-    "logo": "https://i.imgur.com/yXAtmI6.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://177.245.131.133:8080/EUROCHANNEL/index.m3u8",
     "isHttps": false
   },
   {
