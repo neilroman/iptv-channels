@@ -225,6 +225,15 @@
     "isHttps": true
   },
   {
+    "name": "beIN Sports USA (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "beIN SPORTS XTRA (1080p)",
     "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
     "country": "",
@@ -1557,6 +1566,15 @@
     "isHttps": true
   },
   {
+    "name": "NBC Sports Bay Area (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/MTgUVKx.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NBC Sports NOW (1080p)",
     "logo": "https://i.imgur.com/EzNf2Yx.png",
     "country": "",
@@ -1566,12 +1584,30 @@
     "isHttps": true
   },
   {
+    "name": "NBC Sports Philadelphia (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NFL Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/mPGtwAP.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NFL Network (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3051,21 +3087,21 @@
     "isHttps": false
   },
   {
+    "name": "Arryadia",
+    "logo": "https://i.imgur.com/XjzK3gZ.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Azteca Deportes Network (1080p)",
     "logo": "https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "beIN Sports USA (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
     "isHttps": false
   },
   {
@@ -3939,15 +3975,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/USA_NESN/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NFL Network (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
     "isHttps": false
   },
   {

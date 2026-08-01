@@ -342,12 +342,12 @@
     "isHttps": true
   },
   {
-    "name": "Ahlulbayt TV (1080p) [Not 24/7]",
+    "name": "Ahlulbayt TV (1080p)",
     "logo": "https://i.imgur.com/lNGJGjy.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8",
+    "url": "https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8",
     "isHttps": true
   },
   {
@@ -3069,12 +3069,12 @@
     "isHttps": true
   },
   {
-    "name": "It's Supernatural! Network (ISN Network) (1080p)",
+    "name": "It's Supernatural! Network (1080p)",
     "logo": "https://i.imgur.com/JWrdL9a.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8",
+    "url": "https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8",
     "isHttps": true
   },
   {
@@ -3210,6 +3210,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://ktismaservers.in:3412/live/joytvlive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "JTBS Classic (480p)",
+    "logo": "https://jtbs-classic.web.app/logo.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Religious",
+    "url": "https://jtbsclassic.dpdns.org/live.m3u8",
     "isHttps": true
   },
   {
@@ -4497,6 +4506,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Omega (720p)",
+    "logo": "https://i.imgur.com/doybFbZ.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8",
     "isHttps": true
   },
   {
