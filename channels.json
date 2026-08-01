@@ -51561,7 +51561,7 @@
     "isHttps": true
   },
   {
-    "name": "MTV Jovens e M��es (720p)",
+    "name": "MTV Jovens e Mães (720p)",
     "logo": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -120717,6 +120717,15 @@
     "isHttps": false
   },
   {
+    "name": "滨州新闻综合 (576p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://stream.bzcm.net/2/sd/live.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "滨州测试 (576p)",
     "logo": "",
     "country": "",
@@ -121659,15 +121668,6 @@
     "language": "",
     "group": "General",
     "url": "http://118.81.195.79:9003/hls/31/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "���州新闻综合 (576p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://stream.bzcm.net/2/sd/live.m3u8",
     "isHttps": false
   }
 ]
