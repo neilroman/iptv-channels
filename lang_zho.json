@@ -1161,15 +1161,6 @@
     "isHttps": false
   },
   {
-    "name": "Love Nature HD (720p)",
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
-    "country": "",
-    "language": "",
-    "group": "Outdoor",
-    "url": "http://185.246.209.113/LOVENATUREHD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Luxe TV (1080p)",
     "logo": "https://i.imgur.com/24ehonx.png",
     "country": "",
@@ -1455,15 +1446,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "四川妇女儿童 (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/1lGO0vY.png",
-    "country": "",
-    "language": "",
-    "group": "Family",
-    "url": "http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8",
     "isHttps": false
   },
   {
@@ -1923,6 +1905,15 @@
     "language": "",
     "group": "General",
     "url": "http://118.81.195.79:9003/hls/31/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "��川妇女儿童 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1lGO0vY.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8",
     "isHttps": false
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "name": "2M Monde (1080p)",
-    "logo": "https://i.imgur.com/MvpntzA.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "2M Monde (360p)",
     "logo": "https://i.imgur.com/MvpntzA.png",
     "country": "",
@@ -114,24 +105,6 @@
     "language": "",
     "group": "News",
     "url": "https://live2.alalam.ir/alalam.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Al Aoula (1080p)",
-    "logo": "https://i.imgur.com/nq53d2N.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Al Aoula Inter (1080p)",
-    "logo": "https://i.imgur.com/nq53d2N.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream-lb.livemediama.com/alaoula/hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -879,6 +852,15 @@
     "language": "",
     "group": "General",
     "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Alwesam TV (1080p)",
+    "logo": "https://i.imgur.com/rtqVAxf.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://stream.addresses-sat.com/Alwesam/index.m3u8",
     "isHttps": true
   },
   {

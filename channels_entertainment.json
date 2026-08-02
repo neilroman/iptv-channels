@@ -1854,15 +1854,6 @@
     "isHttps": true
   },
   {
-    "name": "EuroStar TV (1080p)",
-    "logo": "https://i.imgur.com/kb165Ot.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Eventyrlig Oppussing",
     "logo": "https://images.pluto.tv/channels/61c1de93244e500007581d69/colorLogoPNG.png",
     "country": "",
@@ -3507,15 +3498,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Milyon TV (720p)",
-    "logo": "https://i.imgur.com/lEIFDwo.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
     "isHttps": true
   },
   {
@@ -6120,15 +6102,6 @@
     "isHttps": true
   },
   {
-    "name": "Vive Kanal D Drama (1080p)",
-    "logo": "https://i.imgur.com/WIeZMKT.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "VIVO TV (1080p)",
     "logo": "https://i.ibb.co/Drx6fgZ/Logo-white.png",
     "country": "",
@@ -7071,6 +7044,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kanal D Drama (1080p)",
+    "logo": "https://i.imgur.com/WIeZMKT.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://8.243.126.131:8000/play/a0mn/index.m3u8",
     "isHttps": false
   },
   {

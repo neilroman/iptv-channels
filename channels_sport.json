@@ -2376,15 +2376,6 @@
     "isHttps": true
   },
   {
-    "name": "Sports TV (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/tGTVcVe.jpg",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "SportsGrid (1080p)",
     "logo": "https://i.imgur.com/ulGKX30.png",
     "country": "",
@@ -2544,15 +2535,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Tabii Spor 6 (720p) [Geo-blocked]",
-    "logo": "https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8",
     "isHttps": true
   },
   {
@@ -2733,24 +2715,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TRT Spor (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/6tv0zxh.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TRT Spor Yildiz (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
     "isHttps": true
   },
   {
@@ -3384,6 +3348,15 @@
     "isHttps": false
   },
   {
+    "name": "Futbol TV (1080p)",
+    "logo": "https://i.ibb.co/h1gQSkbB/Futbol-TV.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FUTV",
     "logo": "https://i.imgur.com/f8BkLql.png",
     "country": "",
@@ -3867,6 +3840,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Maincast Cybersport (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/487/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Maincast Sport (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://stream.mcquack.net/490/index.m3u8",
     "isHttps": false
   },
   {

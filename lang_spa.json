@@ -531,24 +531,6 @@
     "isHttps": true
   },
   {
-    "name": "Al Aoula (1080p)",
-    "logo": "https://i.imgur.com/nq53d2N.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Al Aoula Inter (1080p)",
-    "logo": "https://i.imgur.com/nq53d2N.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream-lb.livemediama.com/alaoula/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Alacantí TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/pcWU6e1.png",
     "country": "",
@@ -1464,6 +1446,15 @@
     "language": "",
     "group": "Music",
     "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bebeto TV (1080p) [Not 24/7]",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://edge.essastream.com/bebetotelevision/index.m3u8",
     "isHttps": true
   },
   {
@@ -4941,6 +4932,15 @@
     "isHttps": true
   },
   {
+    "name": "CTT Canal 49 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/jsi4qVb.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdnfox.hostlagarto.com/cct49/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CTV35",
     "logo": "https://i.imgur.com/AIbkWj6.png",
     "country": "",
@@ -6135,6 +6135,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Extra 86 TV (720p) [Not 24/7]",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8",
     "isHttps": true
   },
   {
@@ -13158,6 +13167,15 @@
     "isHttps": true
   },
   {
+    "name": "RB TV (1080p)",
+    "logo": "https://i.imgur.com/EMFAFX0.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RCC TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/qdjBnRl.png",
     "country": "",
@@ -17289,12 +17307,12 @@
     "isHttps": true
   },
   {
-    "name": "TVN24 (720p)",
+    "name": "TVN24 (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/bu6bQMa.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8",
+    "url": "https://edge.essastream.com/vozzmedia/index.m3u8",
     "isHttps": true
   },
   {
@@ -18186,15 +18204,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Vive Kanal D Drama (1080p)",
-    "logo": "https://i.imgur.com/WIeZMKT.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -20124,6 +20133,15 @@
     "isHttps": false
   },
   {
+    "name": "Kanal D Drama (1080p)",
+    "logo": "https://i.imgur.com/WIeZMKT.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://8.243.126.131:8000/play/a0mn/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Karibena (720p)",
     "logo": "https://i.imgur.com/cgHjg1e.png",
     "country": "",
@@ -20346,15 +20364,6 @@
     "language": "",
     "group": "General",
     "url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Love Nature HD (720p)",
-    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
-    "country": "",
-    "language": "",
-    "group": "Outdoor",
-    "url": "http://185.246.209.113/LOVENATUREHD/index.m3u8",
     "isHttps": false
   },
   {
