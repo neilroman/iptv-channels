@@ -1584,6 +1584,15 @@
     "isHttps": true
   },
   {
+    "name": "Dong Nai TV 2 (720p)",
+    "logo": "https://i.imgur.com/tNKPSkO.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Sports",
+    "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dr Phil's MeritTV (1080p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512",
     "country": "",
@@ -2940,6 +2949,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lara en Redes",
+    "logo": "https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streamtv.laraenredes.com:3020/hybrid/play.m3u8",
     "isHttps": true
   },
   {
@@ -5733,6 +5751,15 @@
     "isHttps": true
   },
   {
+    "name": "Tra Vinh TV (1080p)",
+    "logo": "https://i.imgur.com/F12VdKO.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Entertainment;Music;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
+    "isHttps": true
+  },
+  {
     "name": "Tshwane TV (576p)",
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png",
     "country": "",
@@ -6081,6 +6108,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Vinh Long TV 2 (1080p)",
+    "logo": "https://i.imgur.com/iluoazf.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Entertainment",
+    "url": "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6768,15 +6804,6 @@
     "isHttps": false
   },
   {
-    "name": "Đồng Nai 2 (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/tNKPSkO.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Sports",
-    "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "E! (1080p)",
     "logo": "https://i.imgur.com/TWFDkap.png",
     "country": "",
@@ -7443,6 +7470,15 @@
     "isHttps": false
   },
   {
+    "name": "Lionsgate Play",
+    "logo": "https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.159.180.34:5001/live/2327.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Logo (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/500px-Logo_TV_2015.svg.png",
     "country": "",
@@ -7668,6 +7704,15 @@
     "isHttps": false
   },
   {
+    "name": "ON Vie Drama (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Oxygen (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
     "country": "",
@@ -7827,6 +7872,24 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ROCK Action HD (576p)",
+    "logo": "https://i.imgur.com/l6lmlqG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.1:1234",
+    "isHttps": false
+  },
+  {
+    "name": "ROCK Entertainment (576p)",
+    "logo": "https://i.imgur.com/PWzq0aU.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.8:1234",
     "isHttps": false
   },
   {

@@ -6813,6 +6813,15 @@
     "isHttps": true
   },
   {
+    "name": "Tra Vinh TV (1080p)",
+    "logo": "https://i.imgur.com/F12VdKO.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Entertainment;Music;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
+    "isHttps": true
+  },
+  {
     "name": "Trailers (1080p)",
     "logo": "https://i.imgur.com/RwZ1hCN.png",
     "country": "",
@@ -7326,15 +7335,6 @@
     "isHttps": true
   },
   {
-    "name": "Vĩnh Long TV1 (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/5YFsqPx.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Vĩnh Long TV5 (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/F12VdKO.png",
     "country": "",
@@ -7704,7 +7704,7 @@
     "isHttps": true
   },
   {
-    "name": "Радио Говорит Москва (Веб-камера) (720p)",
+    "name": "Радио Говорит Москв�� (Веб-камера) (720p)",
     "logo": "https://i.imgur.com/z2mxf3E.png",
     "country": "",
     "language": "",
@@ -8907,6 +8907,15 @@
     "language": "",
     "group": "News",
     "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Vinh Long TV 1 (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5YFsqPx.png",
+    "country": "",
+    "language": "",
+    "group": "General;News",
+    "url": "http://125hvt.ddns.net:21585/thvl1/playlist.m3u8",
     "isHttps": false
   },
   {

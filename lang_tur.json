@@ -135,6 +135,15 @@
     "isHttps": true
   },
   {
+    "name": "Bir TV (720p)",
+    "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BloombergHT (720p)",
     "logo": "https://i.imgur.com/bmkXfIE.png",
     "country": "",
@@ -1107,6 +1116,15 @@
     "isHttps": true
   },
   {
+    "name": "TRT 1 (1440p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TRT 2 (1440p) [Geo-blocked]",
     "logo": "https://i.imgur.com/iOCQdyD.png",
     "country": "",
@@ -1149,6 +1167,15 @@
     "language": "",
     "group": "Documentary",
     "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TRT Cocuk (1440p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "isHttps": true
   },
   {
@@ -1203,6 +1230,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TRT Spor Yildiz (1440p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
     "isHttps": true
   },
   {

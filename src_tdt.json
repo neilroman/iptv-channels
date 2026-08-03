@@ -270,12 +270,30 @@
     "isHttps": true
   },
   {
+    "name": "24h Canarias",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Canarias",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "24h Catalunya",
     "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Cataluña",
     "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "24h Catalunya",
+    "logo": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8",
     "isHttps": true
   },
   {
@@ -820,7 +838,7 @@
   },
   {
     "name": "ADN Noticias Mexico",
-    "logo": "https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_400x400.jpg",
+    "logo": "https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Int. América",
@@ -879,6 +897,15 @@
     "language": "",
     "group": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/16862827.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Al cielo con ella (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8",
     "isHttps": true
   },
   {
@@ -1211,7 +1238,7 @@
     "country": "",
     "language": "",
     "group": "C. Valenciana",
-    "url": "https://avantstreaming.es/hls/canal3hd_hi.m3u8",
+    "url": "https://avantstreaming.es/hls/canal3hd.m3u8",
     "isHttps": true
   },
   {
@@ -1220,7 +1247,7 @@
     "country": "",
     "language": "",
     "group": "C. Valenciana",
-    "url": "https://avantstreaming.es/hls/canal3_hi.m3u8",
+    "url": "https://avantstreaming.es/hls/canal3.m3u8",
     "isHttps": true
   },
   {
@@ -1656,6 +1683,15 @@
     "isHttps": true
   },
   {
+    "name": "Cocina (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cocina Familiar",
     "logo": "https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200",
     "country": "",
@@ -1671,6 +1707,15 @@
     "language": "",
     "group": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Conciertos Radio 3 (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8",
     "isHttps": true
   },
   {
@@ -1824,6 +1869,15 @@
     "language": "",
     "group": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/6909843.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cuéntame (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8",
     "isHttps": true
   },
   {
@@ -2097,6 +2151,15 @@
     "isHttps": true
   },
   {
+    "name": "En Play (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm27_main.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "EnerGeek Fan HD",
     "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
     "country": "",
@@ -2277,7 +2340,7 @@
     "isHttps": true
   },
   {
-    "name": "ETB Deportes",
+    "name": "ETB Deportes (Kirolak 360)",
     "logo": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2286,7 +2349,7 @@
     "isHttps": true
   },
   {
-    "name": "ETB Deportes",
+    "name": "ETB Deportes (Kirolak 360)",
     "logo": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2295,7 +2358,7 @@
     "isHttps": true
   },
   {
-    "name": "ETB Deportes",
+    "name": "ETB Deportes (Kirolak 360)",
     "logo": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2817,12 +2880,21 @@
     "isHttps": true
   },
   {
-    "name": "La promesa (RTVE)",
+    "name": "La Promesa (RTVE)",
     "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/2472039.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "La Promesa (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8",
     "isHttps": true
   },
   {
@@ -2832,6 +2904,15 @@
     "language": "",
     "group": "Eventuales",
     "url": "https://ztnr.rtve.es/ztnr/16464388.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "La Revuelta (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm5_main.m3u8",
     "isHttps": true
   },
   {
@@ -3276,6 +3357,15 @@
     "isHttps": true
   },
   {
+    "name": "Onda Cero",
+    "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Informativos",
+    "url": "https://atres-live.ondacero.es/h264/live/obs/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Onda Valencia",
     "logo": "https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200",
     "country": "",
@@ -3541,7 +3631,7 @@
     "logo": "https://graph.facebook.com/radio3/picture?width=200&height=200",
     "country": "",
     "language": "",
-    "group": "Eventuales",
+    "group": "Musicales",
     "url": "https://ztnr.rtve.es/ztnr/6982918.m3u8",
     "isHttps": true
   },
@@ -3555,11 +3645,20 @@
     "isHttps": true
   },
   {
+    "name": "Ràdio 4",
+    "logo": "https://pbs.twimg.com/profile_images/1849411372498530304/xy9er_VU_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_cam_main_dvr.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio 5",
     "logo": "https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg",
     "country": "",
     "language": "",
-    "group": "Eventuales",
+    "group": "Informativos",
     "url": "https://ztnr.rtve.es/ztnr/6982917.m3u8",
     "isHttps": true
   },
@@ -3604,7 +3703,7 @@
     "logo": "https://graph.facebook.com/radionacionalrne/picture?width=200&height=200",
     "country": "",
     "language": "",
-    "group": "Eventuales",
+    "group": "Informativos",
     "url": "https://ztnr.rtve.es/ztnr/6982891.m3u8",
     "isHttps": true
   },
@@ -4068,6 +4167,15 @@
     "isHttps": true
   },
   {
+    "name": "Somos Cine (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Spektra TV España",
     "logo": "https://graph.facebook.com/spektramusictv/picture?width=200&height=200",
     "country": "",
@@ -4155,15 +4263,6 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "STZ Telebista",
-    "logo": "https://graph.facebook.com/StzGrupo/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "País Vasco",
-    "url": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
     "isHttps": true
   },
   {

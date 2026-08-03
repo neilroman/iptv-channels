@@ -25389,6 +25389,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel EMEA (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.102.171.218/DisneyChannel/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel West (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -27198,6 +27207,24 @@
     "isHttps": false
   },
   {
+    "name": "ROCK Action HD (576p)",
+    "logo": "https://i.imgur.com/l6lmlqG.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.1:1234",
+    "isHttps": false
+  },
+  {
+    "name": "ROCK Entertainment (576p)",
+    "logo": "https://i.imgur.com/PWzq0aU.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.8:1234",
+    "isHttps": false
+  },
+  {
     "name": "Romedy Now (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
     "country": "",
@@ -27279,12 +27306,12 @@
     "isHttps": false
   },
   {
-    "name": "Showtime (1080p)",
+    "name": "Showtime (720p)",
     "logo": "https://i.imgur.com/Or0LKsu.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
+    "url": "http://40.160.24.55/SHOWTIME/index.m3u8",
     "isHttps": false
   },
   {

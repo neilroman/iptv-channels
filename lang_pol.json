@@ -261,15 +261,6 @@
     "isHttps": true
   },
   {
-    "name": "Polsat Seriale (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
-    "isHttps": true
-  },
-  {
     "name": "Puls 2 (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/EOnzPiZ.png",
     "country": "",
@@ -738,6 +729,15 @@
     "isHttps": false
   },
   {
+    "name": "Puls 2 HD (1080p)",
+    "logo": "https://i.imgur.com/EOnzPiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://193.24.244.60:1001/udp/239.254.4.122:6060",
+    "isHttps": false
+  },
+  {
     "name": "SkyShowtime 1 Poland",
     "logo": "https://i.imgur.com/Dw9Yv9P.png",
     "country": "",
@@ -762,6 +762,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Puls HD (1080p)",
+    "logo": "https://i.imgur.com/gXA7pai.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://193.24.244.60:1001/udp/239.254.4.121:6060",
     "isHttps": false
   },
   {

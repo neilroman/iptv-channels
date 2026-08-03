@@ -234,12 +234,30 @@
     "isHttps": true
   },
   {
+    "name": "B4U Movies APAC (720p)",
+    "logo": "https://i.imgur.com/M9kMFJl.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "B4U Music (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "B4U Music APAC (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8",
     "isHttps": true
   },
   {
@@ -609,6 +627,15 @@
     "language": "",
     "group": "News",
     "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Green Gold TV",
+    "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8",
     "isHttps": true
   },
   {
@@ -1638,6 +1665,15 @@
     "isHttps": true
   },
   {
+    "name": "Zee Cinema ME (432p) [Geo-blocked]",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Zee Comedy Nation (1080p)",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png",
     "country": "",
@@ -2148,6 +2184,15 @@
     "language": "",
     "group": "News",
     "url": "http://103.175.73.12:8080/live/237/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Lionsgate Play",
+    "logo": "https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.159.180.34:5001/live/2327.m3u8",
     "isHttps": false
   },
   {
