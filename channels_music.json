@@ -478,7 +478,7 @@
   },
   {
     "name": "Best of Dance TV (1080p)",
-    "logo": "",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -820,7 +820,7 @@
   },
   {
     "name": "DanceTV Deep House District (1080p)",
-    "logo": "",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -838,7 +838,7 @@
   },
   {
     "name": "DanceTV House Floor (1080p)",
-    "logo": "",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -856,7 +856,7 @@
   },
   {
     "name": "DanceTV Techno Warehouse (1080p)",
-    "logo": "",
+    "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -2535,15 +2535,6 @@
     "language": "",
     "group": "Music",
     "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Music Box Polska [Geo-blocked]",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://vs2133.vcdn.biz/0f0f85e2ea3607b5c396ef68d55c3168_megogo/live/hls/b/4000/u_sid/0/o/156751011/rsid/062147ff-ed0c-4d9c-a131-2bf42026e640/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/57.128.235.172*asn/type.live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6390,12 +6381,12 @@
     "isHttps": false
   },
   {
-    "name": "Karibena (720p)",
+    "name": "Karibena (1080p)",
     "logo": "https://i.imgur.com/cgHjg1e.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://187.102.210.46/KARIBENA/index.m3u8",
+    "url": "http://190.93.224.42/KARIBENA/index.m3u8",
     "isHttps": false
   },
   {
@@ -6414,6 +6405,24 @@
     "language": "",
     "group": "Music",
     "url": "http://45.189.62.33:8002/play/a0ls/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Music\",Music Box Polska",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://193.24.244.60:1001/udp/239.254.4.237:6060",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Music\",VOX Music TV (1080p)",
+    "logo": "https://i.imgur.com/N993msF.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://starcius-cinema.com/11581/index.m3u8",
     "isHttps": false
   },
   {

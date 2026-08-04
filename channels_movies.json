@@ -81,6 +81,15 @@
     "isHttps": true
   },
   {
+    "name": "ActionMax East HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Adrenalina Pura TV",
     "logo": "https://i.imgur.com/Pvid2iH.png",
     "country": "",
@@ -1833,6 +1842,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ON Movies (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
     "isHttps": true
   },
   {
@@ -4167,6 +4185,15 @@
     "isHttps": true
   },
   {
+    "name": "Starz Cinema (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/ghzzKoT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Studio One + (720p)",
     "logo": "https://i.imgur.com/yOPB7JB.png",
     "country": "",
@@ -4716,6 +4743,15 @@
     "isHttps": false
   },
   {
+    "name": "ActionMax (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/ACTIONMAX/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AMC (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
@@ -4896,15 +4932,6 @@
     "isHttps": false
   },
   {
-    "name": "Bollywood Classic (1080p)",
-    "logo": "https://i.imgur.com/ugPo6ca.png",
-    "country": "",
-    "language": "",
-    "group": "Classic;Movies",
-    "url": "http://103.213.31.109:90/BollywoodClassic/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Bollywood HD (1080p)",
     "logo": "https://i.imgur.com/scDKOLS.png",
     "country": "",
@@ -5073,6 +5100,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://catchup.videoline.ru/cinema/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CineStar 1 Bulgaria",
+    "logo": "https://i.imgur.com/t9vVTLH.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a05h",
     "isHttps": false
   },
   {
@@ -5463,6 +5499,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Classic;Movies\",Bollywood Classic (576p)",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "http://starcius-cinema.com/20653/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Hungary",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
@@ -5481,6 +5526,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Poland",
+    "logo": "https://i.imgur.com/i5wOhkf.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://193.24.244.60:1001/udp/239.254.5.5:6060",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Film Cafe",
     "logo": "https://i.imgur.com/jaKRnzU.png",
     "country": "",
@@ -5490,12 +5544,39 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits (1080p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://starcius-cinema.com/11582/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Hungary",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Romania (404p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://starcius-cinema.com/10244/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Polsat Film (1080p)",
+    "logo": "https://i.imgur.com/wGH6shZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://starcius-cinema.com/11579/index.m3u8",
     "isHttps": false
   },
   {
@@ -6093,6 +6174,15 @@
     "isHttps": false
   },
   {
+    "name": "MoreMax (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Mosfilm Gold Collection (576p)",
     "logo": "https://i.imgur.com/95Y8jb6.png",
     "country": "",
@@ -6486,15 +6576,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/128/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Starz Cinema (720p)",
-    "logo": "https://i.imgur.com/ghzzKoT.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
     "isHttps": false
   },
   {

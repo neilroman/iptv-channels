@@ -360,6 +360,15 @@
     "isHttps": true
   },
   {
+    "name": "ActionMax East HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Activa TV (720p)",
     "logo": "https://i.imgur.com/VCUZKiw.png",
     "country": "",
@@ -10827,15 +10836,6 @@
     "isHttps": true
   },
   {
-    "name": "Palenque TV",
-    "logo": "https://i.imgur.com/wAIBvaO.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Palmar TV [Not 24/7]",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg",
     "country": "",
@@ -10932,15 +10932,6 @@
     "language": "",
     "group": "Music",
     "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "PBO (720p)",
-    "logo": "https://i.imgur.com/vBpxX4S.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -12003,15 +11994,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Poder de Dios TV (720p)",
-    "logo": "https://i.imgur.com/jUfRz3L.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
     "isHttps": true
   },
   {
@@ -14508,6 +14490,15 @@
     "isHttps": true
   },
   {
+    "name": "Starz Cinema (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/ghzzKoT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Stingray Classica (1080p)",
     "logo": "https://i.imgur.com/nh1k5RC.png",
     "country": "",
@@ -16242,15 +16233,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Trivu (720p)",
-    "logo": "https://i.imgur.com/QrUYjOS.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -18891,6 +18873,15 @@
     "isHttps": false
   },
   {
+    "name": "ActionMax (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/ACTIONMAX/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ADN 40 (1080p)",
     "logo": "https://i.imgur.com/Og17U9N.png",
     "country": "",
@@ -18981,12 +18972,12 @@
     "isHttps": false
   },
   {
-    "name": "ATV (720p)",
+    "name": "ATV (1080p)",
     "logo": "https://i.imgur.com/eUzYZfg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://187.102.210.46/ATV/index.m3u8",
+    "url": "http://190.93.224.42/ATV/index.m3u8",
     "isHttps": false
   },
   {
@@ -19944,12 +19935,12 @@
     "isHttps": false
   },
   {
-    "name": "Exitosa TV (720p)",
+    "name": "Exitosa TV (1080p)",
     "logo": "https://i.imgur.com/pu0BSB7.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://187.102.210.46/EXITOSA/index.m3u8",
+    "url": "http://190.93.224.42/EXITOSA/index.m3u8",
     "isHttps": false
   },
   {
@@ -20160,12 +20151,12 @@
     "isHttps": false
   },
   {
-    "name": "Karibena (720p)",
+    "name": "Karibena (1080p)",
     "logo": "https://i.imgur.com/cgHjg1e.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://187.102.210.46/KARIBENA/index.m3u8",
+    "url": "http://190.93.224.42/KARIBENA/index.m3u8",
     "isHttps": false
   },
   {
@@ -20193,6 +20184,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://45.4.1.201:8000/play/a1ai/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "L1 Max (1080p)",
+    "logo": "https://i.imgur.com/2fziU2B.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://190.93.224.42/LIGA-1-MAX/index.m3u8",
     "isHttps": false
   },
   {
@@ -20358,15 +20358,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"Sports\",L1 Max (720p)",
-    "logo": "https://i.imgur.com/2fziU2B.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/92.0.4515.131 Safari/537.36\" group-title=\"News\",RPP TV (1080p)",
     "logo": "https://i.imgur.com/oBz3CgE.png",
     "country": "",
@@ -20403,6 +20394,15 @@
     "isHttps": false
   },
   {
+    "name": "Mega 2 (1080p)",
+    "logo": "https://i.imgur.com/c1ME00r.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://15.204.246.24:8080/Mega2HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MegaTV (576p)",
     "logo": "https://i.imgur.com/3d4uiZF.png",
     "country": "",
@@ -20436,6 +20436,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MoreMax (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
     "isHttps": false
   },
   {
@@ -20664,6 +20673,15 @@
     "isHttps": false
   },
   {
+    "name": "Palenque TV (576p)",
+    "logo": "https://i.imgur.com/wAIBvaO.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Panamericana TV (1080p)",
     "logo": "https://i.imgur.com/uQhEDES.png",
     "country": "",
@@ -20718,12 +20736,39 @@
     "isHttps": false
   },
   {
+    "name": "PAT La Paz (576p)",
+    "logo": "https://i.imgur.com/4A7R2Jt.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://15.204.246.24:8080/PATSD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PBO (1080p)",
+    "logo": "https://i.imgur.com/vBpxX4S.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://190.93.224.42/PBO/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Plim Plim (1080p)",
     "logo": "https://i.imgur.com/MYc8srh.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
     "url": "http://8.243.126.131:8000/play/a0od/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Poder de Dios TV (1080p)",
+    "logo": "https://i.imgur.com/jUfRz3L.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -21003,15 +21048,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Starz Cinema (720p)",
-    "logo": "https://i.imgur.com/ghzzKoT.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
     "isHttps": false
   },
   {
@@ -21384,6 +21420,15 @@
     "isHttps": false
   },
   {
+    "name": "Trivu (1080p)",
+    "logo": "https://i.imgur.com/QrUYjOS.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.93.224.42/TRIVU-TV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Tropicalia 93.9 FM (1280p)",
     "logo": "https://i.imgur.com/oMML5Ue.png",
     "country": "",
@@ -21402,6 +21447,15 @@
     "isHttps": false
   },
   {
+    "name": "TV Culturas (576p)",
+    "logo": "https://comteco.com.bo/img/upload/canales/lBVfEh.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://15.204.246.24:8080/TVCulturasSD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Peru (1080p)",
     "logo": "https://i.imgur.com/6io0IrX.png",
     "country": "",
@@ -21411,12 +21465,12 @@
     "isHttps": false
   },
   {
-    "name": "TV Peru Noticias (576p)",
+    "name": "TV Peru Noticias (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8",
+    "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
     "isHttps": false
   },
   {
@@ -21699,12 +21753,12 @@
     "isHttps": false
   },
   {
-    "name": "Willax TV (720p)",
+    "name": "Willax TV (1080p)",
     "logo": "https://i.imgur.com/bZnDDPH.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://187.102.210.46/WILLAX/index.m3u8",
+    "url": "http://190.93.224.42/WILLAX/index.m3u8",
     "isHttps": false
   },
   {
