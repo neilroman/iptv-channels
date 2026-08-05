@@ -18,12 +18,30 @@
     "isHttps": true
   },
   {
+    "name": "Anhui TV",
+    "logo": "https://i.imgur.com/gDn101f.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Anshun Comprehensive News Channel",
     "logo": "https://www.tvchinese.net/uploads/tv/anshun.jpg",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://hplayer1.juyun.tv/camera/154379194.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BabyFirst (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
     "isHttps": true
   },
   {
@@ -69,6 +87,24 @@
     "language": "",
     "group": "General",
     "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CCTV-5+",
+    "logo": "https://i.imgur.com/OK8mdJV.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CCTV-6 [Geo-blocked]",
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
     "isHttps": true
   },
   {
@@ -744,15 +780,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BabyFirst (720p)",
-    "logo": "https://i.imgur.com/WxLHBwu.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://206.212.244.63/639/index.m3u8",
     "isHttps": false
   },
   {
@@ -1449,6 +1476,15 @@
     "isHttps": false
   },
   {
+    "name": "四川妇女儿童 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/1lGO0vY.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "天津卫视 (1080p)",
     "logo": "https://i.imgur.com/Bg24eaH.png",
     "country": "",
@@ -1905,15 +1941,6 @@
     "language": "",
     "group": "General",
     "url": "http://118.81.195.79:9003/hls/31/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "��川妇女儿童 (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/1lGO0vY.png",
-    "country": "",
-    "language": "",
-    "group": "Family",
-    "url": "http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8",
     "isHttps": false
   }
 ]

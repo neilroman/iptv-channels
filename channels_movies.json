@@ -297,6 +297,15 @@
     "isHttps": true
   },
   {
+    "name": "Bioskop TelkomVision (576p)",
+    "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/2471109432fded503146d8fcf24c151e.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BIZ Cinema (1080p)",
     "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
     "country": "",
@@ -366,6 +375,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CCTV-6 [Geo-blocked]",
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
     "isHttps": true
   },
   {
@@ -720,6 +738,24 @@
     "isHttps": true
   },
   {
+    "name": "Eros Universe Bollywood Cinema",
+    "logo": "https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Eros Universe Entertainment",
+    "logo": "https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Estrellas de Acción",
     "logo": "https://i.imgur.com/GVOYX4L.png",
     "country": "",
@@ -1023,6 +1059,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Great American Faith & Living (720p)",
+    "logo": "https://i.imgur.com/ccBJuRA.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle;Movies",
+    "url": "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8",
     "isHttps": true
   },
   {
@@ -1809,6 +1854,15 @@
     "isHttps": true
   },
   {
+    "name": "NH BollyFlix",
+    "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nolly Africa HD (1080p)",
     "logo": "https://i.imgur.com/IxtGpti.png",
     "country": "",
@@ -1914,15 +1968,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Patriot (720p)",
-    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
     "isHttps": true
   },
   {
@@ -5274,15 +5319,6 @@
     "isHttps": false
   },
   {
-    "name": "Great American Faith & Living (1080p)",
-    "logo": "https://i.imgur.com/ccBJuRA.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle;Movies",
-    "url": "http://206.212.244.63/82/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Great American Family (1080p)",
     "logo": "https://i.imgur.com/TzvnHDn.png",
     "country": "",
@@ -5562,8 +5598,17 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Romania (404p)",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Romania",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://starcius-cinema.com/20655/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Patriot (726p)",
+    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -6408,15 +6453,6 @@
     "isHttps": false
   },
   {
-    "name": "Scares by Shudder (720p)",
-    "logo": "https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://206.212.244.63/147/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Shemaroo Filmi Gaane (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",
     "country": "",
@@ -6585,15 +6621,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://40.160.24.55/SUNDANCE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Super Channel Vault (1080p)",
-    "logo": "https://i.imgur.com/mH8Yv7u.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://206.212.244.63/6142/index.m3u8",
     "isHttps": false
   },
   {

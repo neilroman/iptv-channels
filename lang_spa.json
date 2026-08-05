@@ -1359,6 +1359,15 @@
     "isHttps": true
   },
   {
+    "name": "BabyFirst (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bacán Te Veo (360p)",
     "logo": "https://i.imgur.com/m1LK6rY.png",
     "country": "",
@@ -6741,15 +6750,6 @@
     "isHttps": true
   },
   {
-    "name": "Gol Classics (1080p)",
-    "logo": "https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GoLochTel TV (576p)",
     "logo": "https://i.imgur.com/QkXAs3V.png",
     "country": "",
@@ -8979,6 +8979,15 @@
     "language": "",
     "group": "General",
     "url": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Marla Vision (576p) [Not 24/7]",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://soportedvb.click:3877/live/merlavisionlive.m3u8",
     "isHttps": true
   },
   {
@@ -15993,15 +16002,6 @@
     "isHttps": true
   },
   {
-    "name": "Tigo Sports TV El Salvador (720p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Tiguerito TV (720p) [Not 24/7]",
     "logo": "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
     "country": "",
@@ -17298,6 +17298,15 @@
     "isHttps": true
   },
   {
+    "name": "TVN (1080p) [Not 24/7]",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVN (720p)",
     "logo": "https://i.imgur.com/tGeHwxd.png",
     "country": "",
@@ -17871,6 +17880,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://v2.tustreaming.cl/utv/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "UVA TV (720p) [Not 24/7]",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3918-294x165-FFFFFF.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://www.uvatvhd.com/hls.php?file=live.m3u8",
     "isHttps": true
   },
   {
@@ -19071,15 +19089,6 @@
     "isHttps": false
   },
   {
-    "name": "BabyFirst (720p)",
-    "logo": "https://i.imgur.com/WxLHBwu.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://206.212.244.63/639/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BabyTV Latin America (720p)",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
@@ -19625,7 +19634,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://206.212.244.63/650/index.m3u8",
+    "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
     "isHttps": false
   },
   {
@@ -19674,15 +19683,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel West (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://206.212.244.63/3146/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Jr. Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
@@ -19725,15 +19725,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Junior West (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://206.212.244.63/655/index.m3u8",
     "isHttps": false
   },
   {

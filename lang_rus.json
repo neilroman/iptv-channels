@@ -28,7 +28,7 @@
   },
   {
     "name": "24KZ",
-    "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -150,6 +150,15 @@
     "language": "",
     "group": "Culture",
     "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BabyFirst (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
     "isHttps": true
   },
   {
@@ -861,15 +870,6 @@
     "language": "",
     "group": "Outdoor",
     "url": "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Patriot (720p)",
-    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
     "isHttps": true
   },
   {
@@ -2376,7 +2376,7 @@
     "isHttps": true
   },
   {
-    "name": "Сити Эдем КиноМи��тика [Not 24/7]",
+    "name": "Сити Эдем КиноМистика [Not 24/7]",
     "logo": "https://i.imgur.com/s1Pid0K.png",
     "country": "",
     "language": "",
@@ -2817,15 +2817,6 @@
     "isHttps": false
   },
   {
-    "name": "BabyFirst (720p)",
-    "logo": "https://i.imgur.com/WxLHBwu.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://206.212.244.63/639/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Bălţi TV (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/S1vEqZp.png",
     "country": "",
@@ -2958,15 +2949,6 @@
     "language": "",
     "group": "General",
     "url": "http://178.134.1.158:8081/5channel/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Channel 7 Kazakhstan (576p)",
-    "logo": "https://i.imgur.com/LebKU09.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://stream.mcquack.net/27/index.m3u8",
     "isHttps": false
   },
   {
@@ -3435,6 +3417,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Patriot (726p)",
+    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://starcius-cinema.com/10244/index.m3u8",
     "isHttps": false
   },
   {
@@ -4362,6 +4353,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/Malish_TV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Svoboda",
+    "logo": "https://web02.antik.sk/assets/img/channels/db23090472360f39401398f924a47461.svg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://88.212.15.19/live/svoboda/index.m3u8",
     "isHttps": false
   },
   {

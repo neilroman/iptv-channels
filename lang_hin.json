@@ -558,6 +558,24 @@
     "isHttps": true
   },
   {
+    "name": "Eros Universe Bollywood Cinema",
+    "logo": "https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Eros Universe Entertainment",
+    "logo": "https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Fateh TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/c4ItNkB.png",
     "country": "",
@@ -1122,6 +1140,24 @@
     "language": "",
     "group": "News",
     "url": "https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NH BollyFlix",
+    "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NH BollyRaga",
+    "logo": "https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8",
     "isHttps": true
   },
   {
@@ -2283,15 +2319,6 @@
     "language": "",
     "group": "News",
     "url": "http://103.72.101.252:8080/live/533.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Samay National (576p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://206.212.244.63/674/index.m3u8",
     "isHttps": false
   },
   {
