@@ -13230,6 +13230,15 @@
     "isHttps": true
   },
   {
+    "name": "RCN Novelas (1080p)",
+    "logo": "https://i.imgur.com/9wxdWNQ.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RCV TV (712p)",
     "logo": "https://i.imgur.com/0TEeEFG.jpg",
     "country": "",
@@ -15156,12 +15165,12 @@
     "isHttps": true
   },
   {
-    "name": "Telecentro (720p)",
+    "name": "Telecentro (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/QtRNfaj.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
+    "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
     "isHttps": true
   },
   {
@@ -20850,15 +20859,6 @@
     "language": "",
     "group": "General",
     "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RCN Novelas (720p)",
-    "logo": "https://i.imgur.com/9wxdWNQ.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8",
     "isHttps": false
   },
   {

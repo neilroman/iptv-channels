@@ -11322,15 +11322,6 @@
     "isHttps": true
   },
   {
-    "name": "Bioskop TelkomVision (576p)",
-    "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/2471109432fded503146d8fcf24c151e.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bir TV (720p)",
     "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
     "country": "",
@@ -19418,7 +19409,7 @@
     "country": "",
     "language": "",
     "group": "Business",
-    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -25083,15 +25074,6 @@
     "isHttps": true
   },
   {
-    "name": "E International (576p)",
-    "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "E International Asia (576p)",
     "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
     "country": "",
@@ -25106,7 +25088,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8",
+    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
     "isHttps": true
   },
   {
@@ -32307,6 +32289,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Green Gold TV HD",
+    "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8",
     "isHttps": true
   },
   {
@@ -43120,7 +43111,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
-    "logo": "https://i.imgur.com/OuogLHx.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/44.png",
     "country": "",
     "language": "",
     "group": "Business",
@@ -43129,7 +43120,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Culture\",Malchin TV (1080p)",
-    "logo": "https://i.imgur.com/vCdEBZo.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/12.png",
     "country": "",
     "language": "",
     "group": "Culture",
@@ -43138,7 +43129,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education;Entertainment\",Education (1080p)",
-    "logo": "https://i.imgur.com/0m8t3vh.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/8.png",
     "country": "",
     "language": "",
     "group": "Education;Entertainment",
@@ -43174,7 +43165,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",C1 (1080p)",
-    "logo": "https://i.imgur.com/v1mHG5x.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/11.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43183,7 +43174,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Central TV (1080p)",
-    "logo": "https://i.imgur.com/E9wAUrT.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/7.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43210,7 +43201,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MN25 (1080p)",
-    "logo": "https://i.imgur.com/F3MMJMd.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/5.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43228,7 +43219,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MNB World (1080p)",
-    "logo": "https://i.imgur.com/PHlj84Q.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/22.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43237,7 +43228,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",NTV (1080p)",
-    "logo": "https://i.imgur.com/2JbqbPY.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/10.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43264,7 +43255,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Star TV (1080p)",
-    "logo": "https://i.imgur.com/R6hxJgl.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/15.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43273,7 +43264,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TenGer TV (1080p)",
-    "logo": "https://i.imgur.com/MmPvkcO.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/17.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43282,7 +43273,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TM TV (1080p)",
-    "logo": "https://i.imgur.com/Bza9r7U.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/19.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43291,7 +43282,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV5 HD (1080p)",
-    "logo": "https://i.imgur.com/asGQfGN.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/6.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43300,7 +43291,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV8 HD (1080p)",
-    "logo": "https://i.imgur.com/EguOdxW.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/18.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43309,7 +43300,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV9 HD (1080p)",
-    "logo": "https://i.imgur.com/QFteAgd.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/9.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43336,7 +43327,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Өлзий ТВ (1080p)",
-    "logo": "https://i.imgur.com/p7tsUTI.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/28.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -43399,7 +43390,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",Eagle News HD (1080p)",
-    "logo": "https://i.imgur.com/2oqXpve.jpg",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/13.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -43417,7 +43408,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",MNC (1080p)",
-    "logo": "https://i.imgur.com/gMVqbwU.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/25.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -43489,7 +43480,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",MNB Монголын Мэдээ (1080p)",
-    "logo": "https://i.imgur.com/KUvJzUD.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/21.png",
     "country": "",
     "language": "",
     "group": "Undefined",
@@ -43516,7 +43507,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Suld TV (1080p)",
-    "logo": "https://i.imgur.com/CnLxehv.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/20.png",
     "country": "",
     "language": "",
     "group": "Undefined",
@@ -68418,6 +68409,15 @@
     "isHttps": true
   },
   {
+    "name": "RCN Novelas (1080p)",
+    "logo": "https://i.imgur.com/9wxdWNQ.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RCTI HD (720p)",
     "logo": "https://i.imgur.com/iLFx8ia.png",
     "country": "",
@@ -80964,12 +80964,12 @@
     "isHttps": true
   },
   {
-    "name": "Telecentro (720p)",
+    "name": "Telecentro (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/QtRNfaj.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
+    "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
     "isHttps": true
   },
   {
@@ -95040,6 +95040,15 @@
     "isHttps": true
   },
   {
+    "name": "WGBO-DT 66.1 (2160p)",
+    "logo": "https://i.imgur.com/5RIEi99.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null",
+    "isHttps": true
+  },
+  {
     "name": "WGGS-DT1 (720p)",
     "logo": "https://i.imgur.com/Btw83JA.png",
     "country": "",
@@ -106650,6 +106659,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",Armenia TV (720p)",
+    "logo": "https://i.imgur.com/UnoI5uM.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://starcius-cinema.com/20690/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Kolyokklub",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",
     "country": "",
@@ -112563,15 +112581,6 @@
     "isHttps": false
   },
   {
-    "name": "RCN Novelas (720p)",
-    "logo": "https://i.imgur.com/9wxdWNQ.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Real Madrid TV English",
     "logo": "https://i.imgur.com/5pMo7dL.png",
     "country": "",
@@ -114013,7 +114022,7 @@
   },
   {
     "name": "Sony Max 1 (720p)",
-    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png",
+    "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -118827,7 +118836,7 @@
     "isHttps": false
   },
   {
-    "name": "Орбіта ТВ (360p) [Not 24/7]",
+    "name": "Орбіт�� ТВ (360p) [Not 24/7]",
     "logo": "https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",
     "country": "",
     "language": "",
