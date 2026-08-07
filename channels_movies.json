@@ -216,6 +216,15 @@
     "isHttps": true
   },
   {
+    "name": "AXN Asia Philippines (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AXN Asia Taiwan (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -729,30 +738,21 @@
     "isHttps": true
   },
   {
-    "name": "Eros Universe Bollywood Cinema",
-    "logo": "https://i.ibb.co/qM7WZSK0/Eros-Universe-Bollywood-Cinema.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Eros Universe Entertainment",
-    "logo": "https://i.ibb.co/q3FhgGFx/Eros-Universe-Entertainment.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Estrellas de Acción",
     "logo": "https://i.imgur.com/GVOYX4L.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ETV Cinema (396p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -879,15 +879,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229",
-    "isHttps": true
-  },
-  {
-    "name": "FX Movie Channel (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1333,7 +1324,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinema (1080p)",
-    "logo": "https://i.imgur.com/yib6dM2.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/914.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1342,7 +1333,7 @@
   },
   {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Movies\",MovieBox (1080p)",
-    "logo": "https://i.imgur.com/xeO1Zb4.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/909.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1419,6 +1410,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://shift03.isp.bg/MovieStar/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"Movies\",Sony Pix",
+    "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://playyonogames.in/sliv/stream.m3u8?id=1000009258",
     "isHttps": true
   },
   {
@@ -1845,15 +1845,6 @@
     "isHttps": true
   },
   {
-    "name": "NH BollyFlix",
-    "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nolly Africa HD (1080p)",
     "logo": "https://i.imgur.com/IxtGpti.png",
     "country": "",
@@ -1891,7 +1882,7 @@
   },
   {
     "name": "ON Movies (720p)",
-    "logo": "",
+    "logo": "https://i.ibb.co/fdbgvtT8/IMG-2523.webp",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -4221,15 +4212,6 @@
     "isHttps": true
   },
   {
-    "name": "Starz Cinema (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/ghzzKoT.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Studio One + (720p)",
     "logo": "https://i.imgur.com/yOPB7JB.png",
     "country": "",
@@ -5301,6 +5283,15 @@
     "isHttps": false
   },
   {
+    "name": "FX Movie Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/FXM/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Goldmines Movies (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -5775,6 +5766,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Zee Action (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.175.73.12:8080/live/270/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Zee Biskope (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.175.73.12:8080/live/347/master.m3u8",
     "isHttps": false
   },
   {
@@ -6606,6 +6615,15 @@
     "isHttps": false
   },
   {
+    "name": "Starz Cinema (720p)",
+    "logo": "https://i.imgur.com/ghzzKoT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sundance TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",
     "country": "",
@@ -6702,24 +6720,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://185.102.171.218/Village/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Action (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.72.101.252:8080/live/488.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Biskope (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.154.3.101:5001/live/559.m3u8",
     "isHttps": false
   },
   {

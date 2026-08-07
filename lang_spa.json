@@ -6525,15 +6525,6 @@
     "isHttps": true
   },
   {
-    "name": "FX Movie Channel (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Galactica TV",
     "logo": "https://i.imgur.com/byL1zCV.jpeg",
     "country": "",
@@ -14508,15 +14499,6 @@
     "isHttps": true
   },
   {
-    "name": "Starz Cinema (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/ghzzKoT.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Stingray Classica (1080p)",
     "logo": "https://i.imgur.com/nh1k5RC.png",
     "country": "",
@@ -20016,6 +19998,15 @@
     "isHttps": false
   },
   {
+    "name": "FX Movie Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.52/FXM/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Galavision (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",
     "country": "",
@@ -21039,6 +21030,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Starz Cinema (720p)",
+    "logo": "https://i.imgur.com/ghzzKoT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
     "isHttps": false
   },
   {

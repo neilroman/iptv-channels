@@ -1305,6 +1305,15 @@
     "isHttps": true
   },
   {
+    "name": "BBC News Asia Pacific (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BBC News North America (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -3501,15 +3510,6 @@
     "isHttps": true
   },
   {
-    "name": "Jamuna TV (1080p)",
-    "logo": "https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Janam TV (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -5373,6 +5373,15 @@
     "isHttps": true
   },
   {
+    "name": "Observator News (360p)",
+    "logo": "https://i.imgur.com/f6xEIAr.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Olay Türk TV Kayseri (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/e9ca6gc.png",
     "country": "",
@@ -6395,7 +6404,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
     "isHttps": true
   },
   {
