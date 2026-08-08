@@ -387,15 +387,6 @@
     "isHttps": true
   },
   {
-    "name": "Al Quran Al Kareem TV (1080p)",
-    "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://aloula-redirect.vercel.app/7/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Al Rafidain (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/rjXDCN5.png",
     "country": "",
@@ -411,15 +402,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Al Sunnah Al Nabawiyah TV (1080p)",
-    "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://aloula-redirect.vercel.app/6/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2727,15 +2709,6 @@
     "isHttps": true
   },
   {
-    "name": "Holy Quran Radio (1080p)",
-    "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
-    "country": "",
-    "language": "",
-    "group": "General;Religious",
-    "url": "https://aloula-redirect.vercel.app/13/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Homebase TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/MaLNfJG.png",
     "country": "",
@@ -4788,6 +4761,15 @@
     "isHttps": true
   },
   {
+    "name": "Quran Radio (1080p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+    "country": "",
+    "language": "",
+    "group": "General;Religious",
+    "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Armonia TV (720p)",
     "logo": "https://i.imgur.com/puWBnP3.png",
     "country": "",
@@ -6444,6 +6426,24 @@
     "isHttps": false
   },
   {
+    "name": "Al Quran Al Kareem TV (720p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Al Sunnah Al Nabawiyah TV (720p)",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Al-Bahjah TV (1080p)",
     "logo": "https://i.imgur.com/52dlDZk.png",
     "country": "",
@@ -6611,7 +6611,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://138.186.23.7:8082/EWTN/index.m3u8",
+    "url": "http://177.234.249.135:8888/EWTN/index.m3u8",
     "isHttps": false
   },
   {

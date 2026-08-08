@@ -11826,15 +11826,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"Movies\",Sony Pix",
-    "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://playyonogames.in/sliv/stream.m3u8?id=1000009258",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/77.0.3865.90 Safari/537.36\" group-title=\"General\",Telearuba (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/PY3P0aM.png",
     "country": "",
@@ -13968,7 +13959,7 @@
     "isHttps": true
   },
   {
-    "name": "NBC 1",
+    "name": "NBC 1 [Not 24/7]",
     "logo": "https://i.imgur.com/ykQerMH.png",
     "country": "",
     "language": "",
@@ -18599,7 +18590,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8",
+    "url": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8",
     "isHttps": true
   },
   {
@@ -20805,15 +20796,6 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Telemundo West (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -24228,6 +24210,15 @@
     "isHttps": true
   },
   {
+    "name": "WOW Kidz (720p)",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
     "name": "WPIX-HD (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png",
     "country": "",
@@ -25317,6 +25308,15 @@
     "isHttps": false
   },
   {
+    "name": "Channel 7 Melbourne",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/500px-Seven_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://44.32.200.142:5004/auto/v7",
+    "isHttps": false
+  },
+  {
     "name": "CHCH-DT (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/960px-CHCH2010.svg.png",
     "country": "",
@@ -25821,24 +25821,6 @@
     "isHttps": false
   },
   {
-    "name": "FX (720p)",
-    "logo": "https://i.imgur.com/qSeBqMg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://185.102.171.218/FOX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX Life (720p)",
-    "logo": "https://i.imgur.com/VLv4r50.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://185.102.171.218/FOX_Life/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "FX Movie Channel (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
     "country": "",
@@ -26187,15 +26169,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth (1080p)",
-    "logo": "https://i.imgur.com/nGSsUd4.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://starcius-cinema.com/11586/index.m3u8",
     "isHttps": false
   },
   {
@@ -27198,24 +27171,6 @@
     "isHttps": false
   },
   {
-    "name": "ROCK Action HD (576p)",
-    "logo": "https://i.imgur.com/l6lmlqG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://202.169.224.202:8800/udp/239.9.1.1:1234",
-    "isHttps": false
-  },
-  {
-    "name": "ROCK Entertainment (576p)",
-    "logo": "https://i.imgur.com/PWzq0aU.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://202.169.224.202:8800/udp/239.9.1.8:1234",
-    "isHttps": false
-  },
-  {
     "name": "Romedy Now (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
     "country": "",
@@ -27267,6 +27222,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SBS WorldWatch",
+    "logo": "https://i.imgur.com/gCKMxrW.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://44.32.200.142:5004/auto/v35",
     "isHttps": false
   },
   {
@@ -27540,15 +27504,6 @@
     "isHttps": false
   },
   {
-    "name": "Studio Universal Latin America Mexico (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://200.39.57.254:8008/play/a0eg/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sundance TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",
     "country": "",
@@ -27618,6 +27573,15 @@
     "language": "",
     "group": "General",
     "url": "http://45.190.13.8/TelemundoHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telemundo West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
     "isHttps": false
   },
   {
@@ -27888,15 +27852,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://190.197.41.183/Unimas/mono.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "UniMas West (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://200.39.57.254:8008/play/a003/index.m3u8",
     "isHttps": false
   },
   {

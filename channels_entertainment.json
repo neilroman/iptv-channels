@@ -1440,6 +1440,24 @@
     "isHttps": true
   },
   {
+    "name": "Colors MENA HD (720p)",
+    "logo": "https://i.imgur.com/LjNFTdC.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Colors Tamil HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Comet (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png",
     "country": "",
@@ -1972,7 +1990,7 @@
   },
   {
     "name": "Ficom Channel (720p)",
-    "logo": "",
+    "logo": "https://i.imgur.com/KMEf0Cc.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -3412,7 +3430,7 @@
   },
   {
     "name": "MAX Streak",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp",
+    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxStreak.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -4407,6 +4425,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://oitnhls.wns.live/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "One Paschima (400p)",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
     "isHttps": true
   },
   {
@@ -6408,6 +6435,15 @@
     "isHttps": true
   },
   {
+    "name": "Zee Bangla HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zee Bangla Sonar (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
     "country": "",
@@ -6441,6 +6477,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
+    "name": "Zee Marathi HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8",
     "isHttps": true
   },
   {
@@ -7020,15 +7065,6 @@
     "isHttps": false
   },
   {
-    "name": "FX (720p)",
-    "logo": "https://i.imgur.com/qSeBqMg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://185.102.171.218/FOX/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "FX Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "country": "",
@@ -7386,15 +7422,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment;Kids\",Veronica / Disney Jr.",
-    "logo": "https://i.imgur.com/5L5TcYz.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Kids",
-    "url": "http://86.87.15.10:8003/play/a01x/index.m3u8",
     "isHttps": false
   },
   {
@@ -7920,24 +7947,6 @@
     "isHttps": false
   },
   {
-    "name": "ROCK Action HD (576p)",
-    "logo": "https://i.imgur.com/l6lmlqG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://202.169.224.202:8800/udp/239.9.1.1:1234",
-    "isHttps": false
-  },
-  {
-    "name": "ROCK Entertainment (576p)",
-    "logo": "https://i.imgur.com/PWzq0aU.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://202.169.224.202:8800/udp/239.9.1.8:1234",
-    "isHttps": false
-  },
-  {
     "name": "RTL9 (720p)",
     "logo": "https://i.imgur.com/nFqjVNW.png",
     "country": "",
@@ -7989,15 +7998,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://88.212.15.19/live/test_home_hevc/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "STAR Channel",
-    "logo": "https://i.imgur.com/5xeR7Ec.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://86.87.15.10:8003/play/a024/index.m3u8",
     "isHttps": false
   },
   {
@@ -8172,30 +8172,12 @@
     "isHttps": false
   },
   {
-    "name": "Zee Bangla HD (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://217.20.112.199:8080/maamovies/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Zee Marathi (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/445.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Marathi HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/1360.m3u8",
     "isHttps": false
   },
   {

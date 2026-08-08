@@ -716,7 +716,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://aloula-redirect.vercel.app/4/playlist.m3u8",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
     "isHttps": true
   },
   {
@@ -2418,6 +2418,15 @@
     "language": "",
     "group": "News",
     "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ekamra Bharat Odia (400p)",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
     "isHttps": true
   },
   {
@@ -7956,15 +7965,6 @@
     "isHttps": false
   },
   {
-    "name": "Cablenoticias (720p)",
-    "logo": "https://i.imgur.com/FfhOGR9.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Canal 4 (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/nhgtZdt.png",
     "country": "",
@@ -8709,6 +8709,15 @@
     "language": "",
     "group": "News",
     "url": "http://77.232.131.211/Rossiya24/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SBS WorldWatch",
+    "logo": "https://i.imgur.com/gCKMxrW.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://44.32.200.142:5004/auto/v35",
     "isHttps": false
   },
   {
