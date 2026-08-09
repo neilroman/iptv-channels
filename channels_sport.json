@@ -18,15 +18,6 @@
     "isHttps": true
   },
   {
-    "name": "ACC Network (720p)",
-    "logo": "https://i.imgur.com/TpCkbkT.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ACCDN (1080p)",
     "logo": "https://i.imgur.com/V6Kaqha.png",
     "country": "",
@@ -1590,15 +1581,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://pb-we3ltka9xobj6.akamaized.net/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "NFL Network (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3930,6 +3912,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/USA_NESN/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NFL Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
     "isHttps": false
   },
   {

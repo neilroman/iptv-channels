@@ -126,15 +126,6 @@
     "isHttps": true
   },
   {
-    "name": "A&E (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/AE/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Aaj Entertainment (1080p)",
     "logo": "https://i.imgur.com/WK5Cqap.png",
     "country": "",
@@ -276,15 +267,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "AMC+ (720p)",
-    "logo": "https://i.imgur.com/abtANyj.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8",
     "isHttps": true
   },
   {
@@ -441,15 +423,6 @@
     "isHttps": true
   },
   {
-    "name": "Antenna TV (576p)",
-    "logo": "https://i.imgur.com/ocs2DeU.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "AP TV",
     "logo": "https://i.imgur.com/Oky18bX.png",
     "country": "",
@@ -576,15 +549,6 @@
     "isHttps": true
   },
   {
-    "name": "Aspire (1080p)",
-    "logo": "https://i.imgur.com/TOM5qO6.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Auction Hunters",
     "logo": "https://i.imgur.com/4SPOVN7.png",
     "country": "",
@@ -645,15 +609,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BBC America East HD (720p)",
-    "logo": "https://i.imgur.com/pTiiPz0.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8",
     "isHttps": true
   },
   {
@@ -807,15 +762,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BET Her (720p)",
-    "logo": "https://i.imgur.com/oafsrlo.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
     "isHttps": true
   },
   {
@@ -1293,6 +1239,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mmtvs.exliatycl.online/channelk/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Channel U (720p)",
+    "logo": "https://i.imgur.com/9MzEjoY.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn.qd.je/163189/chu",
     "isHttps": true
   },
   {
@@ -6633,6 +6588,15 @@
     "isHttps": false
   },
   {
+    "name": "A&E (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://23.239.31.26:8989/aande/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "A&E Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
     "country": "",
@@ -7795,7 +7759,7 @@
   },
   {
     "name": "ON Vie Drama (720p)",
-    "logo": "",
+    "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
     "country": "",
     "language": "",
     "group": "Entertainment",
