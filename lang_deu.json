@@ -27,6 +27,15 @@
     "isHttps": true
   },
   {
+    "name": "Adria Music Television",
+    "logo": "https://i.imgur.com/QoDpnKg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://adriaapp.b-cdn.net/1080p/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Alex Berlin (1080p)",
     "logo": "https://i.imgur.com/eTmHk4e.png",
     "country": "",
@@ -567,21 +576,21 @@
     "isHttps": true
   },
   {
-    "name": "FOLX Music (1080p)",
+    "name": "Folx Music Television",
     "logo": "https://i.imgur.com/ze04puX.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8",
+    "url": "https://folxapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Folx Slovenija (1080p)",
+    "name": "Folx Slovenija",
     "logo": "https://i.imgur.com/RK1IASU.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8",
+    "url": "https://folxsloapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
@@ -897,6 +906,51 @@
     "language": "",
     "group": "Undefined",
     "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"General\",ORF 1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sky Sport Austria 1",
+    "logo": "https://i.imgur.com/bB0HZDu.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sky Sport Top Event",
+    "logo": "https://i.imgur.com/kQ6cVNx.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sportdigital FUSSBALL",
+    "logo": "https://i.imgur.com/NDbWxqF.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Undefined\",SRF zwei",
+    "logo": "https://i.imgur.com/887SKjm.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8",
     "isHttps": true
   },
   {
@@ -1431,21 +1485,21 @@
     "isHttps": true
   },
   {
-    "name": "One Adria (1080p)",
+    "name": "One Adria",
     "logo": "https://i.imgur.com/NYkMamU.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8",
+    "url": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "ONE1 Music (1080p)",
+    "name": "One Music Television",
     "logo": "https://i.imgur.com/dLgoKJ0.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8",
+    "url": "https://oneapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
@@ -2952,12 +3006,12 @@
     "isHttps": true
   },
   {
-    "name": "ZWEI2 Music (1080p)",
+    "name": "Zwei Music Television",
     "logo": "https://i.imgur.com/RbdpCNf.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8",
+    "url": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
@@ -3066,15 +3120,6 @@
     "language": "",
     "group": "General",
     "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ORF 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8",
     "isHttps": false
   },
   {

@@ -1314,15 +1314,6 @@
     "isHttps": true
   },
   {
-    "name": "BBC News North America (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BBC Persian (720p) (HEVC) (1080p)",
     "logo": "https://i.imgur.com/4uTMnPb.png",
     "country": "",
@@ -2781,15 +2772,6 @@
     "isHttps": true
   },
   {
-    "name": "Fox News International (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://gpuserver3.tier1streams.com/FOX/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Fox News Radio (720p)",
     "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
     "country": "",
@@ -2886,15 +2868,6 @@
     "language": "",
     "group": "Culture;News",
     "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Geo Tez (576i)",
-    "logo": "https://geotez.tv/assets/front/images/tez_logo.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7902,15 +7875,6 @@
     "isHttps": false
   },
   {
-    "name": "ARY News (576p)",
-    "logo": "https://i.imgur.com/R4KtTbJ.jpg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://115.42.65.142:9981/stream/channelid/322092446",
-    "isHttps": false
-  },
-  {
     "name": "ASTV News 1 (720p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -7935,6 +7899,15 @@
     "language": "",
     "group": "News",
     "url": "http://138.121.15.230:9002/BBC-NEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BBC News North America (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -8199,15 +8172,6 @@
     "isHttps": false
   },
   {
-    "name": "Geo News (576p)",
-    "logo": "https://i.imgur.com/Op4EsaB.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://116.90.120.151:8000/play/a020/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "GloboNews (720p)",
     "logo": "https://i.imgur.com/3yZyaCm.png",
     "country": "",
@@ -8235,12 +8199,12 @@
     "isHttps": false
   },
   {
-    "name": "Hum News (1080p)",
+    "name": "Hum News",
     "logo": "https://i.imgur.com/9OroocT.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://116.90.120.151:8000/play/a024/index.m3u8",
+    "url": "http://103.86.135.164:9981/stream/channelid/2024790699?ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C&profile=pass",
     "isHttps": false
   },
   {

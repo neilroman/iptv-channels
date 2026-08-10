@@ -225,15 +225,6 @@
     "isHttps": true
   },
   {
-    "name": "B4U Movies (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/M9kMFJl.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "B4U Movies APAC (720p)",
     "logo": "https://i.imgur.com/M9kMFJl.png",
     "country": "",
@@ -852,6 +843,24 @@
     "language": "",
     "group": "Religious",
     "url": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {
@@ -2196,6 +2205,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",B4U Movies (576p)",
+    "logo": "https://i.imgur.com/M9kMFJl.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.175.73.12:8080/live/43/43_0.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Bollywood (576p)",
     "logo": "https://i.imgur.com/6mNQ9mM.png",
     "country": "",
@@ -2247,24 +2265,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.213.31.109:90/ManoranjanTv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MTV (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/248.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MTV HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00p/index.m3u8",
     "isHttps": false
   },
   {

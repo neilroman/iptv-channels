@@ -189,6 +189,15 @@
     "isHttps": true
   },
   {
+    "name": "Adria Music Television",
+    "logo": "https://i.imgur.com/QoDpnKg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://adriaapp.b-cdn.net/1080p/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AE Radio TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/425dj2i.jpeg",
     "country": "",
@@ -501,6 +510,15 @@
     "language": "",
     "group": "Music",
     "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Boom TV (1080p)",
+    "logo": "https://live.radioboom.ro/live-tv/poster.jpg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://tvboom.ro/live-tv/live.m3u8",
     "isHttps": true
   },
   {
@@ -1197,21 +1215,21 @@
     "isHttps": true
   },
   {
-    "name": "FOLX Music (1080p)",
+    "name": "Folx Music Television",
     "logo": "https://i.imgur.com/ze04puX.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8",
+    "url": "https://folxapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Folx Slovenija (1080p)",
+    "name": "Folx Slovenija",
     "logo": "https://i.imgur.com/RK1IASU.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8",
+    "url": "https://folxsloapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
@@ -2889,12 +2907,21 @@
     "isHttps": true
   },
   {
-    "name": "One Adria (1080p)",
+    "name": "One Adria",
     "logo": "https://i.imgur.com/NYkMamU.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8",
+    "url": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "One Music Television",
+    "logo": "https://i.imgur.com/dLgoKJ0.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://oneapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {
@@ -2904,15 +2931,6 @@
     "language": "",
     "group": "Music",
     "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ONE1 Music (1080p)",
-    "logo": "https://i.imgur.com/dLgoKJ0.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8",
     "isHttps": true
   },
   {
@@ -5913,12 +5931,12 @@
     "isHttps": true
   },
   {
-    "name": "ZWEI2 Music (1080p)",
+    "name": "Zwei Music Television",
     "logo": "https://i.imgur.com/RbdpCNf.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8",
+    "url": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
     "isHttps": true
   },
   {

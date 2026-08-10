@@ -234,15 +234,6 @@
     "isHttps": true
   },
   {
-    "name": "B4U Movies (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/M9kMFJl.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "B4U Movies APAC (720p)",
     "logo": "https://i.imgur.com/M9kMFJl.png",
     "country": "",
@@ -864,15 +855,6 @@
     "isHttps": true
   },
   {
-    "name": "FXM (720p)",
-    "logo": "https://comteco.com.bo/img/upload/canales/svCJXa.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://gpuserver3.tier1streams.com/FXM/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GEM Bollywood",
     "logo": "https://i.imgur.com/2XASeBk.png",
     "country": "",
@@ -1278,21 +1260,21 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",TV1000",
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://lb.dstvmultimedia.com/NovaMax/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinemaraton Moldova",
     "logo": "https://i.imgur.com/XuDlweg.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Action",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://polska.hach.workers.dev/14864.m3u8",
     "isHttps": true
   },
   {
@@ -5247,15 +5229,6 @@
     "isHttps": false
   },
   {
-    "name": "FX Movie Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.52/FXM/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Goldmines Movies (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -5676,6 +5649,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",B4U Movies (576p)",
+    "logo": "https://i.imgur.com/M9kMFJl.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.175.73.12:8080/live/43/43_0.m3u8",
     "isHttps": false
   },
   {
@@ -6558,6 +6540,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/152/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV1000 (1080p)",
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.61.157.250/TV1000/index.m3u8",
     "isHttps": false
   },
   {
