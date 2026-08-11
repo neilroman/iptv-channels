@@ -1234,7 +1234,7 @@
   },
   {
     "name": "Channel U (720p)",
-    "logo": "https://i.imgur.com/9MzEjoY.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -1626,15 +1626,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "E! West (1080p)",
-    "logo": "https://i.imgur.com/TWFDkap.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8",
     "isHttps": true
   },
   {
@@ -3056,7 +3047,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+    "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {
@@ -6669,6 +6660,15 @@
     "isHttps": false
   },
   {
+    "name": "Aspire (720p)",
+    "logo": "https://i.imgur.com/TOM5qO6.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ATM Rozrywka REWORK (1080p)",
     "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
     "country": "",
@@ -6729,6 +6729,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://91.146.94.234:10001/play/a087",
+    "isHttps": false
+  },
+  {
+    "name": "BET Her (720p)",
+    "logo": "https://i.imgur.com/oafsrlo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.56/BET_HER_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6927,6 +6936,15 @@
     "language": "",
     "group": "Entertainment;News",
     "url": "http://72.1.184.5:8089/play/a05d/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "E! West (720p)",
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.56/E_ENTERTAINMENT_WEST_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7602,15 +7620,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MeTV+ (720p)",
-    "logo": "https://i.imgur.com/ubCl0S9.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.53/METV_Plus/index.m3u8",
     "isHttps": false
   },
   {

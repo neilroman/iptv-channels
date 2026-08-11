@@ -5068,7 +5068,7 @@
   },
   {
     "name": "Channel U (720p)",
-    "logo": "https://i.imgur.com/9MzEjoY.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -5640,15 +5640,6 @@
     "language": "",
     "group": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CNBC World (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/960px-CNBC_World_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Business",
-    "url": "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8",
     "isHttps": true
   },
   {
@@ -7188,15 +7179,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "E! West (1080p)",
-    "logo": "https://i.imgur.com/TWFDkap.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8",
     "isHttps": true
   },
   {
@@ -10360,7 +10342,7 @@
   },
   {
     "name": "JTBS Classic",
-    "logo": "https://jtbs-classic.web.app/logo.png",
+    "logo": "https://jtbsclassic.dpdns.org/logo.png",
     "country": "",
     "language": "",
     "group": "Culture;Religious",
@@ -11292,15 +11274,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Cosmote Sport 4",
-    "logo": "https://i.imgur.com/zEdJUZU.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://7nyaler.streamhostingcdn.top/stream/72/index.m3u8",
     "isHttps": true
   },
   {
@@ -24732,6 +24705,24 @@
     "isHttps": false
   },
   {
+    "name": "ACC Network (720p)",
+    "logo": "https://i.imgur.com/TpCkbkT.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://40.160.24.56/ACC_NETWORK_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ActionMax (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.56/ACTIONMAX_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Al Jazeera English HD (576p)",
     "logo": "https://i.imgur.com/7bRVpnu.png",
     "country": "",
@@ -24819,6 +24810,15 @@
     "language": "",
     "group": "General;News",
     "url": "http://45.162.64.114/ARIRANG/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Aspire (720p)",
+    "logo": "https://i.imgur.com/TOM5qO6.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -25017,6 +25017,51 @@
     "language": "",
     "group": "News",
     "url": "http://ott-7.sevstar.net/belarus24/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BET (720p)",
+    "logo": "https://i.imgur.com/copIbc9.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.56/BET_EAST_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BET Her (720p)",
+    "logo": "https://i.imgur.com/oafsrlo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.56/BET_HER_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BET Jams (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/960px-BET_Jams_2021.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.56/BET_JAMS_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BET Soul (720p)",
+    "logo": "https://i.imgur.com/VeuTWUb.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.56/BET_SOUL_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BET West (720p)",
+    "logo": "https://i.imgur.com/copIbc9.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.56/BET_WEST_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -25224,6 +25269,24 @@
     "language": "",
     "group": "Music",
     "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CNBC (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Business",
+    "url": "http://40.160.24.56/CNBC_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CNBC World (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/960px-CNBC_World_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Business",
+    "url": "http://40.160.24.56/CNBC_WORLD_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -25470,6 +25533,15 @@
     "isHttps": false
   },
   {
+    "name": "E! West (720p)",
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.56/E_ENTERTAINMENT_WEST_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "E4 (1080p)",
     "logo": "https://i.imgur.com/22MfjF4.png",
     "country": "",
@@ -25683,6 +25755,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FX Movie Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://40.160.24.56/FXM_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -26340,15 +26421,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.53/METV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MeTV+ (720p)",
-    "logo": "https://i.imgur.com/ubCl0S9.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.53/METV_Plus/index.m3u8",
     "isHttps": false
   },
   {

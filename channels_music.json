@@ -1494,6 +1494,15 @@
     "isHttps": true
   },
   {
+    "name": "Impact TV (1080p)",
+    "logo": "https://tvimpact.ro/impact-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live.tvimpact.ro:8088/hevc/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Impact TV Dance (1080p)",
     "logo": "https://i.imgur.com/G5mNdpE.png",
     "country": "",
@@ -3435,6 +3444,15 @@
     "language": "",
     "group": "Music",
     "url": "https://servilive.com:3414/hybrid/play.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Chisinau (576p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://radiochisinau.md/hls/RChisinau.m3u8",
     "isHttps": true
   },
   {

@@ -234,6 +234,15 @@
     "isHttps": true
   },
   {
+    "name": "Impact TV (1080p)",
+    "logo": "https://tvimpact.ro/impact-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live.tvimpact.ro:8088/hevc/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Impact TV Dance (1080p)",
     "logo": "https://i.imgur.com/G5mNdpE.png",
     "country": "",
@@ -276,6 +285,15 @@
     "language": "",
     "group": "General",
     "url": "https://stream1.kanald.ro/iphone/knd-live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Kapital TV (1080p)",
+    "logo": "https://i.imgur.com/Q1PYwkZ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8",
     "isHttps": true
   },
   {
@@ -483,6 +501,15 @@
     "language": "",
     "group": "General",
     "url": "https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Chisinau (576p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/56/Radio_Chi%C8%99in%C4%83u.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://radiochisinau.md/hls/RChisinau.m3u8",
     "isHttps": true
   },
   {
