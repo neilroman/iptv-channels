@@ -297,6 +297,15 @@
     "isHttps": true
   },
   {
+    "name": "Klara (720p)",
+    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "L1mburg TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/SDD5KS5.png",
     "country": "",
@@ -756,12 +765,30 @@
     "isHttps": true
   },
   {
+    "name": "Radio 1 (720p)",
+    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio 10 (720p)",
     "logo": "https://i.imgur.com/2oGtj7r.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio 2 (720p)",
+    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8",
     "isHttps": true
   },
   {
@@ -963,15 +990,6 @@
     "isHttps": true
   },
   {
-    "name": "RTV Nunspeet (720p)",
-    "logo": "https://i.imgur.com/DzXmfzT.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RTV Oost (720p)",
     "logo": "https://i.imgur.com/nTR6q9H.png",
     "country": "",
@@ -1104,15 +1122,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://live.salto.nl/hls/malive_high.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Samen1 TV (720p)",
-    "logo": "https://i.imgur.com/3ivlnLO.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1404,48 +1413,12 @@
     "isHttps": true
   },
   {
-    "name": "VRT Radio 1 (720p)",
-    "logo": "https://i.ibb.co/pwCs0YY/512px-VRT-Radio-1-logo-svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "VRT Radio 2 (720p)",
-    "logo": "https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "VRT Radio Klara (720p)",
-    "logo": "https://i.ibb.co/YdDkSJW/VRT-Klara-2020-svg.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Wavez FM",
     "logo": "https://i.imgur.com/uyROZSS.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "WEEFF TV (1080p)",
-    "logo": "https://i.imgur.com/4XCwuob.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live",
     "isHttps": true
   },
   {

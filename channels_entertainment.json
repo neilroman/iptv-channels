@@ -45,6 +45,15 @@
     "isHttps": true
   },
   {
+    "name": "20 Mediaset [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "247 Box TV",
     "logo": "https://i.imgur.com/t5AUthL.png",
     "country": "",
@@ -132,15 +141,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Aakaash Aath (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
     "isHttps": true
   },
   {
@@ -289,15 +289,6 @@
   },
   {
     "name": "America's Next Top Model",
-    "logo": "https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-686cd713e48af72bc250efb8.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "America's Next Top Model",
     "logo": "https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",
     "country": "",
     "language": "",
@@ -348,15 +339,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Ananda TV (1080p)",
-    "logo": "https://i.imgur.com/jkbo7Qe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -504,15 +486,6 @@
     "isHttps": true
   },
   {
-    "name": "Asian TV (720p)",
-    "logo": "https://i.imgur.com/k2adSjA.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://tvsen6.aynaott.com/asiantv/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "AsianCrush (1080p)",
     "logo": "https://i.imgur.com/hW6z1RG.png",
     "country": "",
@@ -531,21 +504,21 @@
     "isHttps": true
   },
   {
-    "name": "Asianet Middle East (576p)",
-    "logo": "https://i.imgur.com/du9iZ0s.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Asianet Plus (396p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ATM Rozrywka REWORK (720p)",
+    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://grupaatmrr.org.pl:8888/fallback/index.m3u8",
     "isHttps": true
   },
   {
@@ -576,15 +549,6 @@
     "isHttps": true
   },
   {
-    "name": "B+ TV (480p)",
-    "logo": "https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bacán Te Veo (360p)",
     "logo": "https://i.imgur.com/m1LK6rY.png",
     "country": "",
@@ -594,30 +558,12 @@
     "isHttps": true
   },
   {
-    "name": "Balkan Radio Salzburg (480p)",
-    "logo": "https://i.imgur.com/UDyxgXf.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bark TV (1080p)",
     "logo": "https://images.squarespace-cdn.com/content/v1/6a233007201fda6808a47ff9/f4f45cba-d340-4963-860a-37edaf91bc7f/BarkTV_Horizontal_Color.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BDC TV (576p)",
-    "logo": "https://i.imgur.com/6ckHV6k.jpeg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -828,15 +774,6 @@
     "isHttps": true
   },
   {
-    "name": "Big Magic (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "bitMe (1080p)",
     "logo": "https://i.imgur.com/79hrcx8.png",
     "country": "",
@@ -888,15 +825,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Bolivia Punto TV",
-    "logo": "https://i.imgur.com/8sQw9Aj.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
     "isHttps": true
   },
   {
@@ -1062,6 +990,15 @@
     "isHttps": true
   },
   {
+    "name": "Canale 5 [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canela.TV (1080p)",
     "logo": "https://i.imgur.com/8Hllkpk.png",
     "country": "",
@@ -1095,15 +1032,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Carac 1 (1080p)",
-    "logo": "https://i.imgur.com/TSc35U6.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
     "isHttps": true
   },
   {
@@ -1332,15 +1260,6 @@
     "isHttps": true
   },
   {
-    "name": "Citi Hitz (720p)",
-    "logo": "https://i.imgur.com/EuYpCRF.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11590",
-    "isHttps": true
-  },
-  {
     "name": "Ciudades Del Ocio TV (720p)",
     "logo": "https://i.imgur.com/CTQgqsM.png",
     "country": "",
@@ -1359,15 +1278,6 @@
     "isHttps": true
   },
   {
-    "name": "Clic TV (360p)",
-    "logo": "https://i.imgur.com/bvSLm9U.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "COCO TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/CnAc7jU.png",
     "country": "",
@@ -1383,6 +1293,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://streamer2.nexgen.bz/12-CBTV/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Colors Gujarati (396p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8",
     "isHttps": true
   },
   {
@@ -1419,15 +1338,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Cozi TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8",
     "isHttps": true
   },
   {
@@ -1512,15 +1422,6 @@
     "isHttps": true
   },
   {
-    "name": "Deepto TV (1080p)",
-    "logo": "https://i.imgur.com/F62GUqS.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Del Rey TV (1080p)",
     "logo": "https://i.imgur.com/Zjxvg9u.jpeg",
     "country": "",
@@ -1557,15 +1458,6 @@
     "isHttps": true
   },
   {
-    "name": "DNTV",
-    "logo": "https://i.imgur.com/Pw1ifln.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Dong Nai TV 2 (720p)",
     "logo": "https://i.imgur.com/tNKPSkO.png",
     "country": "",
@@ -1590,24 +1482,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DTR Zona 1 (720p)",
-    "logo": "https://i.imgur.com/ddPUnpQ.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://kino-stream.online/hls/DTRZONA1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DTR Zona 2 (720p)",
-    "logo": "https://i.imgur.com/odKqEZu.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://kino-stream.online/hls/DTRZONA2.m3u8",
     "isHttps": true
   },
   {
@@ -1868,7 +1742,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
+    "url": "https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8",
     "isHttps": true
   },
   {
@@ -1932,24 +1806,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Fidele TV (480p)",
-    "logo": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Fillka TV (1080p)",
-    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Movies;Series",
-    "url": "https://amixtv.com/fillkatvhd/index.m3u8",
     "isHttps": true
   },
   {
@@ -2052,12 +1908,12 @@
     "isHttps": true
   },
   {
-    "name": "Game Show Network (1080p)",
+    "name": "Game Show Network East (720p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/GSN/index.m3u8",
+    "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2079,7 +1935,7 @@
     "isHttps": true
   },
   {
-    "name": "Gaviota TV",
+    "name": "Gaviota TV [Not 24/7]",
     "logo": "https://i.imgur.com/1vlZA6O.png",
     "country": "",
     "language": "",
@@ -2196,39 +2052,12 @@
     "isHttps": true
   },
   {
-    "name": "GikTVMX (720p)",
-    "logo": "https://i.imgur.com/Gwz78jZ.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Culture;Entertainment",
-    "url": "https://pistream.ddns.net/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Girasol TV (1080p)",
+    "name": "Girasol TV (1080i)",
     "logo": "https://i.imgur.com/2t7A2yg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Girovisual (720p)",
-    "logo": "https://i.imgur.com/BYBMuhf.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Global TV (720p)",
-    "logo": "https://i.imgur.com/oe0pq1R.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Music",
-    "url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
+    "url": "https://s.emisoras.tv:8081/girasoltv/index.m3u8",
     "isHttps": true
   },
   {
@@ -2277,21 +2106,12 @@
     "isHttps": true
   },
   {
-    "name": "Great Entertainment Television (1080p)",
+    "name": "Great Entertainment Television (720p)",
     "logo": "https://i.imgur.com/evOWORd.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/GetTV/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Grit (1080p)",
-    "logo": "https://i.imgur.com/6w1Wj3j.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://gpuserver3.tier1streams.com/GRIT/index.m3u8",
+    "url": "https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2367,15 +2187,6 @@
     "isHttps": true
   },
   {
-    "name": "Hispania TV",
-    "logo": "https://i.imgur.com/647WCF8.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Historia (1080p)",
     "logo": "https://i.imgur.com/VUy8xIG.png",
     "country": "",
@@ -2436,15 +2247,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "IberoAmerica TV (1080p)",
-    "logo": "https://i.imgur.com/N3K6PAG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://limited39.todostreaming.es/live/salome-livestream.m3u8",
     "isHttps": true
   },
   {
@@ -2529,6 +2331,15 @@
     "isHttps": true
   },
   {
+    "name": "Iris [Geo-blocked]",
+    "logo": "https://i.imgur.com/ZLnSLh4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Island Luck TV",
     "logo": "https://i.imgur.com/P0gDN5n.png",
     "country": "",
@@ -2547,15 +2358,6 @@
     "isHttps": true
   },
   {
-    "name": "ITN (720p)",
-    "logo": "https://i.imgur.com/NLu3guG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11597",
-    "isHttps": true
-  },
-  {
     "name": "ITV Deportes (720p)",
     "logo": "https://iili.io/J1kV1Bn.png",
     "country": "",
@@ -2570,16 +2372,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://live.eac-news.com/Khmer/streams/ITVHD.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ITV Life (2160p)",
-    "logo": "https://i.ibb.co/pvLQmQK7/itv.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8",
+    "url": "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8",
     "isHttps": true
   },
   {
@@ -2682,15 +2475,6 @@
     "isHttps": true
   },
   {
-    "name": "Just Tattoo of Us",
-    "logo": "https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "K Content by CJ ENM (1080p)",
     "logo": "https://i.imgur.com/lRy231d.png",
     "country": "",
@@ -2727,15 +2511,6 @@
     "isHttps": true
   },
   {
-    "name": "Kanade (1080p)",
-    "logo": "https://static.kanade.cl/assets/img/profilepic_512px.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Entertainment",
-    "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH",
-    "isHttps": true
-  },
-  {
     "name": "Kanal 7 (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/0gq9xOm.png",
     "country": "",
@@ -2751,15 +2526,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Kasterwey Media (1080p)",
-    "logo": "https://kasterweymedia.com/wp-content/uploads/2026/05/favicon.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
     "isHttps": true
   },
   {
@@ -2823,15 +2589,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://liveh34.vtvprime.vn/hls/KIX/04.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "KMCT-DT1 (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/KMCT_Monroe%27s_Christian_Television_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1",
     "isHttps": true
   },
   {
@@ -2934,6 +2691,15 @@
     "isHttps": true
   },
   {
+    "name": "La5 [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "LAMIL35 TV",
     "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
     "country": "",
@@ -3006,24 +2772,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin",
-    "logo": "https://i.imgur.com/uVFenKm.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://lb.dstvmultimedia.com/AXNSpin/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",E! Europe",
-    "logo": "https://i.imgur.com/TWFDkap.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://lb.dstvmultimedia.com/E!/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Gametoon",
     "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png",
     "country": "",
@@ -3042,7 +2790,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV HD",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV HD (396p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
@@ -3075,15 +2823,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Entertainment;Sports\",Right Now Tv (720p)",
-    "logo": "https://i.imgur.com/OxbIla4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Sports",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq",
     "isHttps": true
   },
   {
@@ -3276,30 +3015,12 @@
     "isHttps": true
   },
   {
-    "name": "Maasranga TV (1080p)",
-    "logo": "https://i.imgur.com/uVZJMed.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Magic PowerRadio (288p) [Not 24/7]",
     "logo": "https://i.imgur.com/sWcwIte.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mágica Tv (1080p)",
-    "logo": "https://i.imgur.com/h4FQuIz.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://magicatv.4pu.com/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -3381,15 +3102,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MAX Streak",
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxStreak.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
     "isHttps": true
   },
   {
@@ -3591,12 +3303,12 @@
     "isHttps": true
   },
   {
-    "name": "MONO 29 (1080p)",
+    "name": "MONO 29",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
     "isHttps": true
   },
   {
@@ -3807,15 +3519,6 @@
     "isHttps": true
   },
   {
-    "name": "MTV Just Tattoo of Us",
-    "logo": "https://images.pluto.tv/channels/63988b61c8d285000798a22a/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MTV Originals",
     "logo": "https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png",
     "country": "",
@@ -3956,15 +3659,6 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MTV Ridiculousness (720p)",
-    "logo": "https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
     "url": "https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8",
     "isHttps": true
   },
@@ -4014,15 +3708,6 @@
     "isHttps": true
   },
   {
-    "name": "MTV Tattoo a dos",
-    "logo": "https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MTV Teen Mom (720p)",
     "logo": "https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG_1750154727513.png",
     "country": "",
@@ -4068,30 +3753,12 @@
     "isHttps": true
   },
   {
-    "name": "MTV The Shores",
-    "logo": "https://images.pluto.tv/channels/5caf32c2a5068259a32320fc/colorLogoPNG-1637850773210.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MTV Vergüenza ajena (720p)",
     "logo": "https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MV Lao TV",
-    "logo": "https://i.imgur.com/oVlQUKM.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4104,12 +3771,12 @@
     "isHttps": true
   },
   {
-    "name": "MY5 (1080p)",
+    "name": "MY5 (576p)",
     "logo": "https://i.imgur.com/bjlzu5k.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://st.my5.media/hls/hd/index.m3u8",
+    "url": "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4158,15 +3825,6 @@
     "isHttps": true
   },
   {
-    "name": "NBC 3 (480p)",
-    "logo": "https://i.imgur.com/7j8Km6e.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://hls2.nbcplus.na/hls/high_nbc3.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NBC LX Home (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg",
     "country": "",
@@ -4209,33 +3867,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "New TV Comprehensive",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "New TV Finance",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_2xlnqlst/landscape_carousel_xxhdpi.webp",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "New TV Variety",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd",
     "isHttps": true
   },
   {
@@ -4290,15 +3921,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "NSC+ (720p)",
-    "logo": "https://i.imgur.com/6k9LYOw.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8",
     "isHttps": true
   },
   {
@@ -4473,24 +4095,6 @@
     "isHttps": true
   },
   {
-    "name": "Pasand TV (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pear TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "People Are Awesome (720p)",
     "logo": "https://i.imgur.com/MsIx7Ax.png",
     "country": "",
@@ -4617,30 +4221,12 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Camp",
-    "logo": "https://images.pluto.tv/channels/661801e871e8c30008a73f7b/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-661801e871e8c30008a73f7b.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Canal UOL (720p)",
     "logo": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Footanim'",
-    "logo": "https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8",
     "isHttps": true
   },
   {
@@ -4695,24 +4281,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Orgullo",
-    "logo": "https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_1748269327014.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Pride",
-    "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-69f209cd0ed14e790bddeb46.m3u8",
     "isHttps": true
   },
   {
@@ -4806,12 +4374,12 @@
     "isHttps": true
   },
   {
-    "name": "Popstar! TV (1080p)",
+    "name": "Popstar! TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/d4xEiXX.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8",
+    "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5094,6 +4662,15 @@
     "isHttps": true
   },
   {
+    "name": "RightNow TV (720p)",
+    "logo": "https://i.imgur.com/OxbIla4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Sports",
+    "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Riku TV (1080p)",
     "logo": "https://i.imgur.com/XIDC4Mv.png",
     "country": "",
@@ -5220,15 +4797,6 @@
     "isHttps": true
   },
   {
-    "name": "Señal Positiva TV (1080p)",
-    "logo": "https://i.imgur.com/flbMpMP.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://eu1.servers10.com:8081/8108/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Shabakeh 7",
     "logo": "https://i.imgur.com/oHmh5Jb.png",
     "country": "",
@@ -5310,6 +4878,15 @@
     "isHttps": true
   },
   {
+    "name": "Sonce",
+    "logo": "https://i.imgur.com/MrkQLTp.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony Marathi (1080p) [Geo-blocked]",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png",
     "country": "",
@@ -5343,15 +4920,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ST Europe Channel (720p)",
-    "logo": "https://i.imgur.com/M5j7y2N.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5406,15 +4974,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sun+ TV",
-    "logo": "https://i.imgur.com/5XCXWy7.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://livemaraboo.com/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -5478,15 +5037,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Tamil Entertainment Television (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/Tamil_Entertainment_Television.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5850,15 +5400,6 @@
     "isHttps": true
   },
   {
-    "name": "TV 1 (720p)",
-    "logo": "https://i.imgur.com/QShk1BV.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11606",
-    "isHttps": true
-  },
-  {
     "name": "TV Canal Sur (1080p)",
     "logo": "",
     "country": "",
@@ -5928,15 +5469,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Modelo (720p)",
-    "logo": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;General;News",
-    "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u",
     "isHttps": true
   },
   {
@@ -6102,15 +5634,6 @@
     "isHttps": true
   },
   {
-    "name": "Unique TV (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Kids",
-    "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Univers TV (720p)",
     "logo": "https://i.imgur.com/EW2bfix.png",
     "country": "",
@@ -6207,24 +5730,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://soportedvb.click:3891/live/visionndvlive.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "VIVO TV (1080p)",
-    "logo": "https://i.ibb.co/Drx6fgZ/Logo-white.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://stream.vivotv.uy/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "VOX1",
-    "logo": "https://i.imgur.com/YtCmlNT.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://hls.vox1.live/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -6471,12 +5976,12 @@
     "isHttps": true
   },
   {
-    "name": "Zee TV UK HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png",
+    "name": "Zee TV HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11783",
+    "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
     "isHttps": true
   },
   {
@@ -6516,6 +6021,15 @@
     "isHttps": true
   },
   {
+    "name": "ТВ-3 (540p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
+    "isHttps": true
+  },
+  {
     "name": ".black (576p)",
     "logo": "https://i.imgur.com/Q4A6ci4.png",
     "country": "",
@@ -6531,15 +6045,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://5.188.159.128:8070/RED/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "13 Ulica (1080p)",
-    "logo": "https://i.imgur.com/0gCNnLq.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a088",
     "isHttps": false
   },
   {
@@ -6615,6 +6120,15 @@
     "isHttps": false
   },
   {
+    "name": "Aakaash Aath (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Aathavan TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/LEVEhTH.png",
     "country": "",
@@ -6642,6 +6156,15 @@
     "isHttps": false
   },
   {
+    "name": "Ananda TV (480p)",
+    "logo": "https://i.imgur.com/jkbo7Qe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.99.249.139/anandatv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ANT1 Cyprus (1080p)",
     "logo": "https://i.imgur.com/2KAObBt.png",
     "country": "",
@@ -6666,15 +6189,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ATM Rozrywka REWORK (1080p)",
-    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://51.38.132.146:8877/ATMRR/index.m3u8",
     "isHttps": false
   },
   {
@@ -6723,15 +6237,6 @@
     "isHttps": false
   },
   {
-    "name": "BBC First",
-    "logo": "https://i.imgur.com/UBoBYUI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a087",
-    "isHttps": false
-  },
-  {
     "name": "BET Her (720p)",
     "logo": "https://i.imgur.com/oafsrlo.png",
     "country": "",
@@ -6759,12 +6264,12 @@
     "isHttps": false
   },
   {
-    "name": "Catchy Comedy (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/250px-Catchy_Comedy_logo.svg.png",
+    "name": "Carac 1 (1080p)",
+    "logo": "https://i.imgur.com/TSc35U6.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.52/DECADES/index.m3u8",
+    "url": "http://145.239.5.177/371/index.m3u8",
     "isHttps": false
   },
   {
@@ -6792,15 +6297,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/756.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Colors Gujarati (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/196.m3u8",
     "isHttps": false
   },
   {
@@ -6867,6 +6363,15 @@
     "isHttps": false
   },
   {
+    "name": "Cozi TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://40.160.24.56/COZI_TV_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Crime + Investigation (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
     "country": "",
@@ -6921,15 +6426,6 @@
     "isHttps": false
   },
   {
-    "name": "E! Latin America Brazil (432p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;News",
-    "url": "http://145.239.5.177/111/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "E! Latin America Mexico (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
     "country": "",
@@ -6945,15 +6441,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.56/E_ENTERTAINMENT_WEST_SD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "E4 (1080p)",
-    "logo": "https://i.imgur.com/22MfjF4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://80.194.62.172:50002/stream/channelid/1096333958",
     "isHttps": false
   },
   {
@@ -7025,7 +6512,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://94.230.129.31:8080/Friday/index.m3u8",
+    "url": "http://stream.mcquack.net/181/index.m3u8",
     "isHttps": false
   },
   {
@@ -7052,7 +6539,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.162.193.35/FX/index.m3u8",
+    "url": "http://15.204.246.24:8080/FXHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7187,7 +6674,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+    "url": "http://145.239.5.177/329/index.m3u8",
     "isHttps": false
   },
   {
@@ -7371,6 +6858,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment;Kids\",Unique TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Kids",
+    "url": "http://103.175.73.12:8080/live/688/master.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Anmol TV (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
     "country": "",
@@ -7380,12 +6876,48 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Asianet Middle East (576p)",
+    "logo": "https://i.imgur.com/du9iZ0s.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/697/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Big Magic (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Colors Infinity (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Pasand TV (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/708/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Pear TV (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/695/master.m3u8",
     "isHttps": false
   },
   {
@@ -7434,6 +6966,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://99.27.51.147:8080/MTV/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment;Lifestyle\",TV3 Life (1080p)",
     "logo": "https://i.imgur.com/Tm8hj45.png",
     "country": "",
@@ -7443,48 +6984,12 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",20",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a08s",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Canale 5",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a03g",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ICTV2 (1080p)",
     "logo": "https://i.imgur.com/J4zlRGv.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://stream.mcquack.net/368/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Iris",
-    "logo": "https://i.imgur.com/ZLnSLh4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a03i",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",La5",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a03k",
     "isHttps": false
   },
   {
@@ -7560,6 +7065,15 @@
     "isHttps": false
   },
   {
+    "name": "Maasranga TV (720p)",
+    "logo": "https://i.imgur.com/uVZJMed.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Manas TV (1080p)",
     "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
     "country": "",
@@ -7596,30 +7110,12 @@
     "isHttps": false
   },
   {
-    "name": "MegaTV (576p)",
-    "logo": "https://i.imgur.com/3d4uiZF.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "MeTV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://40.160.24.53/METV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "METV HD (1080p)",
-    "logo": "https://i.imgur.com/Zud862h.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8",
     "isHttps": false
   },
   {
@@ -7637,15 +7133,6 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://41.205.70.146/MTVFRANCE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MTV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
     "url": "http://40.160.24.53/MTV/index.m3u8",
     "isHttps": false
   },
@@ -7655,7 +7142,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://179.60.51.134:8888/MTV/index.m3u8",
+    "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7674,15 +7161,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nazali's HDTV (1080p)",
-    "logo": "https://i.imgur.com/SrdRtqn.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8",
     "isHttps": false
   },
   {
@@ -7722,15 +7200,6 @@
     "isHttps": false
   },
   {
-    "name": "NUBAR Plus TV (720p)",
-    "logo": "https://i.ibb.co/XpgWb6B/IMG-20230628-140407.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ON Vie Drama (720p)",
     "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
     "country": "",
@@ -7763,7 +7232,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.162.193.35/PASIONESHD/index.m3u8",
+    "url": "http://15.204.246.24:8080/PasionesHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7925,7 +7394,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega",
+    "url": "http://38.96.178.205/SONYHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7944,15 +7413,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Jalsha HD (720p)",
-    "logo": "https://i.imgur.com/IlufzR5.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://tvsen7.aynascope.net/sjhdbd/index.m3u8",
     "isHttps": false
   },
   {
@@ -7992,39 +7452,21 @@
     "isHttps": false
   },
   {
-    "name": "Swantham (576p)",
-    "logo": "https://i.imgur.com/ye6v4GP.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telepremier Plus (1080p)",
-    "logo": "https://i.imgur.com/F7ZPcvb.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TNT (576p)",
-    "logo": "https://i.imgur.com/T4A6rEI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://94.230.129.31:8080/THT/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TNT HD (1080p)",
     "logo": "https://i.imgur.com/T4A6rEI.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.153.24.78:80/TNT/index.m3u8",
+    "url": "http://45.153.24.78/TNT/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT SD (576p)",
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/135/index.m3u8",
     "isHttps": false
   },
   {
@@ -8073,15 +7515,6 @@
     "isHttps": false
   },
   {
-    "name": "TV-3 (576p)",
-    "logo": "https://i.imgur.com/JLAvq8O.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://94.230.129.31:8080/TB3/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TVBS Asia (1080p)",
     "logo": "https://i.imgur.com/4S1rkhm.png",
     "country": "",
@@ -8115,15 +7548,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/445.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee TV HD (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
     "isHttps": false
   },
   {

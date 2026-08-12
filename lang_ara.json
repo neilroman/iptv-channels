@@ -72,15 +72,6 @@
     "isHttps": true
   },
   {
-    "name": "Aghapy Kids (1080p)",
-    "logo": "https://i.imgur.com/8ariztD.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Aghapy TV (1080p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
     "country": "",
@@ -549,15 +540,6 @@
     "isHttps": true
   },
   {
-    "name": "Alalam News Channel Syria (1080p)",
-    "logo": "https://i.imgur.com/WQKYPKD.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Alawla TV",
     "logo": "https://i.imgur.com/3Kv0t3X.png",
     "country": "",
@@ -693,15 +675,6 @@
     "isHttps": true
   },
   {
-    "name": "Alkass Five (1080p)",
-    "logo": "https://i.imgur.com/6RGNGsM.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Alkass Four (1080p)",
     "logo": "https://i.imgur.com/iDL65Wu.png",
     "country": "",
@@ -717,15 +690,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Alkass Seven (1080p)",
-    "logo": "https://i.imgur.com/3eyHP3S.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8",
     "isHttps": true
   },
   {
@@ -1076,7 +1040,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8",
     "isHttps": true
   },
   {
@@ -1188,12 +1152,12 @@
     "isHttps": true
   },
   {
-    "name": "El-Heddaf TV (1080i)",
+    "name": "El-Heddaf TV (1080p)",
     "logo": "https://i.imgur.com/cDkIDIA.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
+    "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
     "isHttps": true
   },
   {
@@ -1302,15 +1266,6 @@
     "language": "",
     "group": "General",
     "url": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Hala Ramallah (720p)",
-    "logo": "https://i.ibb.co/swP1FDK/halaramallah-logo.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2070,15 +2025,6 @@
     "isHttps": true
   },
   {
-    "name": "Nablus TV (1080p)",
-    "logo": "https://i.imgur.com/GoLhaDK.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://htvint.mada.ps/nabluslive/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nidae AlIslam Radio (1080p)",
     "logo": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
     "country": "",
@@ -2367,15 +2313,6 @@
     "isHttps": true
   },
   {
-    "name": "Raya 1 (1080p)",
-    "logo": "https://www.rayatv.ps/images/logo_tv.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://htvmada.mada.ps:4443/raya/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Red TV Lebanon (1080p)",
     "logo": "https://i.imgur.com/bWwY885.png",
     "country": "",
@@ -2507,7 +2444,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://samarra.tv/proxy.php/hls/main3/playlist.m3u8",
+    "url": "https://live.bradosti.net/live/samaraweb_playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2691,15 +2628,6 @@
     "isHttps": true
   },
   {
-    "name": "Syria One (1080p)",
-    "logo": "https://tv.syriaone.tv/SyriaONETVB.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://live.syriaone.tv/live/syriaone.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Syria TV (1080p)",
     "logo": "https://i.imgur.com/FjuVuXF.jpeg",
     "country": "",
@@ -2790,7 +2718,7 @@
     "isHttps": true
   },
   {
-    "name": "UNews",
+    "name": "UNews (1080p)",
     "logo": "",
     "country": "",
     "language": "",
@@ -2871,30 +2799,12 @@
     "isHttps": true
   },
   {
-    "name": "Yemen Shabab Channel (1080p)",
-    "logo": "https://i.imgur.com/H5Oi2NS.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Yemen Today TV (480p)",
     "logo": "https://i.imgur.com/8TzcJu5.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Yemen TV (480p)",
-    "logo": "https://i.imgur.com/wN3REXv.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8",
     "isHttps": true
   },
   {
@@ -2931,24 +2841,6 @@
     "language": "",
     "group": "General",
     "url": "http://185.9.2.18/chid_218/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "4Kids TV (576p)",
-    "logo": "https://i.imgur.com/507piHp.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://tvsen5.aynascope.net/4KidsTV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Abu Dhabi TV",
-    "logo": "https://i.imgur.com/8DAriPs.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://185.9.2.18/chid_326/index.m3u8",
     "isHttps": false
   },
   {
@@ -3048,6 +2940,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://37.238.136.61/hls/stream.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Alalam News Channel Syria (1080p)",
+    "logo": "https://i.imgur.com/WQKYPKD.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://live2.alalam.ir/live/Alalam/index.m3u8",
     "isHttps": false
   },
   {
@@ -3210,6 +3111,15 @@
     "language": "",
     "group": "News",
     "url": "http://31.14.40.237:1935/live/Nabaa/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nablus TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/GoLhaDK.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
     "isHttps": false
   },
   {

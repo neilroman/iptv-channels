@@ -81,15 +81,6 @@
     "isHttps": true
   },
   {
-    "name": "Alkass Five (1080p)",
-    "logo": "https://i.imgur.com/6RGNGsM.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Alkass Four (1080p)",
     "logo": "https://i.imgur.com/iDL65Wu.png",
     "country": "",
@@ -105,15 +96,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Alkass Seven (1080p)",
-    "logo": "https://i.imgur.com/3eyHP3S.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8",
     "isHttps": true
   },
   {
@@ -342,15 +324,6 @@
     "isHttps": true
   },
   {
-    "name": "CBS Sports Network USA (1080p)",
-    "logo": "https://i.imgur.com/A8CnA8g.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CCTV-5+",
     "logo": "https://i.imgur.com/OK8mdJV.png",
     "country": "",
@@ -414,15 +387,6 @@
     "isHttps": true
   },
   {
-    "name": "DAZN Handball x Pluto TV",
-    "logo": "https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "DAZN Heldinnen x Pluto TV",
     "logo": "https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png",
     "country": "",
@@ -438,15 +402,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DeporTV (1080p)",
-    "logo": "https://i.imgur.com/THk9ARS.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8",
     "isHttps": true
   },
   {
@@ -468,21 +423,12 @@
     "isHttps": true
   },
   {
-    "name": "DSports Uruguay",
-    "logo": "https://i.imgur.com/2PoEm1x.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "El-Heddaf TV (1080i)",
+    "name": "El-Heddaf TV (1080p)",
     "logo": "https://i.imgur.com/cDkIDIA.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
+    "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
     "isHttps": true
   },
   {
@@ -501,15 +447,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ESPNews (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -675,24 +612,6 @@
     "isHttps": true
   },
   {
-    "name": "Fox Deportes (1280p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Fox Soccer Plus (720p)",
-    "logo": "https://i.imgur.com/gR7u8DM.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Fox Sports (720p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
     "country": "",
@@ -762,6 +681,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Fuel TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/I8mviBy.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -837,12 +765,12 @@
     "isHttps": true
   },
   {
-    "name": "Golf Channel (1080p)",
+    "name": "Golf Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/Lgux6Ik.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8",
+    "url": "https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -909,15 +837,6 @@
     "isHttps": true
   },
   {
-    "name": "KCMN-LD6 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Kozoom TV (1080p)",
     "logo": "https://i.imgur.com/M1Ee79b.png",
     "country": "",
@@ -945,15 +864,6 @@
     "isHttps": true
   },
   {
-    "name": "L'Equipe (1080p)",
-    "logo": "https://i.imgur.com/t35zhM9.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Lacrosse TV (720p)",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
     "country": "",
@@ -963,12 +873,30 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Sports\",TVRI Sport [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Arena Sport 4 (1081p)",
     "logo": "https://i.imgur.com/h1XhGkz.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Arena Sport Premium 1 BH (1080p)",
+    "logo": "https://imgur.com/csv6YsL",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8",
     "isHttps": true
   },
   {
@@ -1005,6 +933,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Premier Sports 1",
+    "logo": "https://i.imgur.com/eOybZMU.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8",
     "isHttps": true
   },
   {
@@ -1116,57 +1053,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Radio Turrialba TV Sports (720p)",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Radio Turrialba TV Sports (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/2ZcUXbE.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://sc2.escuela4.com/live/92974f62a8d5e5caf8f6d1c98fe9b2615f2238c5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Arena Sport 1",
-    "logo": "https://i.imgur.com/RJrJGbW.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://lb.dstvmultimedia.com/AS1SLOHD/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Arena Sport 2",
-    "logo": "https://i.imgur.com/aqlECBj.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://lb.dstvmultimedia.com/AS2SLOHD/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Premier Sports 1",
-    "logo": "https://i.imgur.com/eOybZMU.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Entertainment;Sports\",Right Now Tv (720p)",
-    "logo": "https://i.imgur.com/OxbIla4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Sports",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Sports\",FUEL TV (1080p)",
-    "logo": "https://i.imgur.com/I8mviBy.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/playlist.m3u8?ads.vf=gbdyvfXODOK",
+    "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
     "isHttps": true
   },
   {
@@ -1467,15 +1359,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport Premium 1 BH (1080p)",
-    "logo": "https://imgur.com/csv6YsL",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport Premium 3 BH (720p)",
     "logo": "https://i.imgur.com/gpqemLf.png",
     "country": "",
@@ -1512,15 +1395,6 @@
     "isHttps": true
   },
   {
-    "name": "Lucha Libre AAA",
-    "logo": "https://i.imgur.com/Nc7K060.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "M Sports (1080p)",
     "logo": "https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png",
     "country": "",
@@ -1539,24 +1413,6 @@
     "isHttps": true
   },
   {
-    "name": "Marquee Sports Network (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MAX Sports",
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxSports.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "MLB Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/ym3su2J.png",
     "country": "",
@@ -1566,12 +1422,12 @@
     "isHttps": true
   },
   {
-    "name": "MLB Network (1080p)",
+    "name": "MLB Network (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/sA5V39D.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8",
+    "url": "https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1626,15 +1482,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MTRSPT1 (1080p)",
-    "logo": "https://i.imgur.com/Rb1H5cV.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1707,6 +1554,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NESN (720p)",
+    "logo": "https://i.imgur.com/Lv1bUG5.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://gpuserver3.tier1streams.com/NESN/index.m3u8",
     "isHttps": true
   },
   {
@@ -1863,15 +1719,6 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Fútbol",
-    "logo": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1777492822828.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Håndbold Highlights",
     "logo": "https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png",
     "country": "",
@@ -2025,12 +1872,12 @@
     "isHttps": true
   },
   {
-    "name": "Poker Go (1080p)",
+    "name": "PokerGO",
     "logo": "https://i.imgur.com/1603HED.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8",
+    "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
     "isHttps": true
   },
   {
@@ -2052,93 +1899,12 @@
     "isHttps": true
   },
   {
-    "name": "Premiere FC 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "Premiere FC 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "Premiere FC 3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "Premiere FC 4",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "Premiere FC 5",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "Premiere FC 6",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "Premiere FC 7",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "Premiere FC 8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
     "name": "Prime (1080p)",
     "logo": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
     "country": "",
     "language": "",
     "group": "General;Sports",
     "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "PRO Sport International",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://proshls.wns.live/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -2286,6 +2052,15 @@
     "isHttps": true
   },
   {
+    "name": "RightNow TV (720p)",
+    "logo": "https://i.imgur.com/OxbIla4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Sports",
+    "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "S Sport (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
     "country": "",
@@ -2319,15 +2094,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sin Po TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd",
     "isHttps": true
   },
   {
@@ -2493,51 +2259,6 @@
     "isHttps": true
   },
   {
-    "name": "SporTV (1280p)",
-    "logo": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "SporTV 2 (1280p)",
-    "logo": "https://i.imgur.com/pBiUnb2.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "SporTV 2 Alternativo (720p)",
-    "logo": "https://i.imgur.com/aoMlRgP.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/19025/video.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "SporTV 3 (1080p)",
-    "logo": "https://i.imgur.com/mWOR8pi.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
-    "isHttps": true
-  },
-  {
-    "name": "SporTV Alternativo (720p)",
-    "logo": "https://i.imgur.com/8M5dLEb.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stm.sinalmycn.com/19024/video.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sporty TV",
     "logo": "https://i.imgur.com/Wz5bQKx.jpeg",
     "country": "",
@@ -2571,15 +2292,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Sports 2 HD (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -2727,12 +2439,12 @@
     "isHttps": true
   },
   {
-    "name": "Tigo Sports (1080p)",
+    "name": "Tigo Sports (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/6wkmgGM.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://master.tucableip.com/Amistoso/index.m3u8",
+    "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
     "isHttps": true
   },
   {
@@ -2880,15 +2592,6 @@
     "isHttps": true
   },
   {
-    "name": "TVRI Sport (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TVS Bowling Network (720p)",
     "logo": "https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg",
     "country": "",
@@ -3003,15 +2706,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "W14DK-D 14.5 All Sports Television Network",
-    "logo": "https://i.imgur.com/D4mZ8ll.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3402,15 +3096,6 @@
     "isHttps": false
   },
   {
-    "name": "FanDuel TV (720p)",
-    "logo": "https://i.imgur.com/YPHrFU0.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/TVG/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "FB TV",
     "logo": "https://i.imgur.com/qBVqtYd.png",
     "country": "",
@@ -3426,6 +3111,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://145.239.5.177/556a/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fox Deportes (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
     "isHttps": false
   },
   {
@@ -3461,7 +3155,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://72.1.184.5:8089/play/a0cw/index.m3u8",
+    "url": "http://15.204.246.24:8080/GolfChannelHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3534,15 +3228,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://88.212.15.19/live/sport2_hun/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Arena Sport 3 (1080p)",
-    "logo": "https://i.imgur.com/3r3burN.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://143.244.62.109/as3slo/index.m3u8",
     "isHttps": false
   },
   {
@@ -3798,15 +3483,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport Klub",
-    "logo": "https://i.imgur.com/DpJUrlr.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a079",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV+",
     "logo": "https://i.imgur.com/R5FZEW6.png",
     "country": "",
@@ -3831,24 +3507,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://znty.dyndns.org:5010/hls/stv2.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV3",
-    "logo": "https://i.imgur.com/6Dw3GUx.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://znty.dyndns.org:5010/hls/stv3.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV4",
-    "logo": "https://i.imgur.com/mJlbVfW.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://znty.dyndns.org:5010/hls/stv4.m3u8",
     "isHttps": false
   },
   {
@@ -4023,57 +3681,12 @@
     "isHttps": false
   },
   {
-    "name": "MSG 2 (720p)",
-    "logo": "https://i.imgur.com/ErJUkYD.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.52/MSG_2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NBCSN (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NESN (720p)",
-    "logo": "https://i.imgur.com/Lv1bUG5.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://23.237.104.106:8080/USA_NESN/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "NFL Network (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NW Sport 1 (1080p)",
-    "logo": "https://i.imgur.com/gIR8iap.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://41.205.70.146/BEINSPORT1/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NW Sport 2 (1080p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://41.205.70.146/M6/index.m3u8",
     "isHttps": false
   },
   {
@@ -4119,51 +3732,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 1 (1080p)",
-    "logo": "https://i.imgur.com/g2YieTL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07r",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 2 (1080p)",
-    "logo": "https://i.imgur.com/Jg4n9R2.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07s",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 3 (1080p)",
-    "logo": "https://i.imgur.com/9SRFaux.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07a",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 4 (1080p)",
-    "logo": "https://i.imgur.com/UZQvdEA.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07b",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Fight",
-    "logo": "https://i.imgur.com/8x1FV3o.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a070",
     "isHttps": false
   },
   {
@@ -4221,15 +3789,6 @@
     "isHttps": false
   },
   {
-    "name": "Sony Sports Ten 3 Hindi (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sport TV (1080p)",
     "logo": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",
     "country": "",
@@ -4257,12 +3816,21 @@
     "isHttps": false
   },
   {
+    "name": "SporTV 3 (720p)",
+    "logo": "https://i.imgur.com/mWOR8pi.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Sports 1 HD (1080p)",
     "logo": "https://i.imgur.com/E5jjKHI.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://103.253.18.58:8000/play/a00m",
+    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
     "isHttps": false
   },
   {
@@ -4281,6 +3849,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://103.253.18.58:8000/play/a00t",
+    "isHttps": false
+  },
+  {
+    "name": "Star Sports 2 HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
     "isHttps": false
   },
   {
@@ -4356,42 +3933,6 @@
     "isHttps": false
   },
   {
-    "name": "TSN2 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/TSN_2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TSN3 (1080p)",
-    "logo": "https://i.imgur.com/AYza8KO.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/TSN_3/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TSN4 (1080p)",
-    "logo": "https://i.imgur.com/qJyAWU8.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/TSN_4/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TSN5 (1080p)",
-    "logo": "https://i.imgur.com/HEzHpzz.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/TSN_5/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TVMatic Fight (720p)",
     "logo": "https://i.imgur.com/l5PBcKN.png",
     "country": "",
@@ -4401,12 +3942,12 @@
     "isHttps": false
   },
   {
-    "name": "TVP Sport (1080p)",
+    "name": "TVP Sport (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/JUZDOCO.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07f",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8",
     "isHttps": false
   },
   {

@@ -18,6 +18,15 @@
     "isHttps": true
   },
   {
+    "name": "ATM Rozrywka REWORK (720p)",
+    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://grupaatmrr.org.pl:8888/fallback/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BabyFirst (720p)",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "country": "",
@@ -585,24 +594,6 @@
     "isHttps": true
   },
   {
-    "name": "13 Ulica (1080p)",
-    "logo": "https://i.imgur.com/0gCNnLq.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a088",
-    "isHttps": false
-  },
-  {
-    "name": "ATM Rozrywka REWORK (1080p)",
-    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://51.38.132.146:8877/ATMRR/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "AXN Black Poland (576p)",
     "logo": "https://i.imgur.com/Peo1QiZ.png",
     "country": "",
@@ -618,24 +609,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://185.227.34.179:8080/axn-white/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC First",
-    "logo": "https://i.imgur.com/UBoBYUI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://91.146.94.234:10001/play/a087",
-    "isHttps": false
-  },
-  {
-    "name": "Eska TV (1080p)",
-    "logo": "https://i.imgur.com/N0eH0Cg.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://91.246.72.88:8000/play/a002/index.m3u8",
     "isHttps": false
   },
   {
@@ -666,75 +639,12 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Polsat Sport 2 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://91.146.94.234:10001/play/a06z",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport Klub",
-    "logo": "https://i.imgur.com/DpJUrlr.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a079",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport 1 (1080p)",
+    "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://91.146.94.234:10001/play/a0c4",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 1 (1080p)",
-    "logo": "https://i.imgur.com/g2YieTL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07r",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 2 (1080p)",
-    "logo": "https://i.imgur.com/Jg4n9R2.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07s",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 3 (1080p)",
-    "logo": "https://i.imgur.com/9SRFaux.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07a",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Extra 4 (1080p)",
-    "logo": "https://i.imgur.com/UZQvdEA.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07b",
-    "isHttps": false
-  },
-  {
-    "name": "Polsat Sport Fight",
-    "logo": "https://i.imgur.com/8x1FV3o.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a070",
+    "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
     "isHttps": false
   },
   {
@@ -762,15 +672,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://193.24.244.60:1001/udp/239.254.4.122:6060",
-    "isHttps": false
-  },
-  {
-    "name": "SkyShowtime 1 Poland",
-    "logo": "https://i.imgur.com/Dw9Yv9P.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://91.146.94.234:10001/play/a0bg",
     "isHttps": false
   },
   {
@@ -819,12 +720,12 @@
     "isHttps": false
   },
   {
-    "name": "TVP Sport (1080p)",
+    "name": "TVP Sport (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/JUZDOCO.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://91.146.94.234:10001/play/a07f",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8",
     "isHttps": false
   },
   {

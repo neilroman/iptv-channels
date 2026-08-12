@@ -54,15 +54,6 @@
     "isHttps": true
   },
   {
-    "name": "Antara TV",
-    "logo": "https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Ashiil TV (480p)",
     "logo": "https://i.imgur.com/bTktkcr.png",
     "country": "",
@@ -180,15 +171,6 @@
     "isHttps": true
   },
   {
-    "name": "CinemaWorld (720p)",
-    "logo": "https://i.imgur.com/D2qNVZ7.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cdn.qd.je/163189/cinemaworld",
-    "isHttps": true
-  },
-  {
     "name": "CNBC Indonesia (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png",
     "country": "",
@@ -222,15 +204,6 @@
     "language": "",
     "group": "General",
     "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DM TV Malang",
-    "logo": "https://i.imgur.com/3iC41QX.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://e.siar.us/live/dmtv.m3u8",
     "isHttps": true
   },
   {
@@ -288,15 +261,6 @@
     "isHttps": true
   },
   {
-    "name": "Elshinta TV",
-    "logo": "https://i.imgur.com/x5uoy2H.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Ficom Channel (720p)",
     "logo": "https://i.imgur.com/KMEf0Cc.png",
     "country": "",
@@ -351,15 +315,6 @@
     "isHttps": true
   },
   {
-    "name": "IDX Channel (720p)",
-    "logo": "https://i.imgur.com/xPvrcsr.png",
-    "country": "",
-    "language": "",
-    "group": "Business",
-    "url": "https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Indonesiana.TV (720p)",
     "logo": "https://i.imgur.com/192wiS1.png",
     "country": "",
@@ -369,39 +324,12 @@
     "isHttps": true
   },
   {
-    "name": "iNews (720p)",
-    "logo": "https://i.imgur.com/M2R3lfg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Izzah TV (480p)",
     "logo": "https://i.imgur.com/my7aqLc.png",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Jak TV (720p)",
-    "logo": "https://i.imgur.com/xyLLLOi.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "Jakarta Globe News Channel (1080p)",
-    "logo": "https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8",
     "isHttps": true
   },
   {
@@ -540,6 +468,24 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Sports\",TVRI Sport [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Jak TV [Geo-blocked]",
+    "logo": "https://i.imgur.com/xyLLLOi.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",tvOne [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png",
     "country": "",
@@ -591,51 +537,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://stream.matrixtv.id/hls/0/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MAX Eats",
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxEats.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "MAX Kids",
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxKids.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "MAX Reels",
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxReels.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "MAX Sports",
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxSports.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "MAX Streak",
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxStreak.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
     "isHttps": true
   },
   {
@@ -693,15 +594,6 @@
     "isHttps": true
   },
   {
-    "name": "MTA TV",
-    "logo": "https://i.imgur.com/3kGs7k0.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "MTA6 Asia (1080p)",
     "logo": "https://i.imgur.com/nhCNPJI.png",
     "country": "",
@@ -756,30 +648,12 @@
     "isHttps": true
   },
   {
-    "name": "PJTV (720p)",
-    "logo": "https://i.imgur.com/jxdLWpC.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "PKTV (480p)",
     "logo": "https://i.imgur.com/mldv8Sf.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Prambors",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_xxhdpi.webp",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd",
     "isHttps": true
   },
   {
@@ -807,24 +681,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Rakyat Bengkulu TV (720p)",
-    "logo": "https://i.imgur.com/5L2q081.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://flv.intechmedia.net/live/ch59.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RCTI HD (720p)",
-    "logo": "https://i.imgur.com/iLFx8ia.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd",
     "isHttps": true
   },
   {
@@ -864,15 +720,6 @@
     "isHttps": true
   },
   {
-    "name": "Sakti TV (720p)",
-    "logo": "https://i.imgur.com/IDNjMfQ.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Salam TV (1080p)",
     "logo": "https://i.imgur.com/00Ifzgo.png",
     "country": "",
@@ -906,33 +753,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Selaparang TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sin Po TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "Sindo News TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd",
     "isHttps": true
   },
   {
@@ -1017,21 +837,12 @@
     "isHttps": true
   },
   {
-    "name": "Surabaya TV (1080p)",
-    "logo": "https://i.imgur.com/jlss2ll.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://e.siar.us/live/surabayatv.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Surau TV (720p)",
+    "name": "Surau TV",
     "logo": "https://i.imgur.com/CKoxcWL.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://surautv.siar.us/live/surautv.m3u8",
+    "url": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8",
     "isHttps": true
   },
   {
@@ -1044,39 +855,12 @@
     "isHttps": true
   },
   {
-    "name": "Trans TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Trans7 (720p)",
-    "logo": "https://i.imgur.com/fAbGImS.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV Mu (720p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://e.siar.us/live/tvmu.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV MUI",
-    "logo": "https://i.imgur.com/vWtViyC.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://indihuy.streamized.net/atm/DASH/muitv/manifest.mpd",
     "isHttps": true
   },
   {
@@ -1314,15 +1098,6 @@
     "isHttps": true
   },
   {
-    "name": "TVRI Sport (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TVRI Sulawesi Barat (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
     "country": "",
@@ -1431,15 +1206,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Bioskop",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zee_Bioskop_(2025).svg/960px-Zee_Bioskop_(2025).svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Al-Bahjah TV (1080p)",
     "logo": "https://i.imgur.com/52dlDZk.png",
     "country": "",
@@ -1512,6 +1278,15 @@
     "isHttps": false
   },
   {
+    "name": "CinemaWorld (720p)",
+    "logo": "https://i.imgur.com/D2qNVZ7.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Fajar TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/mkuXxRK.png",
     "country": "",
@@ -1521,57 +1296,12 @@
     "isHttps": false
   },
   {
-    "name": "Jawa Pos TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jawa Pos TV Bali (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Jawa Pos TV Jakarta (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jawa Pos TV Madiun (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jawa Pos TV Magelang (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jawa Pos TV Semarang (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -1599,15 +1329,6 @@
     "language": "",
     "group": "General",
     "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "JTV Kediri",
-    "logo": "https://i.imgur.com/mIDWIQk.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -1647,12 +1368,12 @@
     "isHttps": false
   },
   {
-    "name": "Kids TV (1080p)",
+    "name": "Kids TV",
     "logo": "https://i.imgur.com/B5YiUIP.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kids-tv-hd.m3u8",
+    "url": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
     "isHttps": false
   },
   {
@@ -1770,15 +1491,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Timor TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
     "isHttps": false
   },
   {

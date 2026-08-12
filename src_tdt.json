@@ -1134,48 +1134,12 @@
     "isHttps": true
   },
   {
-    "name": "Bon Dia TV",
-    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Bon Dia TV GEO",
-    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://directes-tv-es.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Bon Dia TV GEO",
-    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://directes-tv-es.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bon Dia TV GEO CAT",
     "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
     "country": "",
     "language": "",
     "group": "Cataluña",
     "url": "https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Bon Dia TV GEO CAT",
-    "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -1274,7 +1238,7 @@
     "country": "",
     "language": "",
     "group": "Canarias",
-    "url": "https://videoserver.tmcreativos.com:19360/wwzthqpupr/wwzthqpupr.m3u8",
+    "url": "https://videoserver.tmcreativos.com:19360/hkbpjryheu/hkbpjryheu.m3u8",
     "isHttps": true
   },
   {
@@ -2223,48 +2187,12 @@
     "isHttps": true
   },
   {
-    "name": "Esport3",
-    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Esport3",
-    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Esport3 GEO",
-    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Esport3 GEO",
     "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Deportivos",
     "url": "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Esport3 GEO CAT",
-    "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Deportivos",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -3344,7 +3272,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://liveingesta318.cdnmedia.tv/ondacadizlive/smil:ondacadiztv.smil/playlist.m3u8?DVR",
+    "url": "https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3367,7 +3295,7 @@
   },
   {
     "name": "Onda Valencia",
-    "logo": "https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200",
+    "logo": "https://yt3.googleusercontent.com/aAS5uJNDnPz53xkeUbZ_1NaV8TJv35qhoFcmmE9UgIkpquYpNUOP6bRLwcB5WUcznnQdubdO=s200",
     "country": "",
     "language": "",
     "group": "C. Valenciana",
@@ -3479,7 +3407,16 @@
     "country": "",
     "language": "",
     "group": "Int. América",
-    "url": "https://www.redpat.tv:8000/play/12/74929205.m3u8",
+    "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pat Bolivia",
+    "logo": "https://graph.facebook.com/patboliviahd/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. América",
+    "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
     "isHttps": true
   },
   {
@@ -4698,15 +4635,6 @@
     "isHttps": true
   },
   {
-    "name": "TV Artequatre",
-    "logo": "https://graph.facebook.com/tvArtequatre/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "C. Valenciana",
-    "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV Canaria (RTVC)",
     "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=200&height=200",
     "country": "",
@@ -4860,6 +4788,15 @@
     "isHttps": true
   },
   {
+    "name": "tvA",
+    "logo": "https://graph.facebook.com/tvArtequatre/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "C. Valenciana",
+    "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVE Int. América GEO",
     "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
     "country": "",
@@ -4974,6 +4911,15 @@
     "language": "",
     "group": "Galicia",
     "url": "https://crtvg-events3.flumotion.cloud/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVG Eventos",
+    "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Galicia",
+    "url": "https://crtvg-events4.flumotion.cloud/playlist.m3u8",
     "isHttps": true
   },
   {

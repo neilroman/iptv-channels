@@ -99,15 +99,6 @@
     "isHttps": true
   },
   {
-    "name": "Banat TV (720p)",
-    "logo": "https://i.imgur.com/yVsocid.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://www.btv.ro/hls/banat-tv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Boom TV (1080p)",
     "logo": "https://live.radioboom.ro/live-tv/poster.jpg",
     "country": "",
@@ -360,15 +351,6 @@
     "isHttps": true
   },
   {
-    "name": "MediCOOL TV",
-    "logo": "https://i.imgur.com/Xe7x1k2.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://dai.google.com/linear/hls/pa/event/dpT7XJvhSzm5-pQkjgqRtg/stream/851625d8-0bfe-4ea1-a924-ddb3ff4d1e53:GRQ/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Metropola TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/Gzq05v8.png",
     "country": "",
@@ -549,6 +531,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
+    "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Realitatea Plus (720p)",
     "logo": "https://i.imgur.com/kqEPVPk.png",
     "country": "",
@@ -630,15 +621,6 @@
     "isHttps": true
   },
   {
-    "name": "Tele7music",
-    "logo": "https://i.imgur.com/11b5W8u.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TeleMoldova + [Geo-blocked]",
     "logo": "https://i.imgur.com/8z0zLjw.jpeg",
     "country": "",
@@ -666,30 +648,12 @@
     "isHttps": true
   },
   {
-    "name": "TV Arad (720p)",
-    "logo": "https://i.imgur.com/4yZV72X.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV SUD (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/m3Slmbe.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV-Nord (1080p)",
-    "logo": "https://i.imgur.com/86JYRVH.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -870,15 +834,6 @@
     "language": "",
     "group": "General",
     "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Rapsodia TV (576p)",
-    "logo": "https://i.imgur.com/mwMG7BB.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://92.86.248.141:8080/ram/playlist.m3u8",
     "isHttps": false
   },
   {

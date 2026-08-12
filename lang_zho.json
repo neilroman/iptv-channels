@@ -54,15 +54,6 @@
     "isHttps": true
   },
   {
-    "name": "CCTV-13 (1080p)",
-    "logo": "https://i.imgur.com/6MTar6J.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cdn3.163189.xyz/163189/cctv13",
-    "isHttps": true
-  },
-  {
     "name": "CCTV-15 (1080p)",
     "logo": "https://i.imgur.com/CCV0eRG.png",
     "country": "",
@@ -504,33 +495,6 @@
     "isHttps": true
   },
   {
-    "name": "New TV Comprehensive",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "New TV Finance",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_2xlnqlst/landscape_carousel_xxhdpi.webp",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "New TV Variety",
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Series",
-    "url": "https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd",
-    "isHttps": true
-  },
-  {
     "name": "NTD TV (1080p)",
     "logo": "https://i.imgur.com/QtFM5Oo.png",
     "country": "",
@@ -765,15 +729,6 @@
     "isHttps": true
   },
   {
-    "name": "房山电视台 (576p)",
-    "logo": "https://i.imgur.com/WJeOjFE.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live.funhillrm.com/2/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "白城新闻综合 [Geo-blocked]",
     "logo": "https://www.tvchinese.net/uploads/tv/baicheng.jpg",
     "country": "",
@@ -870,6 +825,15 @@
     "language": "",
     "group": "News",
     "url": "http://go.bkpcp.top/mg/cctv13",
+    "isHttps": false
+  },
+  {
+    "name": "CCTV-13 (720p)",
+    "logo": "https://i.imgur.com/6MTar6J.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
     "isHttps": false
   },
   {
@@ -1296,48 +1260,12 @@
     "isHttps": false
   },
   {
-    "name": "Shaanxi Satelital TV",
-    "logo": "https://logo9.net/userfiles/images/877r3.jpg",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Shanghai Education Television Station",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Culture;Education",
-    "url": "http://223.166.234.114:7777/tsfile/live/1033_1.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Siping TV",
     "logo": "https://www.tvchinese.net/uploads/tv/sptv1.jpg",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
-    "isHttps": false
-  },
-  {
-    "name": "STV City",
-    "logo": "https://upload.wikimedia.org/wikipedia/zh/9/94/Shanghai_City_TV.PNG",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1",
-    "isHttps": false
-  },
-  {
-    "name": "STV News and General",
-    "logo": "https://skin.kankanews.com/logo/logo180x80.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1",
     "isHttps": false
   },
   {
@@ -1917,12 +1845,12 @@
     "isHttps": false
   },
   {
-    "name": "青海卫视 (1080p)",
+    "name": "青海卫视 (576p)",
     "logo": "https://i.imgur.com/Nyuxo8S.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://live.geermurmt.com/qhws/sd/live.m3u8",
+    "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8",
     "isHttps": false
   },
   {
