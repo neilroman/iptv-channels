@@ -2223,12 +2223,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 24 Horas Canarias (720p)",
+    "name": "Canal 24 Horas (720p)",
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "country": "",
     "language": "",
     "group": "News;Public",
-    "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
     "isHttps": true
   },
   {
@@ -4428,15 +4428,6 @@
     "isHttps": true
   },
   {
-    "name": "Córdoba TV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/qVe0hET.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Correa Radiovision",
     "logo": "https://i.imgur.com/bNCGzjf.jpeg",
     "country": "",
@@ -5049,12 +5040,12 @@
     "isHttps": true
   },
   {
-    "name": "DreikoTv (720p) [Not 24/7]",
+    "name": "Dreiko TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/k8U0e0b.png",
     "country": "",
     "language": "",
     "group": "Animation",
-    "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+    "url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
     "isHttps": true
   },
   {
@@ -8997,15 +8988,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MSG Plus (720p)",
-    "logo": "https://i.imgur.com/7suDpSK.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8",
     "isHttps": true
   },
   {
@@ -16047,12 +16029,12 @@
     "isHttps": true
   },
   {
-    "name": "TVE Internacional Europe-Asia HD (1080p)",
+    "name": "TVE Internacional Europe HD (1080p) [Geo-blocked]",
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://siarlive.psce.pw/channel5",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
     "isHttps": true
   },
   {
@@ -17586,7 +17568,7 @@
     "isHttps": false
   },
   {
-    "name": "24 Horas (1080p)",
+    "name": "24 Horas Canarias (1080p)",
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "country": "",
     "language": "",

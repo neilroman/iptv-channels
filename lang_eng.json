@@ -4802,7 +4802,7 @@
     "country": "",
     "language": "",
     "group": "Business",
-    "url": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+    "url": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
     "isHttps": true
   },
   {
@@ -5108,7 +5108,7 @@
     "country": "",
     "language": "",
     "group": "Culture;Documentary;Travel",
-    "url": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+    "url": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
     "isHttps": true
   },
   {
@@ -5577,15 +5577,6 @@
     "language": "",
     "group": "Comedy",
     "url": "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Comedy TV (720p)",
-    "logo": "https://i.imgur.com/KLfXnba.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8",
     "isHttps": true
   },
   {
@@ -6503,7 +6494,7 @@
     "country": "",
     "language": "",
     "group": "Culture;Documentary",
-    "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+    "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
     "isHttps": true
   },
   {
@@ -10027,7 +10018,7 @@
   },
   {
     "name": "Kaloopy TV (1080p)",
-    "logo": "https://i.imgur.com/XPyOTZF.jpeg",
+    "logo": "https://vcz-kapang-tv.b-cdn.net/files/thumbs/2026/05/06/1778037346ayAfpsWIMj-300x300-square.png",
     "country": "",
     "language": "",
     "group": "Lifestyle",
@@ -12537,15 +12528,6 @@
     "isHttps": true
   },
   {
-    "name": "MSG Plus (720p)",
-    "logo": "https://i.imgur.com/7suDpSK.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "MST3K (1080p)",
     "logo": "https://i.imgur.com/2LSdcga.png",
     "country": "",
@@ -13488,15 +13470,6 @@
     "language": "",
     "group": "Business",
     "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "NESN (720p)",
-    "logo": "https://i.imgur.com/Lv1bUG5.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver3.tier1streams.com/NESN/index.m3u8",
     "isHttps": true
   },
   {
@@ -14640,6 +14613,15 @@
     "language": "",
     "group": "News",
     "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "PBO (480p)",
+    "logo": "https://i.imgur.com/HZURi7d.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streams.comclark.com/pknsd/pbo/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -20106,15 +20088,6 @@
     "isHttps": true
   },
   {
-    "name": "The Cowboy Channel (1080p)",
-    "logo": "https://i.imgur.com/0F1c7x4.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "The Cycling Channel",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbjHW_j4DfsuAn4278ebtzhibMvY7KSOyow&s",
     "country": "",
@@ -21519,12 +21492,12 @@
     "isHttps": true
   },
   {
-    "name": "TVE Internacional Europe-Asia HD (1080p)",
+    "name": "TVE Internacional Europe HD (1080p) [Geo-blocked]",
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://siarlive.psce.pw/channel5",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
     "isHttps": true
   },
   {
@@ -22164,15 +22137,6 @@
     "language": "",
     "group": "Music",
     "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Vasantham [Geo-blocked]",
-    "logo": "https://i.imgur.com/vqVEcuT.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8",
     "isHttps": true
   },
   {
@@ -24183,6 +24147,24 @@
     "isHttps": false
   },
   {
+    "name": "C-SPAN (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "http://40.160.24.56/C-SPAN_HD_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "C-SPAN 2 (720p)",
+    "logo": "https://i.imgur.com/9B6XIQC.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "http://40.160.24.56/C-SPAN_2_SD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canada One (720p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -24297,6 +24279,15 @@
     "language": "",
     "group": "News",
     "url": "http://163.61.227.29:8000/play/a02r/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cleo TV (720p)",
+    "logo": "https://i.imgur.com/US0T6DC.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://40.160.24.56/Cleo_TV_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -26457,6 +26448,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://92.114.85.72:8000/play/a0lb",
+    "isHttps": false
+  },
+  {
+    "name": "The Cowboy Channel (720p)",
+    "logo": "https://i.imgur.com/0F1c7x4.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://40.160.24.56/THE_COWBOY_CHANNEL_SD/index.m3u8",
     "isHttps": false
   },
   {
