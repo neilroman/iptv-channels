@@ -1485,15 +1485,6 @@
     "isHttps": true
   },
   {
-    "name": "E 24 (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://trs1.aynaott.com/e24/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "E! Keeping Up (1080p)",
     "logo": "https://i.imgur.com/9F7VYDM.png",
     "country": "",
@@ -2778,6 +2769,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://webtvstream.bhtelecom.ba/gametoon.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Adult Swim Latin America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streamer.metronethn.com/AdultSwim/index.m3u8",
     "isHttps": true
   },
   {
@@ -4698,6 +4698,15 @@
     "isHttps": true
   },
   {
+    "name": "RJTV 29 (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/i0iZQ5G.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streams.comclark.com/pknsd/rjtv_29/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Roar (1080p)",
     "logo": "https://iili.io/FxYNwOB.md.png",
     "country": "",
@@ -4875,6 +4884,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "SolarFlix (480p)",
+    "logo": "https://i.imgur.com/kdf2Rrw.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5985,15 +6003,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee TV HD (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://trs1.aynaott.com/zeetvhd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zo'r TV (576p)",
     "logo": "https://i.imgur.com/NuzyhVM.png",
     "country": "",
@@ -6417,15 +6426,6 @@
     "isHttps": false
   },
   {
-    "name": "E! (720p)",
-    "logo": "https://i.imgur.com/TWFDkap.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://185.102.171.218/Entertainment/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "E! Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
     "country": "",
@@ -6535,7 +6535,7 @@
   },
   {
     "name": "FX (1080p)",
-    "logo": "https://i.imgur.com/ZScwrpi.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -6584,7 +6584,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://8.243.126.131:8000/play/a0fg/index.m3u8",
+    "url": "http://15.204.246.24:8080/HOLATVHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6638,7 +6638,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://8.243.126.131:8000/play/a0mn/index.m3u8",
+    "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
     "isHttps": false
   },
   {
@@ -6665,7 +6665,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://8.243.126.131:8000/play/a01v/index.m3u8",
+    "url": "http://190.93.224.42/LA-TELE/index.m3u8",
     "isHttps": false
   },
   {
@@ -7164,6 +7164,15 @@
     "isHttps": false
   },
   {
+    "name": "MWD Variety (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/wb3Ku8X.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -7354,7 +7363,7 @@
   },
   {
     "name": "ROCK Action (1080p)",
-    "logo": "https://i.imgur.com/l6lmlqG.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png",
     "country": "",
     "language": "",
     "group": "Entertainment",

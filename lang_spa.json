@@ -5751,6 +5751,15 @@
     "isHttps": true
   },
   {
+    "name": "EWTN Spain & Latin America (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "EWTN Spanish (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/sua70RO.png",
     "country": "",
@@ -7854,6 +7863,33 @@
     "language": "",
     "group": "Sports",
     "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Adult Swim Latin America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streamer.metronethn.com/AdultSwim/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Cinemax Latino (480p)",
+    "logo": "https://i.imgur.com/GfsmfGK.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streamer.metronethn.com/Cinemax/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVE Internacional America (720p)",
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streamer.metronethn.com/TVE/index.m3u8",
     "isHttps": true
   },
   {
@@ -14436,6 +14472,15 @@
     "isHttps": true
   },
   {
+    "name": "TeleOnce (1080p)",
+    "logo": "https://i.imgur.com/Crt3P4N.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Teleonuba (1080p)",
     "logo": "https://i.imgur.com/cHMfmO7.png",
     "country": "",
@@ -15981,15 +16026,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TVE Internacional America (576p) [Geo-blocked]",
-    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
     "isHttps": true
   },
   {
@@ -17802,15 +17838,6 @@
     "isHttps": false
   },
   {
-    "name": "Bandamax USA (1080p)",
-    "logo": "https://i.imgur.com/Pch8vTI.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://177.234.249.135:8888/Bandamax/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BBC News Latin America (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -18015,15 +18042,6 @@
     "language": "",
     "group": "Family",
     "url": "http://187.102.210.46/IPE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal N (576p)",
-    "logo": "https://i.imgur.com/Xytvw3J.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
     "isHttps": false
   },
   {
@@ -18289,7 +18307,7 @@
   },
   {
     "name": "Disney Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -18379,7 +18397,7 @@
   },
   {
     "name": "Disney Junior (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -18388,7 +18406,7 @@
   },
   {
     "name": "Disney XD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -18401,7 +18419,7 @@
     "country": "",
     "language": "",
     "group": "Comedy",
-    "url": "http://177.234.249.135:8888/DistritoComedia/index.m3u8",
+    "url": "http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8",
     "isHttps": false
   },
   {
@@ -18420,15 +18438,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://45.162.193.35/DOCU/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "DSports (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://8.243.126.131:8000/play/a05a/index.m3u8",
     "isHttps": false
   },
   {
@@ -18546,33 +18555,6 @@
     "language": "",
     "group": "General",
     "url": "http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ETC TV (576p)",
-    "logo": "https://i.postimg.cc/RVYgh7h9/ETC-Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Animation",
-    "url": "http://181.119.93.83:8000/play/a217/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Europa Europa",
-    "logo": "https://i.imgur.com/w5SOfyJ.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "EWTN Spain & Latin America (720p)",
-    "logo": "https://i.imgur.com/sua70RO.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://177.234.249.135:8888/EWTN/index.m3u8",
     "isHttps": false
   },
   {
@@ -18720,15 +18702,6 @@
     "isHttps": false
   },
   {
-    "name": "Golden Plus (1080p)",
-    "logo": "https://i.imgur.com/OOEkyM2.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://177.234.249.135:8888/GoldenPlus/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Golf Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "country": "",
@@ -18770,7 +18743,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://8.243.126.131:8000/play/a0fg/index.m3u8",
+    "url": "http://15.204.246.24:8080/HOLATVHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -18806,7 +18779,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://8.243.126.131:8000/play/a0mn/index.m3u8",
+    "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
     "isHttps": false
   },
   {
@@ -18869,7 +18842,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://8.243.126.131:8000/play/a01v/index.m3u8",
+    "url": "http://190.93.224.42/LA-TELE/index.m3u8",
     "isHttps": false
   },
   {
@@ -19311,15 +19284,6 @@
     "language": "",
     "group": "News",
     "url": "http://190.93.224.42/PBO/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Plim Plim (1080p)",
-    "logo": "https://i.imgur.com/MYc8srh.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://8.243.126.131:8000/play/a0od/index.m3u8",
     "isHttps": false
   },
   {
@@ -19809,30 +19773,12 @@
     "isHttps": false
   },
   {
-    "name": "TeleHit Estados Unidos (720p)",
-    "logo": "https://i.imgur.com/AfUdtEG.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://177.234.249.135:8888/Telehit/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Telehit Musica (1080p)",
     "logo": "https://i.imgur.com/CofYjWh.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telehit Musica Estados Unidos (720p)",
-    "logo": "https://i.imgur.com/CofYjWh.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://177.234.249.135:8888/TelehitMusica/index.m3u8",
     "isHttps": false
   },
   {
@@ -19922,7 +19868,7 @@
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
+    "url": "http://209.14.115.253:8081/TELENOVELAS/index.m3u8",
     "isHttps": false
   },
   {
@@ -19976,7 +19922,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://181.119.93.83:8000/play/a25t/index.m3u8",
+    "url": "http://190.93.224.42/TV-PERU/index.m3u8",
     "isHttps": false
   },
   {

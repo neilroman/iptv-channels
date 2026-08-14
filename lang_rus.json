@@ -428,7 +428,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+    "url": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "isHttps": true
   },
   {
@@ -1305,6 +1305,15 @@
     "isHttps": true
   },
   {
+    "name": "TDK 42",
+    "logo": "https://i.imgur.com/iVhdcS7.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TeleDom",
     "logo": "https://i.imgur.com/071JRrb.png",
     "country": "",
@@ -1386,6 +1395,15 @@
     "isHttps": true
   },
   {
+    "name": "Ulytau",
+    "logo": "https://i.imgur.com/jTL6TvC.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://ulytau.tv/hls/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Univer TV (1080p)",
     "logo": "https://i.imgur.com/r3u0mxr.png",
     "country": "",
@@ -1446,15 +1464,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://streaming.thestream.cyou/live/7006.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Zhara Kids TV (576p)",
-    "logo": "https://i.imgur.com/OkPqFNY.png",
-    "country": "",
-    "language": "",
-    "group": "Kids;Music",
-    "url": "https://trs1.aynaott.com/discoverykids/index.m3u8",
     "isHttps": true
   },
   {

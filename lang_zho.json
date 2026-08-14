@@ -270,6 +270,15 @@
     "isHttps": true
   },
   {
+    "name": "Guangdong Satellite TV",
+    "logo": "https://parco-zh.github.io/demo/guangdong.jpg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Guangdong TV America",
     "logo": "https://i.imgur.com/7J4qGjA.png",
     "country": "",
@@ -1305,15 +1314,6 @@
     "isHttps": false
   },
   {
-    "name": "东方卫视 (2160p)",
-    "logo": "https://i.imgur.com/WqM6xnF.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://118.81.195.79:9003/hls/23/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "中国气象 (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/syNwDpg.png",
     "country": "",
@@ -1395,15 +1395,6 @@
     "isHttps": false
   },
   {
-    "name": "吉林卫视 (2160p)",
-    "logo": "https://www.tvchinese.net/uploads/tv/jilintv.jpg",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://118.81.195.79:9003/hls/34/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "和政电视台",
     "logo": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
     "country": "",
@@ -1467,6 +1458,15 @@
     "isHttps": false
   },
   {
+    "name": "山东农科 (406p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/EY2zH06.png",
+    "country": "",
+    "language": "",
+    "group": "Science",
+    "url": "http://livealone302.iqilu.com/iqilu/nkpd.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "山东卫视 (1080p)",
     "logo": "https://i.imgur.com/t3ICc4i.png",
     "country": "",
@@ -1518,42 +1518,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://livealone302.iqilu.com/iqilu/qlpd.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "山东��科 (406p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/EY2zH06.png",
-    "country": "",
-    "language": "",
-    "group": "Science",
-    "url": "http://livealone302.iqilu.com/iqilu/nkpd.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "山西卫视 (2160p)",
-    "logo": "https://i.imgur.com/UfKJBWW.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://118.81.195.79:9003/hls/19/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "广东卫视 (2160p)",
-    "logo": "https://parco-zh.github.io/demo/guangdong.jpg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://118.81.195.79:9003/hls/26/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "广西卫视 (576p)",
-    "logo": "https://i.imgur.com/dpre5Qs.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://118.81.195.79:9003/hls/27/index.m3u8",
     "isHttps": false
   },
   {
@@ -1656,39 +1620,12 @@
     "isHttps": false
   },
   {
-    "name": "河南卫视 (2160p)",
-    "logo": "https://i.imgur.com/IBW26kV.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://118.81.195.79:9003/hls/30/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "浙江卫视 (1080p)",
     "logo": "https://i.imgur.com/NFFQNhq.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "海南卫视 (576p)",
-    "logo": "https://i.imgur.com/j6kY8nh.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://118.81.195.79:9003/hls/28/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "湖北卫视 (1080p)",
-    "logo": "https://i.imgur.com/CTRa9BJ.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://118.81.195.79:9003/hls/32/index.m3u8",
     "isHttps": false
   },
   {
@@ -1791,15 +1728,6 @@
     "isHttps": false
   },
   {
-    "name": "重庆卫视 (1080p)",
-    "logo": "https://i.imgur.com/ggKci6o.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://118.81.195.79:9003/hls/22/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "金鹰卡通 (576p)",
     "logo": "https://i.imgur.com/xfVHrKQ.png",
     "country": "",
@@ -1872,12 +1800,12 @@
     "isHttps": false
   },
   {
-    "name": "黑龙江卫视 (2160p)",
+    "name": "黑龙江 (1080p)",
     "logo": "https://i.imgur.com/9fj1uba.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://118.81.195.79:9003/hls/31/index.m3u8",
+    "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8",
     "isHttps": false
   }
 ]

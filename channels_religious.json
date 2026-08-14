@@ -1980,6 +1980,15 @@
     "isHttps": true
   },
   {
+    "name": "EWTN Spain & Latin America (720p)",
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "EWTN Spanish (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/sua70RO.png",
     "country": "",
@@ -2790,6 +2799,15 @@
     "isHttps": true
   },
   {
+    "name": "INC TV (480p)",
+    "logo": "https://i.imgur.com/JGSLqA6.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Inmaculada TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/2lisFJV.png",
     "country": "",
@@ -3300,6 +3318,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Light TV (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/bsjhl6L.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://streams.comclark.com/pknsd/light_tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6279,15 +6306,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://177.234.249.178:8888/ENLACE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "EWTN Spain & Latin America (720p)",
-    "logo": "https://i.imgur.com/sua70RO.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://177.234.249.135:8888/EWTN/index.m3u8",
     "isHttps": false
   },
   {
