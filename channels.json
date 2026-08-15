@@ -24264,6 +24264,15 @@
     "isHttps": true
   },
   {
+    "name": "El Pinguino TV (720p)",
+    "logo": "https://i.imgur.com/ikEs9b8.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "El Pituco TV (720p)",
     "logo": "https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png",
     "country": "",
@@ -40869,6 +40878,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (720p)",
+    "logo": "https://i.imgur.com/wRP9XA7.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Adult Swim Latin America (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
     "country": "",
@@ -40902,6 +40920,51 @@
     "language": "",
     "group": "General",
     "url": "https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 1",
+    "logo": "https://i.imgur.com/MGrJFVN.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 2",
+    "logo": "https://i.imgur.com/Kg7oOcO.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 3",
+    "logo": "https://i.imgur.com/5NZur1S.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Stars",
+    "logo": "https://i.imgur.com/eryPkrT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Turk",
+    "logo": "https://i.imgur.com/nw8Sa2z.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8",
     "isHttps": true
   },
   {
@@ -79673,7 +79736,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8",
+    "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -81060,6 +81123,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TRT Spor (720p)",
+    "logo": "https://i.imgur.com/6tv0zxh.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
     "isHttps": true
   },
   {
@@ -82705,7 +82777,7 @@
     "logo": "https://i.imgur.com/yhIM9yU.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
+    "group": "Religious",
     "url": "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8",
     "isHttps": true
   },
@@ -88002,6 +88074,15 @@
     "isHttps": true
   },
   {
+    "name": "Viva Nicaragua Canal 13 (720p)",
+    "logo": "https://i.imgur.com/9q7Ajz4.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Viva TV Canal 30 San Juan de Río Coco [Not 24/7]",
     "logo": "https://i.imgur.com/n0buXRa.jpeg",
     "country": "",
@@ -90159,15 +90240,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "WLTV-DT1 [Geo-blocked]",
-    "logo": "https://i.imgur.com/Sr3EoK5.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",
     "isHttps": true
   },
   {
@@ -95211,6 +95283,15 @@
     "isHttps": false
   },
   {
+    "name": "BabyFirst Spanish (720p)",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BabyTV Latin America (720p)",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "country": "",
@@ -97488,12 +97569,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel (720p)",
+    "name": "Disney Channel (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+    "url": "http://212.5.144.156/disney/index.m3u8",
     "isHttps": false
   },
   {
@@ -98781,6 +98862,15 @@
     "language": "",
     "group": "News",
     "url": "http://seb.sason.top/ptv/ftv.php?id=tw",
+    "isHttps": false
+  },
+  {
+    "name": "Fujian Comprehensive Channel",
+    "logo": "https://i.imgur.com/rePTGa6.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88",
     "isHttps": false
   },
   {
@@ -101373,6 +101463,24 @@
     "language": "",
     "group": "Undefined",
     "url": "http://stream.mcquack.net/398/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Mulher",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Radical",
+    "logo": "https://i.imgur.com/6g0obyk.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8",
     "isHttps": false
   },
   {
@@ -108549,12 +108657,12 @@
     "isHttps": false
   },
   {
-    "name": "Telemundo West (720p)",
+    "name": "Telemundo West (2160p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
+    "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
     "isHttps": false
   },
   {
@@ -110871,15 +110979,6 @@
     "isHttps": false
   },
   {
-    "name": "Viva Nicaragua Canal 13 (720p)",
-    "logo": "https://i.imgur.com/9q7Ajz4.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://45.171.108.253:8888/VIVA/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Vive TV Colombia (1080p)",
     "logo": "https://i.imgur.com/25CFHpB.png",
     "country": "",
@@ -111084,6 +111183,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "WLTV-DT 23.1 (720p)",
+    "logo": "https://i.imgur.com/Sr3EoK5.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://168.228.44.241:9997/play/a09d/index.m3u8",
     "isHttps": false
   },
   {
@@ -112869,15 +112977,6 @@
     "isHttps": false
   },
   {
-    "name": "少儿科教",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://121.19.134.246:808/hls/23/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "山东体育 (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/zX4RxvG.png",
     "country": "",
@@ -113496,51 +113595,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "河北公共",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://121.19.134.246:808/hls/24/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "河北农民",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://121.19.134.246:808/hls/25/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "河北影视",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://121.19.134.246:808/hls/22/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "河北经济",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://121.19.134.246:808/hls/20/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "河北都市",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://121.19.134.246:808/hls/21/index.m3u8",
     "isHttps": false
   },
   {
