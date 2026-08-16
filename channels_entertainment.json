@@ -396,12 +396,12 @@
     "isHttps": true
   },
   {
-    "name": "Antena 21 (480p)",
+    "name": "Antena 21 (480p) [Not 24/7] [Geo-blocked]",
     "logo": "https://i.imgur.com/QE0XWLh.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8",
+    "url": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
     "isHttps": true
   },
   {
@@ -2520,6 +2520,15 @@
     "isHttps": true
   },
   {
+    "name": "Kapamilya Channel HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/960px-Kapamilya_Channel_Logo_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "KCKS-LD 25.3 (720p)",
     "logo": "https://i.imgur.com/KtXQeeZ.png",
     "country": "",
@@ -4002,6 +4011,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://oitnhls.wns.live/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "One Media Network (480p)",
+    "logo": "https://i.imgur.com/fyfZkKg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streams.comclark.com/pknsd/onemedia/playlist.m3u8",
     "isHttps": true
   },
   {

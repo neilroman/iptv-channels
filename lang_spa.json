@@ -873,21 +873,21 @@
     "isHttps": true
   },
   {
-    "name": "Antena 21 (480p)",
+    "name": "Antena 21 (480p) [Not 24/7] [Geo-blocked]",
     "logo": "https://i.imgur.com/QE0XWLh.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8",
+    "url": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Antena 7 (480p)",
+    "name": "Antena 7 (480p) [Not 24/7] [Geo-blocked]",
     "logo": "https://i.imgur.com/zKWFgeQ.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8",
+    "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
     "isHttps": true
   },
   {
@@ -2988,15 +2988,6 @@
     "isHttps": true
   },
   {
-    "name": "Canal Clave (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/7tMkA4Z.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tv.picta.cu/clave/clave_0.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canal Coín (1080p)",
     "logo": "https://i.imgur.com/3QPJIpa.png",
     "country": "",
@@ -3096,39 +3087,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal Educativo (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/huBxZpP.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal Educativo 2 (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/nOl3H5X.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canal Extremadura (576p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png",
     "country": "",
     "language": "",
     "group": "General;Public",
     "url": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=",
-    "isHttps": true
-  },
-  {
-    "name": "Canal Habana (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/0EUc52w.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tv.picta.cu/infantil/infantil_0.m3u8",
     "isHttps": true
   },
   {
@@ -4671,24 +4635,6 @@
     "isHttps": true
   },
   {
-    "name": "Cubavision (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/ki9ipMU.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Cubavision Internacional (480p)",
-    "logo": "https://i.imgur.com/0ZHm9f6.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tv.picta.cu/cvi/cvi_0.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cultura 24",
     "logo": "https://i.imgur.com/h0LxXsx.png",
     "country": "",
@@ -5616,6 +5562,15 @@
     "isHttps": true
   },
   {
+    "name": "ESPN Deportes HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "eSports Max TV",
     "logo": "https://i.imgur.com/OprRgQN.png",
     "country": "",
@@ -6144,6 +6099,15 @@
     "language": "",
     "group": "General",
     "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FX Movie Channel HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
     "isHttps": true
   },
   {
@@ -8042,7 +8006,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.castr.com/5da89a909db964293ad13301/live_2da463407fcc11f19ca8e70e403e6b54/index.fmp4.m3u8",
+    "url": "https://stream.castr.com/5da89a909db964293ad13301/live_aa3888e0926511f1af7f414b985a2475/index.fmp4.m3u8",
     "isHttps": true
   },
   {
@@ -8051,7 +8015,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_b78ea1b07fcc11f1a8c6adcd20e04bb9/index.fmp4.m3u8",
+    "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_62c23ce08a8b11f1a955e58b585fd65f/index.fmp4.m3u8",
     "isHttps": true
   },
   {
@@ -8060,7 +8024,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.castr.com/5da89a909db964293ad13301/live_d8372fa07fcb11f18271bf033930834b/index.fmp4.m3u8",
+    "url": "https://stream.castr.com/5da89a909db964293ad13301/live_fcf05c9091cd11f1af7f414b985a2475/index.fmp4.m3u8",
     "isHttps": true
   },
   {
@@ -8069,7 +8033,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.castr.com/5da89a909db964293ad13301/live_8361cf307fcb11f18638734c8e2b001b/index.fmp4.m3u8",
+    "url": "https://stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8",
     "isHttps": true
   },
   {
@@ -8388,12 +8352,12 @@
     "isHttps": true
   },
   {
-    "name": "Maniel TV",
+    "name": "Maniel TV (720p) [Not 24/7]",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/4060-294x165-FFFFFF.jpg",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.inliveserver.com:19360/8010/8010.m3u8",
+    "url": "https://mp.panelchs.com/hls/8024/8024.m3u8",
     "isHttps": true
   },
   {
@@ -9321,15 +9285,6 @@
     "language": "",
     "group": "General",
     "url": "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Multivision (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/wBX0GNs.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tv.picta.cu/multivision/multivision_1.m3u8",
     "isHttps": true
   },
   {
@@ -14022,15 +13977,6 @@
     "isHttps": true
   },
   {
-    "name": "Tele Rebelde (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/M6wZzuz.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Tele Safor (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/EowJfr0.png",
     "country": "",
@@ -14724,12 +14670,12 @@
     "isHttps": true
   },
   {
-    "name": "Television Canaria (576p)",
+    "name": "Television Canaria (1080p)",
     "logo": "https://rtvc.es/archivos/2020/03/logo-mobilretina.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8",
+    "url": "https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -19904,7 +19850,7 @@
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://15.204.246.24:8080/TNTNovelasHD/index.m3u8",
+    "url": "http://190.93.224.42/TNT-NOVELAS/index.m3u8",
     "isHttps": false
   },
   {

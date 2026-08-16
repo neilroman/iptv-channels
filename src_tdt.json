@@ -837,7 +837,7 @@
     "isHttps": true
   },
   {
-    "name": "ADN Noticias Mexico",
+    "name": "ADN Noticias México",
     "logo": "https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg",
     "country": "",
     "language": "",
@@ -1216,7 +1216,7 @@
   },
   {
     "name": "Canal 33 Madrid",
-    "logo": "https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200",
+    "logo": "https://yt3.googleusercontent.com/nMLOOCMI7LojDKtlKoYXJEmVin-_lbR4Y-TgAdQ7RvJvuinOI109sFGIl_HwbqlWn3g7qMDH=s200",
     "country": "",
     "language": "",
     "group": "C. de Madrid",
@@ -1278,7 +1278,7 @@
     "isHttps": true
   },
   {
-    "name": "Canal 6 Multimedios Mexico",
+    "name": "Canal 6 Multimedios México",
     "logo": "https://graph.facebook.com/multimediostv/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1341,7 +1341,7 @@
     "isHttps": true
   },
   {
-    "name": "Canal Once Mexico",
+    "name": "Canal Once México",
     "logo": "https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1382,7 +1382,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8",
+    "url": "https://rtva-channel22.flumotion.cloud/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1391,7 +1391,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8",
+    "url": "https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8",
     "isHttps": true
   },
   {
@@ -1409,7 +1409,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+    "url": "https://rtva-channel42.flumotion.cloud/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1836,21 +1836,21 @@
     "isHttps": true
   },
   {
-    "name": "Cuéntame (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Current Time TV",
     "logo": "https://graph.facebook.com/currenttimetv/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. Europa",
     "url": "https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cu��ntame (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8",
     "isHttps": true
   },
   {
@@ -1994,15 +1994,6 @@
     "country": "",
     "language": "",
     "group": "C. de Madrid",
-    "url": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Distrito TV",
-    "logo": "https://graph.facebook.com/2004860103163343/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "C. Valenciana",
     "url": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
     "isHttps": true
   },
@@ -2214,7 +2205,7 @@
     "isHttps": true
   },
   {
-    "name": "Estrella TV Mexico",
+    "name": "Estrella TV México",
     "logo": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2223,7 +2214,7 @@
     "isHttps": true
   },
   {
-    "name": "Estrella TV Mexico",
+    "name": "Estrella TV México",
     "logo": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2232,7 +2223,7 @@
     "isHttps": true
   },
   {
-    "name": "Estrella TV Mexico",
+    "name": "Estrella TV México",
     "logo": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2565,7 +2556,7 @@
     "isHttps": true
   },
   {
-    "name": "Hispan TV Iran",
+    "name": "Hispan TV Irán",
     "logo": "https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg",
     "country": "",
     "language": "",
@@ -2719,7 +2710,7 @@
   },
   {
     "name": "La 1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
+    "logo": "https://graph.facebook.com/la1detve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Generalistas",
@@ -2728,7 +2719,7 @@
   },
   {
     "name": "La 1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
+    "logo": "https://graph.facebook.com/la1detve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Generalistas",
@@ -2737,7 +2728,7 @@
   },
   {
     "name": "La 1 Canarias",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
+    "logo": "https://graph.facebook.com/la1detve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Canarias",
@@ -2746,7 +2737,7 @@
   },
   {
     "name": "La 1 Catalunya",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s",
+    "logo": "https://graph.facebook.com/la1detve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Cataluña",
@@ -2755,7 +2746,7 @@
   },
   {
     "name": "La 2",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
+    "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Generalistas",
@@ -2764,7 +2755,7 @@
   },
   {
     "name": "La 2",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
+    "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Generalistas",
@@ -2773,7 +2764,7 @@
   },
   {
     "name": "La 2 Canarias",
-    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
+    "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Canarias",
@@ -2970,7 +2961,7 @@
     "isHttps": true
   },
   {
-    "name": "María Visión España y Mexico",
+    "name": "María Visión España y México",
     "logo": "https://graph.facebook.com/mariavision/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2979,7 +2970,7 @@
     "isHttps": true
   },
   {
-    "name": "María Visión España y Mexico",
+    "name": "María Visión España y México",
     "logo": "https://graph.facebook.com/mariavision/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3015,7 +3006,7 @@
     "isHttps": true
   },
   {
-    "name": "Mexico Travel TV",
+    "name": "México Travel TV",
     "logo": "https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3555,7 +3546,7 @@
     "isHttps": true
   },
   {
-    "name": "Quiero TV Mexico",
+    "name": "Quiero TV México",
     "logo": "https://graph.facebook.com/quierotvGDL/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3597,15 +3588,6 @@
     "language": "",
     "group": "Informativos",
     "url": "https://ztnr.rtve.es/ztnr/6982917.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Buñol TV",
-    "logo": "https://graph.facebook.com/radiobunyol/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "C. Valenciana",
-    "url": "https://radiotvbunollive.flumotion.cloud/radiotvbunollive/smil:channel1.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4293,7 +4275,7 @@
     "isHttps": true
   },
   {
-    "name": "TELE 10 Nayarit Mexico",
+    "name": "TELE 10 Nayarit México",
     "logo": "https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -5045,7 +5027,7 @@
     "country": "",
     "language": "",
     "group": "Musicales",
-    "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+    "url": "https://copaco.desdeparaguay.net/venusmedia/venusmedia_alt/playlist.m3u8",
     "isHttps": true
   },
   {

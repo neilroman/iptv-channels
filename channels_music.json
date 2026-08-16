@@ -567,15 +567,6 @@
     "isHttps": true
   },
   {
-    "name": "Canal Clave (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/7tMkA4Z.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tv.picta.cu/clave/clave_0.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CCTV-15 (1080p)",
     "logo": "https://i.imgur.com/CCV0eRG.png",
     "country": "",
@@ -2232,15 +2223,6 @@
     "isHttps": true
   },
   {
-    "name": "Mezzo (1080p)",
-    "logo": "https://i.imgur.com/auNdGeW.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "mfm (1080p)",
     "logo": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
     "country": "",
@@ -2445,6 +2427,15 @@
     "language": "",
     "group": "Music",
     "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Myx (480p)",
+    "logo": "https://i.imgur.com/pbHuUuV.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://streams.comclark.com/pknsd/myx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6045,6 +6036,15 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/330/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Mezzo",
+    "logo": "https://i.imgur.com/auNdGeW.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://158.101.222.193:88/georgia_play.php?id=mezzo",
     "isHttps": false
   },
   {
