@@ -15183,15 +15183,6 @@
     "isHttps": true
   },
   {
-    "name": "TUDN (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/oT5CAvd.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Tunevisión (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/XNiXqgj.png",
     "country": "",
@@ -17613,15 +17604,6 @@
     "isHttps": false
   },
   {
-    "name": "ActionMax (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.56/ACTIONMAX_SD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Alcarria TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/pzJAYan.png",
     "country": "",
@@ -18609,15 +18591,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX Movie Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://40.160.24.56/FXM_SD/index.m3u8",
     "isHttps": false
   },
   {
@@ -19869,6 +19842,15 @@
     "language": "",
     "group": "General",
     "url": "http://190.93.224.42/TRIVU-TV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TUDN (1080p)",
+    "logo": "https://i.imgur.com/oT5CAvd.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.190.13.8/TUDNHD/index.m3u8",
     "isHttps": false
   },
   {
