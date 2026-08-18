@@ -468,15 +468,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",Prima TV Moldova (1080p)",
-    "logo": "https://i.imgur.com/cX1L2ds.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Cooking\",Телекафе (720p)",
     "logo": "https://i.imgur.com/1H3h1HL.png",
     "country": "",
@@ -1458,6 +1449,15 @@
     "isHttps": true
   },
   {
+    "name": "Vitebsk",
+    "logo": "https://i.imgur.com/qr26qQn.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Vitrina TV (720p)",
     "logo": "https://i.imgur.com/lzQsVfn.png",
     "country": "",
@@ -1851,6 +1851,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn.ntv.ru/unknown_russia/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Нижний Новгород 24 (1080p)",
+    "logo": "https://i.imgur.com/ZWgPVIC.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -2508,15 +2517,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "��ижний Новгород 24 (1080p)",
-    "logo": "https://i.imgur.com/ZWgPVIC.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -4074,6 +4074,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://hls127.freeott.top:8080/Spas/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star TV",
+    "logo": "https://i.imgur.com/6BBnG6f.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8",
     "isHttps": false
   },
   {

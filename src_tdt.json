@@ -1152,12 +1152,12 @@
     "isHttps": true
   },
   {
-    "name": "Burriana TV",
+    "name": "Burriana TeVe",
     "logo": "https://graph.facebook.com/burrianateve/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "C. Valenciana",
-    "url": "https://stream.burrianateve.com/hls/abr_btv/index.m3u8",
+    "url": "https://stream.burrianateve.com:8443/hls/abr_burrianateve/index.m3u8",
     "isHttps": true
   },
   {
@@ -1391,7 +1391,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8",
+    "url": "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/74cdbd1b401a7598ab8f3e9b5652c9909daa60dd4f6f96f28396a3f1cfd926f2.m3u8",
     "isHttps": true
   },
   {
@@ -1494,7 +1494,7 @@
     "isHttps": true
   },
   {
-    "name": "Castilla-La Mancha Media",
+    "name": "Castilla-La Mancha Media (CMM)",
     "logo": "https://graph.facebook.com/CMMediaes/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1503,7 +1503,7 @@
     "isHttps": true
   },
   {
-    "name": "Castilla-La Mancha Radio",
+    "name": "Castilla-La Mancha Radio (CMM)",
     "logo": "https://graph.facebook.com/RadioCLMes/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1692,6 +1692,15 @@
     "isHttps": true
   },
   {
+    "name": "Conexión Berazategui Argentina",
+    "logo": "https://graph.facebook.com/conexionberaok/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Musicales",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/conexionbera/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Congreso de los Diputados",
     "logo": "https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200",
     "country": "",
@@ -1836,21 +1845,21 @@
     "isHttps": true
   },
   {
-    "name": "Cuéntame (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Current Time TV",
     "logo": "https://graph.facebook.com/currenttimetv/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. Europa",
     "url": "https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cu��ntame (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8",
     "isHttps": true
   },
   {
@@ -2940,15 +2949,6 @@
     "language": "",
     "group": "Andalucía",
     "url": "https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mar TV",
-    "logo": "https://graph.facebook.com/martelevisio/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Cataluña",
-    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
     "isHttps": true
   },
   {
@@ -4631,7 +4631,7 @@
     "country": "",
     "language": "",
     "group": "Canarias",
-    "url": "https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8",
+    "url": "https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4776,24 +4776,6 @@
     "language": "",
     "group": "C. Valenciana",
     "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TVE Int. América GEO",
-    "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. América",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TVE Int. América GEO",
-    "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. América",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8",
     "isHttps": true
   },
   {

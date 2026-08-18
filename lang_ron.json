@@ -315,24 +315,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",Prima TV Moldova (1080p)",
-    "logo": "https://i.imgur.com/cX1L2ds.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinemaraton Moldova",
-    "logo": "https://i.imgur.com/XuDlweg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "LiraTV (720p)",
     "logo": "https://i.imgur.com/hBswXYZ.png",
     "country": "",
@@ -855,6 +837,15 @@
     "isHttps": false
   },
   {
+    "name": "Star TV",
+    "logo": "https://i.imgur.com/6BBnG6f.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TeleM Botosani (540p) [Not 24/7]",
     "logo": "https://i.imgur.com/3EZ8CmJ.png",
     "country": "",
@@ -933,6 +924,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zona M",
+    "logo": "https://i.imgur.com/a6Dy3ao.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8",
     "isHttps": false
   }
 ]
