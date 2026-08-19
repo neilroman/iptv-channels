@@ -450,15 +450,6 @@
     "isHttps": true
   },
   {
-    "name": "ESPN Deportes HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ESPN8 The Ocho (1080p)",
     "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",
     "country": "",
@@ -644,7 +635,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2",
+    "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
     "isHttps": true
   },
   {
@@ -2187,15 +2178,6 @@
     "isHttps": true
   },
   {
-    "name": "Sky Sports Golf HD (1080p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://xemzi.short.gy/2000009",
-    "isHttps": true
-  },
-  {
     "name": "Sky Sports Main Event HD (1080p)",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
     "country": "",
@@ -3051,15 +3033,6 @@
     "isHttps": false
   },
   {
-    "name": "ESPN Deportes (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ESPNU (720p)",
     "logo": "https://i.imgur.com/HiBrysh.png",
     "country": "",
@@ -3816,30 +3789,30 @@
     "isHttps": false
   },
   {
+    "name": "Sky Sports F1 HD (720p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://188.138.29.131/skysportsf1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sports Golf HD (720p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://188.138.29.131/skygolf/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sport TV (1080p)",
     "logo": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://178.124.179.122:8080/SportTV/mpegts",
-    "isHttps": false
-  },
-  {
-    "name": "Sportsman Channel (720p)",
-    "logo": "https://i.imgur.com/CXauv8M.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/Sportsman_Channel/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "SportsNet New York (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/960px-SNY_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/SNY/index.m3u8",
     "isHttps": false
   },
   {
@@ -3951,15 +3924,6 @@
     "isHttps": false
   },
   {
-    "name": "TSN1 (1080p)",
-    "logo": "https://i.imgur.com/eRFE0jZ.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://40.160.24.55/TSN_1/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TVMatic Fight (720p)",
     "logo": "https://i.imgur.com/l5PBcKN.png",
     "country": "",
@@ -4010,16 +3974,7 @@
     "country": "",
     "language": "",
     "group": "Comedy;Movies;Series;Sports",
-    "url": "http://40.160.24.55/USA_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "USA Network West (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy;Movies;Series;Sports",
-    "url": "http://40.160.24.55/USA_NETWORK_WEST/index.m3u8",
+    "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
     "isHttps": false
   },
   {

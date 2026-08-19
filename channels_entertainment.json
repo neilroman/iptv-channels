@@ -3249,6 +3249,15 @@
     "isHttps": true
   },
   {
+    "name": "MeTV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "meWATCH LIVE 1 (1080p)",
     "logo": "https://i.imgur.com/ppxUDxB.png",
     "country": "",
@@ -6219,15 +6228,6 @@
     "isHttps": false
   },
   {
-    "name": "Aspire (720p)",
-    "logo": "https://i.imgur.com/TOM5qO6.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ATV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG",
     "country": "",
@@ -6579,15 +6579,6 @@
     "isHttps": false
   },
   {
-    "name": "INSP (720p)",
-    "logo": "https://i.imgur.com/YgOC51j.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.53/INSP/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Janapriyam TV (480p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Janapriyam_News.png",
     "country": "",
@@ -6612,15 +6603,6 @@
     "language": "",
     "group": "Culture;Entertainment",
     "url": "http://103.72.101.252:8080/live/419.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Justice Central TV (720p)",
-    "logo": "https://i.imgur.com/peuHszg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8",
     "isHttps": false
   },
   {
@@ -6678,15 +6660,6 @@
     "isHttps": false
   },
   {
-    "name": "Lifetime (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.53/LIFETIME/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Lifetime Asia (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
     "country": "",
@@ -6711,15 +6684,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Lifetime Real Women (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/LRW_logo_2012.png/960px-LRW_logo_2012.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8",
     "isHttps": false
   },
   {
@@ -7047,15 +7011,6 @@
     "isHttps": false
   },
   {
-    "name": "Logo (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/500px-Logo_TV_2015.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "M2 (1080p)",
     "logo": "https://i.imgur.com/B0nYT0l.png",
     "country": "",
@@ -7110,15 +7065,6 @@
     "isHttps": false
   },
   {
-    "name": "MeTV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.53/METV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Movistar Plus (576p)",
     "logo": "https://i.imgur.com/yGQGDoi.png",
     "country": "",
@@ -7133,7 +7079,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.53/MTV/index.m3u8",
+    "url": "http://198.58.104.90:8989/mtv/index.m3u8",
     "isHttps": false
   },
   {
@@ -7146,12 +7092,12 @@
     "isHttps": false
   },
   {
-    "name": "MTV2 (1080p)",
+    "name": "MTV2 (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.53/MTV2/index.m3u8",
+    "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
     "isHttps": false
   },
   {
@@ -7223,7 +7169,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://40.160.24.55/OXYGEN/index.m3u8",
+    "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
     "isHttps": false
   },
   {
@@ -7278,15 +7224,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Pop TV (720p)",
-    "logo": "https://i.imgur.com/XySNnh0.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://40.160.24.55/POP/index.m3u8",
     "isHttps": false
   },
   {

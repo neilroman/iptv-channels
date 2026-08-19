@@ -387,6 +387,15 @@
     "isHttps": true
   },
   {
+    "name": "AXN PH (480p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://streams.comclark.com/pknhd/axn/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bab Al Hara (1080p)",
     "logo": "https://i.imgur.com/QtlnZbq.png",
     "country": "",
@@ -4446,15 +4455,6 @@
     "isHttps": false
   },
   {
-    "name": "Hallmark Mystery (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Latina Clasicos (1080p)",
     "logo": "https://i.imgur.com/q0dAWyj.png",
     "country": "",
@@ -4608,15 +4608,6 @@
     "isHttps": false
   },
   {
-    "name": "Paramount Network (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Saphire (1080p)",
     "logo": "https://i.imgur.com/NMOBvle.png",
     "country": "",
@@ -4641,15 +4632,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Start TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/960px-Start_TV_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://40.160.24.55/START_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -4721,16 +4703,7 @@
     "country": "",
     "language": "",
     "group": "Comedy;Movies;Series;Sports",
-    "url": "http://40.160.24.55/USA_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "USA Network West (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy;Movies;Series;Sports",
-    "url": "http://40.160.24.55/USA_NETWORK_WEST/index.m3u8",
+    "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -4748,7 +4721,7 @@
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://40.160.24.55/WE_TV/index.m3u8",
+    "url": "http://170.254.17.2/WE_TV/index.m3u8",
     "isHttps": false
   },
   {

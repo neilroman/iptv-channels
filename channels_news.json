@@ -1242,6 +1242,15 @@
     "isHttps": true
   },
   {
+    "name": "Berita RTM [Geo-blocked]",
+    "logo": "https://i.imgur.com/1Xzxsgl.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "isHttps": true
+  },
+  {
     "name": "BeritaSatu (1080p)",
     "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
     "country": "",
@@ -2232,7 +2241,7 @@
     "isHttps": true
   },
   {
-    "name": "DZRHTV (480p)",
+    "name": "DZRHTV (1080p)",
     "logo": "https://i.imgur.com/qe1QqZh.png",
     "country": "",
     "language": "",
@@ -4722,6 +4731,15 @@
     "language": "",
     "group": "News",
     "url": "https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Newsmax TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
     "isHttps": true
   },
   {
@@ -7916,7 +7934,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://40.160.24.53/MSNBC/index.m3u8",
+    "url": "http://cdn.haititivi.com/MSNBC/index.m3u8",
     "isHttps": false
   },
   {
@@ -7974,24 +7992,6 @@
     "isHttps": false
   },
   {
-    "name": "Newsmax TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://40.160.24.53/NEWSMAX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NewsNation (720p)",
-    "logo": "https://thehill.com/wp-content/uploads/sites/2/2025/08/NN-Stacked-Logo_Blue_1400x787.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://40.160.24.58/NEWSNATION/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "NTN24 (576p)",
     "logo": "https://i.imgur.com/UoKmSAP.png",
     "country": "",
@@ -8010,12 +8010,12 @@
     "isHttps": false
   },
   {
-    "name": "One America News Network (1080p)",
+    "name": "One America News Network (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8",
+    "url": "http://23.237.104.106:8080/USA_OAN/index.m3u8",
     "isHttps": false
   },
   {

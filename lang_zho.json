@@ -54,6 +54,15 @@
     "isHttps": true
   },
   {
+    "name": "Berita RTM [Geo-blocked]",
+    "logo": "https://i.imgur.com/1Xzxsgl.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "isHttps": true
+  },
+  {
     "name": "CCTV-15 (1080p)",
     "logo": "https://i.imgur.com/CCV0eRG.png",
     "country": "",
@@ -690,6 +699,15 @@
     "language": "",
     "group": "General",
     "url": "https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV2 (1080p)",
+    "logo": "https://i.imgur.com/LGEdeyJ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
     "isHttps": true
   },
   {
