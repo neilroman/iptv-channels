@@ -2853,6 +2853,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal 8 San Juan (720p) [Not 24/7]",
+    "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal 8 TV+ (720p)",
     "logo": "https://i.imgur.com/peOIG1F.png",
     "country": "",
@@ -3681,6 +3690,15 @@
     "isHttps": true
   },
   {
+    "name": "CDN Deportes (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/yU5LqTL.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://hls.tvabierta.net/hls/036.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CDNN 23 (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/7CNzlB6.png",
     "country": "",
@@ -4371,6 +4389,15 @@
     "language": "",
     "group": "General",
     "url": "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Coral 39 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/k6cv9A9.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls.tvabierta.net/hls/039.m3u8",
     "isHttps": true
   },
   {
@@ -6234,6 +6261,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "GikTVMX (720p)",
+    "logo": "https://i.imgur.com/Gwz78jZ.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Culture;Entertainment",
+    "url": "https://pistream.ddns.net/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -12906,6 +12942,15 @@
     "isHttps": true
   },
   {
+    "name": "Ruta 66 TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/oY4Xfvq.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sabor TV (720p)",
     "logo": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
     "country": "",
@@ -13910,7 +13955,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8",
+    "url": "https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -14334,6 +14379,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Telemedios Canal 8 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/xhEAw7z.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls.tvabierta.net/hls/008.m3u8",
     "isHttps": true
   },
   {
@@ -15336,12 +15390,12 @@
     "isHttps": true
   },
   {
-    "name": "TV Canal Sur (1080p)",
+    "name": "TV Canal Sur (720p) [Not 24/7]",
     "logo": "",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8",
+    "url": "https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8",
     "isHttps": true
   },
   {
@@ -18486,6 +18540,15 @@
     "isHttps": false
   },
   {
+    "name": "ESPN Deportes HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Este Canal TV (576p)",
     "logo": "https://i.imgur.com/jDT5XFs.jpg",
     "country": "",
@@ -19422,6 +19485,15 @@
     "isHttps": false
   },
   {
+    "name": "SiTV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/f8bDccF.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sol TV (720p)",
     "logo": "https://i.imgur.com/2m8PVpA.png",
     "country": "",
@@ -19509,6 +19581,15 @@
     "language": "",
     "group": "Comedy",
     "url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Starz Edge (720p)",
+    "logo": "https://i.imgur.com/MvH3Cz2.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://168.228.44.241:9998/play/a0e0/index.m3u8",
     "isHttps": false
   },
   {
