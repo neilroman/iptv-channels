@@ -9,6 +9,15 @@
     "isHttps": true
   },
   {
+    "name": "&pictures (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "&TV International (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
@@ -1590,6 +1599,15 @@
     "language": "",
     "group": "Culture",
     "url": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Aadinath TV (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -4941,15 +4959,6 @@
     "isHttps": true
   },
   {
-    "name": "Alsat [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Alt Media TV",
     "logo": "https://i.imgur.com/YkOgWMc.png",
     "country": "",
@@ -6381,6 +6390,15 @@
     "isHttps": true
   },
   {
+    "name": "APN (576p)",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Apna Punjab TV (720p)",
     "logo": "https://i.imgur.com/IM4D8Wz.png",
     "country": "",
@@ -6630,6 +6648,15 @@
     "language": "",
     "group": "General",
     "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Argus News (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -7376,7 +7403,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://flaskapihls-atv-avrupa-trkvzlive.onrender.com/hls_stream/master.m3u8",
+    "url": "https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8",
     "isHttps": true
   },
   {
@@ -7755,6 +7782,15 @@
     "language": "",
     "group": "News",
     "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Awakening TV (576p)",
+    "logo": "https://i.imgur.com/p26iWOi.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -10440,21 +10476,30 @@
     "isHttps": true
   },
   {
-    "name": "Bharat Express (480p)",
+    "name": "Bhakti Sagar (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bharat Express (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://stream1.livebox.co.in/VCAREhls/live.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "Bharat Samachar (480p)",
+    "name": "Bharat Samachar (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
     "isHttps": true
   },
   {
@@ -14032,7 +14077,7 @@
   },
   {
     "name": "Canal 8 San Juan (720p) [Not 24/7]",
-    "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj",
+    "logo": "https://files.catbox.moe/f7jbdo.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -18252,12 +18297,12 @@
     "isHttps": true
   },
   {
-    "name": "CNA (480p)",
+    "name": "CNA International (576p)",
     "logo": "https://i.imgur.com/xWglicB.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
     "isHttps": true
   },
   {
@@ -20781,6 +20826,24 @@
     "isHttps": true
   },
   {
+    "name": "Darshan 24 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Darshana TV (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Daru TV (720p)",
     "logo": "https://i.imgur.com/0P7QHde.png",
     "country": "",
@@ -21240,12 +21303,12 @@
     "isHttps": true
   },
   {
-    "name": "DD News",
+    "name": "DD News (576p)",
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/12/master.m3u8",
+    "url": "https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -23688,6 +23751,15 @@
     "isHttps": true
   },
   {
+    "name": "E 24 (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "E International Asia (576p)",
     "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
     "country": "",
@@ -25332,6 +25404,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ESPN UHD (2160p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://sra72yz.s.gy/ESPN_UHD_NL.m3u8",
     "isHttps": true
   },
   {
@@ -27270,12 +27351,12 @@
     "isHttps": true
   },
   {
-    "name": "First India News (360p) [Not 24/7]",
+    "name": "First India News (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -30951,6 +31032,15 @@
     "isHttps": true
   },
   {
+    "name": "Gujarat First (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Gulistan News (720p) [Not 24/7]",
     "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -32063,7 +32153,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/1041/master.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8",
     "isHttps": true
   },
   {
@@ -32072,7 +32162,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://cdn-1.pishow.tv/live/959/master.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
     "isHttps": true
   },
   {
@@ -32634,6 +32724,15 @@
     "isHttps": true
   },
   {
+    "name": "Hope Channel India (576p)",
+    "logo": "https://i.imgur.com/wPzPUrK.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Hope Channel Inter-America",
     "logo": "https://i.imgur.com/wzvgAch.png",
     "country": "",
@@ -32684,7 +32783,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/1463/master.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -33171,6 +33270,15 @@
     "language": "",
     "group": "General",
     "url": "https://paneltv.online:1936/8024/8024/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Hub Sports 1 (720p)",
+    "logo": "https://i.imgur.com/bhxPddO.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8",
     "isHttps": true
   },
   {
@@ -34416,6 +34524,15 @@
     "isHttps": true
   },
   {
+    "name": "Ind 24 (576p)",
+    "logo": "https://i.imgur.com/exRpVmL.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "India Ahead (576p)",
     "logo": "https://i.imgur.com/hBkTmf9.png",
     "country": "",
@@ -35034,6 +35151,15 @@
     "language": "",
     "group": "Music",
     "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Iqra Bangla (576p)",
+    "logo": "https://i.imgur.com/BZBZAeC.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8",
     "isHttps": true
   },
   {
@@ -35703,12 +35829,12 @@
     "isHttps": true
   },
   {
-    "name": "Jaihind TV (396p)",
+    "name": "Jaihind TV (576p)",
     "logo": "https://i.imgur.com/NaiA73p.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
     "isHttps": true
   },
   {
@@ -35817,6 +35943,15 @@
     "language": "",
     "group": "News",
     "url": "https://live.jswk.online/IK_RTPM/live/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Jantantra TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jantantra.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8",
     "isHttps": true
   },
   {
@@ -36815,7 +36950,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://cdn-3.pishow.tv/live/1530/master.m3u8",
+    "url": "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -36864,12 +36999,12 @@
     "isHttps": true
   },
   {
-    "name": "Kalinga TV",
+    "name": "Kalinga TV (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-4.pishow.tv/live/1470/master.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8",
     "isHttps": true
   },
   {
@@ -37220,7 +37355,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle",
-    "url": "https://cdn-3.pishow.tv/live/1123/master.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
     "isHttps": true
   },
   {
@@ -37503,12 +37638,21 @@
     "isHttps": true
   },
   {
-    "name": "Khabrain Abhi Tak (396p)",
+    "name": "Khabar Fast (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Khabar_Fast.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Khabrain Abhi Tak (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8",
     "isHttps": true
   },
   {
@@ -37854,6 +37998,15 @@
     "isHttps": true
   },
   {
+    "name": "KMCT-TV 39.1",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/KMCT_Monroe%27s_Christian_Television_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "KMEX-DT1 [Geo-blocked]",
     "logo": "https://i.imgur.com/D65iNay.png",
     "country": "",
@@ -37932,15 +38085,6 @@
     "language": "",
     "group": "Cooking;Lifestyle",
     "url": "https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Kohavision",
-    "logo": "https://i.imgur.com/LOi9yma.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -40263,6 +40407,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lifetime (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
     "isHttps": true
   },
   {
@@ -44370,12 +44523,12 @@
     "isHttps": true
   },
   {
-    "name": "Madha TV",
+    "name": "Madha TV (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://cdn-3.pishow.tv/live/1265/master.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8",
     "isHttps": true
   },
   {
@@ -44523,12 +44676,21 @@
     "isHttps": true
   },
   {
-    "name": "Mahaa News",
+    "name": "Mahaa Max (576p)",
+    "logo": "https://objectstorage.ap-mumbai-1.oraclecloud.com/p/7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/MAHAA+MAX+LOGO.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Mahaa News (576p)",
     "logo": "https://i.imgur.com/buT76vR.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-1.pishow.tv/live/401/master.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -44901,12 +45063,12 @@
     "isHttps": true
   },
   {
-    "name": "Manoranjan Prime",
+    "name": "Manoranjan Prime (576p)",
     "logo": "",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-4.pishow.tv/live/1474/master.m3u8",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
     "isHttps": true
   },
   {
@@ -45297,12 +45459,12 @@
     "isHttps": true
   },
   {
-    "name": "Mathrubhumi News (576p) [Not 24/7]",
+    "name": "Mathrubhumi News (576p)",
     "logo": "https://i.imgur.com/diQftzP.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8",
+    "url": "https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -45531,12 +45693,12 @@
     "isHttps": true
   },
   {
-    "name": "Mazhavil Manorama (396p)",
+    "name": "Mazhavil Manorama (576p)",
     "logo": "https://i.imgur.com/fjgzW20.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8",
     "isHttps": true
   },
   {
@@ -47340,6 +47502,15 @@
     "isHttps": true
   },
   {
+    "name": "MKN Marathi (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ML5 TV (480p)",
     "logo": "https://i.imgur.com/knjHdei.png",
     "country": "",
@@ -47985,6 +48156,15 @@
     "language": "",
     "group": "Comedy",
     "url": "https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MoreMax East HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8",
     "isHttps": true
   },
   {
@@ -49851,6 +50031,15 @@
     "isHttps": true
   },
   {
+    "name": "Nagaland TV (576p)",
+    "logo": "https://i.imgur.com/EBEIpPo.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Naija Gold Reels (1080p)",
     "logo": "",
     "country": "",
@@ -49920,6 +50109,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+    "isHttps": true
+  },
+  {
+    "name": "Nandighosha TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8",
     "isHttps": true
   },
   {
@@ -50985,12 +51183,12 @@
     "isHttps": true
   },
   {
-    "name": "Nepal 1 (396p)",
+    "name": "Nepal 1 (576p)",
     "logo": "https://i.imgur.com/Xr4FjC8.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8",
     "isHttps": true
   },
   {
@@ -51066,12 +51264,12 @@
     "isHttps": true
   },
   {
-    "name": "Network 10",
+    "name": "Network 10 (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
     "isHttps": true
   },
   {
@@ -51165,12 +51363,12 @@
     "isHttps": true
   },
   {
-    "name": "News 1 India (396p)",
+    "name": "News 1 India (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8",
     "isHttps": true
   },
   {
@@ -51207,6 +51405,15 @@
     "language": "",
     "group": "News",
     "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "News 24 MP & Chhattisgarh (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS24_MPCG/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8",
     "isHttps": true
   },
   {
@@ -51260,7 +51467,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-6.pishow.tv/live/10011/master.m3u8",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8",
     "isHttps": true
   },
   {
@@ -51615,6 +51822,24 @@
     "isHttps": true
   },
   {
+    "name": "NewsX (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NewsX World (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Newsy (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/960px-Newsy_2021.svg.png",
     "country": "",
@@ -51855,6 +52080,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
+    "isHttps": true
+  },
+  {
+    "name": "Nickelodeon +1 (720p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8",
     "isHttps": true
   },
   {
@@ -53973,6 +54207,15 @@
     "isHttps": true
   },
   {
+    "name": "OM TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Oman Althakafia (1080p)",
     "logo": "https://i.imgur.com/b38wNPK.png",
     "country": "",
@@ -55000,10 +55243,10 @@
   },
   {
     "name": "Oxygen Music (1080p)",
-    "logo": "",
+    "logo": "https://oxygenmusic.hu/static/media/logo.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
+    "group": "Music",
     "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
     "isHttps": true
   },
@@ -55356,6 +55599,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Paras Gold (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8",
     "isHttps": true
   },
   {
@@ -61119,12 +61371,30 @@
     "isHttps": true
   },
   {
+    "name": "Prag News (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Praise TV (720p)",
     "logo": "https://i.imgur.com/T9fIdLs.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Prameya News7 (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
     "isHttps": true
   },
   {
@@ -61255,7 +61525,7 @@
   },
   {
     "name": "PRIDEtv LATAM (1080p)",
-    "logo": "https://neotv.cl/img/pridetv-512.png",
+    "logo": "",
     "country": "",
     "language": "",
     "group": "Entertainment;Lifestyle;Music",
@@ -61314,6 +61584,15 @@
     "language": "",
     "group": "News",
     "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Prime9 News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -61836,6 +62115,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://redirector.dps.live/hls/pucontv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pudhari News (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUDHARI_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -63864,12 +64152,12 @@
     "isHttps": true
   },
   {
-    "name": "Raftaar Media (240p)",
+    "name": "Raftaar Media (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8",
     "isHttps": true
   },
   {
@@ -63969,6 +64257,15 @@
     "language": "",
     "group": "Music",
     "url": "https://cdn-1.pishow.tv/live/1213/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Raj News Kannada (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
     "isHttps": true
   },
   {
@@ -68634,12 +68931,30 @@
     "isHttps": true
   },
   {
+    "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
+    "logo": "https://i.imgur.com/799WMit.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sadhna Plus News (720p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sadhna TV (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8",
     "isHttps": true
   },
   {
@@ -68670,12 +68985,12 @@
     "isHttps": true
   },
   {
-    "name": "Sai TV",
+    "name": "Sai TV (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8",
     "isHttps": true
   },
   {
@@ -69054,6 +69369,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sangat TV (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/Sangat_TV_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -72009,6 +72333,15 @@
     "isHttps": true
   },
   {
+    "name": "Sony BBC Earth HD (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony Canal Novelas",
     "logo": "",
     "country": "",
@@ -74358,6 +74691,15 @@
     "isHttps": true
   },
   {
+    "name": "Subharti TV (576p)",
+    "logo": "https://i.imgur.com/9hdNFtt.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Subhavaartha TV (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png",
     "country": "",
@@ -74425,7 +74767,7 @@
     "logo": "https://i.imgur.com/1pYYSu2.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
+    "group": "Sports",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd",
     "isHttps": true
   },
@@ -78413,7 +78755,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-3.pishow.tv/live/1612/master.m3u8",
+    "url": "https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -78720,6 +79062,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://jmp2.uk/plu-62e91384210bec0007ba714c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "The Doctors (720p)",
+    "logo": "https://i.imgur.com/2sAz8dZ.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8",
     "isHttps": true
   },
   {
@@ -84308,7 +84659,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-3.pishow.tv/live/1526/master.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8",
     "isHttps": true
   },
   {
@@ -87539,7 +87890,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-1.pishow.tv/live/393/master.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8",
     "isHttps": true
   },
   {
@@ -88539,6 +88890,15 @@
     "language": "",
     "group": "News",
     "url": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Vissa TV (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8",
     "isHttps": true
   },
   {
@@ -90225,6 +90585,15 @@
     "isHttps": true
   },
   {
+    "name": "WGGS-TV 16.1",
+    "logo": "https://i.imgur.com/Btw83JA.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "WGTV-DT3 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
     "country": "",
@@ -91026,12 +91395,12 @@
     "isHttps": true
   },
   {
-    "name": "WP TV (1080p)",
+    "name": "WP TV (1080p) [Geo-blocked]",
     "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://lowa8026-cmyk.github.io/PL/WPHD.php.m3u8",
+    "url": "https://vs2142.vcdn.biz/f5c4d9b74c12f9db99c064d94631c59d_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/4673ad1b-2a38-46b9-82a9-7cbafbc54569/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/5.63.189.60*asn/u_srvc/81255/u_did/web_CMWYc1jg2seAIWTzywW0wnkKBUjPO3gG/type.live/chunklist-sid8153936265259287922-b4000000.m3u8",
     "isHttps": true
   },
   {
@@ -93996,6 +94365,15 @@
     "isHttps": true
   },
   {
+    "name": "УТРК Баластан (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/D5ylCiX.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "УТРК Музыка (480p) [Not 24/7]",
     "logo": "https://www.utrk.kg/img/stream/45.png",
     "country": "",
@@ -94515,15 +94893,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "��ТРК Баластан (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/D5ylCiX.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
     "isHttps": true
   },
   {
@@ -95103,12 +95472,21 @@
     "isHttps": false
   },
   {
-    "name": "AlbUK TV (1080p) [Not 24/7]",
+    "name": "Alb UK TV (1080p)",
     "logo": "https://i.imgur.com/TMg4Kxi.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8",
+    "url": "http://5.254.89.106/8794/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Albanian TV America (1080p)",
+    "logo": "https://albtvusa.com/wp-content/uploads/2021/10/logo.final_.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://5.254.89.106/8711/index.m3u8",
     "isHttps": false
   },
   {
@@ -95145,6 +95523,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Alsat (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://5.254.89.106/8713/index.m3u8",
     "isHttps": false
   },
   {
@@ -95550,6 +95937,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://115.42.65.142:9981/stream/channelid/299762256",
+    "isHttps": false
+  },
+  {
+    "name": "ATV (1080p)",
+    "logo": "https://i.imgur.com/lX6sekx.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://5.254.89.106/8709/index.m3u8",
     "isHttps": false
   },
   {
@@ -98613,6 +99009,15 @@
     "isHttps": false
   },
   {
+    "name": "Elrodi TV (576p)",
+    "logo": "https://i.imgur.com/9oSm30W.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://5.254.89.106/8718/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "English Class HD (1080p)",
     "logo": "https://i.imgur.com/gst7wW7.png",
     "country": "",
@@ -98952,6 +99357,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://46.149.191.219:9100/play/a015",
+    "isHttps": false
+  },
+  {
+    "name": "First Channel (1080p)",
+    "logo": "https://i.imgur.com/LchiPOr.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://5.254.89.106/8717/index.m3u8",
     "isHttps": false
   },
   {
@@ -100458,12 +100872,30 @@
     "isHttps": false
   },
   {
+    "name": "Klan Kosova (720p)",
+    "logo": "https://i.imgur.com/pQjSsNQ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://5.254.89.106/8706/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Kluch (576p)",
     "logo": "https://i.imgur.com/WA9TOPi.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://hls127.freeott.top:8080/Kluch/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kohavision (720p)",
+    "logo": "https://i.imgur.com/LOi9yma.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://5.254.89.106/8705/index.m3u8",
     "isHttps": false
   },
   {
@@ -104004,6 +104436,15 @@
     "isHttps": false
   },
   {
+    "name": "Max (576p)",
+    "logo": "https://i.imgur.com/bJ13Rmt.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://5.254.89.106:80/8882/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Maya Channel",
     "logo": "https://i.imgur.com/UropueN.png",
     "country": "",
@@ -104595,6 +105036,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "My Music (576p)",
+    "logo": "https://i.imgur.com/7cvPvOx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://5.254.89.106:80/8821/index.m3u8",
     "isHttps": false
   },
   {
@@ -106821,6 +107271,15 @@
     "isHttps": false
   },
   {
+    "name": "RTK 1 (1080p)",
+    "logo": "https://i.imgur.com/KTcWcO6.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://5.254.89.106/8702/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "RTL9 (720p)",
     "logo": "https://i.imgur.com/nFqjVNW.png",
     "country": "",
@@ -106953,6 +107412,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RTV Islam (720p)",
+    "logo": "https://i.ibb.co/LSJqLJw/RTV-LOGO.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://5.254.89.106/8714/index.m3u8",
     "isHttps": false
   },
   {
@@ -109260,6 +109728,15 @@
     "isHttps": false
   },
   {
+    "name": "Top Channel (1080p)",
+    "logo": "https://i.imgur.com/oKix35b.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://5.254.89.106/8708/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Top Secret (576p)",
     "logo": "https://i.imgur.com/HM4xy4G.png",
     "country": "",
@@ -109356,6 +109833,24 @@
     "language": "",
     "group": "General",
     "url": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tring History (720p)",
+    "logo": "https://i.imgur.com/9wc2Wpt.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://5.254.89.106/8765/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tring Kids (576p)",
+    "logo": "https://i.imgur.com/osJ3IrI.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://5.254.89.106/8777/index.m3u8",
     "isHttps": false
   },
   {
@@ -109671,6 +110166,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://176.67.210.1/hls/kanalm.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Klan (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/960px-TV_Klan.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://5.254.89.106/8704/index.m3u8",
     "isHttps": false
   },
   {

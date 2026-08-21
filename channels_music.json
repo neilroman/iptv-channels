@@ -2799,6 +2799,15 @@
     "isHttps": true
   },
   {
+    "name": "Oxygen Music (1080p)",
+    "logo": "https://oxygenmusic.hu/static/media/logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "P2M TV (720p)",
     "logo": "https://i.imgur.com/TrecSeG.png",
     "country": "",
@@ -3070,7 +3079,7 @@
   },
   {
     "name": "PRIDEtv LATAM (1080p)",
-    "logo": "https://neotv.cl/img/pridetv-512.png",
+    "logo": "",
     "country": "",
     "language": "",
     "group": "Entertainment;Lifestyle;Music",
@@ -5886,6 +5895,15 @@
     "isHttps": false
   },
   {
+    "name": "Elrodi TV (576p)",
+    "logo": "https://i.imgur.com/9oSm30W.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://5.254.89.106/8718/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Euro Indie Music Chart TV (360p)",
     "logo": "https://i.imgur.com/lF0iofX.png",
     "country": "",
@@ -6279,6 +6297,15 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/153/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "My Music (576p)",
+    "logo": "https://i.imgur.com/7cvPvOx.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://5.254.89.106:80/8821/index.m3u8",
     "isHttps": false
   },
   {
