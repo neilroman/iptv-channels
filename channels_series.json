@@ -387,15 +387,6 @@
     "isHttps": true
   },
   {
-    "name": "AXN PH (480p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://streams.comclark.com/pknhd/axn/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bab Al Hara (1080p)",
     "logo": "https://i.imgur.com/QtlnZbq.png",
     "country": "",
@@ -1149,6 +1140,15 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Europa Europa (1080p)",
+    "logo": "https://i.imgur.com/w5SOfyJ.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8",
     "isHttps": true
   },
   {
@@ -4605,6 +4605,15 @@
     "language": "",
     "group": "Series",
     "url": "http://stream.mcquack.net/466/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mega Ficcion (1080p)",
+    "logo": "https://i.imgur.com/aQdhJie.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8",
     "isHttps": false
   },
   {

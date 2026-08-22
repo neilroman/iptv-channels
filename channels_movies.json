@@ -207,12 +207,21 @@
     "isHttps": true
   },
   {
-    "name": "AXN PH (480p)",
+    "name": "AXN Latin America Chile (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
-    "group": "Movies;Series",
-    "url": "https://streams.comclark.com/pknhd/axn/playlist.m3u8",
+    "group": "Movies",
+    "url": "https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Az Cinema (1080p)",
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8",
     "isHttps": true
   },
   {
@@ -357,15 +366,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Celestial Classic Movies (480p)",
-    "logo": "https://i.imgur.com/1VhXilw.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://streams.comclark.com/pknsd/celestial/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -546,24 +546,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Cinema One (480p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Cinemo (480p)",
-    "logo": "https://i.imgur.com/rGAOD3f.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://streams.comclark.com/pknsd/cinemo/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -789,6 +771,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FMH Movies (1080p)",
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8",
     "isHttps": true
   },
   {
@@ -1203,6 +1194,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AXN Poland (1080p)",
+    "logo": "https://i.imgur.com/i5wOhkf.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://polska.hach.workers.dev/14850.m3u8",
     "isHttps": true
   },
   {
@@ -3861,15 +3861,6 @@
     "isHttps": true
   },
   {
-    "name": "Star Channel (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/ZElxkCs.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Star Channel Latin America Central America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
@@ -4086,24 +4077,6 @@
     "isHttps": true
   },
   {
-    "name": "Tap Action Flix (480p)",
-    "logo": "https://i.imgur.com/45Y6iXq.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Tap Movies (480p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Thalaa TV (1080p)",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
     "country": "",
@@ -4263,15 +4236,6 @@
     "language": "",
     "group": "Entertainment;Movies",
     "url": "https://dethich.pw/thvl3/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Viva Cinema (480p)",
-    "logo": "https://i.imgur.com/Bwcj1Oc.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://streams.comclark.com/pknsd/viva/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5139,6 +5103,15 @@
     "isHttps": false
   },
   {
+    "name": "FX Movie Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Goldmines Movies (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -5334,15 +5307,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.19/live/axn_hun/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Poland",
-    "logo": "https://i.imgur.com/i5wOhkf.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://193.24.244.60:1001/udp/239.254.5.5:6060",
     "isHttps": false
   },
   {

@@ -1553,7 +1553,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://cdn-1.pishow.tv/live/957/master.m3u8",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -3411,15 +3411,6 @@
     "isHttps": true
   },
   {
-    "name": "Light TV (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/bsjhl6L.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://streams.comclark.com/pknsd/light_tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Lighting Lives Blessing Nations His Light (LLBN) (720p)",
     "logo": "https://i.imgur.com/YkLZjRw.png",
     "country": "",
@@ -4338,15 +4329,6 @@
     "isHttps": true
   },
   {
-    "name": "Nuevo Tiempo TV",
-    "logo": "https://i.imgur.com/eCPzibM.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Oasis TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/VKYzFpZ.png",
     "country": "",
@@ -4452,6 +4434,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Peace of Mind TV (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -5409,15 +5400,6 @@
     "isHttps": true
   },
   {
-    "name": "TBN Asia (480p)",
-    "logo": "https://i.imgur.com/9Sw2Cns.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://streams.comclark.com/pknsd/tbn/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TBN España (576p)",
     "logo": "https://i.imgur.com/oGvsUH9.png",
     "country": "",
@@ -5847,15 +5829,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Maria (480p)",
-    "logo": "https://i.imgur.com/yhIM9yU.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6747,6 +6720,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://145.239.5.177/215/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nuevo Tiempo TV (1080p)",
+    "logo": "https://i.imgur.com/eCPzibM.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8",
     "isHttps": false
   },
   {

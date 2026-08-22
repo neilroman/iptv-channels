@@ -180,6 +180,15 @@
     "isHttps": true
   },
   {
+    "name": "6 TV Telugu (576p)",
+    "logo": "https://i.imgur.com/l3EcRnZ.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
     "name": "6PR Perth (1080p)",
     "logo": "https://i.imgur.com/Q9iCxg1.png",
     "country": "",
@@ -972,15 +981,6 @@
     "isHttps": true
   },
   {
-    "name": "ANC (480p)",
-    "logo": "https://i.imgur.com/odwRbRk.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://streams.comclark.com/pknsd/anc/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "AnewZ",
     "logo": "https://i.imgur.com/Lwgdbuu.png",
     "country": "",
@@ -1323,12 +1323,12 @@
     "isHttps": true
   },
   {
-    "name": "Bilyonaryo News Channel (1080p)",
+    "name": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/iTH9Z0j.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8",
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2259,24 +2259,6 @@
     "isHttps": true
   },
   {
-    "name": "DZMM TeleRadyo (480p)",
-    "logo": "https://i.imgur.com/qKyLqhd.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DZRHTV (1080p)",
-    "logo": "https://i.imgur.com/qe1QqZh.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://streams.comclark.com/pknsd/dzrh/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "EAC News TV",
     "logo": "https://i.imgur.com/EuYhS9Z.png",
     "country": "",
@@ -2556,12 +2538,12 @@
     "isHttps": true
   },
   {
-    "name": "Euronews Spanish (720p)",
+    "name": "Euronews Spanish (1080p)",
     "logo": "https://i.imgur.com/8t9mdg9.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8",
+    "url": "https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8",
     "isHttps": true
   },
   {
@@ -2754,15 +2736,6 @@
     "isHttps": true
   },
   {
-    "name": "Golden Nation Network (480p)",
-    "logo": "https://i.imgur.com/HtPjeiu.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;News",
-    "url": "https://streams.comclark.com/pknsd/onemedia/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Good News Today (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY/images/LOGO_HD/image.png",
     "country": "",
@@ -2787,15 +2760,6 @@
     "language": "",
     "group": "News",
     "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "GTV (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/rWhamwh.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://streams.comclark.com/pknsd/gtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3105,12 +3069,12 @@
     "isHttps": true
   },
   {
-    "name": "IBC 24 (720p)",
+    "name": "IBC 24 (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-3.pishow.tv/live/220/master.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8",
     "isHttps": true
   },
   {
@@ -3210,6 +3174,15 @@
     "language": "",
     "group": "News",
     "url": "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "India Voice (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Voice.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3318,6 +3291,15 @@
     "language": "",
     "group": "News",
     "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Jai Maharashtra (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4239,12 +4221,12 @@
     "isHttps": true
   },
   {
-    "name": "Moon TV",
+    "name": "Moon TV (576p)",
     "logo": "https://i.imgur.com/3l25EZI.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-4.pishow.tv/live/1121/master.m3u8",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4424,7 +4406,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-3.pishow.tv/live/268/master.m3u8",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4887,21 +4869,21 @@
     "isHttps": true
   },
   {
-    "name": "NHK World Japan (1080p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;News",
-    "url": "https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NHK World-Japan (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "country": "",
     "language": "",
     "group": "Culture;News",
     "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NHK World-Japan HD (1080p) [Geo-blocked]",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;News",
+    "url": "https://nhk.lls.pbs.org/index.m3u8",
     "isHttps": true
   },
   {
@@ -7443,6 +7425,15 @@
     "isHttps": false
   },
   {
+    "name": "24 Horas (1080p)",
+    "logo": "https://i.imgur.com/CEE9zPe.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "24 Horas Canarias (1080p)",
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "country": "",
@@ -7647,6 +7638,15 @@
     "language": "",
     "group": "News",
     "url": "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal CHV Noticias (1080p)",
+    "logo": "https://i.imgur.com/sx8Aaxr.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8",
     "isHttps": false
   },
   {
@@ -8100,6 +8100,15 @@
     "isHttps": false
   },
   {
+    "name": "Meganoticias Ahora (1080p)",
+    "logo": "https://i.imgur.com/JCVEqTc.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Metro1 News (576p)",
     "logo": "https://i.imgur.com/qD9cj27.jpg",
     "country": "",
@@ -8484,6 +8493,15 @@
     "language": "",
     "group": "News",
     "url": "http://80.79.6.221:25461/smash/public/20",
+    "isHttps": false
+  },
+  {
+    "name": "Unicanal",
+    "logo": "https://i.imgur.com/cgTD2TW.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
     "isHttps": false
   },
   {

@@ -1368,15 +1368,6 @@
     "isHttps": true
   },
   {
-    "name": "TV BRICS Russian (1080p)",
-    "logo": "https://i.imgur.com/vLpm8tN.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV Maná Russkiy (1080p)",
     "logo": "https://i.imgur.com/fACHqmY.png",
     "country": "",
@@ -2187,15 +2178,6 @@
     "isHttps": true
   },
   {
-    "name": "Сити Эдем КиноДок [Not 24/7]",
-    "logo": "https://i.imgur.com/itRbMX3.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary;Series",
-    "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Сити Эдем КиноДрама [Not 24/7]",
     "logo": "https://i.imgur.com/29ddffh.png",
     "country": "",
@@ -2310,6 +2292,15 @@
     "language": "",
     "group": "Series",
     "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Сит�� Эдем КиноДок [Not 24/7]",
+    "logo": "https://i.imgur.com/itRbMX3.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Series",
+    "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
     "isHttps": true
   },
   {
@@ -3582,6 +3573,15 @@
     "isHttps": false
   },
   {
+    "name": "Nano HD (1080p)",
+    "logo": "https://i.imgur.com/dYj3XDa.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://185.23.80.23:8080/NANO_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nash Kinomir (576p)",
     "logo": "https://i.imgur.com/7M1J42A.png",
     "country": "",
@@ -4266,6 +4266,15 @@
     "isHttps": false
   },
   {
+    "name": "TV BRICS Russian (1080p)",
+    "logo": "https://i.imgur.com/vLpm8tN.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.23.80.23:8080/TVBRICS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Centr (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
     "country": "",
@@ -4335,6 +4344,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://5.188.159.128:8070/udar/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Unknown Russia HD (1080p)",
+    "logo": "https://i.imgur.com/W7ste2f.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8",
     "isHttps": false
   },
   {
@@ -4884,15 +4902,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/Multilandiya/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Нано ТВ HD (576p)",
-    "logo": "https://i.imgur.com/dYj3XDa.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
     "isHttps": false
   },
   {

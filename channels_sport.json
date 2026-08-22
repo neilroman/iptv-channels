@@ -432,15 +432,6 @@
     "isHttps": true
   },
   {
-    "name": "EDGEsport (480p)",
-    "logo": "https://i.imgur.com/bgQ6kz7.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streams.comclark.com/pknsd/edgesports/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "El-Heddaf TV (1080p)",
     "logo": "https://i.imgur.com/cDkIDIA.png",
     "country": "",
@@ -1629,15 +1620,6 @@
     "isHttps": true
   },
   {
-    "name": "Nudge Sports Channel [Not 24/7]",
-    "logo": "https://i.imgur.com/TW0hapZ.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Olympics Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/wPQVVtj.png",
     "country": "",
@@ -1653,15 +1635,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "One Sports (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/ig5PBMu.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streams.comclark.com/pknsd/one_sports/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1932,15 +1905,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Premier Football (1080p)",
-    "logo": "https://i.imgur.com/lKjXwtG.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streams.comclark.com/pknhd/premier_football/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2241,15 +2205,6 @@
     "isHttps": true
   },
   {
-    "name": "Solar Sports (480p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "SOS Kanal Plus (720p)",
     "logo": "https://i.imgur.com/9SD40uH.png",
     "country": "",
@@ -2448,15 +2403,6 @@
     "isHttps": true
   },
   {
-    "name": "Tap Edge (480p)",
-    "logo": "https://i.imgur.com/ljey69u.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://streams.comclark.com/pknsd/tapedge/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TDM Sports Ch. 93 (720p)",
     "logo": "https://i.imgur.com/AsWLf8S.png",
     "country": "",
@@ -2475,12 +2421,12 @@
     "isHttps": true
   },
   {
-    "name": "Teletrak (720p)",
+    "name": "Teletrak TV (1080p)",
     "logo": "https://i.imgur.com/NoJvlig.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
+    "url": "https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8",
     "isHttps": true
   },
   {
@@ -2526,6 +2472,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Tigo Sports+ (1080p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3003,6 +2958,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+    "isHttps": false
+  },
+  {
+    "name": "CDO (1080p)",
+    "logo": "https://i.imgur.com/zH3jHIT.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8",
     "isHttps": false
   },
   {
@@ -3975,15 +3939,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://45.5.119.43:4000/play/a05t/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Tigo Sports+",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
     "isHttps": false
   },
   {
