@@ -199,7 +199,7 @@
   },
   {
     "name": "3sat Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -226,7 +226,7 @@
   },
   {
     "name": "4fun.tv Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/640px-4fun.tv_Logo_%282017%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/500px-4fun.tv_Logo_%282017%29.svg.png",
     "country": "PL",
     "language": "",
     "group": "Poland",
@@ -397,7 +397,7 @@
   },
   {
     "name": "ABC News",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/500px-ABC_News_Channel.svg.png",
     "country": "AU",
     "language": "",
     "group": "Australia",
@@ -658,7 +658,7 @@
   },
   {
     "name": "Al Arabiya العربية",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/640px-Al-Arabiya_new_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/500px-Al-Arabiya_new_logo.svg.png",
     "country": "",
     "language": "",
     "group": "News (AR)",
@@ -1054,7 +1054,7 @@
   },
   {
     "name": "Alsat M Ⓢ Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/500px-Logo_of_Alsat_TV_%282020-%29.svg.png",
     "country": "MK",
     "language": "",
     "group": "North Macedonia",
@@ -1089,21 +1089,21 @@
     "isHttps": true
   },
   {
+    "name": "América",
+    "logo": "https://i.imgur.com/Jt7dOQm.png",
+    "country": "AR",
+    "language": "",
+    "group": "Argentina",
+    "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "America TeVe",
     "logo": "https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg",
     "country": "US",
     "language": "",
     "group": "USA",
     "url": "https://live.gideo.video/americateve2/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "América Ⓨ",
-    "logo": "https://i.imgur.com/Jt7dOQm.png",
-    "country": "AR",
-    "language": "",
-    "group": "Argentina",
-    "url": "https://www.youtube.com/c/americaenvivo/live",
     "isHttps": true
   },
   {
@@ -1225,11 +1225,20 @@
   },
   {
     "name": "ARD Alpha Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/500px-ARD_alpha.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
     "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Argentina 12 Ⓨ",
+    "logo": "https://i.imgur.com/atGKPhi.png",
+    "country": "AR",
+    "language": "",
+    "group": "Argentina",
+    "url": "https://www.youtube.com/c/IPNoticiasEnVivo/live",
     "isHttps": true
   },
   {
@@ -1477,7 +1486,7 @@
   },
   {
     "name": "Baku TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png",
     "country": "AZ",
     "language": "",
     "group": "Azerbaijan",
@@ -1540,7 +1549,7 @@
   },
   {
     "name": "BBC Alba Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/500px-BBC_Alba_2021.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -1594,7 +1603,7 @@
   },
   {
     "name": "BBC Four Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/500px-BBC_Four_logo_2021.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -1612,7 +1621,7 @@
   },
   {
     "name": "BBC News",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -1630,7 +1639,7 @@
   },
   {
     "name": "BBC One Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/500px-BBC_One_logo_2021.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -1639,7 +1648,7 @@
   },
   {
     "name": "BBC Parliament Ⓢ Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/640px-BBC_Parliament_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/500px-BBC_Parliament_2022.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -1729,7 +1738,7 @@
   },
   {
     "name": "BBC Scotland Ⓢ Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/500px-BBC_Scotland_2021_%28channel%29.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -1738,7 +1747,7 @@
   },
   {
     "name": "BBC Three Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/500px-BBC_Three_2022.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -1747,7 +1756,7 @@
   },
   {
     "name": "BBC Two Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -2268,12 +2277,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 26 Ⓨ",
-    "logo": "https://i.imgur.com/xDjOUuz.png",
+    "name": "Canal 26",
+    "logo": "https://i.imgur.com/5pAaVih.png",
     "country": "AR",
     "language": "",
     "group": "Argentina",
-    "url": "https://www.youtube.com/c/canal26/live",
+    "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
     "isHttps": true
   },
   {
@@ -2539,7 +2548,7 @@
   },
   {
     "name": "CBBC Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/640px-CBBC_%282023%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/500px-CBBC_%282023%29.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -2584,7 +2593,7 @@
   },
   {
     "name": "CBeebies Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/640px-CBeebies_2023.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/500px-CBeebies_2023.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -3087,12 +3096,12 @@
     "isHttps": true
   },
   {
-    "name": "CNN-News18 Ⓨ",
+    "name": "CNN-News18",
     "logo": "https://i.imgur.com/K3M8MoK.png",
     "country": "IN",
     "language": "",
     "group": "India",
-    "url": "https://www.youtube.com/@cnnnews18/live",
+    "url": "https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8",
     "isHttps": true
   },
   {
@@ -3385,7 +3394,7 @@
   },
   {
     "name": "Das Erste Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/500px-Das_Erste_2014.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -4091,7 +4100,7 @@
     "country": "AR",
     "language": "",
     "group": "Argentina",
-    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+    "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
     "isHttps": true
   },
   {
@@ -4384,7 +4393,7 @@
   },
   {
     "name": "Euronews Deutsch Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -4393,7 +4402,7 @@
   },
   {
     "name": "Euronews em Português Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png",
     "country": "PT",
     "language": "",
     "group": "Portugal",
@@ -4402,7 +4411,7 @@
   },
   {
     "name": "Euronews Español Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png",
     "country": "",
     "language": "",
     "group": "News (ES)",
@@ -4420,7 +4429,7 @@
   },
   {
     "name": "Euronews Greek",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/500px-Euronews_2016_logo.svg.png",
     "country": "GR",
     "language": "",
     "group": "Greece",
@@ -4447,7 +4456,7 @@
   },
   {
     "name": "Euronews Italian Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png",
     "country": "IT",
     "language": "",
     "group": "Italy",
@@ -4465,7 +4474,7 @@
   },
   {
     "name": "Euronews Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -4474,7 +4483,7 @@
   },
   {
     "name": "Euronews по-русски Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png",
     "country": "RU",
     "language": "",
     "group": "Russia",
@@ -4870,7 +4879,7 @@
   },
   {
     "name": "franceinfo: Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/500px-Franceinfo.svg.png",
     "country": "FR",
     "language": "",
     "group": "France",
@@ -4987,7 +4996,7 @@
   },
   {
     "name": "GB News",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -5130,6 +5139,15 @@
     "isHttps": true
   },
   {
+    "name": "Good News Today Ⓨ",
+    "logo": "https://i.imgur.com/vbSR4cA.png",
+    "country": "IN",
+    "language": "",
+    "group": "India",
+    "url": "https://www.youtube.com/@GoodNewsTodayOfficial/live",
+    "isHttps": true
+  },
+  {
     "name": "Grande Fratello Vip Regia 1 Ⓢ Ⓖ",
     "logo": "https://i.imgur.com/PBTdU4G.png",
     "country": "",
@@ -5158,7 +5176,7 @@
   },
   {
     "name": "Great! Movies Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/640px-Great%21_Movies_logo_2021.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/500px-Great%21_Movies_logo_2021.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -5347,7 +5365,7 @@
   },
   {
     "name": "HR Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/640px-HR-Fernsehen_Logo_2023.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/500px-HR-Fernsehen_Logo_2023.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -5455,7 +5473,7 @@
   },
   {
     "name": "ICI RDI",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/500px-ICI_RDI_logo.svg.png",
     "country": "CA",
     "language": "",
     "group": "Canada",
@@ -5631,15 +5649,6 @@
     "language": "",
     "group": "Greece",
     "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "IP Noticias Ⓨ",
-    "logo": "https://photos.live-tv-channels.org/tv-logo/ar-ip-noticias-6980-300x225.jpg",
-    "country": "AR",
-    "language": "",
-    "group": "Argentina",
-    "url": "https://www.youtube.com/c/IPNoticiasEnVivo/live",
     "isHttps": true
   },
   {
@@ -6202,7 +6211,7 @@
   },
   {
     "name": "KCTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png",
     "country": "KP",
     "language": "",
     "group": "North Korea",
@@ -6238,7 +6247,7 @@
   },
   {
     "name": "KiKa Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -6382,7 +6391,7 @@
   },
   {
     "name": "KVF Sjónvarp",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KVF_logo_2019.svg/640px-KVF_logo_2019.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KVF_logo_2019.svg/500px-KVF_logo_2019.svg.png",
     "country": "FO",
     "language": "",
     "group": "Faroe Islands",
@@ -6400,7 +6409,7 @@
   },
   {
     "name": "L'Équipe ⒹⒼ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/500px-L%27%C3%89quipe_wordmark.svg.png",
     "country": "FR",
     "language": "",
     "group": "France",
@@ -6409,7 +6418,7 @@
   },
   {
     "name": "L'Équipe Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/500px-L%27%C3%89quipe_wordmark.svg.png",
     "country": "FR",
     "language": "",
     "group": "France",
@@ -6760,7 +6769,7 @@
   },
   {
     "name": "LRT Lituanica",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/640px-LRT_Lituanica_Logo_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/500px-LRT_Lituanica_Logo_2022.svg.png",
     "country": "LT",
     "language": "",
     "group": "Lithuania",
@@ -7021,7 +7030,7 @@
   },
   {
     "name": "MDR Sachsen Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -7030,7 +7039,7 @@
   },
   {
     "name": "MDR Sachsen-Anhalt Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -7039,7 +7048,7 @@
   },
   {
     "name": "MDR Thüringen Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -7161,6 +7170,15 @@
     "language": "",
     "group": "Turkmenistan",
     "url": "https://alpha.tv.online.tm/hls/ch003.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Mirror Now Ⓨ",
+    "logo": "https://i.imgur.com/R4rxBNu.jpeg",
+    "country": "IN",
+    "language": "",
+    "group": "India",
+    "url": "https://www.youtube.com/@mirrornow/live",
     "isHttps": true
   },
   {
@@ -7772,16 +7790,16 @@
     "country": "IN",
     "language": "",
     "group": "India",
-    "url": "https://www.youtube.com/@news18india/live",
+    "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "News18 Kannada Ⓨ",
+    "name": "News18 Kannada",
     "logo": "https://i.imgur.com/CQUGLoK.png",
     "country": "IN",
     "language": "",
     "group": "India",
-    "url": "https://www.youtube.com/@News18Kannada/live",
+    "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8",
     "isHttps": true
   },
   {
@@ -7818,6 +7836,15 @@
     "language": "",
     "group": "Italy",
     "url": "https://dc3.telesveva.com:4433/news24.mp4",
+    "isHttps": true
+  },
+  {
+    "name": "News24 Ⓨ",
+    "logo": "https://i.imgur.com/N5BbEek.jpeg",
+    "country": "IN",
+    "language": "",
+    "group": "India",
+    "url": "https://www.youtube.com/@News24thinkfirst/live",
     "isHttps": true
   },
   {
@@ -8146,7 +8173,7 @@
   },
   {
     "name": "NTN",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/640px-NTNUA_logo_%282013%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/500px-NTNUA_logo_%282013%29.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -8168,7 +8195,7 @@
     "country": "CL",
     "language": "",
     "group": "Chile",
-    "url": "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8",
+    "url": "https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8",
     "isHttps": true
   },
   {
@@ -8362,7 +8389,7 @@
   },
   {
     "name": "ONE Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/500px-One_2022.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -8695,7 +8722,7 @@
   },
   {
     "name": "Phoenix Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/500px-Phoenix-logo-2018.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -8749,7 +8776,7 @@
   },
   {
     "name": "Pop Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/640px-Pop_UK_TV_Logo_%282015%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/500px-Pop_UK_TV_Logo_%282015%29.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -8901,7 +8928,7 @@
     "isHttps": true
   },
   {
-    "name": "PTS (公視主頻) Ⓨ",
+    "name": "PTS (公視��頻) Ⓨ",
     "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/630px-PTS_Taiwan.svg.png",
     "country": "TW",
     "language": "",
@@ -8911,7 +8938,7 @@
   },
   {
     "name": "PTS Taigi (公視台語台) Ⓨ Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/500px-PTS_Taigi.svg.png",
     "country": "TW",
     "language": "",
     "group": "Taiwan",
@@ -9100,7 +9127,7 @@
   },
   {
     "name": "Radio Bremen Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/640px-Logo_Radio_Bremen.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/500px-Logo_Radio_Bremen.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -9469,7 +9496,7 @@
   },
   {
     "name": "RBB Berlin Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/500px-Rbb_Fernsehen_Logo_2017.08.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -9478,7 +9505,7 @@
   },
   {
     "name": "RBB Brandenburg Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/500px-Rbb_Fernsehen_Logo_2017.08.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -9802,7 +9829,7 @@
   },
   {
     "name": "RIK Sat",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/640px-Logo_RIK_Sat_2017.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/500px-Logo_RIK_Sat_2017.svg.png",
     "country": "CY",
     "language": "",
     "group": "Cyprus",
@@ -10027,7 +10054,7 @@
   },
   {
     "name": "RTÉ One",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/640px-RT%C3%89_One_2014.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png",
     "country": "IE",
     "language": "",
     "group": "Ireland",
@@ -10036,7 +10063,7 @@
   },
   {
     "name": "RTÉ2",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/500px-RT%C3%892_logo.svg.png",
     "country": "IE",
     "language": "",
     "group": "Ireland",
@@ -10135,7 +10162,7 @@
   },
   {
     "name": "RTL Télé Lëtzebuerg",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/640px-RTL_Luxembourg_2023.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/500px-RTL_Luxembourg_2023.svg.png",
     "country": "LU",
     "language": "",
     "group": "Luxembourg",
@@ -10171,7 +10198,7 @@
   },
   {
     "name": "RTP Açores",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/640px-RTP_A%C3%A7ores_%282016%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/500px-RTP_A%C3%A7ores_%282016%29.svg.png",
     "country": "PT",
     "language": "",
     "group": "Portugal",
@@ -10225,7 +10252,7 @@
   },
   {
     "name": "RTP1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/640px-RTP1_-_Logo_2016.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png",
     "country": "PT",
     "language": "",
     "group": "Portugal",
@@ -11116,7 +11143,7 @@
   },
   {
     "name": "Star Channel Finland",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/640px-Star_Channel_2020.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/500px-Star_Channel_2020.svg.png",
     "country": "FI",
     "language": "",
     "group": "Finland",
@@ -11494,7 +11521,7 @@
   },
   {
     "name": "SWR Baden-Württemberg Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/640px-SWR_Logo_2023.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/500px-SWR_Logo_2023.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -11503,7 +11530,7 @@
   },
   {
     "name": "SWR Rheinland-Pfalz Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/640px-SWR_Logo_2023.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/500px-SWR_Logo_2023.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -11584,7 +11611,7 @@
   },
   {
     "name": "Tagesschau24",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -11611,7 +11638,7 @@
   },
   {
     "name": "TaiwanPlus Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/Taiwan_Plus_logo.svg/640px-Taiwan_Plus_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/Taiwan_Plus_logo.svg/500px-Taiwan_Plus_logo.svg.png",
     "country": "TW",
     "language": "",
     "group": "Taiwan",
@@ -13816,7 +13843,7 @@
   },
   {
     "name": "TVP Info",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/640px-TVP_Info_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/500px-TVP_Info_logo.svg.png",
     "country": "PL",
     "language": "",
     "group": "Poland",
@@ -13825,7 +13852,7 @@
   },
   {
     "name": "TVP Kultura 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVP_Kultura_2_%282020%29.svg/640px-TVP_Kultura_2_%282020%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVP_Kultura_2_%282020%29.svg/500px-TVP_Kultura_2_%282020%29.svg.png",
     "country": "PL",
     "language": "",
     "group": "Poland",
@@ -13834,7 +13861,7 @@
   },
   {
     "name": "TVP Polonia",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/640px-TVP_Polonia_Logo_2020.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/500px-TVP_Polonia_Logo_2020.svg.png",
     "country": "PL",
     "language": "",
     "group": "Poland",
@@ -13843,7 +13870,7 @@
   },
   {
     "name": "TVP World",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/640px-TVP_World_%282021%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/500px-TVP_World_%282021%29.svg.png",
     "country": "PL",
     "language": "",
     "group": "Poland",
@@ -13852,7 +13879,7 @@
   },
   {
     "name": "TVP1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/640px-TVP1_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/500px-TVP1_logo.svg.png",
     "country": "PL",
     "language": "",
     "group": "Poland",
@@ -13861,7 +13888,7 @@
   },
   {
     "name": "TVP2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/640px-TVP2_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/500px-TVP2_logo.svg.png",
     "country": "PL",
     "language": "",
     "group": "Poland",
@@ -13933,7 +13960,7 @@
   },
   {
     "name": "TVR Moldova Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVR_Moldova_Logo_2022.svg/640px-TVR_Moldova_Logo_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVR_Moldova_Logo_2022.svg/500px-TVR_Moldova_Logo_2022.svg.png",
     "country": "MD",
     "language": "",
     "group": "Moldova",
@@ -14257,7 +14284,7 @@
   },
   {
     "name": "Viaplay TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/640px-Viaplay_TV_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/500px-Viaplay_TV_logo.svg.png",
     "country": "FI",
     "language": "",
     "group": "Finland",
@@ -14527,7 +14554,7 @@
   },
   {
     "name": "WDR Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/500px-Wdr_fernsehen_logo_2016.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -14554,7 +14581,7 @@
   },
   {
     "name": "Welt",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/500px-Welt_TV_Logo_2016.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -14568,6 +14595,15 @@
     "language": "",
     "group": "VOD Italy",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "isHttps": true
+  },
+  {
+    "name": "WION Ⓨ",
+    "logo": "https://i.imgur.com/E8MCz6e.png",
+    "country": "IN",
+    "language": "",
+    "group": "India",
+    "url": "https://www.youtube.com/@WION/live",
     "isHttps": true
   },
   {
@@ -14734,7 +14770,7 @@
   },
   {
     "name": "ZDFinfo Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/640px-ZDFinfo_2011.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -14748,6 +14784,15 @@
     "language": "",
     "group": "Germany",
     "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ZEE News Ⓨ",
+    "logo": "https://i.imgur.com/lmgtjqw.jpeg",
+    "country": "IN",
+    "language": "",
+    "group": "India",
+    "url": "https://www.youtube.com/@ZEENews/live",
     "isHttps": true
   },
   {
@@ -14788,7 +14833,7 @@
   },
   {
     "name": "Армія ТБ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/640px-ArmyTV_logo_%282023%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/500px-ArmyTV_logo_%282023%29.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -15094,7 +15139,7 @@
   },
   {
     "name": "Піксель TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PixelUalogo.svg/640px-PixelUalogo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PixelUalogo.svg/500px-PixelUalogo.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -15256,7 +15301,7 @@
   },
   {
     "name": "СТВ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/640px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/500px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png",
     "country": "BY",
     "language": "",
     "group": "Belarus",
@@ -15265,7 +15310,7 @@
   },
   {
     "name": "Суспільне Київ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/640px-Suspilne_Kyiv_%282022%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/500px-Suspilne_Kyiv_%282022%29.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -15346,7 +15391,7 @@
   },
   {
     "name": "כאן 11",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/640px-Kan11Logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/500px-Kan11Logo.svg.png",
     "country": "IL",
     "language": "",
     "group": "Israel",
@@ -15607,7 +15652,7 @@
   },
   {
     "name": "2+2 Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/640px-2%2B2_logo_2017.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/500px-2%2B2_logo_2017.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -16295,7 +16340,7 @@
     "country": "AR",
     "language": "",
     "group": "Argentina",
-    "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+    "url": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8",
     "isHttps": false
   },
   {
@@ -16624,7 +16669,7 @@
   },
   {
     "name": "ITV 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/500px-ITV1_logo_%282022%29.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -16633,7 +16678,7 @@
   },
   {
     "name": "ITV 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/500px-ITV2_logo_2022.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -16642,7 +16687,7 @@
   },
   {
     "name": "ITV 3",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/500px-ITV3_logo_2022.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -16651,7 +16696,7 @@
   },
   {
     "name": "ITV 4",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/500px-ITV4_logo_%282022%29.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -17389,7 +17434,7 @@
   },
   {
     "name": "RIK 1 Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/640px-Logo_RIK_1_2017.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/500px-Logo_RIK_1_2017.svg.png",
     "country": "CY",
     "language": "",
     "group": "Cyprus",
@@ -17398,7 +17443,7 @@
   },
   {
     "name": "RIK 2 Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/640px-Logo_RIK_2_2017.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/500px-Logo_RIK_2_2017.svg.png",
     "country": "CY",
     "language": "",
     "group": "Cyprus",
@@ -17596,7 +17641,7 @@
   },
   {
     "name": "Suspilne Kultura",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/500px-Suspilne_Kultura_%282022%29.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -17749,7 +17794,7 @@
   },
   {
     "name": "TET Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/640px-TET_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/500px-TET_logo.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -17758,7 +17803,7 @@
   },
   {
     "name": "TF1",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/500px-TF1_%282013%29.svg.png",
     "country": "FR",
     "language": "",
     "group": "France",
@@ -17767,7 +17812,7 @@
   },
   {
     "name": "TFX",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/500px-TFX_logo_2018.svg.png",
     "country": "FR",
     "language": "",
     "group": "France",
@@ -17812,7 +17857,7 @@
   },
   {
     "name": "Together TV Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/640px-Together_TV_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/500px-Together_TV_logo.svg.png",
     "country": "GB",
     "language": "",
     "group": "UK",
@@ -18100,7 +18145,7 @@
   },
   {
     "name": "ZDF Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png",
     "country": "DE",
     "language": "",
     "group": "Germany",
@@ -18190,7 +18235,7 @@
   },
   {
     "name": "ПлюсПлюс Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/640px-PLUSPLUSUA.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/500px-PLUSPLUSUA.svg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
@@ -18352,7 +18397,7 @@
   },
   {
     "name": "כאן חינוכית",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/500px-KanHinuchit.svg.png",
     "country": "IL",
     "language": "",
     "group": "Israel",
@@ -18361,7 +18406,7 @@
   },
   {
     "name": "民視無線台",
-    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/640px-FTV_HD_Logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/500px-FTV_HD_Logo.svg.png",
     "country": "TW",
     "language": "",
     "group": "Taiwan",

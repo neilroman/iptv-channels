@@ -21339,7 +21339,7 @@
     "isHttps": true
   },
   {
-    "name": "DD Tamil (1080p)",
+    "name": "DD Tamil HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
@@ -25020,6 +25020,15 @@
     "isHttps": true
   },
   {
+    "name": "Epic Bharat Digital (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Epic Bhojpuri (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
     "country": "",
@@ -25386,15 +25395,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ESPN UHD (2160p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sra72yz.s.gy/ESPN_UHD_NL.m3u8",
     "isHttps": true
   },
   {
@@ -26478,12 +26478,39 @@
     "isHttps": true
   },
   {
+    "name": "Faith Africa (1080p)",
+    "logo": "https://i.imgur.com/yAZE7aU.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Faith TV (1080p)",
+    "logo": "https://i.imgur.com/lUBnKK1.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Faith TV (576p)",
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Faith UK (1080p)",
+    "logo": "https://i.imgur.com/mn8I2wt.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -33255,15 +33282,6 @@
     "isHttps": true
   },
   {
-    "name": "Hub Sports 1 (720p)",
-    "logo": "https://i.imgur.com/bhxPddO.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Huda TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/1UUjU26.png",
     "country": "",
@@ -36591,6 +36609,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "JOTX-DTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
     "isHttps": true
   },
   {
@@ -40527,6 +40554,15 @@
     "isHttps": true
   },
   {
+    "name": "like Geck0) Chrome/102.0.0.0 Safari/537.37\" group-title=\"Sports\",Tigo Sports+ (1280p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Cooking\",Dens Food Channel [Geo-blocked]",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",
     "country": "",
@@ -41217,6 +41253,33 @@
     "language": "",
     "group": "Movies",
     "url": "https://polska.hach.workers.dev/14850.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ Emotion Romania",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ Hits Romania",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ One Romania",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
     "isHttps": true
   },
   {
@@ -48114,15 +48177,6 @@
     "isHttps": true
   },
   {
-    "name": "MoreMax East HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mork vom Ork",
     "logo": "",
     "country": "",
@@ -48507,6 +48561,15 @@
     "language": "",
     "group": "Culture",
     "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MRTV Sports [Not 24/7]",
+    "logo": "https://i.imgur.com/cFTR4kC.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
     "isHttps": true
   },
   {
@@ -50499,15 +50562,6 @@
     "isHttps": true
   },
   {
-    "name": "Nazara (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NBA FAST Channel (720p)",
     "logo": "",
     "country": "",
@@ -52008,15 +52062,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
-    "isHttps": true
-  },
-  {
-    "name": "Nickelodeon +1 (720p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8",
     "isHttps": true
   },
   {
@@ -72171,15 +72216,6 @@
     "isHttps": true
   },
   {
-    "name": "Sony BBC Earth HD (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sony Canal Novelas",
     "logo": "",
     "country": "",
@@ -73527,6 +73563,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5",
+    "isHttps": true
+  },
+  {
+    "name": "Star Vijay (396p)",
+    "logo": "https://i.imgur.com/dZtJHAe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -77814,6 +77859,15 @@
     "isHttps": true
   },
   {
+    "name": "Telesol (1080p)",
+    "logo": "https://i.imgur.com/79sTxtP.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://cdn1.tvlin.net/open/telesol/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Telestar1",
     "logo": "https://i.imgur.com/BTKh5ef.png",
     "country": "",
@@ -79686,6 +79740,15 @@
     "isHttps": true
   },
   {
+    "name": "The Walk TV",
+    "logo": "https://i.imgur.com/p3RAxjp.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://wggstv16.ddns.net:9953/hls/walk1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "The Walking Dead by AMC",
     "logo": "",
     "country": "",
@@ -80025,15 +80088,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Tigo Sports+ (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -91044,6 +91098,15 @@
     "isHttps": true
   },
   {
+    "name": "World TV Guatemala (720p)",
+    "logo": "https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "World War TV",
     "logo": "",
     "country": "",
@@ -92610,6 +92673,15 @@
     "isHttps": true
   },
   {
+    "name": "Zee Tamil HD (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Zee Tamil News (720p)",
     "logo": "https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg",
     "country": "",
@@ -93384,7 +93456,7 @@
     "isHttps": true
   },
   {
-    "name": "Нижний Новгород 24 (1080p)",
+    "name": "Нижний Новгоро�� 24 (1080p)",
     "logo": "https://i.imgur.com/ZWgPVIC.png",
     "country": "",
     "language": "",
@@ -98874,6 +98946,15 @@
     "isHttps": false
   },
   {
+    "name": "ESPNews (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News;Sports",
+    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ESPNU (720p)",
     "logo": "https://i.imgur.com/HiBrysh.png",
     "country": "",
@@ -99702,6 +99783,15 @@
     "isHttps": false
   },
   {
+    "name": "Guangxi Variety & Travel Channel",
+    "logo": "https://www.tvchinese.net/uploads/tv/gxzypd.jpg",
+    "country": "",
+    "language": "",
+    "group": "General;Travel",
+    "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "isHttps": false
+  },
+  {
     "name": "Gugbang TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/f1tz5fg.png",
     "country": "",
@@ -100383,6 +100473,15 @@
     "language": "",
     "group": "General",
     "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kangba TV",
+    "logo": "https://www.tvchinese.net/uploads/tv/kangbatv.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://110.185.237.164:8888/hls/30/index.m3u8",
     "isHttps": false
   },
   {
@@ -102273,6 +102372,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Epic Bharat (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/471/master.m3u8",
     "isHttps": false
   },
   {
@@ -107583,6 +107691,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://41.205.93.154/SYFY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SEC Network (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
     "isHttps": false
   },
   {
@@ -114738,24 +114855,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "邢台城生",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "邢台综合",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8",
     "isHttps": false
   },
   {

@@ -7371,12 +7371,39 @@
     "isHttps": true
   },
   {
+    "name": "Faith Africa (1080p)",
+    "logo": "https://i.imgur.com/yAZE7aU.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Faith TV (1080p)",
+    "logo": "https://i.imgur.com/lUBnKK1.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Faith TV (576p)",
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Faith UK (1080p)",
+    "logo": "https://i.imgur.com/mn8I2wt.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -9375,15 +9402,6 @@
     "language": "",
     "group": "Legislative",
     "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Hub Sports 1 (720p)",
-    "logo": "https://i.imgur.com/bhxPddO.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8",
     "isHttps": true
   },
   {
@@ -12564,15 +12582,6 @@
     "isHttps": true
   },
   {
-    "name": "MoreMax East HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Morning Cloud TV (720p)",
     "logo": "https://i.imgur.com/Lxfd2ip.png",
     "country": "",
@@ -13992,15 +14001,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
-    "isHttps": true
-  },
-  {
-    "name": "Nickelodeon +1 (720p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8",
     "isHttps": true
   },
   {
@@ -18801,15 +18801,6 @@
     "isHttps": true
   },
   {
-    "name": "Sony BBC Earth HD (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sony Pix HD (1080p) [Geo-blocked]",
     "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
     "country": "",
@@ -19365,6 +19356,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Vijay (396p)",
+    "logo": "https://i.imgur.com/dZtJHAe.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -20877,6 +20877,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "The Walk TV",
+    "logo": "https://i.imgur.com/p3RAxjp.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://wggstv16.ddns.net:9953/hls/walk1.m3u8",
     "isHttps": true
   },
   {
@@ -24786,6 +24795,15 @@
     "isHttps": false
   },
   {
+    "name": "ESPNews (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News;Sports",
+    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ESPNU (720p)",
     "logo": "https://i.imgur.com/HiBrysh.png",
     "country": "",
@@ -26052,6 +26070,15 @@
     "language": "",
     "group": "News",
     "url": "http://44.32.200.142:5004/auto/v35",
+    "isHttps": false
+  },
+  {
+    "name": "SEC Network (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
     "isHttps": false
   },
   {
