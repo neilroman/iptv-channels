@@ -4762,7 +4762,7 @@
   },
   {
     "name": "News24 (1080p)",
-    "logo": "https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/5647924203001/8e3eba6d-3ed7-4687-8793-ce06bebb0f37/4f567b79-c56c-426c-91c3-0b277e41879e/1920x1080/match/image.jpg",
+    "logo": "https://i.imgur.com/KagpoPN.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -5598,6 +5598,15 @@
     "isHttps": true
   },
   {
+    "name": "Rai News 24 HD (1080p)",
+    "logo": "https://i.imgur.com/n2u57y3.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Raj News Kannada (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LOGO_HD/image.png",
     "country": "",
@@ -5667,15 +5676,6 @@
     "language": "",
     "group": "Entertainment;General;News",
     "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Redseat The First (720p)",
-    "logo": "https://i.imgur.com/t794qkT.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6417,12 +6417,12 @@
     "isHttps": true
   },
   {
-    "name": "TGCom 24 [Geo-blocked]",
+    "name": "TGCom24 (720p)",
     "logo": "https://i.imgur.com/fPmvbGH.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8",
     "isHttps": true
   },
   {
@@ -7152,6 +7152,15 @@
     "language": "",
     "group": "News",
     "url": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "WTMO-CD 31.1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8",
     "isHttps": true
   },
   {

@@ -1701,15 +1701,6 @@
     "isHttps": true
   },
   {
-    "name": "Cadena A (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/BxQPPAA.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cadena Elite (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/3yeGDTP.png",
     "country": "",
@@ -6309,15 +6300,6 @@
     "isHttps": true
   },
   {
-    "name": "Gigavision (720p)",
-    "logo": "https://i.imgur.com/fE3BkcT.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GikTVMX (720p)",
     "logo": "https://i.imgur.com/Gwz78jZ.png",
     "country": "",
@@ -9672,6 +9654,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NHK World Premium (720p)",
+    "logo": "https://i.imgur.com/4ESi2La.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8",
     "isHttps": true
   },
   {
@@ -13266,15 +13257,6 @@
     "isHttps": true
   },
   {
-    "name": "Showtime West (720p)",
-    "logo": "https://i.imgur.com/Or0LKsu.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://gpuserver5.tier1streams.com/SHOWTIME_WEST/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ShowVen TV (720p)",
     "logo": "https://i.imgur.com/AJIN8Dc.png",
     "country": "",
@@ -14454,12 +14436,12 @@
     "isHttps": true
   },
   {
-    "name": "Telemundo Al Dia",
+    "name": "Telemundo Al Dia (720p)",
     "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
+    "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573",
     "isHttps": true
   },
   {
@@ -17280,6 +17262,15 @@
     "isHttps": true
   },
   {
+    "name": "WTMO-CD 31.1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Wtv (720p)",
     "logo": "https://i.imgur.com/V10iVeh.png",
     "country": "",
@@ -19491,15 +19482,6 @@
     "language": "",
     "group": "General",
     "url": "http://15.204.246.24:8080/DTVHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Red Uno (720p)",
-    "logo": "https://i.imgur.com/wfNaEV9.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://190.181.18.82:4111/play/a005/index.m3u8",
     "isHttps": false
   },
   {

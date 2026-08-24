@@ -1431,15 +1431,6 @@
     "isHttps": false
   },
   {
-    "name": "台视 (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "和政电视台",
     "logo": "https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",
     "country": "",
@@ -1851,6 +1842,15 @@
     "language": "",
     "group": "General",
     "url": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "��视 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
     "isHttps": false
   }
 ]
