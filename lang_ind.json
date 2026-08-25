@@ -117,15 +117,6 @@
     "isHttps": true
   },
   {
-    "name": "BN Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://flv.intechmedia.net/live/ch112.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BRTV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
     "country": "",
@@ -339,15 +330,6 @@
     "language": "",
     "group": "News",
     "url": "https://mncmedia.malingtv.workers.dev/inews.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Izzah TV (480p)",
-    "logo": "https://i.imgur.com/my7aqLc.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
     "isHttps": true
   },
   {
@@ -756,12 +738,12 @@
     "isHttps": true
   },
   {
-    "name": "Salam TV (1080p)",
+    "name": "Salam TV (720p)",
     "logo": "https://i.imgur.com/00Ifzgo.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://salamtv.siar.us/live/salamtv.m3u8",
+    "url": "https://live.salamtelevisi.com/hls/0/stream.m3u8",
     "isHttps": true
   },
   {
@@ -789,6 +771,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Selaparang TV (720p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
     "isHttps": true
   },
   {
@@ -870,15 +861,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://parahyangan.staratv.id/hls/0/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Surau TV",
-    "logo": "https://i.imgur.com/CKoxcWL.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8",
     "isHttps": true
   },
   {
@@ -1224,12 +1206,12 @@
     "isHttps": true
   },
   {
-    "name": "Wesal TV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/Uv8RWks.png",
+    "name": "VTV (720p)",
+    "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
-    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
+    "group": "Kids",
+    "url": "https://flv.intechmedia.net/live/ch107.m3u8",
     "isHttps": true
   },
   {
@@ -1240,6 +1222,15 @@
     "group": "General",
     "url": "https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8",
     "isHttps": true
+  },
+  {
+    "name": "Ajwa TV (1080p)",
+    "logo": "https://i.imgur.com/JXjbUhB.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://ikitv.sqn.at:8000/play/a00j/index.m3u8",
+    "isHttps": false
   },
   {
     "name": "Al-Bahjah TV (1080p)",
@@ -1314,6 +1305,15 @@
     "isHttps": false
   },
   {
+    "name": "BN Channel (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://ikitv.sqn.at:8000/play/a01l/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CinemaWorld (720p)",
     "logo": "https://i.imgur.com/D2qNVZ7.png",
     "country": "",
@@ -1365,6 +1365,15 @@
     "language": "",
     "group": "General",
     "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "JTV Kediri (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/mIDWIQk.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -1521,6 +1530,15 @@
     "isHttps": false
   },
   {
+    "name": "Surau TV (720p)",
+    "logo": "https://i.imgur.com/CKoxcWL.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://ikitv.sqn.at:8000/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]",
     "logo": "https://i.imgur.com/0Vp3f2J.png",
     "country": "",
@@ -1539,12 +1557,12 @@
     "isHttps": false
   },
   {
-    "name": "VTV (1080p)",
+    "name": "VTV HD (1080p)",
     "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
+    "url": "http://ikitv.sqn.at:8000/play/a023/index.m3u8",
     "isHttps": false
   }
 ]
