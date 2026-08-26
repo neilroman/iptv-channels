@@ -54,21 +54,21 @@
     "isHttps": true
   },
   {
-    "name": "Antena International (720P)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+    "name": "Antena Stars (720p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
     "country": "",
     "language": "",
-    "group": "General",
-    "url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
+    "group": "Entertainment",
+    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
     "isHttps": true
   },
   {
-    "name": "Antena Monden (720p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+    "name": "Arges TV (720p)",
+    "logo": "https://i.imgur.com/qufz6nk.png",
     "country": "",
     "language": "",
-    "group": "Lifestyle",
-    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "group": "General",
+    "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
     "isHttps": true
   },
   {
@@ -189,6 +189,24 @@
     "isHttps": true
   },
   {
+    "name": "FILMBOX+ Hits Romania (576p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "FILMBOX+ One Romania (576p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "HD365 TV",
     "logo": "https://i.imgur.com/2cLx4ja.png",
     "country": "",
@@ -198,12 +216,12 @@
     "isHttps": true
   },
   {
-    "name": "Hello Taste (720p)",
+    "name": "Hello Taste",
     "logo": "https://i.imgur.com/TdKO0er.png",
     "country": "",
     "language": "",
     "group": "Cooking",
-    "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+    "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
     "isHttps": true
   },
   {
@@ -324,6 +342,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Classic;Movies\",Bollywood Classic Romania",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
@@ -339,6 +366,33 @@
     "language": "",
     "group": "Documentary",
     "url": "https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Explore",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat History",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Nature",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8",
     "isHttps": true
   },
   {
@@ -393,24 +447,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ Hits Romania",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ One Romania",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
     "isHttps": true
   },
   {
