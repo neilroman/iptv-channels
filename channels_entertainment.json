@@ -504,6 +504,15 @@
     "isHttps": true
   },
   {
+    "name": "Asianet HD (720p)",
+    "logo": "https://i.imgur.com/Wv7MOzg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Asianet Plus (396p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png",
     "country": "",
@@ -2970,15 +2979,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Star Maa HD (1080p)",
-    "logo": "https://i.imgur.com/5c9PVS0.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/77.0.3865.90 Safari/537.36\" group-title=\"Entertainment\",Nos Isla TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/sH7ZkPx.png",
     "country": "",
@@ -4950,6 +4950,15 @@
     "isHttps": true
   },
   {
+    "name": "Shemaroo Umang (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Show do Milhao (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Show_do_Milh%C3%A3o_Logo_2024.webp",
     "country": "",
@@ -5058,12 +5067,30 @@
     "isHttps": true
   },
   {
-    "name": "Star Pravah HD (1080p)",
+    "name": "Star Jalsha HD (720p)",
+    "logo": "https://i.imgur.com/IlufzR5.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Maa HD (720p)",
+    "logo": "https://i.imgur.com/5c9PVS0.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Pravah HD (720p)",
     "logo": "https://i.imgur.com/ZT0u7AK.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8",
     "isHttps": true
   },
   {
@@ -5828,7 +5855,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -7467,15 +7494,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://41.205.93.154/SYFY/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Shemaroo Umang (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.213.31.109:90/ShemarooUmang/playlist.m3u8",
     "isHttps": false
   },
   {

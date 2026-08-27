@@ -7065,6 +7065,15 @@
     "isHttps": true
   },
   {
+    "name": "Asianet HD (720p)",
+    "logo": "https://i.imgur.com/Wv7MOzg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Asianet Movies (576p)",
     "logo": "https://i.imgur.com/cps67hs.png",
     "country": "",
@@ -16115,7 +16124,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8",
+    "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8",
     "isHttps": true
   },
   {
@@ -42993,15 +43002,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Star Maa HD (1080p)",
-    "logo": "https://i.imgur.com/5c9PVS0.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/77.0.3865.90 Safari/537.36\" group-title=\"Entertainment\",Nos Isla TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/sH7ZkPx.png",
     "country": "",
@@ -47157,6 +47157,15 @@
     "language": "",
     "group": "News",
     "url": "https://livestream.jswk.online/mhonenews/live/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MH One Shraddha (576p)",
+    "logo": "https://i.imgur.com/Lrm8qTO.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
     "isHttps": true
   },
   {
@@ -69426,12 +69435,12 @@
     "isHttps": true
   },
   {
-    "name": "Samachar Plus",
-    "logo": "https://i.imgur.com/n7FhveH.png",
+    "name": "Samachar Plus 24x7 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/269/master.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8",
     "isHttps": true
   },
   {
@@ -69647,7 +69656,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://cdn-3.pishow.tv/live/1135/master.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8",
     "isHttps": true
   },
   {
@@ -71109,6 +71118,15 @@
     "isHttps": true
   },
   {
+    "name": "Sharnam TV (576p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/SarnamTV.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sharq Radio TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg",
     "country": "",
@@ -71169,6 +71187,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Shemaroo Umang (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -72330,6 +72357,15 @@
     "language": "",
     "group": "General",
     "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Soham TV (576p)",
+    "logo": "https://i.imgur.com/cpedJ0L.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -73674,6 +73710,15 @@
     "isHttps": true
   },
   {
+    "name": "Star Jalsha HD (720p)",
+    "logo": "https://i.imgur.com/IlufzR5.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Star Kentrikis Elladas (1080p)",
     "logo": "https://i.imgur.com/ZBt6beo.png",
     "country": "",
@@ -73683,12 +73728,21 @@
     "isHttps": true
   },
   {
-    "name": "Star Maa Movies HD (1080p)",
+    "name": "Star Maa HD (720p)",
+    "logo": "https://i.imgur.com/5c9PVS0.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Maa Movies HD (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
     "isHttps": true
   },
   {
@@ -73701,12 +73755,12 @@
     "isHttps": true
   },
   {
-    "name": "Star Pravah HD (1080p)",
+    "name": "Star Pravah HD (720p)",
     "logo": "https://i.imgur.com/ZT0u7AK.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8",
     "isHttps": true
   },
   {
@@ -75483,6 +75537,15 @@
     "isHttps": true
   },
   {
+    "name": "Suvarna News (576p)",
+    "logo": "https://i.imgur.com/0H1HObK.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Suwannabhumi Channel (720p)",
     "logo": "https://i.imgur.com/6AGKP0A.png",
     "country": "",
@@ -76110,6 +76173,15 @@
     "language": "",
     "group": "News",
     "url": "https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Tamilan TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8",
     "isHttps": true
   },
   {
@@ -88128,12 +88200,12 @@
     "isHttps": true
   },
   {
-    "name": "Vedic (480p)",
+    "name": "Vedic (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8",
     "isHttps": true
   },
   {
@@ -88196,7 +88268,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-3.pishow.tv/live/461/master.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8",
     "isHttps": true
   },
   {
@@ -88205,7 +88277,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -91031,7 +91103,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -91482,6 +91554,24 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
+    "name": "WOW Kidz (720p)",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
+    "name": "WOW Kidz Tamil (720p)",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -108276,15 +108366,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.213.31.109:90/ChumbakTv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Shemaroo Umang (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.213.31.109:90/ShemarooUmang/playlist.m3u8",
     "isHttps": false
   },
   {
