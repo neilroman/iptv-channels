@@ -6075,15 +6075,6 @@
     "isHttps": true
   },
   {
-    "name": "Fox Sports (720p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "France 24 Español (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",
     "country": "",
@@ -10260,6 +10251,15 @@
     "isHttps": true
   },
   {
+    "name": "Paraguay TV (1080p)",
+    "logo": "https://i.imgur.com/fkK7i8g.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Paraíso TV (720p)",
     "logo": "https://i.imgur.com/wE31GIP.jpg",
     "country": "",
@@ -14049,12 +14049,12 @@
     "isHttps": true
   },
   {
-    "name": "Tele Posadas (720p)",
+    "name": "Tele Posadas HD (720p)",
     "logo": "https://i.imgur.com/88MVgwX.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+    "url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -17178,15 +17178,6 @@
     "language": "",
     "group": "General",
     "url": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "WATC The Loop (1080p)",
-    "logo": "https://i.imgur.com/4SmNFCX.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
     "isHttps": true
   },
   {

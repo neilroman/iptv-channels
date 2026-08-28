@@ -234,6 +234,15 @@
     "isHttps": true
   },
   {
+    "name": "Aaj Ki Khabar (1080p)",
+    "logo": "https://m.media-amazon.com/images/I/71q8sOMPwHL.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/aajkikhabar/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Aaj Tak HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
     "country": "",
@@ -1404,12 +1413,12 @@
     "isHttps": true
   },
   {
-    "name": "BRK News (576p)",
+    "name": "BRK News (720p)",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-1.pishow.tv/live/1037/master.m3u8",
+    "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -4905,15 +4914,6 @@
     "isHttps": true
   },
   {
-    "name": "NHK World-Japan HD (1080p) [Geo-blocked]",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;News",
-    "url": "https://nhk.lls.pbs.org/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NK TV 24x7 (1080p)",
     "logo": "https://www.nktv.in/wp-content/uploads/2023/01/NEW-LOGO-NEW.png",
     "country": "",
@@ -7911,6 +7911,15 @@
     "isHttps": false
   },
   {
+    "name": "France 24 English HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Fresh News",
     "logo": "https://i.imgur.com/bV6sawt.png",
     "country": "",
@@ -8241,6 +8250,15 @@
     "language": "",
     "group": "News",
     "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NHK World-Japan HD (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;News",
+    "url": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8",
     "isHttps": false
   },
   {
