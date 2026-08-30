@@ -18,15 +18,6 @@
     "isHttps": true
   },
   {
-    "name": "ACC Network HD (720p)",
-    "logo": "https://i.imgur.com/TpCkbkT.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ACCDN (1080p)",
     "logo": "https://i.imgur.com/V6Kaqha.png",
     "country": "",
@@ -897,6 +888,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lazio Style Channel HD (720p)",
+    "logo": "https://i.imgur.com/vDB8HFq.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
     "isHttps": true
   },
   {

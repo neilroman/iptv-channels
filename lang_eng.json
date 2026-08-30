@@ -972,15 +972,6 @@
     "isHttps": true
   },
   {
-    "name": "ACC Network HD (720p)",
-    "logo": "https://i.imgur.com/TpCkbkT.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ACCDN (1080p)",
     "logo": "https://i.imgur.com/V6Kaqha.png",
     "country": "",
@@ -9846,6 +9837,15 @@
     "isHttps": true
   },
   {
+    "name": "Iris HD (1080p)",
+    "logo": "https://i.imgur.com/ZLnSLh4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Iron Chef",
     "logo": "https://i.imgur.com/rk7fMNe.png",
     "country": "",
@@ -11364,15 +11364,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV Global (576p)",
-    "logo": "https://i.imgur.com/n2BoU7Q.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://shift03.isp.bg/MTVEurope/index.m3u8",
     "isHttps": true
   },
   {
@@ -12951,6 +12942,15 @@
     "isHttps": true
   },
   {
+    "name": "MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ma.anixa.tv/clips/stream/mtv/playlist.php",
+    "isHttps": true
+  },
+  {
     "name": "MTV Biggest Pop (1080p)",
     "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
     "country": "",
@@ -14136,15 +14136,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
-    "isHttps": true
-  },
-  {
-    "name": "Nickelodeon East HD (720p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8",
     "isHttps": true
   },
   {
@@ -17244,6 +17235,15 @@
     "isHttps": true
   },
   {
+    "name": "RadiantTV (1080p)",
+    "logo": "https://static.wixstatic.com/media/ba7a6c_6cc667c69cf24b94934b9d7f2e9853a5~mv2.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Fx Net (720p)",
     "logo": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
     "country": "",
@@ -18320,7 +18320,7 @@
     "country": "",
     "language": "",
     "group": "Business",
-    "url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+    "url": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
     "isHttps": true
   },
   {
@@ -25245,6 +25245,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://42.118.247.37:9394/stream/74.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",JimJam",
     "logo": "https://i.imgur.com/ODhkYyx.png",
     "country": "",
@@ -25665,6 +25674,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://198.58.104.90:8989/mtv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MTV Global (720p)",
+    "logo": "https://i.imgur.com/n2BoU7Q.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://dvr2.kablova.tv/MTV/index.m3u8",
     "isHttps": false
   },
   {

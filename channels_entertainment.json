@@ -117,6 +117,24 @@
     "isHttps": true
   },
   {
+    "name": "7 Gold (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "8TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Jkx9W88.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325",
+    "isHttps": true
+  },
+  {
     "name": "9Gem (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/cwLzqaw.png",
     "country": "",
@@ -1005,6 +1023,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canale 5 HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
     "isHttps": true
   },
   {
@@ -2385,6 +2412,15 @@
     "isHttps": true
   },
   {
+    "name": "Iris HD (1080p)",
+    "logo": "https://i.imgur.com/ZLnSLh4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Island Luck TV",
     "logo": "https://i.imgur.com/P0gDN5n.png",
     "country": "",
@@ -2952,15 +2988,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV Global (576p)",
-    "logo": "https://i.imgur.com/n2BoU7Q.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://shift03.isp.bg/MTVEurope/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (576p)",
     "logo": "https://i.imgur.com/QxHt9NC.png",
     "country": "",
@@ -3444,6 +3471,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ma.anixa.tv/clips/stream/mtv/playlist.php",
     "isHttps": true
   },
   {
@@ -6282,15 +6318,6 @@
     "isHttps": false
   },
   {
-    "name": "8TV",
-    "logo": "https://i.imgur.com/Jkx9W88.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://cdn6.163189.xyz/163189/8tv",
-    "isHttps": false
-  },
-  {
     "name": "A-Plus TV (576p)",
     "logo": "https://i.imgur.com/uu0UJme.png",
     "country": "",
@@ -6894,6 +6921,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://42.118.247.37:9394/stream/74.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Sorozatklub",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",
     "country": "",
@@ -7260,6 +7296,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://198.58.104.90:8989/mtv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MTV Global (720p)",
+    "logo": "https://i.imgur.com/n2BoU7Q.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://dvr2.kablova.tv/MTV/index.m3u8",
     "isHttps": false
   },
   {

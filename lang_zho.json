@@ -1,5 +1,14 @@
 [
   {
+    "name": "8TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Jkx9W88.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325",
+    "isHttps": true
+  },
+  {
     "name": "ABN China (720p)",
     "logo": "https://i.imgur.com/zagVLQH.png",
     "country": "",
@@ -754,15 +763,6 @@
     "group": "General",
     "url": "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
     "isHttps": true
-  },
-  {
-    "name": "8TV",
-    "logo": "https://i.imgur.com/Jkx9W88.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://cdn6.163189.xyz/163189/8tv",
-    "isHttps": false
   },
   {
     "name": "Ando TV (1080p)",
