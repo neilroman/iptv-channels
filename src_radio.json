@@ -302,7 +302,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Infantiles",
-    "url": "https://srv6022.dns-lcinternet.com:8047/stream",
+    "url": "https://18213.live.streamtheworld.com/SAM04AAC33_SC",
     "isHttps": true
   },
   {
@@ -645,6 +645,15 @@
     "language": "",
     "group": "Radio_Cataluña",
     "url": "https://streaming.enacast.com/canalblau128.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "Canal Ebro",
+    "logo": "https://graph.facebook.com/canalebro/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_La Rioja",
+    "url": "https://streaming.radioharo.com/canalebro.mp3",
     "isHttps": true
   },
   {
@@ -2971,7 +2980,7 @@
   },
   {
     "name": "Ke Buena FM México",
-    "logo": "https://graph.facebook.com/kebuenamx/picture?width=200&height=200",
+    "logo": "https://pbs.twimg.com/profile_images/2079241301732605952/kiq2Blb6_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Radio_Internacional",
@@ -4955,7 +4964,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Castilla y León",
-    "url": "https://s28.myradiostream.com:13006/listen.mp3",
+    "url": "https://s4.voscast.com:8753/stream",
     "isHttps": true
   },
   {
@@ -5424,6 +5433,15 @@
     "language": "",
     "group": "Radio_C. Valenciana",
     "url": "https://stream90.es/listen/radio90fm/radio",
+    "isHttps": true
+  },
+  {
+    "name": "Ràdio Abrera 107.9FM",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaG6_MEyA9zhvLRP9zym9WownXU4lLZGFvnBrEnv6V6w",
+    "country": "",
+    "language": "",
+    "group": "Radio_Cataluña",
+    "url": "https://relay.stream.enacast-cloud.com:40115/radioabrera128.mp3",
     "isHttps": true
   },
   {
@@ -8451,6 +8469,15 @@
     "isHttps": true
   },
   {
+    "name": "SER Radio Haro",
+    "logo": "https://graph.facebook.com/radioharo/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_La Rioja",
+    "url": "https://streaming.radioharo.com/radioharo.mp3",
+    "isHttps": true
+  },
+  {
     "name": "SER Radio Santander",
     "logo": "https://graph.facebook.com/CadenaSerCantabria/picture?width=200&height=200",
     "country": "",
@@ -8717,7 +8744,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Deportivas",
-    "url": "https://livesg.sevillafc.hiway.media/restreamer/sevillafc_client/gpu-f-c1-7/restreamer/outgest/1be21788-4718-4554-8e1c-9a0ae4af9551/audio_manifest.m3u8",
+    "url": "https://livesg.sevillafc.hiway.media/restreamer/sevillafc_client/gpu-f-c1-7/restreamer/outgest/5fbbbe86-da09-46d3-ad60-9efe234d1b3b/audio_manifest.m3u8",
     "isHttps": true
   },
   {
@@ -9114,15 +9141,6 @@
     "language": "",
     "group": "Radio_Andalucía",
     "url": "http://streaming.cloud.innovasur.es:8810/alcaudete",
-    "isHttps": false
-  },
-  {
-    "name": "Canal Ebro",
-    "logo": "https://graph.facebook.com/canalebro/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_La Rioja",
-    "url": "http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3",
     "isHttps": false
   },
   {

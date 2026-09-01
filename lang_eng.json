@@ -13761,6 +13761,15 @@
     "isHttps": true
   },
   {
+    "name": "Nevis Television",
+    "logo": "https://i.imgur.com/u76GqAi.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p)",
     "logo": "https://i.imgur.com/64sZVF9.jpg",
     "country": "",
@@ -19284,15 +19293,6 @@
     "language": "",
     "group": "Music",
     "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Sports 1 (720p)",
-    "logo": "https://i.imgur.com/E5jjKHI.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8",
     "isHttps": true
   },
   {
@@ -24822,6 +24822,15 @@
     "isHttps": false
   },
   {
+    "name": "Fashion TV (1080p)",
+    "logo": "https://i.imgur.com/Bk7W39G.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://stream.mcquack.net/287/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Fashion&LifeStyle (1080p)",
     "logo": "https://i.imgur.com/ETmpllL.png",
     "country": "",
@@ -25722,30 +25731,12 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic HD (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://149.71.34.166:8002/play/a013/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "National Geographic HD East (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://198.58.104.90:8989/natgeo/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic Wild HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://149.71.34.166:8002/play/a012/index.m3u8",
     "isHttps": false
   },
   {
@@ -26214,15 +26205,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://103.250.28.74:8000/play/a010/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Sports 1 HD (1080p)",
-    "logo": "https://i.imgur.com/E5jjKHI.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
     "isHttps": false
   },
   {

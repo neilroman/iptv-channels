@@ -1962,15 +1962,6 @@
     "isHttps": true
   },
   {
-    "name": "Sony Yay!",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://s3.itcnbd.live/channel/b22941f1341d7243.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Spacetoon Arabic (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
     "country": "",
@@ -2454,15 +2445,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "УТРК Баластан (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/D5ylCiX.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
     "isHttps": true
   },
   {
@@ -2970,15 +2952,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Kids\",Niki Junior",
-    "logo": "https://i.imgur.com/DrHsNin.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://158.101.222.193:88/georgia_play.php?id=nikijunior",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Kids\",PLUSPLUS (1080p)",
     "logo": "https://i.imgur.com/9bPhStm.png",
     "country": "",
@@ -3057,6 +3030,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/377/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Kids\",Cine+ Kids",
+    "logo": "https://i.imgur.com/lmfc2u4.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540",
     "isHttps": false
   },
   {
@@ -3210,6 +3192,24 @@
     "language": "",
     "group": "Kids",
     "url": "http://193.24.244.60:1001/udp/239.254.5.227:6060",
+    "isHttps": false
+  },
+  {
+    "name": "Niki Junior (1080p)",
+    "logo": "https://i.imgur.com/DrHsNin.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://stream.mcquack.net/262/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Niki Kids (1080p)",
+    "logo": "https://i.imgur.com/HH4HZ2J.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://stream.mcquack.net/271/index.m3u8",
     "isHttps": false
   },
   {

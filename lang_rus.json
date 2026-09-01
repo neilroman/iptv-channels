@@ -117,15 +117,6 @@
     "isHttps": true
   },
   {
-    "name": "ATR (720p)",
-    "logo": "https://i.imgur.com/lRJAXC7.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "BabyFirst (720p)",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "country": "",
@@ -2421,30 +2412,12 @@
     "isHttps": true
   },
   {
-    "name": "УТРК (480p) [Not 24/7]",
-    "logo": "https://i.ibb.co/VJ7cPRH/Xp5clCA.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "УТРК Ала-Тоо 24 (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/vBPmUQA.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "УТРК Баластан (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/D5ylCiX.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8",
     "isHttps": true
   },
   {
@@ -2634,6 +2607,15 @@
     "language": "",
     "group": "Culture",
     "url": "http://89.104.114.24:8080/art/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ATR (1080p)",
+    "logo": "https://i.imgur.com/lRJAXC7.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://stream.mcquack.net/244/index.m3u8",
     "isHttps": false
   },
   {
@@ -3204,15 +3186,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Kvartal TV",
-    "logo": "https://i.imgur.com/6ZYWizP.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Quiz TV (1080p)",
     "logo": "https://i.imgur.com/I0ZE0M4.png",
     "country": "",
@@ -3435,6 +3408,15 @@
     "language": "",
     "group": "Comedy;Movies",
     "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Kvartal TV (720p)",
+    "logo": "https://i.imgur.com/6ZYWizP.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180",
     "isHttps": false
   },
   {

@@ -1269,15 +1269,6 @@
     "isHttps": true
   },
   {
-    "name": "ART",
-    "logo": "https://i.imgur.com/7TyUxLj.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ART TV",
     "logo": "https://i.imgur.com/LyCqQvx.png",
     "country": "GR",
@@ -2643,24 +2634,6 @@
     "language": "",
     "group": "China",
     "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CCTV-5 体育",
-    "logo": "https://i.imgur.com/Mut2omN.png",
-    "country": "CN",
-    "language": "",
-    "group": "China",
-    "url": "https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CCTV-5+ 体育赛事",
-    "logo": "https://i.imgur.com/UNjmQVS.png",
-    "country": "CN",
-    "language": "",
-    "group": "China",
-    "url": "https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8",
     "isHttps": true
   },
   {
@@ -4203,6 +4176,15 @@
     "isHttps": true
   },
   {
+    "name": "ERT Cosmos",
+    "logo": "https://i.imgur.com/KsMTWYw.png",
+    "country": "GR",
+    "language": "",
+    "group": "Greece",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd",
+    "isHttps": true
+  },
+  {
     "name": "ERT Kids Ⓖ",
     "logo": "https://i.imgur.com/XkSR66q.png",
     "country": "GR",
@@ -4217,7 +4199,7 @@
     "country": "GR",
     "language": "",
     "group": "Greece",
-    "url": "https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/index.mpd",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4254,15 +4236,6 @@
     "language": "",
     "group": "Greece",
     "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "ERT World",
-    "logo": "https://i.imgur.com/KsMTWYw.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd",
     "isHttps": true
   },
   {
@@ -4740,6 +4713,15 @@
     "language": "",
     "group": "Ireland",
     "url": "https://onic.dublin.live.stream.broadcasting.news/stream-fm104",
+    "isHttps": true
+  },
+  {
+    "name": "FNNプライムオンライン",
+    "logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png",
+    "country": "JP",
+    "language": "",
+    "group": "日本 / Japan",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7026,6 +7008,15 @@
     "language": "",
     "group": "Korea",
     "url": "https://www.youtube.com/c/mbctvlive/live",
+    "isHttps": true
+  },
+  {
+    "name": "MBSニュース",
+    "logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png",
+    "country": "JP",
+    "language": "",
+    "group": "日本 / Japan",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -12384,15 +12375,6 @@
     "isHttps": true
   },
   {
-    "name": "TeleKriti",
-    "logo": "https://i.imgur.com/18ZYiyi.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Telemadrid",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/500px-TeleMadrid.svg.png",
     "country": "ES",
@@ -14814,15 +14796,6 @@
     "isHttps": true
   },
   {
-    "name": "Η Φωνή της Ελλάδας",
-    "logo": "https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Арктика 24 Ⓥ",
     "logo": "https://i.imgur.com/CL0G88u.png",
     "country": "RU",
@@ -15561,6 +15534,15 @@
     "isHttps": true
   },
   {
+    "name": "日テレNEWS",
+    "logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",
+    "country": "JP",
+    "language": "",
+    "group": "日本 / Japan",
+    "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "日テレNEWS24",
     "logo": "https://i.imgur.com/jtSYegn.png",
     "country": "JP",
@@ -15597,7 +15579,7 @@
     "isHttps": true
   },
   {
-    "name": "時代劇専門チ��ンネル",
+    "name": "時代劇専門チャンネル",
     "logo": "https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",
     "country": "JP",
     "language": "",
@@ -16098,42 +16080,6 @@
     "language": "",
     "group": "China",
     "url": "http://74.91.26.218:82/live/cctv9hd.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CETV-1",
-    "logo": "https://i.imgur.com/AMcIAOV.png",
-    "country": "CN",
-    "language": "",
-    "group": "China",
-    "url": "http://txycsbl.centv.cn/zb/0628cetv1.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CETV-2",
-    "logo": "https://i.imgur.com/a9mvoeP.png",
-    "country": "CN",
-    "language": "",
-    "group": "China",
-    "url": "http://txycsbl.centv.cn/zb/0822cetv2.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CETV-3",
-    "logo": "https://i.imgur.com/t8o5ZKt.png",
-    "country": "CN",
-    "language": "",
-    "group": "China",
-    "url": "http://txycsbl.centv.cn/zb/0822cetv3.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CETV-4",
-    "logo": "https://i.imgur.com/BRe0ybV.png",
-    "country": "CN",
-    "language": "",
-    "group": "China",
-    "url": "http://txycsbl.centv.cn/zb/0822cetv4.m3u8",
     "isHttps": false
   },
   {
