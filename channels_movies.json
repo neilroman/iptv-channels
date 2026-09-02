@@ -4887,12 +4887,12 @@
     "isHttps": false
   },
   {
-    "name": "Canal+ Action Europe Czechia",
+    "name": "Canal+ Action Europe Czechia (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://46.149.191.219:9106/play/a01g",
+    "url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -5481,6 +5481,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Crime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.19/live/viasat_film/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Enter-Film (1080p)",
     "logo": "https://i.imgur.com/wQbiGs6.png",
     "country": "",
@@ -5559,15 +5568,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/456/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Film",
-    "logo": "https://i.imgur.com/5CoP6ex.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88.212.15.19/live/viasat_film/index.m3u8",
     "isHttps": false
   },
   {
@@ -6651,7 +6651,7 @@
     "isHttps": false
   },
   {
-    "name": "动作电��� (1080p)",
+    "name": "动作电影 (1080p)",
     "logo": "https://i.imgur.com/AuiVcyh.png",
     "country": "",
     "language": "",
