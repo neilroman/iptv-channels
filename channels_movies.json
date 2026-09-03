@@ -243,12 +243,21 @@
     "isHttps": true
   },
   {
-    "name": "B4U Movies APAC (720p)",
+    "name": "B4U Kadak (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "B4U Movies (576p)",
     "logo": "https://i.imgur.com/M9kMFJl.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
+    "url": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -285,6 +294,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bhojpuri Cinema (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -370,7 +388,7 @@
   },
   {
     "name": "Charge! (1080p)",
-    "logo": "https://i.imgur.com/1rxmu2u.png",
+    "logo": "https://i.imgur.com/ocs2DeU.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1242,15 +1260,6 @@
     "isHttps": true
   },
   {
-    "name": "KPVM Movies!",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Kuriakos Cine (1080p)",
     "logo": "https://i.imgur.com/CZViCwB.jpg",
     "country": "",
@@ -1728,6 +1737,15 @@
     "isHttps": true
   },
   {
+    "name": "Movies! KPVM-LD",
+    "logo": "https://i.imgur.com/gAGn3mK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "MovieSphere (1080p)",
     "logo": "https://i.imgur.com/h1ejU90.png",
     "country": "",
@@ -1900,7 +1918,7 @@
   },
   {
     "name": "NOST (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/250px-NOST-1080x1080.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/960px-This_TV_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -4671,6 +4689,24 @@
     "isHttps": true
   },
   {
+    "name": "&TV HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://202.70.146.135:8000/play/a06c/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "&xplor HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://66.102.126.10:8000/play/a028/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "312 Кино (406p)",
     "logo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
     "country": "",
@@ -4698,12 +4734,12 @@
     "isHttps": false
   },
   {
-    "name": "AMC (720p)",
+    "name": "AMC (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://23.239.31.26:8989/amc/index.m3u8",
+    "url": "http://41.205.93.154/AMC/index.m3u8",
     "isHttps": false
   },
   {
@@ -4851,15 +4887,6 @@
     "isHttps": false
   },
   {
-    "name": "Bhojpuri Cinema (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Blokbaster HD (1080p)",
     "logo": "https://i.imgur.com/KcOi4Os.png",
     "country": "",
@@ -4887,7 +4914,16 @@
     "isHttps": false
   },
   {
-    "name": "Canal+ Action Europe Czechia (720p)",
+    "name": "Canal+ Action Europe Czechia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://46.149.191.219:9106/play/a01g",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Action Europe Slovakia (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
     "country": "",
     "language": "",
@@ -5031,12 +5067,12 @@
     "isHttps": false
   },
   {
-    "name": "Cinema",
+    "name": "Cinema (576p)",
     "logo": "https://i.imgur.com/b5e9qUA.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://catchup.videoline.ru/cinema/playlist.m3u8",
+    "url": "http://flussonic.linkintel.ru/cinema/index.m3u8",
     "isHttps": false
   },
   {
@@ -5067,30 +5103,12 @@
     "isHttps": false
   },
   {
-    "name": "Colors Bangla Cinema (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.72.101.252:8080/live/1657.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Colors Cineplex (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.122.249.134:8000/play/a058",
-    "isHttps": false
-  },
-  {
     "name": "Colors Cineplex Bollywood (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://103.72.101.252:8080/live/1763.m3u8",
+    "url": "http://202.70.146.135:8000/play/a058/index.m3u8",
     "isHttps": false
   },
   {
@@ -5099,25 +5117,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://149.71.34.166:8000/play/a00b/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Colors Cineplex Superhits (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.72.101.252:8080/live/1450.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Colors Gujarati Cinema (360p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.72.101.252:8080/live/1324.m3u8",
+    "url": "http://66.102.126.10:8000/play/a076/index.m3u8",
     "isHttps": false
   },
   {
@@ -5577,24 +5577,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/380/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",B4U Kadak (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.175.73.12:8080/live/44/44_0.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",B4U Movies (576p)",
-    "logo": "https://i.imgur.com/M9kMFJl.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.175.73.12:8080/live/43/43_0.m3u8",
     "isHttps": false
   },
   {
@@ -6111,6 +6093,15 @@
     "isHttps": false
   },
   {
+    "name": "MNX (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://59.103.38.46:8000/play/a052/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MNX HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
     "country": "",
@@ -6426,12 +6417,66 @@
     "isHttps": false
   },
   {
+    "name": "Star Gold 2 (576p)",
+    "logo": "https://i.imgur.com/G0ZfzZr.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://66.102.126.10:8000/play/a00g/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold 2 HD (1080p)",
+    "logo": "https://i.imgur.com/G0ZfzZr.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://66.102.126.10:8000/play/a077/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold HD (1080p)",
+    "logo": "https://i.imgur.com/xC460sj.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://66.102.126.10:8000/play/a00f/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold Romance (576p)",
+    "logo": "https://i.imgur.com/gSWv9U3.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://66.102.126.10:8000/play/a00r/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Gold Select HD (1080p)",
     "logo": "https://i.imgur.com/U7eiuqv.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://149.71.34.166:8000/play/a01d/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://66.102.126.10:8000/play/a021/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies Select HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://66.102.126.10:8000/play/a020/index.m3u8",
     "isHttps": false
   },
   {
@@ -6468,6 +6513,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV 21 (576p)",
+    "logo": "https://i.imgur.com/nSmSnH6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://178.134.1.158:8081/TVXXI/index.m3u8",
     "isHttps": false
   },
   {

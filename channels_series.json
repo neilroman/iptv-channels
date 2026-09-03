@@ -1157,7 +1157,7 @@
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8",
+    "url": "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
     "isHttps": true
   },
   {
@@ -3511,7 +3511,7 @@
   },
   {
     "name": "Rev'n Action (720p)",
-    "logo": "https://i.imgur.com/xsm8mMd.png",
+    "logo": "https://i.imgur.com/zOXN7hX.png",
     "country": "",
     "language": "",
     "group": "Auto;Outdoor;Series;Sports",
@@ -4204,7 +4204,7 @@
   },
   {
     "name": "True Crime Network+ (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
     "country": "",
     "language": "",
     "group": "Series",
@@ -4407,15 +4407,6 @@
     "language": "",
     "group": "Series",
     "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "НТВ Хит (576p)",
-    "logo": "https://i.imgur.com/FfKBvz5.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://cdn.ntv.ru/th_hit/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4662,6 +4653,15 @@
     "isHttps": false
   },
   {
+    "name": "Mir Seriala (576p)",
+    "logo": "https://i.imgur.com/uzj7wVp.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "Nashe HD (576p)",
     "logo": "https://i.imgur.com/KO8dhi9.png",
     "country": "",
@@ -4677,6 +4677,15 @@
     "language": "",
     "group": "Series",
     "url": "http://stream.mcquack.net/301/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NTV-Hit (576p)",
+    "logo": "https://i.imgur.com/FfKBvz5.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://178.134.1.158:8081/ntvhit/index.m3u8",
     "isHttps": false
   },
   {
@@ -4821,15 +4830,6 @@
     "language": "",
     "group": "Series",
     "url": "http://103.72.101.252:8080/live/1319.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Мир Сериала (576p)",
-    "logo": "https://i.imgur.com/uzj7wVp.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://31.148.48.15/Mir_Seriala/index.m3u8",
     "isHttps": false
   }
 ]
