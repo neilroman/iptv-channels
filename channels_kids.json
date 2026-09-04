@@ -216,6 +216,15 @@
     "isHttps": true
   },
   {
+    "name": "Balapan (576p)",
+    "logo": "https://vote.rtrk.kz/img/balapan-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Balapan HD (1080p)",
     "logo": "https://vote.rtrk.kz/img/balapan-logo.png",
     "country": "",
@@ -342,6 +351,15 @@
     "isHttps": true
   },
   {
+    "name": "Carousel International (576p)",
+    "logo": "https://i.imgur.com/DnlngRZ.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "CBBC HD (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/tk8G4CU.png",
     "country": "",
@@ -375,6 +393,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Clan (1080p)",
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Public",
+    "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
     "isHttps": true
   },
   {
@@ -429,15 +456,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Disney Junior (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://bbb.exoadash.com/TVD1561/index.mpd",
     "isHttps": true
   },
   {
@@ -1098,6 +1116,24 @@
     "isHttps": true
   },
   {
+    "name": "Mult International (576p)",
+    "logo": "https://i.imgur.com/xi351Fx.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
+    "name": "Multilandia (576p)",
+    "logo": "https://i.imgur.com/ccwijY0.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "My Kidz (720p)",
     "logo": "https://i.imgur.com/qzZFU6d.png",
     "country": "",
@@ -1359,6 +1395,15 @@
     "isHttps": true
   },
   {
+    "name": "O! International (576p)",
+    "logo": "https://i.imgur.com/pDc665V.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Oggy e as Baratas Tontas",
     "logo": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
     "country": "",
@@ -1482,15 +1527,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://kphls.persiana.live/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pixel TV (720p)",
-    "logo": "https://i.imgur.com/ECro8Ah.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1989,6 +2025,15 @@
     "isHttps": true
   },
   {
+    "name": "STS kids International (576p)",
+    "logo": "https://i.imgur.com/o9kLpAL.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Super Simple Songs (1080p)",
     "logo": "https://i.imgur.com/3k4F7O9.png",
     "country": "",
@@ -2340,6 +2385,15 @@
     "isHttps": true
   },
   {
+    "name": "V gostyakh u skazki (1080p)",
+    "logo": "https://i.imgur.com/jNJkLHl.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "VTV (720p)",
     "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
     "country": "",
@@ -2583,21 +2637,21 @@
     "isHttps": false
   },
   {
+    "name": "Chikitoonz (1080p)",
+    "logo": "https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://45.70.201.81:8000/play/a00p/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Christian Youth Channel (CYC) (1080p)",
     "logo": "https://i.imgur.com/61eV77C.png",
     "country": "",
     "language": "",
     "group": "Kids;Religious",
     "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Clan (1080p)",
-    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
-    "country": "",
-    "language": "",
-    "group": "Kids;Public",
-    "url": "http://185.47.212.25:8080/Clan_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -2705,7 +2759,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://149.71.34.166:8002/play/a01p/index.m3u8",
+    "url": "http://202.70.146.135:8000/play/a04p/index.m3u8",
     "isHttps": false
   },
   {
@@ -2760,15 +2814,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Junior (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
     "isHttps": false
   },
   {
@@ -3303,6 +3348,24 @@
     "isHttps": false
   },
   {
+    "name": "Pakapaka (576p)",
+    "logo": "https://i.imgur.com/GJbRWwH.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://138.121.113.175:8000/play/a04d/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Pixel TV (1080p)",
+    "logo": "https://i.imgur.com/ECro8Ah.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://stream.mcquack.net/323/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "QTV-6",
     "logo": "https://www.tvchinese.net/uploads/tv/qdtv6.jpg",
     "country": "",
@@ -3438,15 +3501,6 @@
     "isHttps": false
   },
   {
-    "name": "V gostyakh u skazki (576p)",
-    "logo": "https://i.imgur.com/jNJkLHl.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://stream.mcquack.net/93/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "VTV HD (1080p)",
     "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
     "country": "",
@@ -3462,15 +3516,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/Mult_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Мультиландия (576p)",
-    "logo": "https://i.imgur.com/ccwijY0.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://31.148.48.15/Multilandiya/index.m3u8",
     "isHttps": false
   },
   {

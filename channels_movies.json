@@ -648,12 +648,21 @@
     "isHttps": true
   },
   {
-    "name": "Dorama",
+    "name": "Dom kino International (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
+    "name": "Dorama (576p)",
     "logo": "https://i.imgur.com/ZH5LuXU.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8",
+    "url": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -726,6 +735,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Evrokino (576p)",
+    "logo": "https://i.imgur.com/8LPtPf6.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -1008,12 +1026,12 @@
     "isHttps": true
   },
   {
-    "name": "Goldmines 2 (576p)",
-    "logo": "",
+    "name": "Goldmines (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
+    "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -1239,6 +1257,15 @@
     "language": "",
     "group": "Kids;Movies",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+    "isHttps": true
+  },
+  {
+    "name": "Kinopremyera HD (1080p)",
+    "logo": "https://i.imgur.com/s0UYT8T.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -3915,6 +3942,15 @@
     "isHttps": true
   },
   {
+    "name": "Russkiy Illusion (576p)",
+    "logo": "https://i.imgur.com/RlsqFN8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "SensaCine TV x Pluto",
     "logo": "https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png",
     "country": "",
@@ -4203,6 +4239,15 @@
     "isHttps": true
   },
   {
+    "name": "START World (576p)",
+    "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Studio One + (720p)",
     "logo": "https://i.imgur.com/yOPB7JB.png",
     "country": "",
@@ -4398,6 +4443,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "viju TV1000 russkoe (576p)",
+    "logo": "https://i.imgur.com/Meak2y4.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -4803,6 +4857,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AVI Rewind (1080p)",
+    "logo": "https://zplay.cl/LogosV2/AVIREWINDS_NEW.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://45.70.201.81:8000/play/a010/index.m3u8",
     "isHttps": false
   },
   {
@@ -5580,15 +5643,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.175.73.12:8080/live/53/53_0.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",MoviePlex (576p)",
     "logo": "https://i.imgur.com/THJEAqJ.png",
     "country": "",
@@ -6363,6 +6417,15 @@
     "isHttps": false
   },
   {
+    "name": "Sony Max (576p) [Geo-blocked]",
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
+    "isHttps": false
+  },
+  {
     "name": "Sony Max 1 (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -6579,15 +6642,6 @@
     "isHttps": false
   },
   {
-    "name": "viju TV1000 Русское (576p)",
-    "logo": "https://i.imgur.com/Meak2y4.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "viju+ Megahit HD (1080p)",
     "logo": "https://i.imgur.com/oIQNddV.png",
     "country": "",
@@ -6621,15 +6675,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Еврокино (576p)",
-    "logo": "https://i.imgur.com/8LPtPf6.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Evrokino/index.m3u8",
     "isHttps": false
   },
   {
@@ -6675,15 +6720,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/Kineko/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Русский Иллюзион (576p)",
-    "logo": "https://i.imgur.com/RlsqFN8.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://31.148.48.15/Russkiy_illusion/index.m3u8",
     "isHttps": false
   },
   {

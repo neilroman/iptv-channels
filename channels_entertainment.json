@@ -1566,15 +1566,6 @@
     "isHttps": true
   },
   {
-    "name": "EET TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/rMldFW8.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "El Rey",
     "logo": "https://i.imgur.com/u8hbbij.png",
     "country": "",
@@ -1671,6 +1662,15 @@
     "language": "",
     "group": "Entertainment;News",
     "url": "https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Epic Bharat (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -2385,6 +2385,15 @@
     "isHttps": true
   },
   {
+    "name": "India (576p)",
+    "logo": "https://i.imgur.com/xDVcDOc.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://fs.uplink.kz/india/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Indonesiana.TV (720p)",
     "logo": "https://i.imgur.com/192wiS1.png",
     "country": "",
@@ -2580,15 +2589,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "K2 (720p)",
-    "logo": "https://i.imgur.com/NMhydr5.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2931,15 +2931,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ETV Telugu USA (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_TELUGU/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -4119,6 +4110,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Oruzhie (576p)",
+    "logo": "https://i.imgur.com/lfJQJqa.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -5526,6 +5526,15 @@
     "isHttps": true
   },
   {
+    "name": "TNT4 International (576p)",
+    "logo": "https://i.imgur.com/SjdOaya.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Top Gear (720p)",
     "logo": "https://i.imgur.com/S6Su6QH.png",
     "country": "",
@@ -6597,15 +6606,6 @@
     "isHttps": false
   },
   {
-    "name": "Epic TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00m/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Extra ProNews (576p)",
     "logo": "https://i.imgur.com/VKW9xw6.png",
     "country": "",
@@ -6621,15 +6621,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://5.254.89.106/8717/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Flowers TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FLOWERS_TV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/634.m3u8",
     "isHttps": false
   },
   {
@@ -6756,6 +6747,15 @@
     "language": "",
     "group": "Culture;Entertainment",
     "url": "http://103.72.101.252:8080/live/419.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "K2 (1080p)",
+    "logo": "https://i.imgur.com/NMhydr5.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/324/index.m3u8",
     "isHttps": false
   },
   {
@@ -6990,15 +6990,6 @@
     "language": "",
     "group": "Entertainment;Kids",
     "url": "http://103.175.73.12:8080/live/688/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Epic Bharat (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.175.73.12:8080/live/471/master.m3u8",
     "isHttps": false
   },
   {
@@ -7515,6 +7506,15 @@
     "isHttps": false
   },
   {
+    "name": "Star Jalsha (576p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/IlufzR5.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+    "isHttps": false
+  },
+  {
     "name": "Star TV",
     "logo": "https://i.imgur.com/6BBnG6f.png",
     "country": "",
@@ -7641,6 +7641,15 @@
     "isHttps": false
   },
   {
+    "name": "TV-3 HD (1080p)",
+    "logo": "https://i.imgur.com/JLAvq8O.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/136/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVBS Asia (1080p)",
     "logo": "https://i.imgur.com/4S1rkhm.png",
     "country": "",
@@ -7692,15 +7701,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.72.101.252:8080/live/414.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Индия (576p)",
-    "logo": "https://i.imgur.com/xDVcDOc.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://31.148.48.15/Zee_TV_Russia/index.m3u8",
     "isHttps": false
   },
   {

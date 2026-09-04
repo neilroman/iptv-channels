@@ -585,15 +585,6 @@
     "isHttps": true
   },
   {
-    "name": "Dharm Sandesh",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn-2.pishow.tv/live/1455/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Dheeran TV (576p)",
     "logo": "https://i.imgur.com/jSedjXf.png",
     "country": "",
@@ -627,6 +618,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Epic Bharat (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8",
     "isHttps": true
   },
   {
@@ -729,12 +729,12 @@
     "isHttps": true
   },
   {
-    "name": "Goldmines 2 (576p)",
-    "logo": "",
+    "name": "Goldmines (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
+    "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -945,6 +945,15 @@
     "isHttps": true
   },
   {
+    "name": "K News India (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kanshi TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/w6uXMrK.png",
     "country": "",
@@ -1149,6 +1158,15 @@
     "language": "",
     "group": "News",
     "url": "https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NE News (576p)",
+    "logo": "https://i.imgur.com/L5GeJFb.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt05.tangotv.in/87NeALx2NENEWS/preview.mp4",
     "isHttps": true
   },
   {
@@ -1773,15 +1791,6 @@
     "isHttps": true
   },
   {
-    "name": "Travelxp HD (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV2 (1080p)",
     "logo": "https://i.imgur.com/LGEdeyJ.png",
     "country": "",
@@ -2088,15 +2097,6 @@
     "isHttps": false
   },
   {
-    "name": "Digi Shala (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Digishala.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1227.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Channel (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
     "country": "",
@@ -2112,24 +2112,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Junior (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "E-Vidya 1 (576p)",
-    "logo": "https://i.imgur.com/0sz6t9F.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/400.m3u8",
     "isHttps": false
   },
   {
@@ -2157,24 +2139,6 @@
     "language": "",
     "group": "Education",
     "url": "http://103.72.101.252:8080/live/1532.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "E-Vidya 2 (576p)",
-    "logo": "https://i.imgur.com/0sz6t9F.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/402.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "E-Vidya 3 (576p)",
-    "logo": "https://i.imgur.com/0sz6t9F.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/405.m3u8",
     "isHttps": false
   },
   {
@@ -2238,15 +2202,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Epic TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00m/index.m3u8",
     "isHttps": false
   },
   {
@@ -2358,24 +2313,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Epic Bharat (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.175.73.12:8080/live/471/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.175.73.12:8080/live/53/53_0.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",MoviePlex (576p)",
     "logo": "https://i.imgur.com/THJEAqJ.png",
     "country": "",
@@ -2463,6 +2400,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.213.31.109:90/ManoranjanTv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic (576p) [Geo-blocked]",
+    "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
     "isHttps": false
   },
   {
@@ -2571,6 +2517,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.96.178.205/SONYHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sony Max (576p) [Geo-blocked]",
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
     "isHttps": false
   },
   {
@@ -2958,6 +2913,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Travelxp HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://stream.mcquack.net/451/index.m3u8",
     "isHttps": false
   },
   {

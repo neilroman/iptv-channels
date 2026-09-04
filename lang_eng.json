@@ -6678,15 +6678,6 @@
     "isHttps": true
   },
   {
-    "name": "ET Now Swadesh (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Business",
-    "url": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Eurochannel (1080p)",
     "logo": "https://i.imgur.com/yXAtmI6.png",
     "country": "",
@@ -20484,15 +20475,6 @@
     "isHttps": true
   },
   {
-    "name": "Travelxp HD (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI) (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/jmkLR6L.png",
     "country": "",
@@ -23067,15 +23049,6 @@
     "isHttps": false
   },
   {
-    "name": "Channel 7 Melbourne",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/500px-Seven_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://44.32.200.142:5004/auto/v7",
-    "isHttps": false
-  },
-  {
     "name": "Christian Youth Channel (CYC) (1080p)",
     "logo": "https://i.imgur.com/61eV77C.png",
     "country": "",
@@ -23297,16 +23270,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://149.71.34.166:8002/play/a01p/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Junior (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://149.71.34.166:8000/play/a00l/index.m3u8",
+    "url": "http://202.70.146.135:8000/play/a04p/index.m3u8",
     "isHttps": false
   },
   {
@@ -23361,15 +23325,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://177.234.249.178:8888/ENLACE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Epic TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a00m/index.m3u8",
     "isHttps": false
   },
   {
@@ -24327,6 +24282,15 @@
     "isHttps": false
   },
   {
+    "name": "National Geographic (576p) [Geo-blocked]",
+    "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+    "isHttps": false
+  },
+  {
     "name": "National Geographic (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
@@ -25143,6 +25107,24 @@
     "language": "",
     "group": "Travel",
     "url": "http://31.148.48.15/Travel_Adventure_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Travel+Adventure HD (1080p)",
+    "logo": "https://i.imgur.com/AlpdXC4.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://stream.mcquack.net/206/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Travelxp HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://stream.mcquack.net/451/index.m3u8",
     "isHttps": false
   },
   {
