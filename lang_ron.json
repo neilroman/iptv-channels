@@ -144,6 +144,15 @@
     "isHttps": true
   },
   {
+    "name": "Credo TV",
+    "logo": "https://i.imgur.com/RD4TgcM.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Digi 24 (720p)",
     "logo": "https://i.imgur.com/qmRnD0M.png",
     "country": "",
@@ -594,12 +603,12 @@
     "isHttps": true
   },
   {
-    "name": "Noroc TV (576p) [Not 24/7]",
+    "name": "Noroc TV",
     "logo": "https://i.imgur.com/XvYqpqG.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://live.noroc.tv/noroc/noroc.m3u8",
+    "url": "https://media.noroc.tv/noroc/bitrate_1080p.m3u8",
     "isHttps": true
   },
   {
@@ -774,15 +783,6 @@
     "isHttps": true
   },
   {
-    "name": "Super TV (1080i) [Not 24/7]",
-    "logo": "https://i.imgur.com/pzxUE0O.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://live.supertv.ro/live/supertv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Tele7ABC HD (720p)",
     "logo": "https://i.imgur.com/CheqyWH.png",
     "country": "",
@@ -900,6 +900,15 @@
     "isHttps": true
   },
   {
+    "name": "TVR Iasi",
+    "logo": "https://i.imgur.com/Kxkihds.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVR Info",
     "logo": "https://i.imgur.com/7oE7ThR.png",
     "country": "",
@@ -918,7 +927,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Moldova (720p) [Geo-blocked] [Not 24/7]",
+    "name": "TVR Moldova (720p)",
     "logo": "https://i.imgur.com/wDe9gL2.png",
     "country": "",
     "language": "",
@@ -963,12 +972,12 @@
     "isHttps": true
   },
   {
-    "name": "Vocea Basarabiei TV (720p) [Not 24/7]",
+    "name": "Vocea Basarabiei TV",
     "logo": "https://i.imgur.com/irP8QLs.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8",
+    "url": "https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8",
     "isHttps": true
   },
   {
@@ -978,15 +987,6 @@
     "language": "",
     "group": "General",
     "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Credo TV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/RD4TgcM.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -1071,6 +1071,15 @@
     "isHttps": false
   },
   {
+    "name": "Super TV (576p)",
+    "logo": "https://i.imgur.com/pzxUE0O.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TeleM Botosani (540p) [Not 24/7]",
     "logo": "https://i.imgur.com/3EZ8CmJ.png",
     "country": "",
@@ -1122,15 +1131,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TVR Iasi (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/Kxkihds.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://82.208.141.70:8778/1.m3u8",
     "isHttps": false
   },
   {

@@ -459,12 +459,12 @@
     "isHttps": true
   },
   {
-    "name": "Hunat TV (720p) [Geo-blocked]",
+    "name": "Hunat TV (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/NrxHGnb.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+    "url": "https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -567,12 +567,12 @@
     "isHttps": true
   },
   {
-    "name": "Kanal 7 (1080p) [Not 24/7]",
+    "name": "Kanal 7 (720p)",
     "logo": "https://i.imgur.com/0gq9xOm.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+    "url": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
     "isHttps": true
   },
   {
@@ -699,6 +699,24 @@
     "language": "",
     "group": "Undefined",
     "url": "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
     "isHttps": true
   },
   {
@@ -855,24 +873,6 @@
     "isHttps": true
   },
   {
-    "name": "National Geographic (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "National Geographic Wild (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NOW TV (720p)",
     "logo": "https://i.imgur.com/5EYjWK7.png",
     "country": "",
@@ -972,15 +972,6 @@
     "isHttps": true
   },
   {
-    "name": "Power Turk (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/9OPoXQG.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Power Türk Akustik (1080p)",
     "logo": "https://i.imgur.com/driabBO.png",
     "country": "",
@@ -1014,6 +1005,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "PowerTürk TV (720p)",
+    "logo": "https://i.imgur.com/9OPoXQG.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
     "isHttps": true
   },
   {

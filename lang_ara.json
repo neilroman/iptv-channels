@@ -1026,12 +1026,12 @@
     "isHttps": true
   },
   {
-    "name": "CGTN Arabic (1080p) [Not 24/7]",
+    "name": "CGTN Arabic",
     "logo": "https://i.imgur.com/AkFFrS7.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+    "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1059,6 +1059,15 @@
     "language": "",
     "group": "News",
     "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Charity TV",
+    "logo": "https://i.imgur.com/U9z8WBY.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1563,15 +1572,6 @@
     "language": "",
     "group": "General",
     "url": "https://cdn.streamlane.tv/hls/ltv/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "LBC (1080p) [Geo-blocked]",
-    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3024,15 +3024,6 @@
     "isHttps": false
   },
   {
-    "name": "CharityTV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/U9z8WBY.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Dubai TV International (1080p)",
     "logo": "https://i.imgur.com/UMmbyHv.png",
     "country": "",
@@ -3093,6 +3084,15 @@
     "language": "",
     "group": "General",
     "url": "http://82.212.74.2:8000/live/7311.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "LBC (576p)",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://185.9.2.18/chid_327/index.m3u8",
     "isHttps": false
   },
   {

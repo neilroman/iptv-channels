@@ -324,12 +324,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal Saúde (720p) [Not 24/7]",
+    "name": "Canal Saude",
     "logo": "https://i.imgur.com/ht4tUOc.png",
     "country": "",
     "language": "",
     "group": "Education;Lifestyle",
-    "url": "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8",
+    "url": "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8",
     "isHttps": true
   },
   {
@@ -423,12 +423,12 @@
     "isHttps": true
   },
   {
-    "name": "COM Brasil (1080p) [Not 24/7]",
+    "name": "COM Brasil (720p)",
     "logo": "https://i.imgur.com/GrjGwKM.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8",
     "isHttps": true
   },
   {
@@ -639,6 +639,15 @@
     "isHttps": true
   },
   {
+    "name": "Fonte TV",
+    "logo": "https://i.imgur.com/7q2BmNc.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Fora Tedio TV (720p)",
     "logo": "https://i.imgur.com/R9ul4T1.png",
     "country": "",
@@ -753,15 +762,6 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Jovem Pan News (JP News) (1080p) [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
     "isHttps": true
   },
   {
@@ -1872,12 +1872,12 @@
     "isHttps": true
   },
   {
-    "name": "Rede Minas (1080p) [Not 24/7]",
+    "name": "Rede Minas (720p)",
     "logo": "https://i.imgur.com/MtQWAHv.png",
     "country": "",
     "language": "",
     "group": "Education",
-    "url": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8",
+    "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2409,15 +2409,6 @@
     "language": "",
     "group": "General",
     "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Aparecida (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/kxrja0X.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3402,15 +3393,6 @@
     "isHttps": false
   },
   {
-    "name": "Fonte TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/7q2BmNc.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Futura (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
     "country": "",
@@ -3489,6 +3471,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://212.5.144.156:8080/jimjam/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Jovem Pan News (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.190.28.50/JP_NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -3912,6 +3903,15 @@
     "language": "",
     "group": "Travel",
     "url": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Aparecida (720p)",
+    "logo": "https://i.imgur.com/kxrja0X.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8",
     "isHttps": false
   },
   {

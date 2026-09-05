@@ -684,15 +684,6 @@
     "isHttps": true
   },
   {
-    "name": "Fateh TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/c4ItNkB.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "First India News (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png",
     "country": "",
@@ -1053,6 +1044,15 @@
     "isHttps": true
   },
   {
+    "name": "Mango (576p)",
+    "logo": "https://i.imgur.com/neZm4CY.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Manoranjan Grand (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -1107,12 +1107,12 @@
     "isHttps": true
   },
   {
-    "name": "Music India (720p) [Not 24/7]",
+    "name": "Music India (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+    "url": "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -1166,7 +1166,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mumt05.tangotv.in/87NeALx2NENEWS/preview.mp4",
+    "url": "https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8",
     "isHttps": true
   },
   {
@@ -1575,12 +1575,12 @@
     "isHttps": true
   },
   {
-    "name": "Shubhsandesh TV (720p) [Not 24/7]",
+    "name": "Shubhsandesh TV (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8",
     "isHttps": true
   },
   {
@@ -1674,12 +1674,12 @@
     "isHttps": true
   },
   {
-    "name": "Swaraj Express SMBC (720p) [Not 24/7]",
+    "name": "Swaraj Express SMBC (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SMBC_TV.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn-2.pishow.tv/live/477/master.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8",
     "isHttps": true
   },
   {
@@ -1707,6 +1707,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn-4.pishow.tv/live/239/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "The Jungle Book (1080p)",
+    "logo": "https://pash.ink/storage/uploads/JungleBook_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "isHttps": true
   },
   {
@@ -1926,12 +1935,12 @@
     "isHttps": true
   },
   {
-    "name": "Zee Cinema APAC (1080p) [Geo-blocked]",
+    "name": "Zee Cinema APAC (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
     "isHttps": true
   },
   {
@@ -2214,12 +2223,12 @@
     "isHttps": false
   },
   {
-    "name": "Goldmines Movies (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
+    "name": "Fateh TV (576p)",
+    "logo": "https://i.imgur.com/c4ItNkB.png",
     "country": "",
     "language": "",
-    "group": "Movies",
-    "url": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8",
+    "group": "Religious",
+    "url": "http://180.188.254.253/live/FATEHTVHD.m3u8",
     "isHttps": false
   },
   {
@@ -2310,6 +2319,15 @@
     "language": "",
     "group": "Entertainment;Kids",
     "url": "http://103.175.73.12:8080/live/688/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Movies (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
     "isHttps": false
   },
   {

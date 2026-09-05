@@ -1458,6 +1458,33 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Comedy",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://polska.hach.workers.dev/14863.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Emotion",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://polska.hach.workers.dev/14866.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://polska.hach.workers.dev/14865.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinema (1080p)",
     "logo": "https://www.mongolsat.mn/assets/img/channel/914.png",
     "country": "",
@@ -4473,6 +4500,15 @@
     "isHttps": true
   },
   {
+    "name": "WFXT-DT2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MovieSphere_Gold_2025_logo.svg/500px-MovieSphere_Gold_2025_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Whiplash Cinema (480p)",
     "logo": "https://whiplash.cc/assets/img/channels/whiplashcinema.png",
     "country": "",
@@ -4554,12 +4590,12 @@
     "isHttps": true
   },
   {
-    "name": "Zee Cinema APAC (1080p) [Geo-blocked]",
+    "name": "Zee Cinema APAC (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
     "isHttps": true
   },
   {
@@ -4788,12 +4824,12 @@
     "isHttps": false
   },
   {
-    "name": "AMC (1080p) [Geo-blocked]",
+    "name": "AMC (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://41.205.93.154/AMC/index.m3u8",
+    "url": "http://23.239.31.26:8989/amc/index.m3u8",
     "isHttps": false
   },
   {
@@ -5283,15 +5319,6 @@
     "isHttps": false
   },
   {
-    "name": "Goldmines Movies (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Groovy TV (360p)",
     "logo": "https://i.imgur.com/ZYNQuf1.png",
     "country": "",
@@ -5640,6 +5667,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/380/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Movies (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
     "isHttps": false
   },
   {

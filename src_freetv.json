@@ -3726,7 +3726,7 @@
     "isHttps": true
   },
   {
-    "name": "Drammatico ��� Rakuten TV",
+    "name": "Drammatico – Rakuten TV",
     "logo": "https://i.imgur.com/Nx3JzZK.jpg",
     "country": "",
     "language": "",
@@ -11124,15 +11124,6 @@
     "isHttps": true
   },
   {
-    "name": "Star Central Greece",
-    "logo": "https://i.imgur.com/BTUEvxg.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash",
-    "isHttps": true
-  },
-  {
     "name": "Star Channel Finland",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/500px-Star_Channel_2020.svg.png",
     "country": "FI",
@@ -13320,6 +13311,15 @@
     "isHttps": true
   },
   {
+    "name": "TV 2/Fyn",
+    "logo": "https://i.imgur.com/4L6AIMH.png",
+    "country": "DK",
+    "language": "",
+    "group": "Denmark",
+    "url": "https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd",
+    "isHttps": true
+  },
+  {
     "name": "TV 2000",
     "logo": "https://i.imgur.com/x7RaK3a.png",
     "country": "IT",
@@ -13506,6 +13506,15 @@
     "language": "",
     "group": "Poland",
     "url": "https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Syd+",
+    "logo": "https://i.imgur.com/k2jf591.png",
+    "country": "DK",
+    "language": "",
+    "group": "Denmark",
+    "url": "https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8",
     "isHttps": true
   },
   {
@@ -17838,15 +17847,6 @@
     "isHttps": false
   },
   {
-    "name": "TV 2/Fyn",
-    "logo": "https://i.imgur.com/4L6AIMH.png",
-    "country": "DK",
-    "language": "",
-    "group": "Denmark",
-    "url": "http://grevsen.dk/live/catchuptv/catchuptv/11.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TV 2/Nord",
     "logo": "https://i.imgur.com/tEJ22UW.png",
     "country": "DK",
@@ -17916,15 +17916,6 @@
     "language": "",
     "group": "Georgia",
     "url": "http://nue01-edge01.itdc.ge/pirvelitv/mpegts",
-    "isHttps": false
-  },
-  {
-    "name": "TV Syd+",
-    "logo": "https://i.imgur.com/k2jf591.png",
-    "country": "DK",
-    "language": "",
-    "group": "Denmark",
-    "url": "http://grevsen.dk/live/catchuptv/catchuptv/15.m3u8",
     "isHttps": false
   },
   {

@@ -666,6 +666,24 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (720p)",
     "logo": "https://i.imgur.com/wRP9XA7.png",
     "country": "",
@@ -792,30 +810,12 @@
     "isHttps": true
   },
   {
-    "name": "National Geographic (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "National Geographic (Finland) (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true",
-    "isHttps": true
-  },
-  {
-    "name": "National Geographic Wild (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
     "isHttps": true
   },
   {
@@ -1431,12 +1431,12 @@
     "isHttps": true
   },
   {
-    "name": "Safari TV (480p) [Not 24/7]",
+    "name": "Safari TV",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+    "url": "https://cdn-6.pishow.tv/live/1513/master.m3u8",
     "isHttps": true
   },
   {
@@ -1953,15 +1953,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History",
-    "logo": "https://i.imgur.com/39qZ68J.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
-    "isHttps": false
-  },
-  {
     "name": "MWD Documentary [Geo-blocked]",
     "logo": "https://i.imgur.com/4XV7cjU.png",
     "country": "",
@@ -2157,6 +2148,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat History (576p)",
+    "logo": "https://i.imgur.com/39qZ68J.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://dtv.vol.net.ua/Viasat-History/index.m3u8",
     "isHttps": false
   },
   {
