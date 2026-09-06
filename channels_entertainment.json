@@ -270,12 +270,12 @@
     "isHttps": true
   },
   {
-    "name": "AMC en Español (720p) [Geo-blocked]",
+    "name": "AMC en Espanol",
     "logo": "https://i.imgur.com/L1h6W5Q.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5094,12 +5094,39 @@
     "isHttps": true
   },
   {
-    "name": "Sony Marathi (1080p) [Geo-blocked]",
+    "name": "Sony Aath (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cloudplay-sonyliv.pages.dev/aath.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sony Marathi (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8",
+    "url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sony Pal (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cloudplay-sonyliv.pages.dev/pal.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sony SAB HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cloudplay-sonyliv.pages.dev/sabhd.m3u8",
     "isHttps": true
   },
   {
@@ -5208,6 +5235,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Subbota! (1080p)",
+    "logo": "https://i.imgur.com/nsk8PpB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https",
     "isHttps": true
   },
   {
@@ -7542,30 +7578,12 @@
     "isHttps": false
   },
   {
-    "name": "Sony Aath (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sony Entertainment Television HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://38.96.178.205/SONYHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Sony Pal (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
     "isHttps": false
   },
   {
@@ -7620,6 +7638,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://202.70.146.135:8000/play/a009/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Subbota! HD (1080p)",
+    "logo": "https://i.imgur.com/nsk8PpB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://stream.mcquack.net/269/index.m3u8",
     "isHttps": false
   },
   {

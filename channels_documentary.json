@@ -1503,6 +1503,15 @@
     "isHttps": true
   },
   {
+    "name": "Sony BBC Earth HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Spike Pluto TV",
     "logo": "https://i.imgur.com/woY8Ecb.png",
     "country": "",
@@ -1746,21 +1755,30 @@
     "isHttps": false
   },
   {
-    "name": "History TV18 (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://103.72.101.252:8080/live/1471.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "History TV18 HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://103.154.3.101:5001/live/577.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History Ukraine",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://dtv.vol.net.ua/History_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History2 Ukraine (360p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://dtv.vol.net.ua/H2-HD/index.m3u8",
     "isHttps": false
   },
   {

@@ -711,12 +711,12 @@
     "isHttps": true
   },
   {
-    "name": "AMC en Español (720p) [Geo-blocked]",
+    "name": "AMC en Espanol",
     "logo": "https://i.imgur.com/L1h6W5Q.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4176,6 +4176,15 @@
     "isHttps": true
   },
   {
+    "name": "Color Vision (1280p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rkgWToA.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls.tvabierta.net/hls/009.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Colosal TV",
     "logo": "https://i.imgur.com/0DZB3eB.png",
     "country": "",
@@ -4236,6 +4245,15 @@
     "language": "",
     "group": "General",
     "url": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36\" group-title=\"General\",America TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
     "isHttps": true
   },
   {
@@ -7893,15 +7911,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Cinemax Latino (480p)",
-    "logo": "https://i.imgur.com/GfsmfGK.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://streamer.metronethn.com/Cinemax/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Sports\",Tigo Sports (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
     "country": "",
@@ -7953,6 +7962,15 @@
     "language": "",
     "group": "General",
     "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"General\",Teleantioquia (720p)",
+    "logo": "https://i.imgur.com/6WMV2Az.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -14283,15 +14301,6 @@
     "isHttps": true
   },
   {
-    "name": "Telefe Rosario [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TeleFórmula (720p)",
     "logo": "https://i.imgur.com/y0a0xwY.png",
     "country": "",
@@ -16366,7 +16375,7 @@
     "logo": "https://i.imgur.com/brCSiGh.png",
     "country": "",
     "language": "",
-    "group": "Culture",
+    "group": "Culture;Education;Public",
     "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
     "isHttps": true
   },
@@ -17694,15 +17703,6 @@
     "isHttps": false
   },
   {
-    "name": "America TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Antena 3 Internacional",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
     "country": "",
@@ -18171,15 +18171,6 @@
     "isHttps": false
   },
   {
-    "name": "CDTV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/pMnk2TH.png",
-    "country": "",
-    "language": "",
-    "group": "Legislative",
-    "url": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Cetelmón TV (404p)",
     "logo": "https://i.imgur.com/GGn7itj.png",
     "country": "",
@@ -18294,6 +18285,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://45.162.193.35/CINELATINO_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinemax Hits (1080p)",
+    "logo": "https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
     "isHttps": false
   },
   {
@@ -18819,6 +18819,24 @@
     "isHttps": false
   },
   {
+    "name": "HBO Hits (720p)",
+    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO Movies (720p)",
+    "logo": "https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "History 2 Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
     "country": "",
@@ -18951,15 +18969,6 @@
     "language": "",
     "group": "General;Public",
     "url": "http://185.47.212.25:8080/tdp_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "La Nacion + (576p)",
-    "logo": "https://i.imgur.com/Gj1kqH5.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -19176,15 +19185,6 @@
     "language": "",
     "group": "General",
     "url": "http://45.167.2.138:8000/play/a0o4/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MoreMax (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
     "isHttps": false
   },
   {
@@ -19896,15 +19896,6 @@
     "language": "",
     "group": "News",
     "url": "http://45.232.210.1:8029/play/a00s/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telefe (480p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://201.190.41.246:8822/play/a036/index.m3u8",
     "isHttps": false
   },
   {
