@@ -14301,6 +14301,24 @@
     "isHttps": true
   },
   {
+    "name": "Telefe Rosario (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Telefe Tucuman (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true",
+    "isHttps": true
+  },
+  {
     "name": "TeleFórmula (720p)",
     "logo": "https://i.imgur.com/y0a0xwY.png",
     "country": "",
@@ -14643,12 +14661,12 @@
     "isHttps": true
   },
   {
-    "name": "Telesistema 11 (1080p)",
+    "name": "Telesistema 11 (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/ZzeZKCu.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8",
+    "url": "https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8",
     "isHttps": true
   },
   {
@@ -14712,6 +14730,15 @@
     "language": "",
     "group": "Travel",
     "url": "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Teleuniverso (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/gQev8ST.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls.tvabierta.net/hls/029.m3u8",
     "isHttps": true
   },
   {
@@ -17236,7 +17263,7 @@
   },
   {
     "name": "WKAQ-DT1 (Telemundo PR) (1080p)",
-    "logo": "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela-thumbnail.png",
+    "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -17272,7 +17299,7 @@
   },
   {
     "name": "WTMO-CD 31.1 (720p)",
-    "logo": "https://w7.pngwing.com/pngs/570/2/png-transparent-telemundo-nbcuniversal-logo-television-kztv-others-television-show-television-channel-telenovela-thumbnail.png",
+    "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -18289,7 +18316,7 @@
   },
   {
     "name": "Cinemax Hits (1080p)",
-    "logo": "https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -18640,7 +18667,7 @@
   },
   {
     "name": "ESPN Deportes HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -18756,15 +18783,6 @@
     "isHttps": false
   },
   {
-    "name": "FX Movie Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Gamavision (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
     "country": "",
@@ -18825,6 +18843,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO Hits East HD (720p)",
+    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -19266,15 +19293,6 @@
     "language": "",
     "group": "General",
     "url": "http://187.102.210.46/NATIVATV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NBC Universo (720p)",
-    "logo": "https://i.imgur.com/RZ8pIKe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://187.102.210.46/universo/index.m3u8",
     "isHttps": false
   },
   {

@@ -351,6 +351,15 @@
     "isHttps": true
   },
   {
+    "name": "Detvora+ (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Family;Kids",
+    "url": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dom kino International (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
     "country": "",
@@ -1626,6 +1635,78 @@
     "language": "",
     "group": "Kids",
     "url": "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. European Movies (1080p)",
+    "logo": "https://antiabuse-container.b-cdn.net/eurkino.png",
+    "country": "",
+    "language": "",
+    "group": "Family;Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Golden Collection (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/zolo.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Mentovskiye Serialy (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/ment.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Scary (1080p)",
+    "logo": "https://antiabuse-container.b-cdn.net/uzh1.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Series Hits (1080p)",
+    "logo": "https://antiabuse-container.b-cdn.net/serialyhity.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Family;Series",
+    "url": "https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Sovetskoe Kino (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/soviet.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Svaty (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/svatyv.png",
+    "country": "",
+    "language": "",
+    "group": "Family;Series",
+    "url": "https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. World Series (1080p)",
+    "logo": "https://antiabuse-container.b-cdn.net/mirseriallogo.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Family;Series",
+    "url": "https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8",
     "isHttps": true
   },
   {
@@ -3078,6 +3159,15 @@
     "isHttps": false
   },
   {
+    "name": "DocuBox Russia",
+    "logo": "https://i.imgur.com/pX4U9OG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Dom kino (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
     "country": "",
@@ -3699,24 +3789,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Kino",
-    "logo": "https://i.imgur.com/io0WAkA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Kino Action",
-    "logo": "https://i.imgur.com/HwsNIDK.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Kino World",
     "logo": "https://i.imgur.com/GPiE2Rb.png",
     "country": "",
@@ -3933,12 +4005,12 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic (576p)",
+    "name": "National Geographic (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://stream.mcquack.net/116/index.m3u8",
+    "url": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4608,6 +4680,15 @@
     "isHttps": false
   },
   {
+    "name": "Travelxp Russia (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://stream.mcquack.net/451/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV 21 (576p)",
     "logo": "https://i.imgur.com/nSmSnH6.png",
     "country": "",
@@ -4758,6 +4839,24 @@
     "language": "",
     "group": "Undefined",
     "url": "http://stream.mcquack.net/241/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Kino (576p)",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Kino Action (576p)",
+    "logo": "https://i.imgur.com/HwsNIDK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
     "isHttps": false
   },
   {

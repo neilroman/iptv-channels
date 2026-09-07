@@ -450,6 +450,15 @@
     "isHttps": true
   },
   {
+    "name": "Detvora+ (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Family;Kids",
+    "url": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dios Te Ve Kids (720p)",
     "logo": "https://i.imgur.com/GnZicVH.png",
     "country": "",
@@ -2007,6 +2016,15 @@
     "isHttps": true
   },
   {
+    "name": "Smurf TV (480p)",
+    "logo": "https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/EJIyYyBMkbW5UntSCAkGp-uLla7Z8KWHvDjyEqoOf3k.jpg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065",
+    "isHttps": true
+  },
+  {
     "name": "Sony Yay! (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
     "country": "",
@@ -2682,6 +2700,15 @@
     "isHttps": false
   },
   {
+    "name": "Cine+ Kids (576p)",
+    "logo": "https://i.imgur.com/lmfc2u4.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ČT:D/ČT art (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
     "country": "",
@@ -2733,6 +2760,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.227.34.179:8080/disney-channel-hd/index.m3u8",
     "isHttps": false
   },
   {
@@ -2850,6 +2886,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney XD (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
     "isHttps": false
   },
   {
@@ -3165,15 +3210,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/377/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Kids\",Cine+ Kids",
-    "logo": "https://i.imgur.com/lmfc2u4.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540",
     "isHttps": false
   },
   {

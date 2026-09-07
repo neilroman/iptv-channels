@@ -4473,6 +4473,42 @@
     "isHttps": true
   },
   {
+    "name": "Velvet. European Movies (1080p)",
+    "logo": "https://antiabuse-container.b-cdn.net/eurkino.png",
+    "country": "",
+    "language": "",
+    "group": "Family;Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Golden Collection (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/zolo.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Scary (1080p)",
+    "logo": "https://antiabuse-container.b-cdn.net/uzh1.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Velvet. Sovetskoe Kino (1080p)",
+    "logo": "https://interra-cdn-europe1.b-cdn.net/soviet.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Viafree Movies",
     "logo": "https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png",
     "country": "",
@@ -5212,7 +5248,7 @@
   },
   {
     "name": "Cinemax Classics (1080p)",
-    "logo": "https://static.hbo.com/2025-09/Cinemax_Classics_Plex_Logo_bw.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5221,7 +5257,7 @@
   },
   {
     "name": "Cinemax Hits (1080p)",
-    "logo": "https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5355,15 +5391,6 @@
     "isHttps": false
   },
   {
-    "name": "FX Movie Channel (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Groovy TV (360p)",
     "logo": "https://i.imgur.com/ZYNQuf1.png",
     "country": "",
@@ -5379,6 +5406,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO Hits East HD (720p)",
+    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -5406,6 +5442,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/MGM_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hollywood Ukraine (576p)",
+    "logo": "https://i.imgur.com/eVqPfRk.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dtv.vol.net.ua/Hollywood-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -6192,24 +6237,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Kino",
-    "logo": "https://i.imgur.com/io0WAkA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Kino Action",
-    "logo": "https://i.imgur.com/HwsNIDK.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Kino World",
     "logo": "https://i.imgur.com/GPiE2Rb.png",
     "country": "",
@@ -6405,6 +6432,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/421/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Prokino (360p)",
+    "logo": "https://i.imgur.com/Vm9nbi8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dtv.vol.net.ua/ProKino/index.m3u8",
     "isHttps": false
   },
   {
@@ -6675,6 +6711,24 @@
     "language": "",
     "group": "Comedy;Movies;Series;Sports",
     "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Kino (576p)",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Kino Action (576p)",
+    "logo": "https://i.imgur.com/HwsNIDK.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
     "isHttps": false
   },
   {
