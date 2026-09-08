@@ -90,6 +90,15 @@
     "isHttps": true
   },
   {
+    "name": "B1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BabyFirst (720p)",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "country": "",
@@ -540,6 +549,15 @@
     "isHttps": true
   },
   {
+    "name": "Minimax",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Mireasa (720p)",
     "logo": "https://i.imgur.com/k0VO0LH.png",
     "country": "",
@@ -600,6 +618,24 @@
     "language": "",
     "group": "General",
     "url": "https://live.nasul.tv/live/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "National 24 Plus",
+    "logo": "https://i.imgur.com/VxBdga3.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "National TV",
+    "logo": "https://i.imgur.com/KHzUIwG.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8",
     "isHttps": true
   },
   {

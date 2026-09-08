@@ -5401,7 +5401,7 @@
   },
   {
     "name": "HBO Hits (720p)",
-    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
@@ -5410,7 +5410,7 @@
   },
   {
     "name": "HBO Hits East HD (720p)",
-    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
@@ -5419,7 +5419,7 @@
   },
   {
     "name": "HBO Movies (720p)",
-    "logo": "https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
@@ -6261,6 +6261,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://5.254.89.106:80/8882/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mei Ah Movie Channel (1080p)",
+    "logo": "https://i.imgur.com/laGiFM1.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
     "isHttps": false
   },
   {

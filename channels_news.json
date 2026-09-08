@@ -54,6 +54,15 @@
     "isHttps": true
   },
   {
+    "name": "24 News HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "24 Канал (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
     "country": "",
@@ -132,6 +141,15 @@
     "language": "",
     "group": "News",
     "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "365 News",
+    "logo": "https://i.imgur.com/8I6PWof.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8",
     "isHttps": true
   },
   {
@@ -222,6 +240,15 @@
     "language": "",
     "group": "News",
     "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "7 News (720p)",
+    "logo": "https://i.imgur.com/PTl92P5.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://sscsott.com/7news/live/index.m3u8",
     "isHttps": true
   },
   {
@@ -1152,6 +1179,15 @@
     "isHttps": true
   },
   {
+    "name": "B1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Baku.TV",
     "logo": "https://i.imgur.com/r4FzxSg.png",
     "country": "",
@@ -1563,6 +1599,15 @@
     "language": "",
     "group": "News",
     "url": "https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Capital TV",
+    "logo": "https://i.imgur.com/UxAE5O4.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8",
     "isHttps": true
   },
   {
@@ -2301,6 +2346,15 @@
     "language": "",
     "group": "News",
     "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Ekoturk (720p)",
+    "logo": "https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn.ekoturk.net/hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -4285,7 +4339,7 @@
   },
   {
     "name": "NDTV 24x7 (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
@@ -7408,7 +7462,7 @@
   },
   {
     "name": "92 News HD (720p)",
-    "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
+    "logo": "https://i.imgur.com/eqKrL9S.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -7665,6 +7719,15 @@
     "language": "",
     "group": "News",
     "url": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Chuxiong News Channel [Not 24/7]",
+    "logo": "https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://hwapi.yntv.net/ew265l/848y54.m3u8",
     "isHttps": false
   },
   {
