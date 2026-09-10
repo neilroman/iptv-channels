@@ -181,7 +181,7 @@
   },
   {
     "name": "Ace TV (480p)",
-    "logo": "https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White.png",
+    "logo": "https://i.imgur.com/KtXQeeZ.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -1350,6 +1350,15 @@
     "isHttps": true
   },
   {
+    "name": "Colors Marathi HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Colors MENA HD (720p)",
     "logo": "https://i.imgur.com/LjNFTdC.png",
     "country": "",
@@ -2358,6 +2367,15 @@
     "isHttps": true
   },
   {
+    "name": "Hum TV SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/R3icGuG.png",
     "country": "",
@@ -3282,15 +3300,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mazhavil Manorama HD (1080p)",
-    "logo": "https://i.imgur.com/fjgzW20.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn-7.pishow.tv/live/1129/master.m3u8",
     "isHttps": true
   },
   {
@@ -6561,6 +6570,15 @@
     "isHttps": false
   },
   {
+    "name": "AXN White Bulgaria (576p)",
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AXN White Poland (576p)",
     "logo": "https://i.imgur.com/47IKxmt.png",
     "country": "",
@@ -7020,15 +7038,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://42.118.247.37:9394/stream/74.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Sorozatklub",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",
     "country": "",
@@ -7128,6 +7137,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Mazhavil Manorama HD (576p)",
+    "logo": "https://i.imgur.com/fjgzW20.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/245/master.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Pasand TV (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540",
     "country": "",
@@ -7152,15 +7170,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://213.91.179.28:8000/play/a0cn",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Bulgaria",
-    "logo": "https://i.imgur.com/47IKxmt.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://85.14.32.26:8800/udp/239.100.10.18:5000",
     "isHttps": false
   },
   {

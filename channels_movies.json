@@ -801,15 +801,6 @@
     "isHttps": true
   },
   {
-    "name": "FILMBOX+ One Romania (576p)",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
@@ -1350,24 +1341,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Cinemax 2 Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Cinemax Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Film Cafe Romania",
     "logo": "https://i.imgur.com/jaKRnzU.png",
     "country": "",
@@ -1554,6 +1527,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://shift03.isp.bg/MovieStar/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ One Romania (576p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -4905,6 +4887,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC Europe Bulgary (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/BG_AMC/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AMC Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
@@ -4983,6 +4974,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Black (576p)",
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8",
     "isHttps": false
   },
   {
@@ -5382,6 +5382,24 @@
     "isHttps": false
   },
   {
+    "name": "FILMBOX+ Love & Crime Bulgaria (720p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FILMBOX+ One Bulgaria (576p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FILMBOX+ One Nederland",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
@@ -5607,24 +5625,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinemax",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinemax 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Film Cafe",
     "logo": "https://i.imgur.com/jaKRnzU.png",
     "country": "",
@@ -5814,15 +5814,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe Bulgary",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://212.70.131.37:8000/play/a05k",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe Czech Republic",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
@@ -5838,15 +5829,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black",
-    "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://85.14.32.26:8800/udp/239.100.10.17:5000",
     "isHttps": false
   },
   {
@@ -5982,24 +5964,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Love & Crime Bulgaria",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://213.91.179.28:8000/play/a066",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ One Bulgaria",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://213.91.179.28:8000/play/a06i",
     "isHttps": false
   },
   {
@@ -6633,24 +6597,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Movies HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://66.102.126.10:8000/play/a021/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://66.102.126.10:8000/play/a020/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Utsav Movies (576p)",
     "logo": "https://i.imgur.com/k5QHfH2.png",
     "country": "",
@@ -6747,6 +6693,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://176.61.157.250/TV1000/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Kino Bulgaria (1080p)",
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
     "isHttps": false
   },
   {

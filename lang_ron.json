@@ -216,15 +216,6 @@
     "isHttps": true
   },
   {
-    "name": "FILMBOX+ One Romania (576p)",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HD365 TV",
     "logo": "https://i.imgur.com/2cLx4ja.png",
     "country": "",
@@ -450,24 +441,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Cinemax 2 Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Cinemax Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Film Now",
     "logo": "https://i.imgur.com/sSoRvGz.png",
     "country": "",
@@ -519,6 +492,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ One Romania (576p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -1086,6 +1068,24 @@
     "language": "",
     "group": "General",
     "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Prima TV HD",
+    "logo": "https://i.imgur.com/p2umWAT.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PRO TV HD",
+    "logo": "https://i.imgur.com/zVk3WlT.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
     "isHttps": false
   },
   {

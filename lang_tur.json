@@ -1287,6 +1287,15 @@
     "isHttps": true
   },
   {
+    "name": "TRT Genc (1440p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/fCHQYWS.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;General",
+    "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TRT Haber (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
     "country": "",
@@ -1527,6 +1536,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://139.162.182.79/live/test/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Timeless Dizi Channel (1080p)",
+    "logo": "https://i.imgur.com/s3Sqd4L.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8",
     "isHttps": false
   },
   {

@@ -594,6 +594,15 @@
     "isHttps": true
   },
   {
+    "name": "Fix & Foxi (540p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
+    "isHttps": true
+  },
+  {
     "name": "FMH Kids (1080p)",
     "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png",
     "country": "",
@@ -3204,15 +3213,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Nickelodeon",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://213.91.179.28:8000/play/a056",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",RING",
     "logo": "",
     "country": "",
@@ -3331,6 +3331,15 @@
   },
   {
     "name": "Nickelodeon (576p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
@@ -3444,6 +3453,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/323/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat JimJam (576p)",
+    "logo": "https://i.imgur.com/GjppUlg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
     "isHttps": false
   },
   {
@@ -3570,6 +3588,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://5.254.89.106/8777/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Unikum (576p)",
+    "logo": "https://i.imgur.com/kSJZjDL.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://45.145.32.13:20440/nauka/index.m3u8?token=test",
     "isHttps": false
   },
   {
