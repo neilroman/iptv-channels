@@ -90,7 +90,7 @@
     "isHttps": true
   },
   {
-    "name": "7S Music (576p)",
+    "name": "7S Music (360p)",
     "logo": "https://i.imgur.com/zDiIhdN.png",
     "country": "",
     "language": "",
@@ -753,15 +753,6 @@
     "language": "",
     "group": "Music",
     "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "D3 TV (720p)",
-    "logo": "https://i.imgur.com/uFEIBtB.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2331,6 +2322,15 @@
     "isHttps": true
   },
   {
+    "name": "Mh 1 Music (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Miel TV (720p)",
     "logo": "https://i.imgur.com/dPSFrCs.png",
     "country": "",
@@ -3582,6 +3582,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Romania 3Net (480p)",
+    "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://media.3netmedia.ro/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
     "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
     "country": "",
@@ -3705,6 +3714,15 @@
     "language": "",
     "group": "Music",
     "url": "https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Raj Musix Malayalam (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://cdn.pishow.tv/ott/live/1073/master.m3u8",
     "isHttps": true
   },
   {
@@ -6359,7 +6377,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8",
+    "url": "http://168.197.104.22/MUSIC/index.m3u8",
     "isHttps": false
   },
   {
@@ -6630,15 +6648,6 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/281/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Ultra TV 4K (720p)",
-    "logo": "https://i.imgur.com/sRtjNdd.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://45.190.28.50/ULTRA/index.m3u8",
     "isHttps": false
   },
   {

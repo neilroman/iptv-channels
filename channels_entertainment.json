@@ -1422,6 +1422,15 @@
     "isHttps": true
   },
   {
+    "name": "D3 TV (720p)",
+    "logo": "https://i.imgur.com/uFEIBtB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dangal 2 (720p)",
     "logo": "https://i.imgur.com/BEr1r7L.png",
     "country": "",
@@ -3168,12 +3177,12 @@
     "isHttps": true
   },
   {
-    "name": "Magna Vision (1080p)",
+    "name": "Magnavision TV (720p)",
     "logo": "https://i.imgur.com/mUHixbi.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8",
+    "url": "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3399,6 +3408,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "MH One Dil Se (576p)",
+    "logo": "https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -6476,7 +6494,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.190.28.50/AE_HD/index.m3u8",
+    "url": "http://170.83.16.50/AeE/index.m3u8",
     "isHttps": false
   },
   {
@@ -6512,7 +6530,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
+    "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
     "isHttps": false
   },
   {
@@ -6998,7 +7016,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8",
+    "url": "http://170.83.16.50/LIFETIME/index.m3u8",
     "isHttps": false
   },
   {
@@ -7453,7 +7471,7 @@
   },
   {
     "name": "Pashto 1 (1080p)",
-    "logo": "https://i.imgur.com/QB9xOSZ.png",
+    "logo": "https://i.imgur.com/tUsLDRe.png",
     "country": "",
     "language": "",
     "group": "Entertainment",

@@ -1845,6 +1845,15 @@
     "isHttps": true
   },
   {
+    "name": "Rede Globo (720p)",
+    "logo": "https://i.imgur.com/O02TF2r.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Rede Gospel (1080p)",
     "logo": "https://i.imgur.com/mttSwgO.png",
     "country": "",
@@ -2283,6 +2292,15 @@
     "language": "",
     "group": "Music",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+    "isHttps": true
+  },
+  {
+    "name": "Times Brasil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3146,7 +3164,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.190.28.50/AE_HD/index.m3u8",
+    "url": "http://170.83.16.50/AeE/index.m3u8",
     "isHttps": false
   },
   {
@@ -3155,7 +3173,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
+    "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
     "isHttps": false
   },
   {
@@ -3209,7 +3227,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.190.28.50/AXN_HD/index.m3u8",
+    "url": "http://170.83.16.50/AXN/index.m3u8",
     "isHttps": false
   },
   {
@@ -3218,7 +3236,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.190.28.50/BAND_HD/index.m3u8",
+    "url": "http://170.84.165.204/BAND_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3227,7 +3245,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8",
+    "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3290,7 +3308,7 @@
     "country": "",
     "language": "",
     "group": "Cooking",
-    "url": "http://45.190.28.50/CHEF_TV/index.m3u8",
+    "url": "http://168.197.104.22/CHEF_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3479,7 +3497,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://45.190.28.50/JP_NEWS/index.m3u8",
+    "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3497,7 +3515,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8",
+    "url": "http://170.83.16.50/LIFETIME/index.m3u8",
     "isHttps": false
   },
   {
@@ -3668,7 +3686,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8",
+    "url": "http://168.197.104.22/MUSIC/index.m3u8",
     "isHttps": false
   },
   {
@@ -3713,7 +3731,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.190.28.50/RECORD/index.m3u8",
+    "url": "http://170.84.165.204/Record_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3762,15 +3780,6 @@
     "isHttps": false
   },
   {
-    "name": "Rede Globo (720p)",
-    "logo": "https://i.imgur.com/O02TF2r.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://138.255.2.6:8084/GLOBOHD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Rede RC (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/y9dqo3f.png",
     "country": "",
@@ -3789,12 +3798,12 @@
     "isHttps": false
   },
   {
-    "name": "Rede TV! (1080p)",
+    "name": "Rede TV! (720p)",
     "logo": "https://i.imgur.com/ZJgD38F.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
+    "url": "http://45.162.64.114/REDE_TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -3803,7 +3812,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8",
+    "url": "http://168.197.104.22/REDE_VIDA/index.m3u8",
     "isHttps": false
   },
   {
@@ -3812,7 +3821,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.190.28.50/SBT_HD/index.m3u8",
+    "url": "http://170.84.165.204/SBT_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3830,7 +3839,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://45.190.28.50/SONY_HD/index.m3u8",
+    "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
     "isHttps": false
   },
   {
@@ -3870,15 +3879,6 @@
     "isHttps": false
   },
   {
-    "name": "Times Brasil (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://45.190.28.50/CNBC/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TNT Novelas Brazil (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
     "country": "",
@@ -3893,7 +3893,7 @@
     "country": "",
     "language": "",
     "group": "Travel",
-    "url": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8",
+    "url": "http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8",
     "isHttps": false
   },
   {
@@ -3960,15 +3960,6 @@
     "isHttps": false
   },
   {
-    "name": "TV Escola (720p)",
-    "logo": "https://i.imgur.com/OF6aGQj.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://45.190.28.50/TV_ESCOLA/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TV Evangelizar (720p)",
     "logo": "https://i.imgur.com/IrYR7Kp.png",
     "country": "",
@@ -3984,15 +3975,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.162.64.114/GAZETA/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV Globo Rio de Janeiro (720p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://45.190.28.50/GLOBO_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4092,15 +4074,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TVE Cultura (720p)",
-    "logo": "https://i.imgur.com/FpqoWcB.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://45.190.28.50/TVE/index.m3u8",
     "isHttps": false
   },
   {
