@@ -2799,6 +2799,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel HD East (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -2867,7 +2876,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
+    "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
     "isHttps": false
   },
   {

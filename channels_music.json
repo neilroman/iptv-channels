@@ -90,12 +90,12 @@
     "isHttps": true
   },
   {
-    "name": "7S Music (360p)",
+    "name": "7S Music (576p)",
     "logo": "https://i.imgur.com/zDiIhdN.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
     "isHttps": true
   },
   {
@@ -3717,6 +3717,15 @@
     "isHttps": true
   },
   {
+    "name": "Raj Musix Kannada (576p)",
+    "logo": "https://i.imgur.com/z7fhhyX.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Raj Musix Malayalam (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png",
     "country": "",
@@ -6057,6 +6066,15 @@
     "isHttps": false
   },
   {
+    "name": "Dhamaal (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "DSTV (614p) [Not 24/7]",
     "logo": "https://i.imgur.com/YMgzzkf.png",
     "country": "",
@@ -6648,6 +6666,15 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/281/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VH1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test",
     "isHttps": false
   },
   {

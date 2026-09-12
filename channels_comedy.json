@@ -1764,12 +1764,12 @@
     "isHttps": true
   },
   {
-    "name": "Comedy Central (1080p)",
+    "name": "Comedy Central (720p)",
     "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Comedy",
-    "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+    "url": "http://4.30.180.36:8420/comedycentral/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -1851,6 +1851,15 @@
     "language": "",
     "group": "Comedy",
     "url": "http://tvsen7.aynascope.net/laff/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Laff WJLP (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://4.30.180.36:8420/laff/index.m3u8?token=test",
     "isHttps": false
   },
   {

@@ -5706,15 +5706,6 @@
     "isHttps": true
   },
   {
-    "name": "CP24 (576p)",
-    "logo": "https://i.imgur.com/YzjZUEl.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CPAC (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/960px-2016_CPAC_logo.svg.png",
     "country": "",
@@ -10890,15 +10881,6 @@
     "isHttps": true
   },
   {
-    "name": "Lifetime (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "LifevisionTV (406p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -14784,6 +14766,15 @@
     "language": "",
     "group": "Travel",
     "url": "https://live.feed.thepalmbeaches.tv/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Panjab TV (576p)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/10000/10000/skychb1041.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -22455,6 +22446,15 @@
     "isHttps": true
   },
   {
+    "name": "Univision West (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Unsolved Mysteries",
     "logo": "https://i.imgur.com/De3khrX.png",
     "country": "",
@@ -24012,24 +24012,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Bollymovies (1080p) [Geo-blocked]",
-    "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Zee Bollymovies Australia (1080p) [Geo-blocked]",
-    "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee One (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
     "country": "",
@@ -24588,12 +24570,12 @@
     "isHttps": false
   },
   {
-    "name": "CNBC (720p) [Geo-blocked]",
+    "name": "CNBC (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
     "country": "",
     "language": "",
     "group": "Business",
-    "url": "http://41.205.93.154/CNBC/index.m3u8",
+    "url": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -24606,21 +24588,12 @@
     "isHttps": false
   },
   {
-    "name": "Colors Infinity HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://66.102.126.10:8000/play/a014/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Comedy Central (1080p)",
+    "name": "Comedy Central (720p)",
     "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Comedy",
-    "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+    "url": "http://4.30.180.36:8420/comedycentral/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -24630,6 +24603,15 @@
     "language": "",
     "group": "Lifestyle;Outdoor",
     "url": "http://185.246.209.113/CottageLife/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CP24 (720p)",
+    "logo": "https://i.imgur.com/YzjZUEl.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://107.167.16.138/cp24/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -24756,6 +24738,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel HD East (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -25011,15 +25002,6 @@
     "isHttps": false
   },
   {
-    "name": "FXX (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Gagsnetwork (576p)",
     "logo": "https://i.imgur.com/ENj5GIp.png",
     "country": "",
@@ -25227,12 +25209,30 @@
     "isHttps": false
   },
   {
+    "name": "Laff WJLP (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://4.30.180.36:8420/laff/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "Legislative Assembly TV Nunavut",
     "logo": "https://i.imgur.com/wY9WhYS.png",
     "country": "",
     "language": "",
     "group": "Legislative",
     "url": "http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Lifetime (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -25632,39 +25632,12 @@
     "isHttps": false
   },
   {
-    "name": "MNX HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://149.71.34.166:8000/play/a05u/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Montreal Greek TV (480p)",
     "logo": "https://i.imgur.com/Y5YnUit.png",
     "country": "",
     "language": "",
     "group": "Culture",
     "url": "http://live.greektv.ca/hls1/greektv.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Movies Now + (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://149.71.34.166:8000/play/a05t/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Movies Now HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.161.153.165:8000/play/mnh/index.m3u8",
     "isHttps": false
   },
   {
@@ -25782,15 +25755,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic HD (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://103.165.93.31:8095/nationalGeographic/index.m3u8",
     "isHttps": false
   },
   {
@@ -26037,12 +26001,30 @@
     "isHttps": false
   },
   {
+    "name": "Paramount Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "Pardesi TV (720p)",
     "logo": "https://i.imgur.com/CwAdPpZ.jpg",
     "country": "",
     "language": "",
     "group": "Culture",
     "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PBS WNET (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -26322,15 +26304,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Sports Select 1 HD (720p)",
-    "logo": "https://i.imgur.com/Mh9tKPx.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://tvsen7.aynascope.net/sspts1/index.m3u8",
     "isHttps": false
   },
   {
@@ -26727,6 +26700,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VH1 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test",
     "isHttps": false
   },
   {

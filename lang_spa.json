@@ -468,6 +468,15 @@
     "isHttps": true
   },
   {
+    "name": "Agricultura TV (1080p)",
+    "logo": "https://i.imgur.com/sxrYc3Q.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Agro TV (720p)",
     "logo": "https://i.imgur.com/1uLGa3w.png",
     "country": "",
@@ -3996,6 +4005,15 @@
     "isHttps": true
   },
   {
+    "name": "Ciudad TV Resistencia (720p)",
+    "logo": "https://i.imgur.com/oL8SMTL.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Ciudadano Radio (720p)",
     "logo": "https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png",
     "country": "",
@@ -6192,6 +6210,24 @@
     "isHttps": true
   },
   {
+    "name": "Galavision (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Galavision West (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Galaxia TV (360p)",
     "logo": "https://grupomediosdelnorte.com/iptv/galaxia.png",
     "country": "",
@@ -7974,15 +8010,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"General\",Teleantioquia (720p)",
-    "logo": "https://i.imgur.com/6WMV2Az.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"General\",TeleBilbao (384p)",
     "logo": "https://i.imgur.com/x2HmBq1.png",
     "country": "",
@@ -8106,6 +8133,15 @@
     "language": "",
     "group": "General",
     "url": "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Litus TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QIGSf4L.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://edge.enhdtv.com/litustv/index.m3u8",
     "isHttps": true
   },
   {
@@ -13077,6 +13113,15 @@
     "isHttps": true
   },
   {
+    "name": "Santa Fe Canal (1080p)",
+    "logo": "https://i.imgur.com/C1mY5X4.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://canalsantaferts.argtelemax.workers.dev/",
+    "isHttps": true
+  },
+  {
     "name": "Santa María Televisión (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/SnbGpoK.png",
     "country": "",
@@ -16749,6 +16794,15 @@
     "isHttps": true
   },
   {
+    "name": "UTalca TV (1080p)",
+    "logo": "https://i.imgur.com/2AK61FQ.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "UTV (720p)",
     "logo": "https://i.imgur.com/ZJNSpfZ.png",
     "country": "",
@@ -18432,6 +18486,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel HD East (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -18482,7 +18545,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
+    "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
     "isHttps": false
   },
   {
@@ -19905,6 +19968,15 @@
     "language": "",
     "group": "General",
     "url": "http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Teleantioquia (1080p)",
+    "logo": "https://i.imgur.com/6WMV2Az.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8",
     "isHttps": false
   },
   {

@@ -306,15 +306,6 @@
     "isHttps": true
   },
   {
-    "name": "Channel 7 (576p)",
-    "logo": "https://i.imgur.com/LebKU09.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "Channel 9 (1080p)",
     "logo": "https://i.imgur.com/pttM3KQ.png",
     "country": "",
@@ -3075,6 +3066,15 @@
     "language": "",
     "group": "General",
     "url": "http://178.134.1.158:8081/5channel/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Channel 7 (576p)",
+    "logo": "https://i.imgur.com/LebKU09.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://stream.mcquack.net/27/index.m3u8",
     "isHttps": false
   },
   {
