@@ -5175,6 +5175,15 @@
     "isHttps": true
   },
   {
+    "name": "Cine Sony (720p)",
+    "logo": "https://i.imgur.com/bZWoDTg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cinevault 80s (720p)",
     "logo": "https://i.imgur.com/xaCyyDd.png",
     "country": "",
@@ -5793,6 +5802,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Crime + Investigation Asia HD (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
     "isHttps": true
   },
   {
@@ -7074,6 +7092,15 @@
     "isHttps": true
   },
   {
+    "name": "Enlace (720p)",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Entertainment Tonight (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png",
     "country": "",
@@ -8133,15 +8160,6 @@
     "language": "",
     "group": "Comedy",
     "url": "https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "FX Movie Channel HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
     "isHttps": true
   },
   {
@@ -13986,15 +14004,6 @@
     "isHttps": true
   },
   {
-    "name": "Nick Jr. (1080p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nick Jr. Pluto TV",
     "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
     "country": "",
@@ -14046,15 +14055,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nicktoons (1080p)",
-    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
     "isHttps": true
   },
   {
@@ -17088,6 +17088,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Raajje TV",
+    "logo": "https://i.imgur.com/QxdkiCZ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
     "isHttps": true
   },
   {
@@ -21798,6 +21807,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Maldives",
+    "logo": "https://i.imgur.com/1c7rFKC.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Maná English (1080p)",
     "logo": "https://i.imgur.com/I66IkCw.png",
     "country": "",
@@ -24516,15 +24534,6 @@
     "isHttps": false
   },
   {
-    "name": "Cine Sony (1080p)",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "CinemaWorld (720p)",
     "logo": "https://i.imgur.com/D2qNVZ7.png",
     "country": "",
@@ -24621,15 +24630,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Crime + Investigation Asia (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8",
     "isHttps": false
   },
   {
@@ -24801,15 +24801,6 @@
     "language": "",
     "group": "Education",
     "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Enlace (720p)",
-    "logo": "https://i.imgur.com/YwUVTmS.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://177.234.249.178:8888/ENLACE/index.m3u8",
     "isHttps": false
   },
   {
@@ -25026,15 +25017,6 @@
     "language": "",
     "group": "Travel",
     "url": "http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "GolTV Latin America (720p)",
-    "logo": "https://i.imgur.com/pypul3s.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://177.234.249.178:8888/GOLTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -25848,21 +25830,21 @@
     "isHttps": false
   },
   {
+    "name": "Nick Jr. (720p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nick Jr. Asia (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon (1080p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
     "isHttps": false
   },
   {
@@ -25884,6 +25866,15 @@
     "isHttps": false
   },
   {
+    "name": "Nickelodeon (720p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nickelodeon Asia (1080p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -25899,6 +25890,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://193.24.244.60:1001/udp/239.254.5.227:6060",
+    "isHttps": false
+  },
+  {
+    "name": "Nicktoons (720p)",
+    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "isHttps": false
   },
   {
@@ -26322,15 +26322,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Starz (1080p)",
-    "logo": "https://i.imgur.com/N7oSm4d.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
     "isHttps": false
   },
   {

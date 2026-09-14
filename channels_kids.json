@@ -1188,15 +1188,6 @@
     "isHttps": true
   },
   {
-    "name": "Nick Jr. (1080p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nick Jr. Club (720p)",
     "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
     "country": "",
@@ -1221,6 +1212,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nick Jr. Latin America (720p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
     "isHttps": true
   },
   {
@@ -1392,15 +1392,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nicktoons (1080p)",
-    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
     "isHttps": true
   },
   {
@@ -3303,6 +3294,15 @@
     "isHttps": false
   },
   {
+    "name": "Nick Jr. (720p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nick Jr. Asia (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "country": "",
@@ -3312,30 +3312,12 @@
     "isHttps": false
   },
   {
-    "name": "Nick Jr. Latin America (1080p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nickelodeon (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon (1080p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
     "isHttps": false
   },
   {
@@ -3372,6 +3354,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon (720p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
     "isHttps": false
   },
   {
@@ -3420,6 +3411,15 @@
     "isHttps": false
   },
   {
+    "name": "Nicktoons (720p)",
+    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Niki Junior (1080p)",
     "logo": "https://i.imgur.com/DrHsNin.png",
     "country": "",
@@ -3444,15 +3444,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/60/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Pakapaka (576p)",
-    "logo": "https://i.imgur.com/GJbRWwH.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://138.121.113.175:8000/play/a04d/index.m3u8",
     "isHttps": false
   },
   {

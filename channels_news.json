@@ -2295,6 +2295,15 @@
     "isHttps": true
   },
   {
+    "name": "DW Espanol (1080p)",
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "DW Russian (1080p)",
     "logo": "https://i.imgur.com/8MRNFb9.png",
     "country": "",
@@ -5472,6 +5481,15 @@
     "isHttps": true
   },
   {
+    "name": "Prima News",
+    "logo": "https://i.imgur.com/wlqGfU2.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Prime News (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png",
     "country": "",
@@ -6288,6 +6306,15 @@
     "language": "",
     "group": "Culture;News",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Suara Surabaya Visual Radio (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg",
+    "country": "",
+    "language": "",
+    "group": "Interactive;News",
+    "url": "https://ssfm.siar.us/ssfm/live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7272,15 +7299,6 @@
     "isHttps": true
   },
   {
-    "name": "YES",
-    "logo": "https://i.imgur.com/HARIGQl.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee 24 Kalak (720p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230P1R.png?lock=720x540",
     "country": "",
@@ -7890,15 +7908,6 @@
     "language": "",
     "group": "News",
     "url": "http://38.19.16.151:8000/play/a0a3",
-    "isHttps": false
-  },
-  {
-    "name": "DW Espanol (1080p)",
-    "logo": "https://i.imgur.com/8MRNFb9.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://177.234.249.178:8888/DW/index.m3u8",
     "isHttps": false
   },
   {

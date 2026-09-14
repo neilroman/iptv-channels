@@ -2853,6 +2853,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal 8 Mar del Plata (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/G7TaQ1L.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://canal8mdq.unpocodeawita.workers.dev/",
+    "isHttps": true
+  },
+  {
     "name": "Canal 8 San Juan (720p) [Not 24/7]",
     "logo": "https://files.catbox.moe/f7jbdo.png",
     "country": "",
@@ -3939,6 +3948,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cine Sony (720p)",
+    "logo": "https://i.imgur.com/bZWoDTg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5085,6 +5103,15 @@
     "isHttps": true
   },
   {
+    "name": "DW Espanol (1080p)",
+    "logo": "https://i.imgur.com/8MRNFb9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "E40 (1080p)",
     "logo": "https://i.imgur.com/0RypDUY.png",
     "country": "",
@@ -5523,6 +5550,15 @@
     "language": "",
     "group": "General",
     "url": "https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Enlace (720p)",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6189,15 +6225,6 @@
     "language": "",
     "group": "General",
     "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "FX Movie Channel HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
     "isHttps": true
   },
   {
@@ -8245,7 +8272,7 @@
   },
   {
     "name": "Los Santos TV (1080i)",
-    "logo": "https://i.imgur.com/5xw86wu.png",
+    "logo": "https://lossantostv.com/logolstv.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -9690,6 +9717,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nick Jr. Latin America (720p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
     "isHttps": true
   },
   {
@@ -14364,6 +14400,15 @@
     "isHttps": true
   },
   {
+    "name": "Telefe Salta",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://canal11saltatv.unpocodeawita.workers.dev/",
+    "isHttps": true
+  },
+  {
     "name": "Telefe Tucuman (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png",
     "country": "",
@@ -17856,15 +17901,6 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America Andes (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://177.234.249.178:8888/AXN/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "AXN Latin America Mexico",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -18324,30 +18360,12 @@
     "isHttps": false
   },
   {
-    "name": "Cine Mexicano (1080p)",
-    "logo": "https://i.imgur.com/BhHKphL.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Cine Premium (1080p)",
     "logo": "https://i.imgur.com/tC3jGd4.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Cine Sony (1080p)",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
     "isHttps": false
   },
   {
@@ -18639,15 +18657,6 @@
     "isHttps": false
   },
   {
-    "name": "DW Espanol (1080p)",
-    "logo": "https://i.imgur.com/8MRNFb9.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://177.234.249.178:8888/DW/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "E! Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
     "country": "",
@@ -18726,24 +18735,6 @@
     "language": "",
     "group": "General",
     "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Encuentro (576p)",
-    "logo": "https://i.imgur.com/uBBZR1X.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "http://138.121.113.175:8000/play/a04c/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Enlace (720p)",
-    "logo": "https://i.imgur.com/YwUVTmS.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://177.234.249.178:8888/ENLACE/index.m3u8",
     "isHttps": false
   },
   {
@@ -19413,15 +19404,6 @@
     "isHttps": false
   },
   {
-    "name": "Nick Jr. Latin America (1080p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nickelodeon Latin America (1080p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -19500,15 +19482,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Pakapaka (576p)",
-    "logo": "https://i.imgur.com/GJbRWwH.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://138.121.113.175:8000/play/a04d/index.m3u8",
     "isHttps": false
   },
   {
@@ -19599,15 +19572,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Quiero Musica en mi Idioma (1080p)",
-    "logo": "https://i.imgur.com/RO9Dz3X.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://177.234.249.178:8888/MTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -19851,15 +19815,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Starz (1080p)",
-    "logo": "https://i.imgur.com/N7oSm4d.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
     "isHttps": false
   },
   {
@@ -20130,15 +20085,6 @@
     "language": "",
     "group": "General",
     "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Television Publica (1080p)",
-    "logo": "https://i.imgur.com/XGrkzN3.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://138.121.113.175:8000/play/a03l/index.m3u8",
     "isHttps": false
   },
   {
@@ -20457,12 +20403,12 @@
     "isHttps": false
   },
   {
-    "name": "Venevision (720p)",
+    "name": "Venevision (576p)",
     "logo": "https://i.imgur.com/gm1m8hW.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://177.234.249.178:8888/VENEVISION/index.m3u8",
+    "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
     "isHttps": false
   },
   {
