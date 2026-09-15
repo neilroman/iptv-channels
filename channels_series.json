@@ -3663,15 +3663,6 @@
     "isHttps": true
   },
   {
-    "name": "Star Channel Latin America Central America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Star Trek",
     "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
     "country": "",
@@ -4506,6 +4497,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Asia Thailand (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://58.8.186.128:10007/bysid/2814",
     "isHttps": false
   },
   {

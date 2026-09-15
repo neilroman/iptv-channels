@@ -2948,7 +2948,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8",
+    "url": "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8",
     "isHttps": true
   },
   {
@@ -5553,15 +5553,6 @@
     "isHttps": true
   },
   {
-    "name": "Enlace (720p)",
-    "logo": "https://i.imgur.com/YwUVTmS.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Enlace Juvenil",
     "logo": "https://i.imgur.com/GfpPQ5D.png",
     "country": "",
@@ -6642,15 +6633,6 @@
     "isHttps": true
   },
   {
-    "name": "Hitz TV (1080p)",
-    "logo": "https://i.imgur.com/SbZgsDh.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://streamer2.nexgen.bz/13-HITZ/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HOLA! Play (1080p)",
     "logo": "https://m.media-amazon.com/images/I/5194tl8duqL.png",
     "country": "",
@@ -7269,6 +7251,15 @@
     "language": "",
     "group": "General",
     "url": "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KNino (1080p)",
+    "logo": "https://ipuntotv.com/IMAGES/Knino-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
     "isHttps": true
   },
   {
@@ -7971,15 +7962,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Adult Swim Latin America (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://streamer.metronethn.com/AdultSwim/index.m3u8",
     "isHttps": true
   },
   {
@@ -9018,15 +9000,6 @@
     "isHttps": true
   },
   {
-    "name": "MLB Network (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/sA5V39D.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Momento24",
     "logo": "https://i.imgur.com/kLy6w9e.jpeg",
     "country": "",
@@ -9717,15 +9690,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nick Jr. Latin America (720p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
     "isHttps": true
   },
   {
@@ -13689,15 +13653,6 @@
     "isHttps": true
   },
   {
-    "name": "Star Channel Latin America Central America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Star Trek: Voyager",
     "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
     "country": "",
@@ -15579,12 +15534,12 @@
     "isHttps": true
   },
   {
-    "name": "TV Chile (1080p) [Geo-blocked]",
+    "name": "TV Chile",
     "logo": "https://i.imgur.com/oYFto0V.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
+    "url": "https://xyktmobile00.s.gy/093_TV_CHILE",
     "isHttps": true
   },
   {
@@ -17802,6 +17757,15 @@
     "isHttps": false
   },
   {
+    "name": "Adult Swim Latin America (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Alcarria TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/pzJAYan.png",
     "country": "",
@@ -18735,6 +18699,15 @@
     "language": "",
     "group": "General",
     "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Enlace (1080p)",
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
     "isHttps": false
   },
   {

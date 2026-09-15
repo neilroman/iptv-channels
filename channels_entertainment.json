@@ -1323,15 +1323,6 @@
     "isHttps": true
   },
   {
-    "name": "Color Blind TV (1080p)",
-    "logo": "https://i.imgur.com/vlVZa7N.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://streamer2.nexgen.bz/12-CBTV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Colors Gujarati (396p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png",
     "country": "",
@@ -1365,6 +1356,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Colors Super (396p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -2264,7 +2264,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-1.pishow.tv/live/224/master.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/224/master.m3u8",
     "isHttps": true
   },
   {
@@ -2705,7 +2705,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/1473/master.m3u8",
     "isHttps": true
   },
   {
@@ -2733,6 +2733,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "KNino (1080p)",
+    "logo": "https://ipuntotv.com/IMAGES/Knino-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
     "isHttps": true
   },
   {
@@ -2931,15 +2940,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Adult Swim Latin America (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://streamer.metronethn.com/AdultSwim/index.m3u8",
     "isHttps": true
   },
   {
@@ -3182,7 +3182,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-4.pishow.tv/live/1521/master.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/1521/master.m3u8",
     "isHttps": true
   },
   {
@@ -4077,6 +4077,15 @@
     "isHttps": true
   },
   {
+    "name": "Nitro",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Norteña TV (576p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
     "country": "",
@@ -4568,7 +4577,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/1241/master.m3u8",
     "isHttps": true
   },
   {
@@ -4964,7 +4973,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/1039/master.m3u8",
     "isHttps": true
   },
   {
@@ -5559,15 +5568,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "The National Channel 10 (1080p)",
-    "logo": "https://i.imgur.com/j2SJ9tA.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://streamer2.nexgen.bz/10-TNC/index.m3u8",
     "isHttps": true
   },
   {
@@ -6549,6 +6549,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Adult Swim Latin America (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
     "isHttps": false
   },
   {
@@ -7605,6 +7614,24 @@
     "isHttps": false
   },
   {
+    "name": "ROCK Entertainment HD (720p)",
+    "logo": "https://i.imgur.com/PWzq0aU.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://58.8.186.128:10006/bysid/2612",
+    "isHttps": false
+  },
+  {
+    "name": "ROCK X Stream (720p)",
+    "logo": "https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://58.8.186.128:10007/bysid/2811",
+    "isHttps": false
+  },
+  {
     "name": "RTL9 (720p)",
     "logo": "https://i.imgur.com/nFqjVNW.png",
     "country": "",
@@ -7674,15 +7701,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Vijay HD (1080p)",
-    "logo": "https://i.imgur.com/dZtJHAe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a06i/index.m3u8",
     "isHttps": false
   },
   {
@@ -7827,6 +7845,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "tvN Asia HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://58.8.186.128:10005/bysid/2518",
     "isHttps": false
   },
   {

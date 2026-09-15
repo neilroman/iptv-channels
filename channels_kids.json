@@ -401,7 +401,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
     "isHttps": true
   },
   {
@@ -591,15 +591,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Fix & Foxi (540p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
     "isHttps": true
   },
   {
@@ -1212,15 +1203,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nick Jr. Latin America (720p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
     "isHttps": true
   },
   {
@@ -3295,6 +3277,15 @@
   },
   {
     "name": "Nick Jr. (720p)",
+    "logo": "https://i.imgur.com/6p3eFgf.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://102.129.186.182:81/nick/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick Jr. (720p)",
     "logo": "https://i.imgur.com/KT4tdQs.png",
     "country": "",
     "language": "",
@@ -3309,6 +3300,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick Jr. Asia HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://58.8.186.128:10003/bysid/2330",
     "isHttps": false
   },
   {

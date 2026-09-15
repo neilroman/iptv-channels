@@ -9,12 +9,12 @@
     "isHttps": true
   },
   {
-    "name": "3sat (720p) [Geo-blocked]",
+    "name": "3sat",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+    "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -558,15 +558,6 @@
     "isHttps": true
   },
   {
-    "name": "Fix & Foxi (540p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
-    "isHttps": true
-  },
-  {
     "name": "Folx Music Television",
     "logo": "https://i.imgur.com/ze04puX.png",
     "country": "",
@@ -1098,6 +1089,15 @@
     "isHttps": true
   },
   {
+    "name": "n-tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "N24 Doku",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png",
     "country": "",
@@ -1257,6 +1257,15 @@
     "language": "",
     "group": "General",
     "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nitro",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2160,12 +2169,21 @@
     "isHttps": true
   },
   {
-    "name": "RTL HD (1080p)",
+    "name": "RTL",
     "logo": "https://i.imgur.com/94K94k2.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz",
+    "url": "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RTL Super",
+    "logo": "https://i.imgur.com/KbdK8t9.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2178,12 +2196,12 @@
     "isHttps": true
   },
   {
-    "name": "RTL Zwei (1080p)",
+    "name": "RTL Zwei",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz",
+    "url": "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2430,15 +2448,6 @@
     "isHttps": true
   },
   {
-    "name": "Super RTL HD (720p)",
-    "logo": "https://i.imgur.com/KbdK8t9.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://forsizero.github.io/iptv/m3u/superrtlhd.m3u",
-    "isHttps": true
-  },
-  {
     "name": "SWR 3 Visual Radio (720p)",
     "logo": "https://i.imgur.com/PxSgxRO.jpg",
     "country": "",
@@ -2454,6 +2463,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "SWR Fernsehen HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2637,6 +2655,15 @@
     "isHttps": true
   },
   {
+    "name": "VOX",
+    "logo": "https://i.imgur.com/QPcmfZb.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "W24 (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/FpVNrxk.png",
     "country": "",
@@ -2754,6 +2781,15 @@
     "isHttps": true
   },
   {
+    "name": "WELT",
+    "logo": "https://i.imgur.com/s4TZoxx.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Welt der Wunder TV (576p)",
     "logo": "https://i.imgur.com/DLXssJe.png",
     "country": "",
@@ -2790,12 +2826,12 @@
     "isHttps": true
   },
   {
-    "name": "ZDF (720p) [Geo-blocked]",
+    "name": "ZDF",
     "logo": "https://i.imgur.com/rtLb6m9.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+    "url": "https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8",
     "isHttps": true
   },
   {
