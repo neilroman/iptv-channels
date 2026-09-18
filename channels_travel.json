@@ -72,15 +72,6 @@
     "isHttps": true
   },
   {
-    "name": "Glazami Turista (576i)",
-    "logo": "https://i.imgur.com/GXJKWdy.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Go USA TV (720p)",
     "logo": "https://i.imgur.com/x90ALip.png",
     "country": "",
@@ -378,6 +369,15 @@
     "isHttps": false
   },
   {
+    "name": "Glazami Turista (1080p)",
+    "logo": "https://i.imgur.com/GXJKWdy.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Global Trekker (720p)",
     "logo": "https://i.imgur.com/5nlmJIw.png",
     "country": "",
@@ -459,6 +459,24 @@
     "isHttps": false
   },
   {
+    "name": "Teleputeshestviya (576p)",
+    "logo": "https://i.imgur.com/eXJm1n3.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://str2.iptvhd.ru:8080/Teleputeshestviya/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tochka.rf (576p)",
+    "logo": "https://i.imgur.com/tKgmhxh.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Travel",
+    "url": "http://str2.iptvhd.ru:8080/HD_Life/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Travel Box Brazil (720p)",
     "logo": "https://i.imgur.com/3tBJERH.png",
     "country": "",
@@ -513,21 +531,21 @@
     "isHttps": false
   },
   {
+    "name": "U Travel (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://str2.iptvhd.ru:8080/travel/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Vkus (576p)",
     "logo": "https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png",
     "country": "",
     "language": "",
     "group": "Travel",
     "url": "http://178.134.1.158:8081/vkus/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Телепутешествия (576p)",
-    "logo": "https://i.imgur.com/eXJm1n3.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "http://31.148.48.15/Teleputeshestviya/index.m3u8",
     "isHttps": false
   }
 ]

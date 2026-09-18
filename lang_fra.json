@@ -1647,15 +1647,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (576p)",
-    "logo": "https://i.imgur.com/QxHt9NC.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Canal+ Sport 360",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",
     "country": "",
@@ -3943,7 +3934,7 @@
   },
   {
     "name": "Télé Congo (720p)",
-    "logo": "https://i.imgur.com/r4B5zq4.png",
+    "logo": "https://i.imgur.com/gbFtP14.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -3966,6 +3957,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://145.239.5.177/356/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TF1 (1080p)",
+    "logo": "https://i.imgur.com/QxHt9NC.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://str2.iptvhd.ru:8080/TF1/index.m3u8",
     "isHttps": false
   },
   {

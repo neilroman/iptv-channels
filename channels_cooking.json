@@ -396,6 +396,15 @@
     "isHttps": true
   },
   {
+    "name": "24Kitchen Bulgary (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Chef TV (720p)",
     "logo": "https://i.imgur.com/UYksTee.png",
     "country": "",
@@ -411,6 +420,24 @@
     "language": "",
     "group": "Cooking",
     "url": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Food Network (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FoodTime (1080p)",
+    "logo": "https://i.imgur.com/gxCYAwH.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://str2.iptvhd.ru:8080/Eda/index.m3u8",
     "isHttps": false
   },
   {

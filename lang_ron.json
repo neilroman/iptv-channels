@@ -54,12 +54,39 @@
     "isHttps": true
   },
   {
-    "name": "Antena Stars (720p)",
+    "name": "Antena 1",
+    "logo": "https://i.imgur.com/EPmwuuv.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena International",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena Monden (720p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena Stars",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8",
     "isHttps": true
   },
   {
@@ -105,6 +132,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bollywood Film",
+    "logo": "https://i.imgur.com/bEMUpHZ.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
     "isHttps": true
   },
   {
@@ -207,12 +243,30 @@
     "isHttps": true
   },
   {
+    "name": "Etno TV",
+    "logo": "https://i.imgur.com/jzhZ8kl.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FILMBOX+ Hits Romania (576p)",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Happy Channel",
+    "logo": "https://i.imgur.com/kpFaiku.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
     "isHttps": true
   },
   {
@@ -285,6 +339,15 @@
     "language": "",
     "group": "Music",
     "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Inedit TV",
+    "logo": "https://i.imgur.com/HcFpNwA.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -585,6 +648,33 @@
     "isHttps": true
   },
   {
+    "name": "Mooz Dance",
+    "logo": "https://i.imgur.com/aX70RD2.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Mooz Hits",
+    "logo": "https://i.imgur.com/GwATd3Y.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Mooz Ro!",
+    "logo": "https://i.imgur.com/Ft24x5T.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Muscel TV (720p)",
     "logo": "https://i.ibb.co/Bq9CHyn/Musceltv1.png",
     "country": "",
@@ -864,6 +954,15 @@
     "isHttps": true
   },
   {
+    "name": "TraLaLa TV",
+    "logo": "https://i.imgur.com/xJBMnjy.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV SUD (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/m3Slmbe.png",
     "country": "",
@@ -1032,15 +1131,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Antena 1 (1080p)",
-    "logo": "https://i.imgur.com/EPmwuuv.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
     "isHttps": false
   },
   {

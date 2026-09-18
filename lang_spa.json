@@ -243,15 +243,6 @@
     "isHttps": true
   },
   {
-    "name": "A+ [Geo-blocked]",
-    "logo": "https://i.imgur.com/TWk9gfd.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "A7 TV (1080p)",
     "logo": "https://a7tvjarabacoa.netlify.app/IMG_1968.PNG",
     "country": "",
@@ -274,7 +265,7 @@
     "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800",
     "country": "",
     "language": "",
-    "group": "Undefined",
+    "group": "Entertainment",
     "url": "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8",
     "isHttps": true
   },
@@ -6228,15 +6219,6 @@
     "isHttps": true
   },
   {
-    "name": "Galavision (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Galavision West (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png",
     "country": "",
@@ -6436,7 +6418,7 @@
   },
   {
     "name": "GSG TV (720p)",
-    "logo": "https://i.imgur.com/8fZnNu0.png",
+    "logo": "https://i.imgur.com/Naj8yUN.png",
     "country": "",
     "language": "",
     "group": "Religious",
@@ -8280,6 +8262,15 @@
     "isHttps": true
   },
   {
+    "name": "Love Nature HD (1080p)",
+    "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Love The Planet ES (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/RBcD49X.png",
     "country": "",
@@ -9618,6 +9609,15 @@
     "language": "",
     "group": "General",
     "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Neox TV [Not 24/7]",
+    "logo": "https://i.imgur.com/eIX71c9.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8",
     "isHttps": true
   },
   {
@@ -13668,15 +13668,6 @@
     "language": "",
     "group": "Music",
     "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Stingray iConcerts HD",
-    "logo": "https://i.imgur.com/GKc7RFz.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -18351,15 +18342,6 @@
     "isHttps": false
   },
   {
-    "name": "Cinecanal South (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://45.162.193.35/CINECANAL/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "CineLatino (720p)",
     "logo": "https://i.imgur.com/2V0R0xT.png",
     "country": "",
@@ -18825,6 +18807,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Galavision (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://200.115.120.1:8000/play/ca128/index.m3u8",
     "isHttps": false
   },
   {
@@ -19824,6 +19815,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Stingray iConcerts HD (1080p)",
+    "logo": "https://i.imgur.com/GKc7RFz.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8",
     "isHttps": false
   },
   {

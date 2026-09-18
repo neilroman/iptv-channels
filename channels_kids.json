@@ -450,6 +450,15 @@
     "isHttps": true
   },
   {
+    "name": "Detskiy (576p)",
+    "logo": "https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Detvora+ (1080p)",
     "logo": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
     "country": "",
@@ -1557,6 +1566,15 @@
     "isHttps": true
   },
   {
+    "name": "PLUSPLUS HD (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9bPhStm.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://iptv.prosto.tv/ch066/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Pluto TV Junior",
     "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
     "country": "",
@@ -2331,6 +2349,15 @@
     "isHttps": true
   },
   {
+    "name": "TraLaLa TV",
+    "logo": "https://i.imgur.com/xJBMnjy.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Transformers",
     "logo": "https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png",
     "country": "",
@@ -2718,6 +2745,15 @@
     "isHttps": false
   },
   {
+    "name": "Detski mir (576p)",
+    "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "country": "",
@@ -2733,6 +2769,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8",
     "isHttps": false
   },
   {
@@ -3015,6 +3060,15 @@
     "isHttps": false
   },
   {
+    "name": "Kapitan Fantastika HD (1080p)",
+    "logo": "https://i.imgur.com/K3PSHiT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "KidOO (1080p) [Geo-blocked]",
     "logo": "https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png",
     "country": "",
@@ -3255,6 +3309,24 @@
     "language": "",
     "group": "Kids",
     "url": "http://103.72.101.252:8080/live/1226.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick Jr. (540p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://176.61.157.250/NickJr/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick Jr. (576p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8",
     "isHttps": false
   },
   {
@@ -3519,6 +3591,15 @@
     "isHttps": false
   },
   {
+    "name": "STS kids HD (1080p)",
+    "logo": "https://i.imgur.com/o9kLpAL.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "Super Hungama (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png",
     "country": "",
@@ -3591,15 +3672,6 @@
     "isHttps": false
   },
   {
-    "name": "Unikum (576p)",
-    "logo": "https://i.imgur.com/kSJZjDL.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://45.145.32.13:20440/nauka/index.m3u8?token=test",
-    "isHttps": false
-  },
-  {
     "name": "VTV HD (1080p)",
     "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
     "country": "",
@@ -3615,6 +3687,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/Mult_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Уникум (576p)",
+    "logo": "https://i.imgur.com/kSJZjDL.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://31.148.48.15/Detskiy/index.m3u8",
     "isHttps": false
   },
   {
