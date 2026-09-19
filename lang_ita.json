@@ -27,21 +27,12 @@
     "isHttps": true
   },
   {
-    "name": "20 Mediaset [Geo-blocked]",
+    "name": "20 [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "27 TwentySeven [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8",
     "isHttps": true
   },
   {
@@ -72,7 +63,7 @@
     "isHttps": true
   },
   {
-    "name": "70-80 TV (1080P)",
+    "name": "70-80 TV",
     "logo": "https://i.imgur.com/y4kNV3Q.png",
     "country": "",
     "language": "",
@@ -81,7 +72,7 @@
     "isHttps": true
   },
   {
-    "name": "ACI Sport TV (1080p)",
+    "name": "ACI Sport TV SD (1080p)",
     "logo": "https://i.imgur.com/U8cHMOt.png",
     "country": "",
     "language": "",
@@ -99,7 +90,7 @@
     "isHttps": true
   },
   {
-    "name": "Alto Adige TV (720p)",
+    "name": "AltoAdige TV (720p)",
     "logo": "https://i.imgur.com/yt7JJrn.png",
     "country": "",
     "language": "",
@@ -144,7 +135,7 @@
     "isHttps": true
   },
   {
-    "name": "Antenna Tre Veneto (480p) [Geo-blocked]",
+    "name": "Antenna Tre (480p) [Geo-blocked]",
     "logo": "",
     "country": "",
     "language": "",
@@ -216,7 +207,7 @@
     "isHttps": true
   },
   {
-    "name": "Camera dei Deputati (via RR) (240p)",
+    "name": "Camera dei Deputati (240p)",
     "logo": "https://i.imgur.com/hv4zi9N.png",
     "country": "",
     "language": "",
@@ -261,15 +252,6 @@
     "isHttps": true
   },
   {
-    "name": "Catfish",
-    "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CG Entertainment",
     "logo": "https://i.imgur.com/XeWzy7e.png",
     "country": "",
@@ -288,7 +270,7 @@
     "isHttps": true
   },
   {
-    "name": "Cine 34 [Geo-blocked]",
+    "name": "Cine34 [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png",
     "country": "",
     "language": "",
@@ -369,7 +351,7 @@
     "isHttps": true
   },
   {
-    "name": "Dynasty",
+    "name": "Dynasty (Germany)",
     "logo": "https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -378,7 +360,7 @@
     "isHttps": true
   },
   {
-    "name": "EBS (1080p)",
+    "name": "EbS (1080p)",
     "logo": "https://i.imgur.com/DIIRPNN.png",
     "country": "",
     "language": "",
@@ -387,7 +369,7 @@
     "isHttps": true
   },
   {
-    "name": "EBS Plus (1080p)",
+    "name": "EbS+ (1080p)",
     "logo": "https://i.imgur.com/7V012zQ.png",
     "country": "",
     "language": "",
@@ -432,7 +414,7 @@
     "isHttps": true
   },
   {
-    "name": "èTv Marche (720p)",
+    "name": "eTv Marche (720p)",
     "logo": "https://i.imgur.com/U6OW577.png",
     "country": "",
     "language": "",
@@ -441,7 +423,7 @@
     "isHttps": true
   },
   {
-    "name": "èTv Rete 7 (720p)",
+    "name": "eTv Rete 7 (720p)",
     "logo": "https://i.imgur.com/xYVI5OC.png",
     "country": "",
     "language": "",
@@ -450,7 +432,7 @@
     "isHttps": true
   },
   {
-    "name": "Euro TV (720p) [Not 24/7]",
+    "name": "Euro TV (Italy) (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/HFWWzKT.png",
     "country": "",
     "language": "",
@@ -468,7 +450,7 @@
     "isHttps": true
   },
   {
-    "name": "Failarmy",
+    "name": "FailArmy Italy",
     "logo": "https://i.imgur.com/VIpQJxL.png",
     "country": "",
     "language": "",
@@ -504,7 +486,7 @@
     "isHttps": true
   },
   {
-    "name": "Gambero Rosso (720p)",
+    "name": "Gambero Rosso Channel (720p)",
     "logo": "https://i.imgur.com/x5cwb1q.png",
     "country": "",
     "language": "",
@@ -513,7 +495,7 @@
     "isHttps": true
   },
   {
-    "name": "Geordie Shore",
+    "name": "Geordie Shore (Germany)",
     "logo": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -612,7 +594,7 @@
     "isHttps": true
   },
   {
-    "name": "Inter TV (1080p)",
+    "name": "Inter TV (Italy) (1080p)",
     "logo": "https://i.imgur.com/FUTqh2L.png",
     "country": "",
     "language": "",
@@ -972,7 +954,7 @@
     "isHttps": true
   },
   {
-    "name": "Mission Impossible",
+    "name": "Mission Impossible (Germany) IT",
     "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -981,12 +963,21 @@
     "isHttps": true
   },
   {
-    "name": "Mr. Bean Anime Italy (1080p)",
+    "name": "Mr Bean Animated IT (1080p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
     "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MTV Catfish TV Show",
+    "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8",
     "isHttps": true
   },
   {
@@ -999,7 +990,7 @@
     "isHttps": true
   },
   {
-    "name": "NTN (720p)",
+    "name": "NTN (Italy) (720p)",
     "logo": "https://i.imgur.com/AW5fJwa.png",
     "country": "",
     "language": "",
@@ -1026,7 +1017,7 @@
     "isHttps": true
   },
   {
-    "name": "Onda TV (568p)",
+    "name": "Onda TV (Italy) (568p)",
     "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
     "country": "",
     "language": "",
@@ -1107,7 +1098,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Anime",
+    "name": "Pluto TV Anime (Germany) IT",
     "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
     "country": "",
     "language": "",
@@ -1161,7 +1152,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Film",
+    "name": "Pluto TV Film (Germany)",
     "logo": "https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",
     "country": "",
     "language": "",
@@ -1170,7 +1161,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Film Ancora Più Romantici",
+    "name": "Pluto TV Film Ancora Piu Romantici",
     "logo": "https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png",
     "country": "",
     "language": "",
@@ -1224,7 +1215,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Horror",
+    "name": "Pluto TV Horror (Germany) IT",
     "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1278,7 +1269,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Paranormal",
+    "name": "Pluto TV Paranormal (Germany) IT",
     "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1305,21 +1296,12 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Sci-Fi",
+    "name": "Pluto TV Sci-Fi (Germany) IT",
     "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
     "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Serie",
-    "logo": "https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
     "isHttps": true
   },
   {
@@ -1329,6 +1311,15 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Serie IT",
+    "logo": "https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
     "isHttps": true
   },
   {
@@ -1350,7 +1341,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Snooker 900 (720p)",
+    "name": "Pluto TV Snooker 900 (Germany) IT (720p)",
     "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
     "country": "",
     "language": "",
@@ -1359,7 +1350,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Sport",
+    "name": "Pluto TV Sport (Germany)",
     "logo": "https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",
     "country": "",
     "language": "",
@@ -1377,7 +1368,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Teen (720p)",
+    "name": "Pluto TV Teen IT (720p)",
     "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
     "country": "",
     "language": "",
@@ -1386,7 +1377,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Totò",
+    "name": "Pluto TV Toto",
     "logo": "https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png",
     "country": "",
     "language": "",
@@ -1395,7 +1386,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
+    "name": "Pluto TV True Crime (Germany) IT",
     "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1413,7 +1404,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Western",
+    "name": "Pluto TV Western IT",
     "logo": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
     "country": "",
     "language": "",
@@ -1422,21 +1413,21 @@
     "isHttps": true
   },
   {
-    "name": "Prima TV Sicilia (720p)",
-    "logo": "https://i.imgur.com/HE9c8Sk.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "PrimaFree",
+    "name": "Prima Free",
     "logo": "https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Prima TV (Italy) (720p)",
+    "logo": "https://i.imgur.com/HE9c8Sk.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1476,7 +1467,7 @@
     "isHttps": true
   },
   {
-    "name": "QVC Italia (540p)",
+    "name": "QVC (Italy) (540p)",
     "logo": "https://i.imgur.com/6TWUVrh.png",
     "country": "",
     "language": "",
@@ -1509,15 +1500,6 @@
     "language": "",
     "group": "Music",
     "url": "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Freccia TV (1080p)",
-    "logo": "https://i.imgur.com/RxeRlar.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
     "isHttps": true
   },
   {
@@ -1584,12 +1566,21 @@
     "isHttps": true
   },
   {
-    "name": "Radio Zeta TV (1080p)",
+    "name": "Radio Zeta (1080p)",
     "logo": "https://i.imgur.com/K2xLMin.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radiofreccia (1080p)",
+    "logo": "https://i.imgur.com/RxeRlar.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
     "isHttps": true
   },
   {
@@ -1836,7 +1827,7 @@
     "isHttps": true
   },
   {
-    "name": "RTL 102.5 Napulè (1080p)",
+    "name": "RTL 102.5 Napule (1080p)",
     "logo": "https://i.imgur.com/HFPw1YW.png",
     "country": "",
     "language": "",
@@ -1872,7 +1863,7 @@
     "isHttps": true
   },
   {
-    "name": "RTP (404p)",
+    "name": "RTP (Italy) (404p)",
     "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
     "country": "",
     "language": "",
@@ -1926,7 +1917,7 @@
     "isHttps": true
   },
   {
-    "name": "Sophia TV Italy (720p)",
+    "name": "Sophia TV (Italy) (720p)",
     "logo": "https://i.imgur.com/RPXusvS.png",
     "country": "",
     "language": "",
@@ -1935,7 +1926,7 @@
     "isHttps": true
   },
   {
-    "name": "South Park",
+    "name": "South Park (Germany) IT",
     "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
     "country": "",
     "language": "",
@@ -1980,7 +1971,7 @@
     "isHttps": true
   },
   {
-    "name": "Star Trek: Voyager",
+    "name": "Star Trek: Voyager (Germany) IT",
     "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2007,12 +1998,21 @@
     "isHttps": true
   },
   {
-    "name": "Super J TV (720p)",
+    "name": "Super J TV Teramo (720p)",
     "logo": "https://i.imgur.com/H3uItqg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Super Six (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2052,15 +2052,6 @@
     "isHttps": true
   },
   {
-    "name": "SuperSix Lombardia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "SuperTennis (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
     "country": "",
@@ -2097,7 +2088,7 @@
     "isHttps": true
   },
   {
-    "name": "Teen Mom",
+    "name": "Teen Mom (Germany)",
     "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2148,15 +2139,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Tele Sondrio News (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/eE37h7Q.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2286,7 +2268,7 @@
     "isHttps": true
   },
   {
-    "name": "Telenord (576p) [Not 24/7]",
+    "name": "Telenord (Italy) (576p) [Not 24/7]",
     "logo": "https://telenord.it/assets/images/logo.png",
     "country": "",
     "language": "",
@@ -2430,7 +2412,7 @@
     "isHttps": true
   },
   {
-    "name": "The Pet Collective",
+    "name": "The Pet Collective Italy",
     "logo": "https://i.imgur.com/yH7n2dF.png",
     "country": "",
     "language": "",
@@ -2475,12 +2457,12 @@
     "isHttps": true
   },
   {
-    "name": "TV 2000 (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png",
+    "name": "TSN TeleSondrio News (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/eE37h7Q.png",
     "country": "",
     "language": "",
-    "group": "Religious",
-    "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+    "group": "News",
+    "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2502,7 +2484,7 @@
     "isHttps": true
   },
   {
-    "name": "TV Qui (Modena) (480p)",
+    "name": "TV Qui Modena (480p)",
     "logo": "https://i.imgur.com/YfMVNDE.png",
     "country": "",
     "language": "",
@@ -2517,6 +2499,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV2000 (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
     "isHttps": true
   },
   {
@@ -2544,6 +2535,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Twentyseven [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8",
     "isHttps": true
   },
   {
@@ -2610,15 +2610,6 @@
     "isHttps": false
   },
   {
-    "name": "Canale 10 (540p) [Not 24/7]",
-    "logo": "https://i.imgur.com/8Pay0Vv.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Canale 7 (480p)",
     "logo": "https://canale7.tv/assets/front/img/fb_logo.jpg",
     "country": "",
@@ -2634,6 +2625,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canale Dieci (540p) [Not 24/7]",
+    "logo": "https://i.imgur.com/8Pay0Vv.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2664,21 +2664,21 @@
     "isHttps": false
   },
   {
-    "name": "Italia 2 TV (480p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/TDSgG28.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Italia 7 (576p)",
     "logo": "https://i.imgur.com/xc0kUHk.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://151.0.207.99:1935/italia7/italia7/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Italia2TV (480p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/TDSgG28.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2700,7 +2700,7 @@
     "isHttps": false
   },
   {
-    "name": "Nick Jr. (720p)",
+    "name": "Nick Jr. (Italy) (720p)",
     "logo": "https://i.imgur.com/6p3eFgf.png",
     "country": "",
     "language": "",
@@ -2745,7 +2745,7 @@
     "isHttps": false
   },
   {
-    "name": "Super TV (720p)",
+    "name": "Super TV (Italy) (720p)",
     "logo": "https://i.imgur.com/hxF3yhw.png",
     "country": "",
     "language": "",
@@ -2772,12 +2772,12 @@
     "isHttps": false
   },
   {
-    "name": "Tele Pavia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",
+    "name": "Tele Chiara (720p)",
+    "logo": "https://i.imgur.com/LpXeY4v.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
-    "url": "http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8",
+    "group": "General",
+    "url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2787,15 +2787,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telechiara (720p)",
-    "logo": "https://i.imgur.com/LpXeY4v.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2835,6 +2826,15 @@
     "isHttps": false
   },
   {
+    "name": "Telepavia (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Telesud Trapani (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/JNohS1G.png",
     "country": "",
@@ -2871,7 +2871,7 @@
     "isHttps": false
   },
   {
-    "name": "TVA (Vicenza) (720p)",
+    "name": "TVA Vicenza (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
     "country": "",
     "language": "",
@@ -2898,7 +2898,7 @@
     "isHttps": false
   },
   {
-    "name": "Videolina (Sardegna) (404p) [Not 24/7]",
+    "name": "Videolina Sardegna (404p) [Not 24/7]",
     "logo": "https://i.imgur.com/nQwXaef.png",
     "country": "",
     "language": "",

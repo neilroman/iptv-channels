@@ -72,15 +72,6 @@
     "isHttps": true
   },
   {
-    "name": "Go USA TV (720p)",
-    "logo": "https://i.imgur.com/x90ALip.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GoTraveler (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/IaRcN1G.png",
     "country": "",
@@ -90,7 +81,16 @@
     "isHttps": true
   },
   {
-    "name": "InTravel (1080p)",
+    "name": "GoUSA TV (720p)",
+    "logo": "https://i.imgur.com/x90ALip.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "INTRAVEL (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",
     "country": "",
     "language": "",
@@ -108,7 +108,7 @@
     "isHttps": true
   },
   {
-    "name": "JOURNY TV (720p)",
+    "name": "Journy (720p)",
     "logo": "https://i.imgur.com/1JNrLxq.png",
     "country": "",
     "language": "",
@@ -117,7 +117,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Lifestyle;Travel\",TV Paprika",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Lifestyle;Travel\",TV Paprika (Romania)",
     "logo": "https://i.imgur.com/3fuXBHT.png",
     "country": "",
     "language": "",
@@ -180,7 +180,7 @@
     "isHttps": true
   },
   {
-    "name": "Peer TV Südtirol (1080p)",
+    "name": "Peer TV Sudtirol (1080p)",
     "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
     "country": "",
     "language": "",
@@ -333,7 +333,7 @@
     "isHttps": true
   },
   {
-    "name": "BamBarBia TV (720p) [Not 24/7]",
+    "name": "BamBarBia.TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/zdRvy87.png",
     "country": "",
     "language": "",
@@ -396,7 +396,16 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Lifestyle;Travel\",TV Paprika",
+    "name": "KNOV-CD 41.1 (720p)",
+    "logo": "https://i.imgur.com/D7Lzqyl.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Lifestyle;Travel\",TV Paprika (Czech Republic)",
     "logo": "https://i.imgur.com/NSabYyT.png",
     "country": "",
     "language": "",
@@ -405,7 +414,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Lifestyle;Travel\",TV Paprika",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Lifestyle;Travel\",TV Paprika (Hungary)",
     "logo": "https://i.imgur.com/KLpZIS6.png",
     "country": "",
     "language": "",
@@ -429,15 +438,6 @@
     "language": "",
     "group": "Travel",
     "url": "http://stream.mcquack.net/141/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NOTV New Orleans TV (720p)",
-    "logo": "https://i.imgur.com/D7Lzqyl.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -522,7 +522,7 @@
     "isHttps": false
   },
   {
-    "name": "TV Paraná Turismo (720p) [Not 24/7]",
+    "name": "TV Parana Turismo (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/I6pKoBd.png",
     "country": "",
     "language": "",

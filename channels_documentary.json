@@ -36,7 +36,7 @@
     "isHttps": true
   },
   {
-    "name": "Alterna TV (720p) [Not 24/7]",
+    "name": "AlternaTV (720p) [Not 24/7]",
     "logo": "https://tv.alterna.ar/alternatv.png",
     "country": "",
     "language": "",
@@ -108,7 +108,7 @@
     "isHttps": true
   },
   {
-    "name": "BBC Earth (1080p)",
+    "name": "BBC Earth US (1080p)",
     "logo": "https://i.imgur.com/nGSsUd4.png",
     "country": "",
     "language": "",
@@ -117,30 +117,12 @@
     "isHttps": true
   },
   {
-    "name": "BBC Four HD (720p) [Geo-blocked]",
+    "name": "BBC Four (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
     "country": "",
     "language": "",
     "group": "Culture;Documentary",
     "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "Bloomberg Originals",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-    "country": "",
-    "language": "",
-    "group": "Business;Documentary",
-    "url": "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Bloomberg Originals (1080p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-    "country": "",
-    "language": "",
-    "group": "Business;Documentary",
-    "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -153,7 +135,16 @@
     "isHttps": true
   },
   {
-    "name": "Bondi Rescue",
+    "name": "Bloomberg Originals SD (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+    "country": "",
+    "language": "",
+    "group": "Business;Documentary",
+    "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bondi Rescue (Germany)",
     "logo": "https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -216,7 +207,16 @@
     "isHttps": true
   },
   {
-    "name": "Click TV (Coronel) (720p)",
+    "name": "City Eden KinoDok [Not 24/7]",
+    "logo": "https://i.imgur.com/itRbMX3.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Series",
+    "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ClickTV Chile (720p)",
     "logo": "https://i.imgur.com/H0XNbMS.png",
     "country": "",
     "language": "",
@@ -261,7 +261,7 @@
     "isHttps": true
   },
   {
-    "name": "Curiosity Now (1080p)",
+    "name": "Curiosity NOW EN (1080p)",
     "logo": "https://i.imgur.com/gJ9eMaG.png",
     "country": "",
     "language": "",
@@ -270,7 +270,7 @@
     "isHttps": true
   },
   {
-    "name": "DangerTV (720p)",
+    "name": "Danger TV (720p)",
     "logo": "https://i.imgur.com/4aTk45R.png",
     "country": "",
     "language": "",
@@ -297,7 +297,7 @@
     "isHttps": true
   },
   {
-    "name": "Detetives Médicos",
+    "name": "Detetives Medicos",
     "logo": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -378,7 +378,7 @@
     "isHttps": true
   },
   {
-    "name": "Ecovisión (720p)",
+    "name": "Ecovision (720p)",
     "logo": "https://imgur.com/Y4ahiYu.png",
     "country": "",
     "language": "",
@@ -441,7 +441,7 @@
     "isHttps": true
   },
   {
-    "name": "Get.Factual (720p)",
+    "name": "Get.factual (720p)",
     "logo": "https://i.imgur.com/4oVcjLd.png",
     "country": "",
     "language": "",
@@ -459,12 +459,21 @@
     "isHttps": true
   },
   {
-    "name": "Historia y Vida (720p)",
+    "name": "Historia Y Vida (720p)",
     "logo": "https://i.imgur.com/56ZtCA1.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "History (Slovenia) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
     "isHttps": true
   },
   {
@@ -474,15 +483,6 @@
     "language": "",
     "group": "Documentary",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
-    "isHttps": true
-  },
-  {
-    "name": "History Channel (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
     "isHttps": true
   },
   {
@@ -518,16 +518,25 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8",
+    "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8",
     "isHttps": true
   },
   {
-    "name": "Ink Master",
+    "name": "Ink Master CA",
     "logo": "https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8",
+    "url": "https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Into Crime (1080p)",
+    "logo": "https://i.imgur.com/43at4M2.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -537,15 +546,6 @@
     "language": "",
     "group": "Documentary",
     "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Jail",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary;Entertainment",
-    "url": "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -576,7 +576,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore",
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (Slovenia)",
     "logo": "https://i.imgur.com/jboGcoY.png",
     "country": "",
     "language": "",
@@ -585,7 +585,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History",
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Slovenia)",
     "logo": "https://i.imgur.com/qCkCGqa.png",
     "country": "",
     "language": "",
@@ -594,7 +594,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature",
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature (Slovenia)",
     "logo": "https://i.imgur.com/gxlZZ91.png",
     "country": "",
     "language": "",
@@ -612,7 +612,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic (Romania)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -621,7 +621,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic Wild",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic Wild (Romania)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
@@ -630,7 +630,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Explore",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Explore (Romania)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
     "country": "",
     "language": "",
@@ -639,7 +639,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat History",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat History (Romania)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
     "country": "",
     "language": "",
@@ -648,7 +648,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Nature",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Nature (Romania)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
     "country": "",
     "language": "",
@@ -666,7 +666,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Turkiye)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -675,7 +675,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild (Turkiye)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
@@ -684,7 +684,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (720p)",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Turkiye) (720p)",
     "logo": "https://i.imgur.com/wRP9XA7.png",
     "country": "",
     "language": "",
@@ -693,7 +693,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (1080p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (Bulgaria) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
     "country": "",
     "language": "",
@@ -702,7 +702,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (1080p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Bulgaria) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
     "country": "",
     "language": "",
@@ -711,7 +711,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature (1080p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature (Bulgaria) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
     "country": "",
     "language": "",
@@ -738,7 +738,7 @@
     "isHttps": true
   },
   {
-    "name": "Love the Planet (1080p)",
+    "name": "Love The Planet (1080p)",
     "logo": "https://i.imgur.com/RBcD49X.png",
     "country": "",
     "language": "",
@@ -819,16 +819,16 @@
     "isHttps": true
   },
   {
-    "name": "Nature Time France (1080p)",
+    "name": "NatureTime (1080p)",
     "logo": "https://i.imgur.com/72JmyjM.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
-    "name": "NatureTime (1080p)",
+    "name": "NatureTime AU (1080p)",
     "logo": "https://i.imgur.com/72JmyjM.png",
     "country": "",
     "language": "",
@@ -837,7 +837,7 @@
     "isHttps": true
   },
   {
-    "name": "NatureTime (1080p)",
+    "name": "NatureTime ES (1080p)",
     "logo": "https://i.imgur.com/72JmyjM.png",
     "country": "",
     "language": "",
@@ -846,16 +846,16 @@
     "isHttps": true
   },
   {
-    "name": "NatureTime (1080p)",
+    "name": "NatureTime France (1080p)",
     "logo": "https://i.imgur.com/72JmyjM.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
-    "name": "NatureTime (684p)",
+    "name": "NatureTime LATAM (684p)",
     "logo": "https://i.imgur.com/72JmyjM.png",
     "country": "",
     "language": "",
@@ -864,12 +864,12 @@
     "isHttps": true
   },
   {
-    "name": "NatureTime Finland (1080p)",
+    "name": "NatureTime UK (1080p)",
     "logo": "https://i.imgur.com/72JmyjM.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+    "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -882,7 +882,7 @@
     "isHttps": true
   },
   {
-    "name": "On the Case",
+    "name": "On The Case",
     "logo": "https://i.imgur.com/TAmVjUL.png",
     "country": "",
     "language": "",
@@ -909,7 +909,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Alien Invasion",
+    "name": "Pluto TV Alien Invasion (Germany)",
     "logo": "https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -918,7 +918,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Alien Invasion",
+    "name": "Pluto TV Alien Invasion (Sweden)",
     "logo": "https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -972,7 +972,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Animals",
+    "name": "Pluto TV Animals GB",
     "logo": "https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1031,16 +1031,16 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
+    "url": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
     "isHttps": true
   },
   {
-    "name": "Pluto TV Dokumentär",
+    "name": "Pluto TV Dokumentar DK",
     "logo": "https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
+    "url": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
     "isHttps": true
   },
   {
@@ -1062,7 +1062,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Food",
+    "name": "Pluto TV Food GB",
     "logo": "https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png",
     "country": "",
     "language": "",
@@ -1080,7 +1080,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Historia (720p)",
+    "name": "Pluto TV Historia (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1089,7 +1089,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV History",
+    "name": "Pluto TV History (Germany)",
     "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1098,7 +1098,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV History",
+    "name": "Pluto TV History (Germany) GB",
     "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1107,7 +1107,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV History",
+    "name": "Pluto TV History (United States)",
     "logo": "https://i.imgur.com/XkQD5kM.png",
     "country": "",
     "language": "",
@@ -1116,7 +1116,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Investigação",
+    "name": "Pluto TV Investigacao",
     "logo": "https://i.imgur.com/JlQq0YJ.png",
     "country": "",
     "language": "",
@@ -1125,7 +1125,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Mi Obsesión Favorita",
+    "name": "Pluto TV Mi Obsesion Favorita",
     "logo": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1170,7 +1170,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Negócio Fechado",
+    "name": "Pluto TV Negocio Fechado",
     "logo": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1179,21 +1179,21 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Paranormal",
-    "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Paranormal",
+    "name": "Pluto TV Paranormal (United States)",
     "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV Paranormal (United States) CA",
+    "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
     "isHttps": true
   },
   {
@@ -1224,7 +1224,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science",
+    "name": "Pluto TV Science (Germany)",
     "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1233,7 +1233,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science",
+    "name": "Pluto TV Science (Germany) GB",
     "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1242,7 +1242,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science",
+    "name": "Pluto TV Science (United States)",
     "logo": "https://i.imgur.com/uhunRoU.png",
     "country": "",
     "language": "",
@@ -1251,7 +1251,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Space",
+    "name": "Pluto TV Space (Germany)",
     "logo": "https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1260,7 +1260,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Space",
+    "name": "Pluto TV Space (Germany) GB",
     "logo": "https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1269,7 +1269,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Space",
+    "name": "Pluto TV Space (Sweden)",
     "logo": "https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1296,7 +1296,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
+    "name": "Pluto TV True Crime (Germany)",
     "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1305,7 +1305,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
+    "name": "Pluto TV True Crime (Germany) ES",
     "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1314,7 +1314,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
+    "name": "Pluto TV True Crime (Germany) IT",
     "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1323,25 +1323,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
-    "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary;Series",
-    "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV True Crime",
-    "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary;Series",
-    "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV True Crime",
+    "name": "Pluto TV True Crime (Sweden)",
     "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1350,21 +1332,39 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
-    "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+    "name": "Pluto TV True Crime (Sweden) DK",
+    "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary;Series",
-    "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
+    "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
+    "name": "Pluto TV True Crime (Sweden) NO",
+    "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Series",
+    "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV True Crime (United States)",
     "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary;Series",
     "url": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pluto TV True Crime (United States) CA",
+    "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Series",
+    "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
     "isHttps": true
   },
   {
@@ -1377,7 +1377,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Världskrigen",
+    "name": "Pluto TV Varldskrigen",
     "logo": "https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png",
     "country": "",
     "language": "",
@@ -1395,7 +1395,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Verdenskrigene",
+    "name": "Pluto TV Verdenskrigene NO",
     "logo": "https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png",
     "country": "",
     "language": "",
@@ -1413,7 +1413,7 @@
     "isHttps": true
   },
   {
-    "name": "RT Documentary English (1080p) [Geo-blocked]",
+    "name": "RT Documentary (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/aeu5zIC.png",
     "country": "",
     "language": "",
@@ -1467,7 +1467,7 @@
     "isHttps": true
   },
   {
-    "name": "Smithsonian Channel Pluto TV",
+    "name": "Smithsonian Channel Pluto TV LatAm",
     "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1476,21 +1476,21 @@
     "isHttps": true
   },
   {
-    "name": "Smithsonian Channel Selects",
-    "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Smithsonian Channel Selects",
+    "name": "Smithsonian Channel Selects (Sweden)",
     "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smithsonian Channel Selects (Sweden) DK",
+    "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
     "isHttps": true
   },
   {
@@ -1530,7 +1530,7 @@
     "isHttps": true
   },
   {
-    "name": "Teen Mom",
+    "name": "Teen Mom (United States)",
     "logo": "https://i.imgur.com/8o3ClCV.png",
     "country": "",
     "language": "",
@@ -1629,24 +1629,6 @@
     "isHttps": true
   },
   {
-    "name": "Zylo Into Crime (1080p)",
-    "logo": "https://i.imgur.com/43at4M2.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Сити Эдем КиноДок [Not 24/7]",
-    "logo": "https://i.imgur.com/itRbMX3.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary;Series",
-    "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "365 days TV (576p)",
     "logo": "https://i.imgur.com/NfnAiTR.png",
     "country": "",
@@ -1692,7 +1674,16 @@
     "isHttps": false
   },
   {
-    "name": "ČT 2",
+    "name": "CND Film Discovery Channel (576p)",
+    "logo": "https://i.imgur.com/2FJfPDx.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://125.210.152.18:9090/live/FXZL_750.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CT2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
     "country": "",
     "language": "",
@@ -1719,7 +1710,7 @@
     "isHttps": false
   },
   {
-    "name": "History (720p)",
+    "name": "History (Brazil) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "country": "",
     "language": "",
@@ -1728,7 +1719,7 @@
     "isHttps": false
   },
   {
-    "name": "History (720p)",
+    "name": "History (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "country": "",
     "language": "",
@@ -1827,7 +1818,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Czech Republic)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -1836,7 +1827,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild (Czech Republic)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
@@ -1845,7 +1836,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (Czech Republic)",
     "logo": "https://i.imgur.com/DyT5pKB.png",
     "country": "",
     "language": "",
@@ -1854,7 +1845,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Czech Republic)",
     "logo": "https://i.imgur.com/wRP9XA7.png",
     "country": "",
     "language": "",
@@ -1863,7 +1854,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature (Czech Republic)",
     "logo": "https://i.imgur.com/ousRqqD.png",
     "country": "",
     "language": "",
@@ -1890,7 +1881,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",History",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",History (Hungary)",
     "logo": "https://i.imgur.com/OWIK7FJ.png",
     "country": "",
     "language": "",
@@ -1899,7 +1890,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Hungary)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -1908,7 +1899,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild (Hungary)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
@@ -1917,7 +1908,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Spektrum",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Spektrum (Hungary)",
     "logo": "https://i.imgur.com/GmFRQ82.png",
     "country": "",
     "language": "",
@@ -1935,7 +1926,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",History",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",History (Bulgaria)",
     "logo": "",
     "country": "",
     "language": "",
@@ -1944,7 +1935,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",History",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",History (Czech Republic)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "country": "",
     "language": "",
@@ -1953,7 +1944,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",National Geographic HD (1080p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",National Geographic (Netherlands) HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -1989,7 +1980,7 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic (1080p)",
+    "name": "National Geographic (Bulgaria) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -1998,7 +1989,7 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic (1080p)",
+    "name": "National Geographic (Croatia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -2007,25 +1998,7 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic (576p) [Geo-blocked]",
+    "name": "National Geographic (India) (576p) [Geo-blocked]",
     "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
@@ -2034,16 +2007,25 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic (720p)",
+    "name": "National Geographic (Mexico) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
+    "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "National Geographic HD (1080p)",
+    "name": "National Geographic (Russia) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic (Russia) HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -2052,7 +2034,16 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic HD East (720p)",
+    "name": "National Geographic (United States) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic (United States) HD East (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
     "language": "",
@@ -2070,7 +2061,7 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic Wild (1080p)",
+    "name": "National Geographic Wild (Bulgaria) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
@@ -2079,7 +2070,7 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic Wild (1080p)",
+    "name": "National Geographic Wild (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
@@ -2088,16 +2079,7 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic Wild (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic Wild HD (1080p)",
+    "name": "National Geographic Wild (Russia) HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
@@ -2106,12 +2088,30 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic Wild HD East (720p)",
+    "name": "National Geographic Wild (Ukraine) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic Wild (United States) HD East (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://198.58.104.90:8989/natgeowild/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nauka (Russia) (1080p)",
+    "logo": "https://i.imgur.com/ZZxzueO.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://31.148.48.15/Nauka_2.0/index.m3u8",
     "isHttps": false
   },
   {
@@ -2133,7 +2133,7 @@
     "isHttps": false
   },
   {
-    "name": "Spektrum",
+    "name": "Spektrum (Czech Republic)",
     "logo": "https://i.imgur.com/F5Uosum.png",
     "country": "",
     "language": "",
@@ -2187,7 +2187,7 @@
     "isHttps": false
   },
   {
-    "name": "TV8 [Not 24/7]",
+    "name": "TV8 (Moldova) [Not 24/7]",
     "logo": "https://i.imgur.com/Rsn4oUh.png",
     "country": "",
     "language": "",
@@ -2196,7 +2196,7 @@
     "isHttps": false
   },
   {
-    "name": "Viasat Explore [Not 24/7]",
+    "name": "Viasat Explore (Sweden) [Not 24/7]",
     "logo": "https://i.imgur.com/DyT5pKB.png",
     "country": "",
     "language": "",
@@ -2205,16 +2205,7 @@
     "isHttps": false
   },
   {
-    "name": "Viasat History (1080p)",
-    "logo": "https://i.imgur.com/39qZ68J.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Viasat History [Not 24/7]",
+    "name": "Viasat History (Sweden) [Not 24/7]",
     "logo": "https://i.imgur.com/wRP9XA7.png",
     "country": "",
     "language": "",
@@ -2223,7 +2214,16 @@
     "isHttps": false
   },
   {
-    "name": "Viasat Nature [Not 24/7]",
+    "name": "Viasat History (Ukraine) (1080p)",
+    "logo": "https://i.imgur.com/39qZ68J.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Nature (Sweden) [Not 24/7]",
     "logo": "https://i.imgur.com/ousRqqD.png",
     "country": "",
     "language": "",
@@ -2265,24 +2265,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://stream.mcquack.net/240/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "НАУКА (1080p)",
-    "logo": "https://i.imgur.com/ZZxzueO.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://31.148.48.15/Nauka_2.0/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "发现之旅 (576p)",
-    "logo": "https://i.imgur.com/2FJfPDx.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://125.210.152.18:9090/live/FXZL_750.m3u8",
     "isHttps": false
   }
 ]

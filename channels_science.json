@@ -27,7 +27,7 @@
     "isHttps": true
   },
   {
-    "name": "Explosión Creativa (720p) [Not 24/7]",
+    "name": "EXC TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/Znd1Ml9.png",
     "country": "",
     "language": "",
@@ -81,7 +81,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science",
+    "name": "Pluto TV Science (Germany)",
     "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -90,7 +90,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science",
+    "name": "Pluto TV Science (Germany) GB",
     "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -99,7 +99,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science",
+    "name": "Pluto TV Science (United States)",
     "logo": "https://i.imgur.com/uhunRoU.png",
     "country": "",
     "language": "",
@@ -108,7 +108,7 @@
     "isHttps": true
   },
   {
-    "name": "Smithsonian Channel Selects",
+    "name": "Smithsonian Channel Selects (United States)",
     "logo": "https://i.imgur.com/Kt5j8Vr.png",
     "country": "",
     "language": "",
@@ -140,7 +140,25 @@
     "country": "",
     "language": "",
     "group": "Science",
-    "url": "http://stream.mcquack.net/180/index.m3u8",
+    "url": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Bilim Ilim (480p) [Not 24/7]",
+    "logo": "https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Science",
+    "url": "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Chuzhou Science & Education Channel (400p)",
+    "logo": "https://i.imgur.com/9JfZJRv.png",
+    "country": "",
+    "language": "",
+    "group": "Education;Science",
+    "url": "http://live.cztv.cc:85/live/sjpd.m3u8",
     "isHttps": false
   },
   {
@@ -153,7 +171,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Science\",Nauka (576p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Science\",Nauka (Ukraine) (576p)",
     "logo": "https://i.imgur.com/ClGdZCe.png",
     "country": "",
     "language": "",
@@ -171,30 +189,12 @@
     "isHttps": false
   },
   {
-    "name": "ЭлТР Билим Илим (480p) [Not 24/7]",
-    "logo": "https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png",
-    "country": "",
-    "language": "",
-    "group": "Kids;Science",
-    "url": "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "山东农科 (406p) [Geo-blocked]",
+    "name": "Shandong TV Agricultural Science Channel (406p) [Geo-blocked]",
     "logo": "https://i.imgur.com/EY2zH06.png",
     "country": "",
     "language": "",
     "group": "Science",
     "url": "http://livealone302.iqilu.com/iqilu/nkpd.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "滁州市广播电视台 科教频道 (400p)",
-    "logo": "https://i.imgur.com/9JfZJRv.png",
-    "country": "",
-    "language": "",
-    "group": "Education;Science",
-    "url": "http://live.cztv.cc:85/live/sjpd.m3u8",
     "isHttps": false
   }
 ]

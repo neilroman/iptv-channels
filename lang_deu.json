@@ -1,6 +1,6 @@
 [
   {
-    "name": "1-2-3 TV (270p)",
+    "name": "1-2-3.tv (270p)",
     "logo": "https://i.imgur.com/slSUDNX.png",
     "country": "",
     "language": "",
@@ -54,7 +54,7 @@
     "isHttps": true
   },
   {
-    "name": "Allgäu TV (1080p)",
+    "name": "Allgau TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
     "country": "",
     "language": "",
@@ -144,7 +144,7 @@
     "isHttps": true
   },
   {
-    "name": "ARTE (720p) [Geo-blocked]",
+    "name": "arte (Germany) (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/ecXMjNl.png",
     "country": "",
     "language": "",
@@ -153,7 +153,7 @@
     "isHttps": true
   },
   {
-    "name": "arte HD",
+    "name": "arte (Germany) HD",
     "logo": "https://i.imgur.com/ecXMjNl.png",
     "country": "",
     "language": "",
@@ -162,7 +162,7 @@
     "isHttps": true
   },
   {
-    "name": "Auction Hunters",
+    "name": "Auction Hunters (Germany)",
     "logo": "https://i.imgur.com/4SPOVN7.png",
     "country": "",
     "language": "",
@@ -180,7 +180,7 @@
     "isHttps": true
   },
   {
-    "name": "Awkward",
+    "name": "Awkward (Germany)",
     "logo": "https://images.pluto.tv/channels/62bc1784120ba80007935aaa/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -207,7 +207,7 @@
     "isHttps": true
   },
   {
-    "name": "Becker",
+    "name": "Becker (Germany)",
     "logo": "https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -216,7 +216,7 @@
     "isHttps": true
   },
   {
-    "name": "Beverly Hills 90210",
+    "name": "Beverly Hills 90210 (Germany)",
     "logo": "https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -270,7 +270,7 @@
     "isHttps": true
   },
   {
-    "name": "BR Fernsehen Nord (720p)",
+    "name": "BR Fernsehen (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png",
     "country": "",
     "language": "",
@@ -324,7 +324,7 @@
     "isHttps": true
   },
   {
-    "name": "Cheers",
+    "name": "Cheers (Germany)",
     "logo": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -333,16 +333,7 @@
     "isHttps": true
   },
   {
-    "name": "Chemnitz Fernsehen (1080p)",
-    "logo": "https://i.imgur.com/4SEAbVf.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Comedy Central",
+    "name": "Comedy Central (Germany)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
     "country": "",
     "language": "",
@@ -351,12 +342,21 @@
     "isHttps": true
   },
   {
-    "name": "Comedy Central South Park",
+    "name": "Comedy Central South Park (Germany)",
     "logo": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
     "country": "",
     "language": "",
     "group": "Animation;Comedy",
     "url": "https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Curiosity Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
     "isHttps": true
   },
   {
@@ -432,7 +432,7 @@
     "isHttps": true
   },
   {
-    "name": "Die Neue Zeit (576p)",
+    "name": "Die Neue Zeit TV (576p)",
     "logo": "https://i.imgur.com/K3lvrog.png",
     "country": "",
     "language": "",
@@ -468,16 +468,7 @@
     "isHttps": true
   },
   {
-    "name": "Dresden Fernsehen (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/rnvprGj.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "EBS (1080p)",
+    "name": "EbS (1080p)",
     "logo": "https://i.imgur.com/DIIRPNN.png",
     "country": "",
     "language": "",
@@ -486,7 +477,7 @@
     "isHttps": true
   },
   {
-    "name": "EBS Plus (1080p)",
+    "name": "EbS+ (1080p)",
     "logo": "https://i.imgur.com/7V012zQ.png",
     "country": "",
     "language": "",
@@ -513,7 +504,7 @@
     "isHttps": true
   },
   {
-    "name": "Euronews (720p)",
+    "name": "Euronews German (720p)",
     "logo": "https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png",
     "country": "",
     "language": "",
@@ -522,7 +513,7 @@
     "isHttps": true
   },
   {
-    "name": "EWTN Germany (720p)",
+    "name": "EWTN (Germany) (720p)",
     "logo": "https://i.imgur.com/NXeygNk.png",
     "country": "",
     "language": "",
@@ -576,7 +567,7 @@
     "isHttps": true
   },
   {
-    "name": "Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]",
+    "name": "Franken Fernsehen (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/3pGGLLD.png",
     "country": "",
     "language": "",
@@ -585,7 +576,7 @@
     "isHttps": true
   },
   {
-    "name": "Frasier",
+    "name": "Frasier (Germany)",
     "logo": "https://images.pluto.tv/channels/62cebf042ffc6d0007c4e59a/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -594,7 +585,7 @@
     "isHttps": true
   },
   {
-    "name": "Frasier: Berühmte Gäste",
+    "name": "Frasier: Beruhmte Gaste",
     "logo": "https://images.pluto.tv/channels/6790fa9e1cfc4aa96dfadcef/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -684,7 +675,7 @@
     "isHttps": true
   },
   {
-    "name": "HSE24 Extra (1080p)",
+    "name": "HSE Extra (1080p)",
     "logo": "https://i.imgur.com/nvMpbip.png",
     "country": "",
     "language": "",
@@ -693,7 +684,7 @@
     "isHttps": true
   },
   {
-    "name": "HSE24 Trend (576p)",
+    "name": "HSE Trend (576p)",
     "logo": "https://i.imgur.com/qwh2urX.png",
     "country": "",
     "language": "",
@@ -702,7 +693,7 @@
     "isHttps": true
   },
   {
-    "name": "iCarly",
+    "name": "iCarly (Germany)",
     "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -738,7 +729,7 @@
     "isHttps": true
   },
   {
-    "name": "Juwelo (720p)",
+    "name": "Juwelo (Germany) (720p)",
     "logo": "https://i.imgur.com/vmX8Qin.png",
     "country": "",
     "language": "",
@@ -747,7 +738,7 @@
     "isHttps": true
   },
   {
-    "name": "Juwelo Italia (480p)",
+    "name": "Juwelo (Italy) (480p)",
     "logo": "https://i.imgur.com/T3r1khc.png",
     "country": "",
     "language": "",
@@ -846,7 +837,7 @@
     "isHttps": true
   },
   {
-    "name": "Ländle TV (1080p) [Not 24/7]",
+    "name": "Landle TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/omLVQ4r.png",
     "country": "",
     "language": "",
@@ -861,15 +852,6 @@
     "language": "",
     "group": "Music",
     "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
-    "isHttps": true
-  },
-  {
-    "name": "Leipzig Fernsehen (1080p)",
-    "logo": "https://i.imgur.com/easmJUw.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -927,7 +909,7 @@
     "isHttps": true
   },
   {
-    "name": "Magenta Musik 360 (1080p)",
+    "name": "MagentaMusik 360 (1080p)",
     "logo": "https://i.imgur.com/R74gG7U.png",
     "country": "",
     "language": "",
@@ -945,7 +927,7 @@
     "isHttps": true
   },
   {
-    "name": "McLeods Töchter",
+    "name": "McLeods Tochter",
     "logo": "https://images.pluto.tv/channels/66c6fcfc6838ee00085beb1a/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -954,7 +936,7 @@
     "isHttps": true
   },
   {
-    "name": "MDR Fernsehen Sachsen (1080p) [Geo-blocked]",
+    "name": "MDR Fernsehen (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png",
     "country": "",
     "language": "",
@@ -963,7 +945,7 @@
     "isHttps": true
   },
   {
-    "name": "MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]",
+    "name": "MDR Fernsehen Sachsen Anhalt (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/960px-MDR_Logo_2017.svg.png",
     "country": "",
     "language": "",
@@ -990,7 +972,7 @@
     "isHttps": true
   },
   {
-    "name": "Mission Impossible",
+    "name": "Mission Impossible (Germany)",
     "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1008,7 +990,7 @@
     "isHttps": true
   },
   {
-    "name": "MOVIEDOME (720p)",
+    "name": "Moviedome (720p)",
     "logo": "https://i.imgur.com/8c54ycg.png",
     "country": "",
     "language": "",
@@ -1035,7 +1017,7 @@
     "isHttps": true
   },
   {
-    "name": "MTV Catfish TV Show (720p)",
+    "name": "MTV Catfish TV Show DACH (720p)",
     "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
     "country": "",
     "language": "",
@@ -1044,7 +1026,7 @@
     "isHttps": true
   },
   {
-    "name": "MTV Dating (720p)",
+    "name": "MTV Dating (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1053,7 +1035,7 @@
     "isHttps": true
   },
   {
-    "name": "MTV Pluto TV",
+    "name": "MTV Pluto TV (Germany)",
     "logo": "https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1062,7 +1044,7 @@
     "isHttps": true
   },
   {
-    "name": "MTV Reality (720p)",
+    "name": "MTV Reality (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/685136fb33a52de120bbb086/colorLogoPNG_1780303948285.png",
     "country": "",
     "language": "",
@@ -1071,7 +1053,7 @@
     "isHttps": true
   },
   {
-    "name": "MTV Ridiculousness",
+    "name": "MTV Ridiculousness (Germany)",
     "logo": "https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1080,7 +1062,7 @@
     "isHttps": true
   },
   {
-    "name": "MTV Teen Mom (720p)",
+    "name": "MTV Teen Mom (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG_1750154727513.png",
     "country": "",
     "language": "",
@@ -1089,7 +1071,7 @@
     "isHttps": true
   },
   {
-    "name": "München TV (1080p) [Not 24/7]",
+    "name": "Munchen TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/lt7xNWW.png",
     "country": "",
     "language": "",
@@ -1125,7 +1107,7 @@
     "isHttps": true
   },
   {
-    "name": "Naruto (720p)",
+    "name": "Naruto Germany (720p)",
     "logo": "https://i.imgur.com/M8X3Kvc.png",
     "country": "",
     "language": "",
@@ -1143,6 +1125,15 @@
     "isHttps": true
   },
   {
+    "name": "NDR Fernsehen (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NDR Fernsehen International (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
     "country": "",
@@ -1152,16 +1143,7 @@
     "isHttps": true
   },
   {
-    "name": "NDR Hamburg (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "NDR Mecklenburg-Vorpommern (720p)",
+    "name": "NDR Fernsehen Mecklenburg Vorpommern (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
     "country": "",
     "language": "",
@@ -1170,7 +1152,7 @@
     "isHttps": true
   },
   {
-    "name": "NDR Niedersachsen (720p)",
+    "name": "NDR Fernsehen Niedersachsen (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
     "country": "",
     "language": "",
@@ -1179,7 +1161,7 @@
     "isHttps": true
   },
   {
-    "name": "NDR Schleswig-Holstein (720p)",
+    "name": "NDR Fernsehen Schleswig Holstein (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png",
     "country": "",
     "language": "",
@@ -1188,7 +1170,7 @@
     "isHttps": true
   },
   {
-    "name": "Nick Jr. Club (720p)",
+    "name": "Nick Jr. Club (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
     "country": "",
     "language": "",
@@ -1197,7 +1179,7 @@
     "isHttps": true
   },
   {
-    "name": "Nickelodeon",
+    "name": "Nickelodeon (Germany)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
     "language": "",
@@ -1215,7 +1197,7 @@
     "isHttps": true
   },
   {
-    "name": "Nickelodeon Teen (720p)",
+    "name": "Nickelodeon Teen (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png",
     "country": "",
     "language": "",
@@ -1224,7 +1206,7 @@
     "isHttps": true
   },
   {
-    "name": "Nickelodeon Toons (720p)",
+    "name": "Nickelodeon Toons (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png",
     "country": "",
     "language": "",
@@ -1278,7 +1260,7 @@
     "isHttps": true
   },
   {
-    "name": "Noa 4 Hamburg (1080p)",
+    "name": "noa4 Hamburg (1080p)",
     "logo": "https://i.imgur.com/7A2LRKI.png",
     "country": "",
     "language": "",
@@ -1287,7 +1269,7 @@
     "isHttps": true
   },
   {
-    "name": "Noa 4 Norderstedt (1080p)",
+    "name": "noa4 Norderstedt (1080p)",
     "logo": "https://i.imgur.com/941nrGb.png",
     "country": "",
     "language": "",
@@ -1377,7 +1359,7 @@
     "isHttps": true
   },
   {
-    "name": "OK Weinstraße (Neustadt) (432p) [Geo-blocked]",
+    "name": "OK Weinstrasse Neustadt (432p) [Geo-blocked]",
     "logo": "https://i.imgur.com/bjTajXb.png",
     "country": "",
     "language": "",
@@ -1413,7 +1395,7 @@
     "isHttps": true
   },
   {
-    "name": "Okto TV (1080p)",
+    "name": "Okto (1080p)",
     "logo": "https://i.imgur.com/9XfhgbS.png",
     "country": "",
     "language": "",
@@ -1494,7 +1476,7 @@
     "isHttps": true
   },
   {
-    "name": "Peer TV Südtirol (1080p)",
+    "name": "Peer TV Sudtirol (1080p)",
     "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
     "country": "",
     "language": "",
@@ -1503,7 +1485,7 @@
     "isHttps": true
   },
   {
-    "name": "Perry Mason",
+    "name": "Perry Mason (Germany)",
     "logo": "https://images.pluto.tv/channels/64eddc3485efec00085b0369/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1512,7 +1494,7 @@
     "isHttps": true
   },
   {
-    "name": "Phoenix (720p) [Geo-blocked]",
+    "name": "phoenix (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/T1532t9.png",
     "country": "",
     "language": "",
@@ -1521,7 +1503,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Action",
+    "name": "Pluto TV Action (Germany)",
     "logo": "https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png",
     "country": "",
     "language": "",
@@ -1548,7 +1530,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Anime",
+    "name": "Pluto TV Anime (Germany)",
     "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
     "country": "",
     "language": "",
@@ -1566,7 +1548,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Bud & Terence",
+    "name": "Pluto TV Bud & Terence (Germany)",
     "logo": "https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png",
     "country": "",
     "language": "",
@@ -1656,7 +1638,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV History",
+    "name": "Pluto TV History (Germany)",
     "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1665,7 +1647,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Horror",
+    "name": "Pluto TV Horror (Germany)",
     "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1746,7 +1728,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Paranormal",
+    "name": "Pluto TV Paranormal (Germany)",
     "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1773,7 +1755,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Romance",
+    "name": "Pluto TV Romance (Germany) DACH",
     "logo": "https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1782,7 +1764,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Sci-Fi",
+    "name": "Pluto TV Sci-Fi (Germany)",
     "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1791,7 +1773,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science",
+    "name": "Pluto TV Science (Germany)",
     "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1818,7 +1800,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Snooker 900 (720p)",
+    "name": "Pluto TV Snooker 900 (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
     "country": "",
     "language": "",
@@ -1827,7 +1809,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Space",
+    "name": "Pluto TV Space (Germany)",
     "logo": "https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1836,7 +1818,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Star Trek",
+    "name": "Pluto TV Star Trek (Germany)",
     "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1854,7 +1836,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV True Crime",
+    "name": "Pluto TV True Crime (Germany)",
     "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1908,16 +1890,7 @@
     "isHttps": true
   },
   {
-    "name": "QVC 2 Germany (540p)",
-    "logo": "https://i.imgur.com/f94kPed.png",
-    "country": "",
-    "language": "",
-    "group": "Shop",
-    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "QVC Germany (720p)",
+    "name": "QVC (Germany) (720p)",
     "logo": "https://i.imgur.com/EybRtsI.png",
     "country": "",
     "language": "",
@@ -1926,12 +1899,21 @@
     "isHttps": true
   },
   {
-    "name": "QVC Style Germany (540p)",
+    "name": "QVC Style (Germany) (540p)",
     "logo": "https://i.imgur.com/DwdkHGj.png",
     "country": "",
     "language": "",
     "group": "Shop",
     "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "QVC Zwei (540p)",
+    "logo": "https://i.imgur.com/f94kPed.png",
+    "country": "",
+    "language": "",
+    "group": "Shop",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8",
     "isHttps": true
   },
   {
@@ -2052,7 +2034,7 @@
     "isHttps": true
   },
   {
-    "name": "Rakuten TV Family Switzerland (720p)",
+    "name": "Rakuten TV Family Movies Switzerland (720p)",
     "logo": "https://i.imgur.com/Meew6eX.png",
     "country": "",
     "language": "",
@@ -2070,24 +2052,6 @@
     "isHttps": true
   },
   {
-    "name": "RBB Berlin (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RBB Brandenburg (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "rbb Fernsehen",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png",
     "country": "",
@@ -2097,12 +2061,21 @@
     "isHttps": true
   },
   {
-    "name": "Red Bull TV (1080p)",
-    "logo": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+    "name": "rbb Fernsehen Berlin (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png",
     "country": "",
     "language": "",
-    "group": "Outdoor;Sports",
-    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "group": "Undefined",
+    "url": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "rbb Fernsehen Brandenburg (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8",
     "isHttps": true
   },
   {
@@ -2112,6 +2085,15 @@
     "language": "",
     "group": "Outdoor;Sports",
     "url": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Red Bull TV SD (1080p)",
+    "logo": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor;Sports",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
     "isHttps": true
   },
   {
@@ -2178,7 +2160,7 @@
     "isHttps": true
   },
   {
-    "name": "RTL",
+    "name": "RTL (Germany)",
     "logo": "https://i.imgur.com/94K94k2.png",
     "country": "",
     "language": "",
@@ -2223,7 +2205,7 @@
     "isHttps": true
   },
   {
-    "name": "Sabrina Total verhext!",
+    "name": "Sabrina: Total verhext!",
     "logo": "https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2238,6 +2220,33 @@
     "language": "",
     "group": "Undefined",
     "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sachsen Fernsehen Chemnitz (1080p)",
+    "logo": "https://i.imgur.com/4SEAbVf.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sachsen Fernsehen Dresden (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/rnvprGj.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sachsen Fernsehen Leipzig (1080p)",
+    "logo": "https://i.imgur.com/easmJUw.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2304,7 +2313,7 @@
     "isHttps": true
   },
   {
-    "name": "Sophia TV (720p)",
+    "name": "Sophia TV (Germany) (720p)",
     "logo": "https://i.imgur.com/1hNgHbB.png",
     "country": "",
     "language": "",
@@ -2313,7 +2322,7 @@
     "isHttps": true
   },
   {
-    "name": "South Park: Butters Collection",
+    "name": "South Park: Butters Collection (Germany)",
     "logo": "https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2322,7 +2331,7 @@
     "isHttps": true
   },
   {
-    "name": "South Park: Cartman Collection",
+    "name": "South Park: Cartman Collection (Germany)",
     "logo": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2331,7 +2340,7 @@
     "isHttps": true
   },
   {
-    "name": "South Park: Kenny Collection",
+    "name": "South Park: Kenny Collection (Germany)",
     "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2340,7 +2349,7 @@
     "isHttps": true
   },
   {
-    "name": "South Park: Kyle Collection",
+    "name": "South Park: Kyle Collection (Germany)",
     "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2358,21 +2367,12 @@
     "isHttps": true
   },
   {
-    "name": "South Park: Stan Collection",
+    "name": "South Park: Stan Collection (Germany)",
     "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Animation;Comedy",
     "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "SPIEGEL TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8",
     "isHttps": true
   },
   {
@@ -2403,7 +2403,7 @@
     "isHttps": true
   },
   {
-    "name": "Star Trek: The Next Generation",
+    "name": "Star Trek: The Next Generation (Germany)",
     "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
     "country": "",
     "language": "",
@@ -2412,7 +2412,7 @@
     "isHttps": true
   },
   {
-    "name": "Star Trek: The Original Series",
+    "name": "Star Trek: The Original Series (Germany)",
     "logo": "https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png",
     "country": "",
     "language": "",
@@ -2439,7 +2439,7 @@
     "isHttps": true
   },
   {
-    "name": "Strongman Champions League (720p)",
+    "name": "Strongman (720p)",
     "logo": "https://i.imgur.com/bVQBF6R.png",
     "country": "",
     "language": "",
@@ -2457,7 +2457,7 @@
     "isHttps": true
   },
   {
-    "name": "SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]",
+    "name": "SWR Fernsehen Baden-Wurttemberg (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png",
     "country": "",
     "language": "",
@@ -2484,7 +2484,7 @@
     "isHttps": true
   },
   {
-    "name": "Tagesschau 24 (720p)",
+    "name": "tagesschau24 (720p)",
     "logo": "https://i.imgur.com/LH0Gctv.png",
     "country": "",
     "language": "",
@@ -2511,7 +2511,7 @@
     "isHttps": true
   },
   {
-    "name": "TeleZüri (720p)",
+    "name": "TeleZuri (720p)",
     "logo": "https://i.imgur.com/f8kzNT1.png",
     "country": "",
     "language": "",
@@ -2574,7 +2574,7 @@
     "isHttps": true
   },
   {
-    "name": "Totally Turtles (720p)",
+    "name": "Totally Turtles (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -2583,7 +2583,7 @@
     "isHttps": true
   },
   {
-    "name": "TV 1 Oberösterreich (1080p)",
+    "name": "TV 1 Oberosterreich (1080p)",
     "logo": "https://i.imgur.com/KbMkEIn.png",
     "country": "",
     "language": "",
@@ -2610,7 +2610,7 @@
     "isHttps": true
   },
   {
-    "name": "TV Oberfranken (TVO) (1080p) [Not 24/7]",
+    "name": "TV Oberfranken (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/tjD9fX2.png",
     "country": "",
     "language": "",
@@ -2619,7 +2619,7 @@
     "isHttps": true
   },
   {
-    "name": "TV38 Südost-Niedersachen (1080p)",
+    "name": "TV38 Sudost-Niedersachen (1080p)",
     "logo": "https://i.imgur.com/ob9JJPU.png",
     "country": "",
     "language": "",
@@ -2628,7 +2628,7 @@
     "isHttps": true
   },
   {
-    "name": "TVA (1080p) [Not 24/7]",
+    "name": "TVA (Germany) (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/Gg6d4Jb.png",
     "country": "",
     "language": "",
@@ -2736,7 +2736,7 @@
     "isHttps": true
   },
   {
-    "name": "WDR Fernsehen Düsseldorf (720p) [Geo-blocked]",
+    "name": "WDR Fernsehen Dusseldorf (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png",
     "country": "",
     "language": "",
@@ -2754,7 +2754,7 @@
     "isHttps": true
   },
   {
-    "name": "WDR Fernsehen Münster (720p) [Geo-blocked]",
+    "name": "WDR Fernsehen Munster (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png",
     "country": "",
     "language": "",
@@ -2808,7 +2808,7 @@
     "isHttps": true
   },
   {
-    "name": "World Poker Tour",
+    "name": "World Poker Tour Germany",
     "logo": "https://i.imgur.com/98kLMjj.png",
     "country": "",
     "language": "",
@@ -2871,7 +2871,7 @@
     "isHttps": true
   },
   {
-    "name": "ATV HD (1080p)",
+    "name": "ATV (Austria) HD (1080p)",
     "logo": "https://i.imgur.com/1pA0Tid.png",
     "country": "",
     "language": "",
@@ -2907,7 +2907,7 @@
     "isHttps": false
   },
   {
-    "name": "Light Channel (576p) [Not 24/7]",
+    "name": "Light Channel (Germany) (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/0OmBlfE.png",
     "country": "",
     "language": "",
@@ -3033,7 +3033,7 @@
     "isHttps": false
   },
   {
-    "name": "RTV (1080p) [Not 24/7]",
+    "name": "RTV (Austria) (1080p) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png",
     "country": "",
     "language": "",
@@ -3051,7 +3051,7 @@
     "isHttps": false
   },
   {
-    "name": "Sonus FM TV (1080p) [Not 24/7]",
+    "name": "Sonus FM (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/h29rUcG.png",
     "country": "",
     "language": "",
