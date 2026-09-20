@@ -586,7 +586,7 @@
   },
   {
     "name": "Bark TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
+    "logo": "https://images.squarespace-cdn.com/content/v1/6a233007201fda6808a47ff9/f4f45cba-d340-4963-860a-37edaf91bc7f/BarkTV_Horizontal_Color.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -2206,7 +2206,7 @@
   },
   {
     "name": "Heartland (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -2215,7 +2215,7 @@
   },
   {
     "name": "Heartland Web",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -3165,6 +3165,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Manoranjan TV (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8",
     "isHttps": true
   },
   {
@@ -4329,6 +4338,24 @@
     "isHttps": true
   },
   {
+    "name": "Pasand TV (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pear TV (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "People Are Awesome (1080p)",
     "logo": "https://i.imgur.com/MsIx7Ax.png",
     "country": "",
@@ -4659,6 +4686,15 @@
     "language": "",
     "group": "Entertainment;News",
     "url": "https://srspsn.live/live/livestream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "PTC Punjabi (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -6422,7 +6458,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8",
+    "url": "http://stream.mcquack.net/263/index.m3u8",
     "isHttps": false
   },
   {
@@ -6885,6 +6921,15 @@
     "isHttps": false
   },
   {
+    "name": "FX (United States) East HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://4.30.180.36:8420/fx/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "FX Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "country": "",
@@ -6936,33 +6981,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Janapriyam TV (480p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Janapriyam_News.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/1455.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jaya Max (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;Entertainment",
-    "url": "http://103.72.101.252:8080/live/420.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jaya TV (India) (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;Entertainment",
-    "url": "http://103.72.101.252:8080/live/419.m3u8",
     "isHttps": false
   },
   {
@@ -7209,24 +7227,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Pasand TV (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.175.73.12:8080/live/708/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Pear TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.175.73.12:8080/live/695/master.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",7/8 TV",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
     "country": "",
@@ -7380,15 +7380,6 @@
     "isHttps": false
   },
   {
-    "name": "Manoranjan TV (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.213.31.109:90/ManoranjanTv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Maya Channel",
     "logo": "https://i.imgur.com/UropueN.png",
     "country": "",
@@ -7506,6 +7497,15 @@
     "isHttps": false
   },
   {
+    "name": "OTV (Estonia)",
+    "logo": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/otv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Oxygen (720p)",
     "logo": "https://i.imgur.com/GPoucaV.png",
     "country": "",
@@ -7593,15 +7593,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "PTC Punjabi (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.213.31.109:90/ActionCinema/playlist.m3u8",
     "isHttps": false
   },
   {

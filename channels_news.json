@@ -3483,15 +3483,6 @@
     "isHttps": true
   },
   {
-    "name": "JK 24x7 News (720p) [Not 24/7]",
-    "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live.gulistannews.in/hls/jk.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "JKN 18 (1080p)",
     "logo": "https://i.imgur.com/m4nPR2L.png",
     "country": "",
@@ -4059,12 +4050,12 @@
     "isHttps": true
   },
   {
-    "name": "Lokshahi News (1080p)",
+    "name": "Lokshahi News (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LOKSHAHI/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://see.lokshahi.live/live/index.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8",
     "isHttps": true
   },
   {
@@ -4172,7 +4163,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4542,6 +4533,15 @@
     "language": "",
     "group": "News",
     "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NDTV India (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8",
     "isHttps": true
   },
   {
@@ -5427,15 +5427,6 @@
     "isHttps": true
   },
   {
-    "name": "Onkar Only Truth TV (576p)",
-    "logo": "https://i.imgur.com/wu7aQRg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Online TV Nusantara (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/E9CCIpP.jpg",
     "country": "",
@@ -5760,12 +5751,30 @@
     "isHttps": true
   },
   {
+    "name": "PTC News (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "PTV (Ukraine) (720p)",
     "logo": "https://i.imgur.com/WDHoSVz.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Public First (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8",
     "isHttps": true
   },
   {
@@ -6021,12 +6030,12 @@
     "isHttps": true
   },
   {
-    "name": "Republic Kannada (1080p)",
+    "name": "Republic Kannada (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8",
+    "url": "https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8",
     "isHttps": true
   },
   {
@@ -8415,24 +8424,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",PTC News (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.175.73.12:8080/live/182/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Public First (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.175.73.12:8080/live/237/master.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Culture;News\",Ost West (576p)",
     "logo": "https://i.imgur.com/nSQWo49.png",
     "country": "",
@@ -8568,15 +8559,6 @@
     "isHttps": false
   },
   {
-    "name": "NDTV India (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Neo News (1080p)",
     "logo": "https://i.imgur.com/9mrbPRs.png",
     "country": "",
@@ -8709,24 +8691,6 @@
     "language": "",
     "group": "News",
     "url": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Raj News (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TAMIL/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.72.101.252:8080/live/767.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Raj Pariwar (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.72.101.252:8080/live/533.m3u8",
     "isHttps": false
   },
   {

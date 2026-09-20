@@ -792,12 +792,12 @@
     "isHttps": true
   },
   {
-    "name": "FILMBOX+ One Ukraine & Baltics (576p) [Not 24/7]",
+    "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://iptv.prosto.tv/ch064/index.m3u8",
+    "url": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8",
     "isHttps": true
   },
   {
@@ -1113,15 +1113,6 @@
     "language": "",
     "group": "General",
     "url": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"General\",Belsat TV (576p)",
-    "logo": "https://i.imgur.com/qJyjSR6.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://iptv.prosto.tv/ch171/index.m3u8",
     "isHttps": true
   },
   {
@@ -2849,7 +2840,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8",
+    "url": "http://stream.mcquack.net/263/index.m3u8",
     "isHttps": false
   },
   {
@@ -2876,7 +2867,7 @@
     "country": "",
     "language": "",
     "group": "Science",
-    "url": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
+    "url": "http://stream.mcquack.net/180/index.m3u8",
     "isHttps": false
   },
   {
@@ -4803,6 +4794,15 @@
     "language": "",
     "group": "General",
     "url": "http://flussonic.linkintel.ru/otr/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "OTV (Estonia)",
+    "logo": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://88.212.15.19/live/otv/playlist.m3u8",
     "isHttps": false
   },
   {
