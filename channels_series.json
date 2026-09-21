@@ -4410,15 +4410,6 @@
     "isHttps": true
   },
   {
-    "name": "Z Nation",
-    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee Alwan (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/OLuCox7.png",
     "country": "",
@@ -4821,6 +4812,15 @@
     "language": "",
     "group": "Comedy;Movies;Series;Sports",
     "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Epic Drama Ukraine (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://195.189.60.253/118/index.m3u8",
     "isHttps": false
   },
   {

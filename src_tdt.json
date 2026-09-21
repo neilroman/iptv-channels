@@ -715,7 +715,7 @@
     "logo": "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200",
     "country": "",
     "language": "",
-    "group": "Andalucía",
+    "group": "Andaluc��a",
     "url": "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
     "isHttps": true
   },
@@ -787,7 +787,7 @@
     "logo": "https://graph.facebook.com/8tvcadiz/picture?width=200&height=200",
     "country": "",
     "language": "",
-    "group": "Andalucía",
+    "group": "Andaluc��a",
     "url": "https://s.emisoras.tv:8081/lajanda/index.m3u8",
     "isHttps": true
   },
@@ -1518,15 +1518,6 @@
     "language": "",
     "group": "Int. América",
     "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CGTN China",
-    "logo": "https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Asia",
-    "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3903,6 +3894,24 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "San Sebastián Fes (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://ztnr.rtve.es/ztnr/16720260.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "San Sebastián Fes (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8",
     "isHttps": true
   },
   {

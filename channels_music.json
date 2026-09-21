@@ -4050,6 +4050,15 @@
     "isHttps": true
   },
   {
+    "name": "S KPop! (480p)",
+    "logo": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Music",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sabor TV (720p)",
     "logo": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
     "country": "",
@@ -4095,6 +4104,15 @@
     "isHttps": true
   },
   {
+    "name": "Sangeet Bhojpuri (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sangeet Marathi (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png",
     "country": "",
@@ -4119,6 +4137,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Shemaroo Filmi Gaane (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Music",
+    "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4182,6 +4209,15 @@
     "language": "",
     "group": "Music",
     "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Songdew TV (396p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -6255,16 +6291,7 @@
     "isHttps": false
   },
   {
-    "name": "MCM Top (France) (1080p)",
-    "logo": "https://i.imgur.com/EVtWQLd.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://89.33.29.118/MCM/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MCM Top (Russia) (576p)",
+    "name": "MCM Top (576p)",
     "logo": "https://i.imgur.com/EVtWQLd.png",
     "country": "",
     "language": "",
@@ -6498,39 +6525,12 @@
     "isHttps": false
   },
   {
-    "name": "Sangeet Bhojpuri (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Shanson TV (576p)",
     "logo": "https://i.imgur.com/Fk4sd8t.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://catchup.videoline.ru/shanson/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Shemaroo Filmi Gaane (1080p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Music",
-    "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Songdew TV (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://103.72.101.252:8080/live/1411.m3u8",
     "isHttps": false
   },
   {
