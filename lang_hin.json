@@ -729,6 +729,15 @@
     "isHttps": true
   },
   {
+    "name": "Fateh TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/c4ItNkB.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "First India News (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png",
     "country": "",
@@ -897,15 +906,6 @@
     "language": "",
     "group": "News",
     "url": "https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Ind 24 (576p)",
-    "logo": "https://i.imgur.com/exRpVmL.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
     "isHttps": true
   },
   {
@@ -1161,7 +1161,7 @@
     "isHttps": true
   },
   {
-    "name": "Mango (576p)",
+    "name": "Mango (India) (576p)",
     "logo": "https://i.imgur.com/neZm4CY.png",
     "country": "",
     "language": "",
@@ -1608,15 +1608,6 @@
     "language": "",
     "group": "News",
     "url": "https://stream.ottlive.co.in/primenews/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Public First (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8",
     "isHttps": true
   },
   {
@@ -2102,7 +2093,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2295,6 +2286,15 @@
     "isHttps": true
   },
   {
+    "name": "Unique TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Kids",
+    "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Utsav Bharat (720p)",
     "logo": "https://i.imgur.com/IQ2n0WY.png",
     "country": "",
@@ -2421,15 +2421,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Cinema ME (432p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd",
-    "isHttps": true
-  },
-  {
     "name": "Zee Cinemalu HD (720p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
     "country": "",
@@ -2526,15 +2517,6 @@
     "language": "",
     "group": "Music",
     "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Zoom (India) Global (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
     "isHttps": true
   },
   {
@@ -2709,15 +2691,6 @@
     "isHttps": false
   },
   {
-    "name": "Fateh TV (576p)",
-    "logo": "https://i.imgur.com/c4ItNkB.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://180.188.254.253/live/FATEHTVHD.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "GurSikh Sabha TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/2EKCtQm.png",
     "country": "",
@@ -2763,15 +2736,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment;Kids\",Unique TV (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Kids",
-    "url": "http://103.175.73.12:8080/live/688/master.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Movies (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -2796,15 +2760,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://103.175.73.12:8080/live/339/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Sports\",Star Sports Khel (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
     "isHttps": false
   },
   {
@@ -2862,15 +2817,6 @@
     "isHttps": false
   },
   {
-    "name": "Sports Squad Haryana (576p)",
-    "logo": "https://papaji.freetvindia.com/media/Sports_Squad_Hariyana.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Gold 2 (576p)",
     "logo": "https://i.imgur.com/G0ZfzZr.png",
     "country": "",
@@ -2880,30 +2826,12 @@
     "isHttps": false
   },
   {
-    "name": "Star Sports 1 Hindi (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.253.18.58:8000/play/a03o",
-    "isHttps": false
-  },
-  {
     "name": "Star Sports 2 HD (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Sports 2 Hindi HD (1080p)",
-    "logo": "https://i.imgur.com/kHerF19.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
     "isHttps": false
   },
   {
@@ -2925,345 +2853,12 @@
     "isHttps": false
   },
   {
-    "name": "Swayam Prabha 1 (576p)",
-    "logo": "https://i.imgur.com/og6ZGzP.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/980.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 10 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/989.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 11 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/990.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 12 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/991.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 13 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/992.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 14 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/993.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 15 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/995.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 16 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/994.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 17 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/996.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 18 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/999.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 19 (576p)",
-    "logo": "https://i.imgur.com/qM5MKoe.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/401.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 20 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/403.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 21 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/997.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 22 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/998.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 3 (576p)",
-    "logo": "https://i.imgur.com/KyktF1N.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/982.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 4 (576p)",
-    "logo": "https://i.imgur.com/ARcspGv.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/984.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 5 (576p)",
-    "logo": "https://i.imgur.com/8MrrMFF.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/986.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 6 (576p)",
-    "logo": "https://i.imgur.com/8tynFFn.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/987.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 7 (576p)",
-    "logo": "https://i.imgur.com/TNRG1i0.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/985.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 8 (576p)",
-    "logo": "https://i.imgur.com/nN5bkZO.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/983.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Swayam Prabha 9 (576p)",
-    "logo": "https://i.imgur.com/UjFRkfW.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/988.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TAG TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/4PA2adF.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 1 (576p)",
-    "logo": "https://i.imgur.com/JjZj5JE.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1069.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 10 (576p)",
-    "logo": "https://i.imgur.com/YSECJPy.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1088.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 11 (576p)",
-    "logo": "https://i.imgur.com/OkXeGI9.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1089.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 12 (576p)",
-    "logo": "https://i.imgur.com/K0F4jQ1.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1090.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 13 (576p)",
-    "logo": "https://i.imgur.com/eoDwNZx.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1091.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 14 (576p)",
-    "logo": "https://i.imgur.com/1n2gMHF.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1092.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 15 (576p)",
-    "logo": "https://i.imgur.com/5xN2AnH.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1093.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 16 (576p)",
-    "logo": "https://i.imgur.com/xVRuk5X.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1094.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 2 (576p)",
-    "logo": "https://i.imgur.com/fZeOwSM.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1070.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 3 (576p)",
-    "logo": "https://i.imgur.com/Q1b3XRZ.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1082.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 4 (576p)",
-    "logo": "https://i.imgur.com/67GZ2hN.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1071.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 5 (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1083.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 6 (576p)",
-    "logo": "https://i.imgur.com/hClW7Cv.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1084.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 7 (576p)",
-    "logo": "https://i.imgur.com/epnEnpG.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1085.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 8 (576p)",
-    "logo": "https://i.imgur.com/UDcdxXl.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1086.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Vande Gujarat 9 (576p)",
-    "logo": "https://i.imgur.com/dU05ftn.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://103.72.101.252:8080/live/1087.m3u8",
     "isHttps": false
   },
   {
@@ -3281,7 +2876,7 @@
     "country": "",
     "language": "",
     "group": "Classic",
-    "url": "http://103.72.101.252:8080/live/1691.m3u8",
+    "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -3308,7 +2903,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://103.72.101.252:8080/live/585.m3u8",
+    "url": "http://107.167.16.138/zing/index.m3u8?token=test",
     "isHttps": false
   }
 ]
