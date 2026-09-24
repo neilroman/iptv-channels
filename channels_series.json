@@ -4284,6 +4284,15 @@
     "isHttps": false
   },
   {
+    "name": "HOT Comedy (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/0/08/HOTComedyCentral.svg/250px-HOTComedyCentral.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Series",
+    "url": "http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Latina Clasicos (1080p)",
     "logo": "https://i.imgur.com/q0dAWyj.png",
     "country": "",
@@ -4590,12 +4599,21 @@
     "isHttps": false
   },
   {
-    "name": "We TV (720p)",
+    "name": "Viva Telenovelas (1080p)",
+    "logo": "https://static.g-cdn.app/streams/viva-il.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://str2.iptvhd.ru:8080/VIVA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "We TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png",
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://170.254.17.2/WE_TV/index.m3u8",
+    "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
     "isHttps": false
   },
   {
