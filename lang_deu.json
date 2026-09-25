@@ -2673,15 +2673,6 @@
     "isHttps": true
   },
   {
-    "name": "ZDFneo (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/1JIIGgL.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee One German (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
     "country": "",
@@ -2718,12 +2709,30 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (Germany)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "FS1 Salzburg (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/74gMaPK.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "kabel eins Doku",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
     "isHttps": false
   },
   {
@@ -2826,6 +2835,15 @@
     "isHttps": false
   },
   {
+    "name": "ProSieben Maxx",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "PUNKTum Fernsehen (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/3yamOmw.png",
     "country": "",
@@ -2895,6 +2913,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ZDFneo",
+    "logo": "https://i.imgur.com/1JIIGgL.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass",
     "isHttps": false
   }
 ]

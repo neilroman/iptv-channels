@@ -531,15 +531,6 @@
     "isHttps": true
   },
   {
-    "name": "Plim Plim",
-    "logo": "https://i.imgur.com/MYc8srh.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Adult Animation",
     "logo": "https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png",
     "country": "",
@@ -1152,6 +1143,15 @@
     "isHttps": true
   },
   {
+    "name": "Spacetoon Turkey (720p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SX3 (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/960px-SX3_logo.svg.png",
     "country": "",
@@ -1365,6 +1365,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Plim Plim (1080p)",
+    "logo": "https://i.imgur.com/MYc8srh.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://200.115.120.1:8000/play/ca091/index.m3u8",
     "isHttps": false
   },
   {

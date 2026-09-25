@@ -25470,15 +25470,6 @@
     "isHttps": true
   },
   {
-    "name": "Golden Premier",
-    "logo": "https://i.imgur.com/JMa7jws.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD",
-    "isHttps": true
-  },
-  {
     "name": "Goldmines (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
     "country": "",
@@ -48015,15 +48006,6 @@
     "isHttps": true
   },
   {
-    "name": "Plim Plim",
-    "logo": "https://i.imgur.com/MYc8srh.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE",
-    "isHttps": true
-  },
-  {
     "name": "Plous TV (1080p)",
     "logo": "https://i.imgur.com/OSet4en.png",
     "country": "",
@@ -55467,15 +55449,6 @@
     "isHttps": true
   },
   {
-    "name": "RCN Mas (1080p)",
-    "logo": "https://i.imgur.com/MJzuRAN.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RCN Novelas (1080p)",
     "logo": "https://i.imgur.com/9wxdWNQ.png",
     "country": "",
@@ -62703,6 +62676,15 @@
     "isHttps": true
   },
   {
+    "name": "Spacetoon Turkey (720p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Spark TV (1080p)",
     "logo": "https://i.imgur.com/svc98Kg.png",
     "country": "",
@@ -63333,7 +63315,7 @@
     "isHttps": true
   },
   {
-    "name": "Start Triumf",
+    "name": "Start Triumf (1080p)",
     "logo": "https://i.imgur.com/L9jTieL.png",
     "country": "",
     "language": "",
@@ -78993,15 +78975,6 @@
     "isHttps": true
   },
   {
-    "name": "ZDFneo (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/1JIIGgL.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zdorovoe TV (576p)",
     "logo": "https://i.imgur.com/jedtE5l.png",
     "country": "",
@@ -79872,6 +79845,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "5Stars (1080p)",
+    "logo": "https://i.imgur.com/IQtAKIa.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
     "isHttps": false
   },
   {
@@ -80829,12 +80811,12 @@
     "isHttps": false
   },
   {
-    "name": "Avto24 (576p)",
+    "name": "Avto24 (1080i)",
     "logo": "https://i.imgur.com/GXSXmN2.png",
     "country": "",
     "language": "",
     "group": "Auto",
-    "url": "http://stream.mcquack.net/78/index.m3u8",
+    "url": "http://str2.iptvhd.ru:8080/Avto_24/index.m3u8",
     "isHttps": false
   },
   {
@@ -81618,6 +81600,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://145.239.5.177/361/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cablenoticias (1080p)",
+    "logo": "https://i.imgur.com/FfhOGR9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://181.78.211.244:8005/play/a09u/index.m3u8",
     "isHttps": false
   },
   {
@@ -83331,6 +83322,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (Germany)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel (India) (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
     "country": "",
@@ -83664,12 +83664,12 @@
     "isHttps": false
   },
   {
-    "name": "DSports",
+    "name": "DSports (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://138.121.113.175:8000/play/a0cj/index.m3u8",
+    "url": "http://15.204.146.163:8002/play/a00g/index.m3u8",
     "isHttps": false
   },
   {
@@ -85032,6 +85032,24 @@
     "isHttps": false
   },
   {
+    "name": "Golden Premier (1080p)",
+    "logo": "https://i.imgur.com/JMa7jws.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://200.229.147.210:9999/play/a00k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Golden Premier 2 (1080p)",
+    "logo": "https://i.imgur.com/GBlvQBI.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://200.229.147.210:9999/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Golf Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "country": "",
@@ -86109,6 +86127,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://180.188.254.253/live/KABADDI24X7.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "kabel eins Doku",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
     "isHttps": false
   },
   {
@@ -89235,7 +89262,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 3 (1080p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 3 (Ukraine) (1080p)",
     "logo": "https://i.imgur.com/qkvavfH.png",
     "country": "",
     "language": "",
@@ -89244,7 +89271,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 4 (576p)",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 4 (Ukraine) (576p)",
     "logo": "https://i.imgur.com/xW6oGIx.png",
     "country": "",
     "language": "",
@@ -91998,6 +92025,15 @@
     "isHttps": false
   },
   {
+    "name": "Plim Plim (1080p)",
+    "logo": "https://i.imgur.com/MYc8srh.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://200.115.120.1:8000/play/ca091/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Plovdiv Orthodox TV (1080p)",
     "logo": "",
     "country": "",
@@ -92283,6 +92319,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://dtv.vol.net.ua/ProKino/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ProSieben Maxx",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass",
     "isHttps": false
   },
   {
@@ -92679,6 +92724,15 @@
     "language": "",
     "group": "General",
     "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RCN Mas (1080p)",
+    "logo": "https://i.imgur.com/MJzuRAN.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.226.205.96:48000/play/a0af/index.m3u8",
     "isHttps": false
   },
   {
@@ -94149,6 +94203,24 @@
     "isHttps": false
   },
   {
+    "name": "Sport 3 (Israel) (1080p)",
+    "logo": "https://i.imgur.com/stSrBBh.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sport 4 (Israel) (1080p)",
+    "logo": "https://i.imgur.com/wFXzzYs.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sport TV (1080p)",
     "logo": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",
     "country": "",
@@ -94956,6 +95028,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TeleHit (576p)",
+    "logo": "https://i.imgur.com/NVxHxJn.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
     "isHttps": false
   },
   {
@@ -97908,6 +97989,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://185.57.68.33/40/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ZDFneo",
+    "logo": "https://i.imgur.com/1JIIGgL.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass",
     "isHttps": false
   },
   {
