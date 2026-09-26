@@ -198,6 +198,15 @@
     "isHttps": true
   },
   {
+    "name": "AXN Asia Philippines (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AXN Latin America Chile (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -627,6 +636,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cinemax Action East HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8",
     "isHttps": true
   },
   {
@@ -1257,6 +1275,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "HBO Drama (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
     "isHttps": true
   },
   {
@@ -4878,12 +4905,12 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America South",
+    "name": "AXN Latin America South (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
+    "url": "http://181.78.12.119:16123/play/ch46/index.m3u8",
     "isHttps": false
   },
   {
@@ -5271,15 +5298,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "HBO Hits (720p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
     "isHttps": false
   },
   {
