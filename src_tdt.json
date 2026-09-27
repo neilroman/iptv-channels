@@ -1206,6 +1206,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal 11 Honduras",
+    "logo": "https://graph.facebook.com/canal11hn/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. América",
+    "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal 3 Biar HD",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200",
     "country": "",
@@ -1284,6 +1293,15 @@
     "language": "",
     "group": "C. Valenciana",
     "url": "https://videos.canal56.com/directe/stream/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal 6 Honduras",
+    "logo": "https://graph.facebook.com/canal6hn/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. América",
+    "url": "https://video.dataserv.cc:3910/live/canal6honduraslive.m3u8",
     "isHttps": true
   },
   {
@@ -1904,7 +1922,7 @@
     "country": "",
     "language": "",
     "group": "Musicales",
-    "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
+    "url": "https://mbit1.worldcast.tv:9443/dancetelevisionsix/multibit.m3u8",
     "isHttps": true
   },
   {
@@ -1913,7 +1931,7 @@
     "country": "",
     "language": "",
     "group": "Musicales",
-    "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
+    "url": "https://mbit1.worldcast.tv:9443/dancetelevisionseven/multibit.m3u8",
     "isHttps": true
   },
   {
@@ -2427,6 +2445,24 @@
     "language": "",
     "group": "Int. Otros",
     "url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Festival de San Sebastián (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://ztnr.rtve.es/ztnr/16720260.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Festival de San Sebastián (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8",
     "isHttps": true
   },
   {
@@ -3894,24 +3930,6 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "San Sebastián Fes (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16720260.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "San Sebastián Fes (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8",
     "isHttps": true
   },
   {

@@ -1530,6 +1530,15 @@
     "isHttps": true
   },
   {
+    "name": "Impact TV 2 (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://online.tvimpact.live/hls/impact_tv2.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Impact TV Dance (1080p)",
     "logo": "https://i.imgur.com/G5mNdpE.png",
     "country": "",
@@ -2688,6 +2697,15 @@
     "language": "",
     "group": "Music",
     "url": "https://hls.navahang.live/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "New Channel (480p)",
+    "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920",
+    "country": "",
+    "language": "",
+    "group": "Kids;Music",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8",
     "isHttps": true
   },
   {
@@ -4595,7 +4613,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6324,6 +6342,33 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/276/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mi Musica Reggaeton (1080p)",
+    "logo": "https://i.imgur.com/MMb9u4u.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.78.12.119:16123/play/ch53/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mi Musica Romantica (1080p)",
+    "logo": "https://i.imgur.com/eIaRv0U.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.78.12.119:16123/play/ch54/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mi Musica Salsa (1080p)",
+    "logo": "https://i.imgur.com/sT91t83.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.78.12.119:16123/play/ch55/index.m3u8",
     "isHttps": false
   },
   {
