@@ -117,12 +117,12 @@
     "isHttps": true
   },
   {
-    "name": "BBC Four (720p) [Geo-blocked]",
+    "name": "BBC Four",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
     "country": "",
     "language": "",
     "group": "Culture;Documentary",
-    "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd",
     "isHttps": true
   },
   {
@@ -564,6 +564,24 @@
     "language": "",
     "group": "Documentary",
     "url": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",History (Poland)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://racitonsen.s.gy/HISTORY_PL",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",History 2 (Poland)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://racitonsen.s.gy/H2_PL",
     "isHttps": true
   },
   {
@@ -1710,7 +1728,7 @@
     "isHttps": false
   },
   {
-    "name": "History 2 (1080p)",
+    "name": "History 2 (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
     "country": "",
     "language": "",

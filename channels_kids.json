@@ -351,12 +351,39 @@
     "isHttps": true
   },
   {
-    "name": "CBeebies (720p) [Geo-blocked]",
+    "name": "CBBC HD",
+    "logo": "https://i.imgur.com/tk8G4CU.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "CBeebies (Poland) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CBeebies (United Kingdom) (720p) [Geo-blocked]",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "CBeebies (United Kingdom) HD",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd",
     "isHttps": true
   },
   {
@@ -384,15 +411,6 @@
     "language": "",
     "group": "Kids;Public",
     "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Clan Internacional",
-    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
-    "country": "",
-    "language": "",
-    "group": "Kids;Public",
-    "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
     "isHttps": true
   },
   {
@@ -1014,15 +1032,6 @@
     "language": "",
     "group": "Animation;Kids;Music",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MeTV Toons KMBY-LD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1854,6 +1863,15 @@
     "isHttps": true
   },
   {
+    "name": "Poyo TV [Geo-blocked]",
+    "logo": "https://i.imgur.com/5UiSqE5.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://xyktmobile00.s.gy/PPV936_PORORO_HD",
+    "isHttps": true
+  },
+  {
     "name": "Reino Infantil",
     "logo": "https://i.imgur.com/oAygpDw.png",
     "country": "",
@@ -2232,6 +2250,15 @@
     "isHttps": true
   },
   {
+    "name": "Tooniverse [Geo-blocked]",
+    "logo": "https://i.imgur.com/Fesm8M3.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://xyktmobile00.s.gy/PPV939_TOONCAST",
+    "isHttps": true
+  },
+  {
     "name": "Tortues Ninja TV (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
     "country": "",
@@ -2547,21 +2574,12 @@
     "isHttps": false
   },
   {
-    "name": "BabyFirst Spanish (720p)",
+    "name": "BabyFirst Spanish (1080p)",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BabyTV Spain (1080p)",
-    "logo": "https://i.imgur.com/4BDJ5FT.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://181.78.12.119:16123/play/ch01/index.m3u8",
+    "url": "http://168.196.127.137:6001/play/a06j/index.m3u8",
     "isHttps": false
   },
   {
@@ -2679,6 +2697,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Clan Internacional (1080p)",
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Public",
+    "url": "http://168.228.44.241:9999/play/a04j/index.m3u8",
     "isHttps": false
   },
   {
@@ -3591,21 +3618,12 @@
     "isHttps": false
   },
   {
-    "name": "TeenNick (Israel) (406p)",
+    "name": "TeenNick (406p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TeenNick (United States) (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
     "isHttps": false
   },
   {

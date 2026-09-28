@@ -279,15 +279,6 @@
     "isHttps": true
   },
   {
-    "name": "Claro Sports (720p)",
-    "logo": "https://i.imgur.com/n0kd17r.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Colimdo TV (720p)",
     "logo": "https://i.imgur.com/ZeUgLCa.png",
     "country": "",
@@ -357,6 +348,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Digi Sport 2 HD (1080i)",
+    "logo": "https://i.imgur.com/KWDUi3v.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -945,6 +945,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Digi Sport 1 HD (576i)",
+    "logo": "https://i.imgur.com/5zMxDYq.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://dokagents.site/live/digisport1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Radio Turrialba TV Sports (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/2ZcUXbE.png",
     "country": "",
@@ -1014,6 +1023,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36\" group-title=\"Sports\",Prima Sport 5 (480p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://dokagents.site/live/pr5/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1140,15 +1158,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "NBA TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
     "isHttps": true
   },
   {
@@ -2709,6 +2718,15 @@
     "isHttps": false
   },
   {
+    "name": "Claro Sports (1080p)",
+    "logo": "https://i.imgur.com/n0kd17r.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://168.196.127.137:6001/play/a08r/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Combate (720p)",
     "logo": "https://i.imgur.com/ZPYK5jr.png",
     "country": "",
@@ -3534,6 +3552,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NBA TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
     "isHttps": false
   },
   {

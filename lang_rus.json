@@ -3591,7 +3591,7 @@
     "isHttps": false
   },
   {
-    "name": "FX (Russia) (1080p)",
+    "name": "FX (1080p)",
     "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/478.png",
     "country": "",
     "language": "",
@@ -3636,7 +3636,7 @@
     "isHttps": false
   },
   {
-    "name": "History 2 (1080p)",
+    "name": "History 2 (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
     "country": "",
     "language": "",
@@ -3951,6 +3951,15 @@
     "isHttps": false
   },
   {
+    "name": "Kuban 24 (480p) [Geo-blocked]",
+    "logo": "https://www.cableman.ru/sites/default/files/2022-03-23_02-09-35.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Kuhnya (576p)",
     "logo": "https://i.imgur.com/7jxZnuS.png",
     "country": "",
@@ -3984,6 +3993,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",eQtv",
+    "logo": "https://tv.equalit.ie/wp-content/uploads/2024/12/cropped-logo.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0",
     "isHttps": false
   },
   {
@@ -5478,6 +5496,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://45.153.24.78/TNT/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT International (480p)",
+    "logo": "https://i.imgur.com/l0RGbRI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:",
     "isHttps": false
   },
   {

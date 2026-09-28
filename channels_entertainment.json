@@ -495,6 +495,15 @@
     "isHttps": true
   },
   {
+    "name": "Asia Express NonStop (576i)",
+    "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Asia TV (720p)",
     "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
     "country": "",
@@ -1797,6 +1806,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Falak TV",
+    "logo": "https://i.imgur.com/2TqlNsI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://falak.rst.ae/index.m3u8",
     "isHttps": true
   },
   {
@@ -6768,30 +6786,12 @@
     "isHttps": false
   },
   {
-    "name": "FX (Russia) (1080p)",
+    "name": "FX (1080p)",
     "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/478.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX (United States) (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX (United States) East HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://4.30.180.36:8420/fx/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -6918,15 +6918,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://145.239.5.177/329/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Lifetime (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -7677,6 +7668,15 @@
     "isHttps": false
   },
   {
+    "name": "TNT International (480p)",
+    "logo": "https://i.imgur.com/l0RGbRI.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:",
+    "isHttps": false
+  },
+  {
     "name": "TNT International Belarus (1080p)",
     "logo": "https://i.imgur.com/l0RGbRI.png",
     "country": "",
@@ -7791,6 +7791,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://tvoetv.space:8080/tvoetv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Ve Plus Panregional (1080p)",
+    "logo": "https://i.imgur.com/uc3zqcP.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
     "isHttps": false
   },
   {
