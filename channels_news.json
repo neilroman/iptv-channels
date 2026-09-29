@@ -441,6 +441,15 @@
     "isHttps": true
   },
   {
+    "name": "ABC-TV Paraguay (1080p)",
+    "logo": "https://i.imgur.com/OqfBMGy.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
+    "isHttps": true
+  },
+  {
     "name": "ABN Andhra Jyoti (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -3525,6 +3534,15 @@
     "language": "",
     "group": "News",
     "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Kanal ZERO TV",
+    "logo": "https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://racitonsen.s.gy/ZERO_PL",
     "isHttps": true
   },
   {
@@ -7983,12 +8001,12 @@
     "isHttps": false
   },
   {
-    "name": "Canal N (576p)",
+    "name": "Canal N (1080p)",
     "logo": "https://i.imgur.com/Xytvw3J.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8",
+    "url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
     "isHttps": false
   },
   {
@@ -8586,12 +8604,12 @@
     "isHttps": false
   },
   {
-    "name": "NHK World-Japan HD (1080p)",
+    "name": "NHK World-Japan HD (720p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "country": "",
     "language": "",
     "group": "Culture;News",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8",
+    "url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
     "isHttps": false
   },
   {
@@ -8637,6 +8655,15 @@
     "language": "",
     "group": "News",
     "url": "http://23.237.104.106:8080/USA_OAN/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Oplot TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/RvUkId2.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://31.131.141.195:8000/play/a006/index.m3u8",
     "isHttps": false
   },
   {
@@ -8865,12 +8892,12 @@
     "isHttps": false
   },
   {
-    "name": "Telesur (720p)",
+    "name": "Telesur (1080p)",
     "logo": "https://i.imgur.com/P50VjRX.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8",
+    "url": "http://181.78.211.244:8005/play/a0cc/index.m3u8",
     "isHttps": false
   },
   {
