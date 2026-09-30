@@ -423,7 +423,7 @@
     "isHttps": true
   },
   {
-    "name": "BET",
+    "name": "BET (Sweden)",
     "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -432,7 +432,7 @@
     "isHttps": true
   },
   {
-    "name": "BET DK",
+    "name": "BET (Sweden) DK",
     "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -441,7 +441,7 @@
     "isHttps": true
   },
   {
-    "name": "BET NO",
+    "name": "BET (Sweden) NO",
     "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -1239,6 +1239,24 @@
     "language": "",
     "group": "Movies;Series",
     "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "HBO Drama West (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "HBO Hits West HD (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
     "isHttps": true
   },
   {
@@ -4542,6 +4560,15 @@
     "language": "",
     "group": "Series",
     "url": "http://209.14.115.253:8081/TELENOVELAS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tlnovelas Mexico (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
     "isHttps": false
   },
   {

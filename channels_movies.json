@@ -5,7 +5,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -213,6 +213,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "AXN Poland",
+    "logo": "https://i.imgur.com/i5wOhkf.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8",
     "isHttps": true
   },
   {
@@ -645,6 +654,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cinemax Action East HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
     "isHttps": true
   },
   {
@@ -1296,6 +1314,24 @@
     "isHttps": true
   },
   {
+    "name": "HBO Drama West (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "HBO Hits West HD (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Hero (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/4t5JQLY.png",
     "country": "",
@@ -1554,15 +1590,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://racitonsen.s.gy/FB_ONE_PL",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino Polska",
-    "logo": "https://i.imgur.com/lbl8K23.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://racitonsen.s.gy/KINO_POLSKA",
     "isHttps": true
   },
   {
@@ -5121,6 +5148,15 @@
     "isHttps": false
   },
   {
+    "name": "Cine.Ar (1080p)",
+    "logo": "https://i.imgur.com/Iozv4tT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://181.209.105.115:2525/play/cinear/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cine+ Emotion (720p)",
     "logo": "https://i.imgur.com/upYjPvc.jpeg",
     "country": "",
@@ -5523,6 +5559,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kino Polska (1080p)",
+    "logo": "https://i.imgur.com/lbl8K23.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/238/index.m3u8",
     "isHttps": false
   },
   {
