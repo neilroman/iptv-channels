@@ -234,15 +234,6 @@
     "isHttps": true
   },
   {
-    "name": "4TV News (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "6 TV Telugu (576p)",
     "logo": "https://i.imgur.com/l3EcRnZ.png",
     "country": "",
@@ -333,7 +324,7 @@
     "isHttps": true
   },
   {
-    "name": "ABC News (720p)",
+    "name": "ABC News (Australia) (720p)",
     "logo": "https://i.imgur.com/BrW7gk8.png",
     "country": "",
     "language": "",
@@ -1437,6 +1428,15 @@
     "language": "",
     "group": "News",
     "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bharat Update (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Update.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn.pishow.tv/ott/live/339/master.m3u8",
     "isHttps": true
   },
   {
@@ -3375,15 +3375,6 @@
     "isHttps": true
   },
   {
-    "name": "INH 24x7 (396p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "IP Noticias (720p)",
     "logo": "https://i.imgur.com/dbu9nx4.png",
     "country": "",
@@ -4659,15 +4650,6 @@
     "language": "",
     "group": "News",
     "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "News J (720p) [Not 24/7]",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/1279/master.m3u8",
     "isHttps": true
   },
   {
@@ -5976,15 +5958,6 @@
     "isHttps": true
   },
   {
-    "name": "Real News Kerala (1080p) [Not 24/7]",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Realitatea TV (406p)",
     "logo": "https://i.imgur.com/Ul4IIfX.png",
     "country": "",
@@ -7155,15 +7128,6 @@
     "isHttps": true
   },
   {
-    "name": "TV27 News (360p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV30 India (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png",
     "country": "",
@@ -7776,6 +7740,24 @@
     "isHttps": false
   },
   {
+    "name": "24Hrs TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/24hourstv.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/24hrstv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "4TV News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/4tv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "92 News HD (720p)",
     "logo": "https://i.imgur.com/eqKrL9S.png",
     "country": "",
@@ -7818,6 +7800,15 @@
     "language": "",
     "group": "News",
     "url": "http://115.42.65.142:9981/stream/channelid/852828604",
+    "isHttps": false
+  },
+  {
+    "name": "ABC News (India) (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/abcnews/index.m3u8",
     "isHttps": false
   },
   {
@@ -7872,6 +7863,24 @@
     "language": "",
     "group": "News",
     "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Anaadi TV (576p)",
+    "logo": "https://i.imgur.com/Ir26BK6.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/anaaditv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ANN News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/annnewssrt.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/annnews/index.m3u8",
     "isHttps": false
   },
   {
@@ -7938,6 +7947,15 @@
     "isHttps": false
   },
   {
+    "name": "BBC News Hindi (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Hindi.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/bbcnewshindi/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BBC News Latin America (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -7974,12 +7992,39 @@
     "isHttps": false
   },
   {
+    "name": "Bharat News TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/bharatnewstv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BN Channel (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "http://ikitv.sqn.at:8000/play/a01l/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BS9 News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BS9_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/bs9news/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Buletin India (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Buletin_India.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/buletinindia/index.m3u8",
     "isHttps": false
   },
   {
@@ -8154,6 +8199,15 @@
     "isHttps": false
   },
   {
+    "name": "DNN (576p)",
+    "logo": "https://i.imgur.com/H5Kd0k6.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/dnn/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Donbass Online (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/8h3kOI1.png",
     "country": "",
@@ -8235,12 +8289,30 @@
     "isHttps": false
   },
   {
+    "name": "Express News (576p)",
+    "logo": "https://i.imgur.com/5ggKrf1.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/expressnews/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Extra ProNews (576p)",
     "logo": "https://i.imgur.com/VKW9xw6.png",
     "country": "",
     "language": "",
     "group": "Entertainment;News;Shop",
     "url": "http://62.1.176.18:8888/extra/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FM News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/FM_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/fmnews/index.m3u8",
     "isHttps": false
   },
   {
@@ -8334,6 +8406,33 @@
     "isHttps": false
   },
   {
+    "name": "IN 24 News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/in24news/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "India 24x7 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India24x7.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/india24x7/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "INH 24x7 (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/inh24x7/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "IRINN (576p)",
     "logo": "https://i.imgur.com/8tzsC9h.png",
     "country": "",
@@ -8370,6 +8469,24 @@
     "isHttps": false
   },
   {
+    "name": "Kalaignar Seithigal (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143769_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/kalaignarseithigal/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kannur One (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kannur_one.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/kannurone/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Kapaz TV",
     "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
     "country": "",
@@ -8385,6 +8502,15 @@
     "language": "",
     "group": "News",
     "url": "http://51.254.199.122:8080/kin24/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "KKD News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KKD_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/kkdnews/index.m3u8",
     "isHttps": false
   },
   {
@@ -8532,6 +8658,15 @@
     "isHttps": false
   },
   {
+    "name": "Live Samachar Bharat (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/livesamacharbharat.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/livesamacharbharat/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Mashriq TV (576p)",
     "logo": "https://i.imgur.com/8pMiqcp.png",
     "country": "",
@@ -8595,6 +8730,15 @@
     "isHttps": false
   },
   {
+    "name": "News 21 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/news21/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "News 21 Bangla TV",
     "logo": "https://i.imgur.com/ijuJfmd.png",
     "country": "",
@@ -8613,12 +8757,39 @@
     "isHttps": false
   },
   {
-    "name": "NHK World-Japan HD (720p)",
+    "name": "News Flash (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Flash.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/newsflash/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "News J (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/newsj/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "News Only (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/newsonly/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NHK World-Japan HD (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "country": "",
     "language": "",
     "group": "Culture;News",
-    "url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
+    "url": "http://51.75.127.199:3141/nhkworldjapan/index.m3u8",
     "isHttps": false
   },
   {
@@ -8748,6 +8919,24 @@
     "isHttps": false
   },
   {
+    "name": "Raftaar Samay (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RRN_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/raftaarsamay/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Real News Kerala (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/realnewskerala/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Record News (720p)",
     "logo": "https://i.imgur.com/HZDRG0K.png",
     "country": "",
@@ -8838,6 +9027,15 @@
     "isHttps": false
   },
   {
+    "name": "Samachar Nation (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Nation.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/samacharnation/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "SBS WorldWatch",
     "logo": "https://i.imgur.com/gCKMxrW.png",
     "country": "",
@@ -8883,12 +9081,48 @@
     "isHttps": false
   },
   {
+    "name": "Star Bharat (576p)",
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/starbharat/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Bharat HD (1080p)",
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/starbharathd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "STV Haryana News (576p)",
+    "logo": "https://i.imgur.com/TJRZo9e.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/stvharyananews/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Suno News HD (1080p)",
     "logo": "https://i.imgur.com/FeSntVO.jpg",
     "country": "",
     "language": "",
     "group": "News",
     "url": "http://103.250.28.74:8000/play/a02a/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Surya Samachar (576p)",
+    "logo": "https://i.imgur.com/vxs1kRB.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/suryasamachar/index.m3u8",
     "isHttps": false
   },
   {
@@ -8946,6 +9180,15 @@
     "isHttps": false
   },
   {
+    "name": "TV 24 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV24.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/tv24/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Natal (1080p)",
     "logo": "https://i.imgur.com/wqQmQml.png",
     "country": "",
@@ -8961,6 +9204,15 @@
     "language": "",
     "group": "News",
     "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV27 News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/tv27news/index.m3u8",
     "isHttps": false
   },
   {
@@ -8997,6 +9249,15 @@
     "language": "",
     "group": "News",
     "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+    "isHttps": false
+  },
+  {
+    "name": "VNM TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VNM_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/vnmtv/index.m3u8",
     "isHttps": false
   },
   {

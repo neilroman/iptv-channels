@@ -648,21 +648,21 @@
     "isHttps": true
   },
   {
+    "name": "CineMaraton (576i)",
+    "logo": "https://i.imgur.com/BY8UZa0.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cinemaraton Plus (1080i)",
     "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Cinemax Action East HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
     "isHttps": true
   },
   {
@@ -1314,15 +1314,6 @@
     "isHttps": true
   },
   {
-    "name": "HBO Drama West (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HBO Hits West HD (1080p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
     "country": "",
@@ -1581,15 +1572,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://racitonsen.s.gy/FB_HITS_PL",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ One",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://racitonsen.s.gy/FB_ONE_PL",
     "isHttps": true
   },
   {
@@ -4788,15 +4770,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Cinemalu HD (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee South Flix (1080p)",
     "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
     "country": "",
@@ -4815,12 +4788,12 @@
     "isHttps": false
   },
   {
-    "name": "&xplor HD (1080p) [Geo-blocked]",
+    "name": "&xplor HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
+    "url": "http://51.75.127.199:3141/andxplorehd/index.m3u8",
     "isHttps": false
   },
   {
@@ -4911,6 +4884,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Asianet Movies (576p)",
+    "logo": "https://i.imgur.com/cps67hs.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/asianetmovies/index.m3u8",
     "isHttps": false
   },
   {
@@ -5010,6 +4992,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://181.78.12.119:16123/play/ch46/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "B4U Bhojpuri Plus (1080p)",
+    "logo": "https://i.imgur.com/NwOQUDp.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/b4ubhojpuri/index.m3u8",
     "isHttps": false
   },
   {
@@ -5247,12 +5238,57 @@
     "isHttps": false
   },
   {
+    "name": "Colors Bangla Cinema (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/colorsbanglacinema/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Colors Cineplex Bollywood (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://202.70.146.135:8000/play/a058/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors Cineplex HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/colorscineplexhd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors Cineplex Superhits (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors Gujarati Cinema (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors Kannada Cinema (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/colorskannadacinema/index.m3u8",
     "isHttps": false
   },
   {
@@ -5370,6 +5406,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FILMBOX+ One (1080p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/236/index.m3u8",
     "isHttps": false
   },
   {
@@ -5523,6 +5568,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://188.113.190.12/329/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Jalsha Movies (576p)",
+    "logo": "https://i.imgur.com/25eWjX2.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/jalshamovies/index.m3u8",
     "isHttps": false
   },
   {
@@ -6453,6 +6507,15 @@
     "isHttps": false
   },
   {
+    "name": "Romedy Now (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/romedynow/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "RTSH Shqip (1080p)",
     "logo": "https://i.imgur.com/88kRsW3.png",
     "country": "",
@@ -6504,6 +6567,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sidharth Gold (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Gold.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/sidharthgold/index.m3u8",
     "isHttps": false
   },
   {
@@ -6576,6 +6648,96 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold (576p)",
+    "logo": "https://i.imgur.com/xC460sj.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargold/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold 2 (576p)",
+    "logo": "https://i.imgur.com/G0ZfzZr.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargold2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold Select (576p)",
+    "logo": "https://i.imgur.com/U7eiuqv.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargoldselect/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold Select HD (1080p)",
+    "logo": "https://i.imgur.com/U7eiuqv.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargoldselecthd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Maa Movies (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143825_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmaamovies/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmovies/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies (India) HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmovieshd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies Select HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmoviesselecthd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Suvarna Plus (576p)",
+    "logo": "https://i.imgur.com/xlCOq0l.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starsuvarnaplus/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Utsav Movies (576p)",
+    "logo": "https://i.imgur.com/k5QHfH2.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starutsavmovies/index.m3u8",
     "isHttps": false
   },
   {
@@ -6741,6 +6903,15 @@
     "isHttps": false
   },
   {
+    "name": "Vijay Super (576p)",
+    "logo": "https://i.imgur.com/3MWm9nD.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/vijaysuper/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "viju TV1000 (576p)",
     "logo": "https://i.imgur.com/ZMsyjSr.png",
     "country": "",
@@ -6786,12 +6957,30 @@
     "isHttps": false
   },
   {
+    "name": "Zee Cinemalu HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Zee Talkies (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://107.167.16.138/zeetalkies/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
+    "name": "Zee Talkies HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/zeetalkieshd/index.m3u8",
     "isHttps": false
   }
 ]

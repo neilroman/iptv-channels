@@ -2448,24 +2448,6 @@
     "isHttps": true
   },
   {
-    "name": "Festival de San Sebastián (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/16720260.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Festival de San Sebastián (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FOX Live Now USA EN",
     "logo": "https://graph.facebook.com/livenowfox/picture?width=200&height=200",
     "country": "",
@@ -3708,7 +3690,7 @@
     "isHttps": true
   },
   {
-    "name": "Retro Music TV Chequia EN",
+    "name": "Retro Music TV Chequia",
     "logo": "https://graph.facebook.com/retromusic/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3930,6 +3912,24 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Segunda estrella (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://ztnr.rtve.es/ztnr/17239088.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Segunda estrella (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm29_main.m3u8",
     "isHttps": true
   },
   {
@@ -4662,7 +4662,7 @@
     "isHttps": true
   },
   {
-    "name": "TV Cultura Brasil",
+    "name": "TV Cultura Brasil PT",
     "logo": "https://graph.facebook.com/tvcultura/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -5058,7 +5058,7 @@
     "isHttps": true
   },
   {
-    "name": "WeatherNation USA",
+    "name": "WeatherNation USA EN",
     "logo": "https://graph.facebook.com/WeatherNation/picture?width=200&height=200",
     "country": "",
     "language": "",

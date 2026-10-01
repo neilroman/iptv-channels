@@ -243,15 +243,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ One",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://racitonsen.s.gy/FB_ONE_PL",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
@@ -711,6 +702,15 @@
     "isHttps": false
   },
   {
+    "name": "Da Vinci (Poland) (1080p)",
+    "logo": "https://i.imgur.com/V8AUJP6.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://57.128.231.171:8080/284/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disco Polo Music (1080p)",
     "logo": "https://i.imgur.com/ZZbuTv7.png",
     "country": "",
@@ -729,6 +729,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Junior (Poland) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://57.128.231.171:8080/277/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney XD (Poland) (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "country": "",
@@ -744,6 +753,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://57.128.231.171:8080/273/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FILMBOX+ One (1080p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/236/index.m3u8",
     "isHttps": false
   },
   {

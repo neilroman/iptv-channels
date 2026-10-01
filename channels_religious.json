@@ -1233,6 +1233,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal Telesantiago (1080p)",
+    "logo": "https://i.imgur.com/DmkH5p8.jpg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal TV Radio Maya TGBA (480p)",
     "logo": "https://i.imgur.com/kORStT1.png",
     "country": "",
@@ -1644,15 +1653,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Daystar TV Espanol (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2202,15 +2202,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Fateh TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/c4ItNkB.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
     "isHttps": true
   },
   {
@@ -2850,15 +2841,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Hosanna TV",
-    "logo": "https://i.imgur.com/VYorU1L.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6165,6 +6147,15 @@
     "isHttps": true
   },
   {
+    "name": "Valam TV Dayro (576p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/Valam_Dayro.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Vedic (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -6462,6 +6453,15 @@
     "isHttps": false
   },
   {
+    "name": "BVTV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BVTV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://51.75.127.199:3141/bvtv/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CCTN 47 (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/IFpAmvW.png",
     "country": "",
@@ -6504,6 +6504,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Daystar TV Espanol (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
     "isHttps": false
   },
   {
@@ -6567,6 +6576,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fateh TV (576p)",
+    "logo": "https://i.imgur.com/c4ItNkB.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://51.75.127.199:3141/fatehtv/index.m3u8",
     "isHttps": false
   },
   {
@@ -6639,6 +6657,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://144.217.14.88/hls/hope4life.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hosanna TV (576p)",
+    "logo": "https://i.imgur.com/VYorU1L.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://51.75.127.199:3141/hosannatv/index.m3u8",
     "isHttps": false
   },
   {
@@ -6975,6 +7002,24 @@
     "isHttps": false
   },
   {
+    "name": "Sadvidya TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://51.75.127.199:3141/sadvidyatv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sidharth Utsav (576p)",
+    "logo": "https://sidharthtvnetwork.com/uploads/tv_1765897913_Sidharth%20Utsav.jpg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://51.75.127.199:3141/sidharthbhakti/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sivan TV (1080p)",
     "logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
     "country": "",
@@ -6999,6 +7044,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tulja Bhavani (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tulja_Bhavani.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://51.75.127.199:3141/tuljabhavani/index.m3u8",
     "isHttps": false
   },
   {

@@ -270,12 +270,12 @@
     "isHttps": true
   },
   {
-    "name": "B4U Music (576p)",
+    "name": "B4U Music (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdn.pishow.tv/ott/live/415/master.m3u8",
+    "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -321,6 +321,15 @@
     "language": "",
     "group": "News",
     "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bharat Update (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Update.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn.pishow.tv/ott/live/339/master.m3u8",
     "isHttps": true
   },
   {
@@ -729,15 +738,6 @@
     "isHttps": true
   },
   {
-    "name": "Fateh TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/c4ItNkB.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "First India News (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN/images/LOGO_HD/image.png",
     "country": "",
@@ -954,15 +954,6 @@
     "isHttps": true
   },
   {
-    "name": "INH 24x7 (396p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Insync (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
     "country": "",
@@ -1113,15 +1104,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) HD (396p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {
@@ -1791,15 +1773,6 @@
     "isHttps": true
   },
   {
-    "name": "Santvani Channel (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sarv Dharam Sangam (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SARV_DHARAM_SANGAM/images/LOGO_HD/image.png",
     "country": "",
@@ -2025,6 +1998,15 @@
     "isHttps": true
   },
   {
+    "name": "StarPlus (United Kingdom) (576p)",
+    "logo": "https://i.imgur.com/xWxNy3L.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Steelbird Music (720p) [Not 24/7]",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png",
     "country": "",
@@ -2178,15 +2160,6 @@
     "isHttps": true
   },
   {
-    "name": "Total TV Haryana (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn.pishow.tv/ott/live/1522/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
     "country": "",
@@ -2220,15 +2193,6 @@
     "language": "",
     "group": "General",
     "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
-    "isHttps": true
-  },
-  {
-    "name": "TV27 News (360p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
     "isHttps": true
   },
   {
@@ -2394,15 +2358,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Cinemalu HD (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee Comedy Nation (1080p)",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png",
     "country": "",
@@ -2502,12 +2457,21 @@
     "isHttps": false
   },
   {
-    "name": "&xplor HD (1080p) [Geo-blocked]",
+    "name": "&xplor HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
+    "url": "http://51.75.127.199:3141/andxplorehd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "7X Music (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://51.75.127.199:3141/7xmusic/index.m3u8",
     "isHttps": false
   },
   {
@@ -2520,12 +2484,84 @@
     "isHttps": false
   },
   {
+    "name": "ABC News (India) (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/abcnews/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Anaadi TV (576p)",
+    "logo": "https://i.imgur.com/Ir26BK6.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/anaaditv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BBC News Hindi (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Hindi.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/bbcnewshindi/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Bharat News TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/bharatnewstv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Big Magic (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/bigmagic/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors (576p)",
+    "logo": "https://i.imgur.com/M8uCJ0D.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/colorssd/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Colors Cineplex Bollywood (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://202.70.146.135:8000/play/a058/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors Cineplex HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/colorscineplexhd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors Cineplex Superhits (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8",
     "isHttps": false
   },
   {
@@ -2571,6 +2607,24 @@
     "language": "",
     "group": "Kids",
     "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Junior (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://51.75.127.199:3141/disneyjunior/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "DNN (576p)",
+    "logo": "https://i.imgur.com/H5Kd0k6.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/dnn/index.m3u8",
     "isHttps": false
   },
   {
@@ -2664,6 +2718,33 @@
     "isHttps": false
   },
   {
+    "name": "Fashion India (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Fashion_India.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://51.75.127.199:3141/fashionindia/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fateh TV (576p)",
+    "logo": "https://i.imgur.com/c4ItNkB.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://51.75.127.199:3141/fatehtv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FM News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/FM_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/fmnews/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "GurSikh Sabha TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/2EKCtQm.png",
     "country": "",
@@ -2673,12 +2754,48 @@
     "isHttps": false
   },
   {
+    "name": "History TV18 (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://51.75.127.199:3141/historytv18/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Hungama TV (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "IN 24 News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/in24news/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "India 24x7 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India24x7.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/india24x7/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "INH 24x7 (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/inh24x7/index.m3u8",
     "isHttps": false
   },
   {
@@ -2706,6 +2823,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://180.188.254.253/live/KABADDI24X7.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "KKD News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KKD_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/kkdnews/index.m3u8",
     "isHttps": false
   },
   {
@@ -2745,12 +2871,66 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic (India) (576p) [Geo-blocked]",
+    "name": "Live Samachar Bharat (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/livesamacharbharat.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/livesamacharbharat/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MTV (India) HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/mtvhd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic (India) (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+    "url": "http://51.75.127.199:3141/natgeo/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic (India) HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://51.75.127.199:3141/natgeohd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic Wild (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://51.75.127.199:3141/natgeowild/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "News 21 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/news21/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "News Flash (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Flash.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/newsflash/index.m3u8",
     "isHttps": false
   },
   {
@@ -2769,6 +2949,42 @@
     "language": "",
     "group": "Kids",
     "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Raftaar Samay (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RRN_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/raftaarsamay/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RS Bharat (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RS_Bharat.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://51.75.127.199:3141/rsbharat/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Samachar Nation (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Nation.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/samacharnation/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Santvani Channel (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://51.75.127.199:3141/santvani/index.m3u8",
     "isHttps": false
   },
   {
@@ -2808,6 +3024,96 @@
     "isHttps": false
   },
   {
+    "name": "Star Bharat (576p)",
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/starbharat/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Bharat HD (1080p)",
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/starbharathd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold (576p)",
+    "logo": "https://i.imgur.com/xC460sj.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargold/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold 2 (576p)",
+    "logo": "https://i.imgur.com/G0ZfzZr.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargold2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold Select (576p)",
+    "logo": "https://i.imgur.com/U7eiuqv.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargoldselect/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Gold Select HD (1080p)",
+    "logo": "https://i.imgur.com/U7eiuqv.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/stargoldselecthd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmovies/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies (India) HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmovieshd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies Select HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmoviesselecthd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Sports 2 (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://51.75.127.199:3141/starsports2/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Sports 2 HD (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
     "country": "",
@@ -2817,12 +3123,57 @@
     "isHttps": false
   },
   {
-    "name": "StarPlus HD (1080i)",
+    "name": "Star Sports Khel (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Utsav (576p)",
+    "logo": "https://i.imgur.com/H1jhHDl.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/starutsav/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Utsav Movies (576p)",
+    "logo": "https://i.imgur.com/k5QHfH2.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starutsavmovies/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "StarPlus (India) (576p)",
+    "logo": "https://i.imgur.com/xWxNy3L.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/starplus/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "StarPlus (India) HD (1080i)",
     "logo": "https://i.imgur.com/xWxNy3L.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://202.70.146.135:8000/play/a009/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "STV Haryana News (576p)",
+    "logo": "https://i.imgur.com/TJRZo9e.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/stvharyananews/index.m3u8",
     "isHttps": false
   },
   {
@@ -2835,12 +3186,84 @@
     "isHttps": false
   },
   {
+    "name": "Superhitz (1080p)",
+    "logo": "https://i.imgur.com/aRNBvTU.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://51.75.127.199:3141/sunbangla/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Surya Samachar (576p)",
+    "logo": "https://i.imgur.com/vxs1kRB.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/suryasamachar/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TAG TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/4PA2adF.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Total TV Haryana (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://51.75.127.199:3141/totaltvharyana/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV 100 (India) (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV_100.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://51.75.127.199:3141/tv100/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV 24 (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV24.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/tv24/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV27 News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/tv27news/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Unite8 Sports 1 HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://51.75.127.199:3141/zeecafehd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VNM TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VNM_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://51.75.127.199:3141/vnmtv/index.m3u8",
     "isHttps": false
   },
   {
@@ -2853,12 +3276,30 @@
     "isHttps": false
   },
   {
+    "name": "Zee Cinemalu HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Zee Classic (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Classic",
     "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
+    "name": "Zee TV (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/zeetv/index.m3u8",
     "isHttps": false
   },
   {

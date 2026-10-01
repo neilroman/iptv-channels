@@ -3141,6 +3141,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal Once (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal Oracion Con Son (1080p)",
     "logo": "https://i.imgur.com/rfnFqU3.png",
     "country": "",
@@ -3318,6 +3327,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal Telesantiago (1080p)",
+    "logo": "https://i.imgur.com/DmkH5p8.jpg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
     "isHttps": true
   },
   {
@@ -3876,15 +3894,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Cinemax Action East HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
     "isHttps": true
   },
   {
@@ -4713,15 +4722,6 @@
     "language": "",
     "group": "Comedy",
     "url": "https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Daystar TV Espanol (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6417,15 +6417,6 @@
     "isHttps": true
   },
   {
-    "name": "HBO Drama West (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HBO Hits West HD (1080p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
     "country": "",
@@ -7569,12 +7560,12 @@
     "isHttps": true
   },
   {
-    "name": "LAMIL35 TV",
+    "name": "LAMIL35 TV (480p)",
     "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
     "country": "",
     "language": "",
     "group": "Animation;Classic;Entertainment",
-    "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+    "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
     "isHttps": true
   },
   {
@@ -18360,6 +18351,15 @@
     "isHttps": false
   },
   {
+    "name": "CNC Medellin (1080p)",
+    "logo": "https://i.imgur.com/J1f4fNq.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://138.94.3.106:8000/play/a02o/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Comedy Central Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
     "country": "",
@@ -18402,6 +18402,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Daystar TV Espanol (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
     "isHttps": false
   },
   {
@@ -18558,12 +18567,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (United States) (720p)",
+    "name": "Disney Junior (United States) (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
     "isHttps": false
   },
   {
@@ -19530,12 +19539,12 @@
     "isHttps": false
   },
   {
-    "name": "Nuestra Tele Internacional (720p)",
+    "name": "Nuestra Tele Internacional (1080p)",
     "logo": "https://i.imgur.com/JoGQqmP.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://170.238.200.199/nuestra-tele/index.m3u8",
+    "url": "http://45.173.231.22:8000/play/a0cr/index.m3u8",
     "isHttps": false
   },
   {
@@ -20124,6 +20133,15 @@
     "isHttps": false
   },
   {
+    "name": "Telefe (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://45.173.231.22:8000/play/a053/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Telefe Buenos Aires (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
     "country": "",
@@ -20283,6 +20301,15 @@
     "language": "",
     "group": "General",
     "url": "http://38.134.250.110:8000/play/a02i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TeleXitos (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://190.197.41.183/TELEXITOS/index.m3u8",
     "isHttps": false
   },
   {

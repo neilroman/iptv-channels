@@ -405,12 +405,12 @@
     "isHttps": true
   },
   {
-    "name": "B4U Music (576p)",
+    "name": "B4U Music (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://cdn.pishow.tv/ott/live/415/master.m3u8",
+    "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5877,6 +5877,15 @@
     "isHttps": false
   },
   {
+    "name": "7X Music (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://51.75.127.199:3141/7xmusic/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "88 Stereo (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/i3YwORV.png",
     "country": "",
@@ -6606,6 +6615,15 @@
     "isHttps": false
   },
   {
+    "name": "RS Bharat (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RS_Bharat.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://51.75.127.199:3141/rsbharat/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "RTV Glas Drine (404p) [Not 24/7]",
     "logo": "https://i.imgur.com/9NgxOdb.png",
     "country": "",
@@ -6639,6 +6657,15 @@
     "language": "",
     "group": "Music",
     "url": "http://catchup.videoline.ru/shanson/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Maa Music (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://51.75.127.199:3141/starmaamusic/index.m3u8",
     "isHttps": false
   },
   {
@@ -6738,6 +6765,15 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/281/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Wah Punjabi (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://51.75.127.199:3141/wahpunjabi/index.m3u8",
     "isHttps": false
   },
   {

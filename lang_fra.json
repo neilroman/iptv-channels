@@ -3429,7 +3429,16 @@
     "isHttps": false
   },
   {
-    "name": "FashionTV (1080p)",
+    "name": "FashionTV (India) (1080p)",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://51.75.127.199:3141/ftvhd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FashionTV (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
     "country": "",
     "language": "",

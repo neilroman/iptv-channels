@@ -567,7 +567,7 @@
     "isHttps": true
   },
   {
-    "name": "ABC News (720p)",
+    "name": "ABC News (Australia) (720p)",
     "logo": "https://i.imgur.com/BrW7gk8.png",
     "country": "",
     "language": "",
@@ -3006,39 +3006,12 @@
     "isHttps": true
   },
   {
-    "name": "BET (Canada) (1080p)",
-    "logo": "https://i.imgur.com/KG3CzsF.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://sra72yz.s.gy/BET_CANADA_HD.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BET (Sweden)",
+    "name": "BET",
     "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
     "country": "",
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BET (Sweden) DK",
-    "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BET (Sweden) NO",
-    "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8",
     "isHttps": true
   },
   {
@@ -3066,6 +3039,24 @@
     "language": "",
     "group": "Movies",
     "url": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BET DK",
+    "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BET NO",
+    "logo": "https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8",
     "isHttps": true
   },
   {
@@ -5031,15 +5022,6 @@
     "isHttps": true
   },
   {
-    "name": "Cinemax Action East HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cinevault 80s (720p)",
     "logo": "https://i.imgur.com/xaCyyDd.png",
     "country": "",
@@ -6549,15 +6531,6 @@
     "language": "",
     "group": "Culture;Documentary",
     "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Discovery Turbo (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Auto",
-    "url": "https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8",
     "isHttps": true
   },
   {
@@ -8973,15 +8946,6 @@
     "isHttps": true
   },
   {
-    "name": "HBO Drama West (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HBO Hits West HD (1080p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
     "country": "",
@@ -10872,21 +10836,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Premier Sports 1",
-    "logo": "https://i.imgur.com/eOybZMU.png",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Sky Sports Football",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21\" group-title=\"Sports\",Premier Sports 2 (Ireland)",
-    "logo": "https://i.imgur.com/Fx1n84p.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8",
+    "url": "https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8",
     "isHttps": true
   },
   {
@@ -16794,7 +16749,7 @@
     "isHttps": true
   },
   {
-    "name": "Premier Sports 2 (Philippines) (1086p)",
+    "name": "Premier Sports 2 (1086p)",
     "logo": "https://i.imgur.com/UQeXWd2.png",
     "country": "",
     "language": "",
@@ -18648,39 +18603,12 @@
     "isHttps": true
   },
   {
-    "name": "Sky Sports Cricket (Ireland) (1080p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sky Sports Cricket (United Kingdom) HD",
+    "name": "Sky Sports Cricket HD",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-    "isHttps": true
-  },
-  {
-    "name": "Sky Sports F1 (1080p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://xemzi.short.gy/2000005",
-    "isHttps": true
-  },
-  {
-    "name": "Sky Sports Golf HD (1080p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8",
     "isHttps": true
   },
   {
@@ -24255,6 +24183,33 @@
     "isHttps": false
   },
   {
+    "name": "Colors Infinity (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/colorsinfinitysd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Colors Infinity HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://51.75.127.199:3141/colorsinfinityhd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Comedy Central (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://57.128.231.171:8080/286/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cottage Life (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png",
     "country": "",
@@ -24426,12 +24381,21 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (United States) (720p)",
+    "name": "Disney Junior (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://51.75.127.199:3141/disneyjunior/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Junior (United States) (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
     "isHttps": false
   },
   {
@@ -24534,6 +24498,15 @@
     "isHttps": false
   },
   {
+    "name": "Extreme Sports Channel Polska (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://57.128.231.171:8080/262/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Fashion TV (1080p)",
     "logo": "https://i.imgur.com/Bk7W39G.png",
     "country": "",
@@ -24612,6 +24585,15 @@
     "language": "",
     "group": "General",
     "url": "http://stream.cammonitorplus.net/1799/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fox (United States) WSVN (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.197.41.183/Fox/index.m3u8",
     "isHttps": false
   },
   {
@@ -24720,6 +24702,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://212.5.144.156:8080/history/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History TV18 (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://51.75.127.199:3141/historytv18/index.m3u8",
     "isHttps": false
   },
   {
@@ -25380,12 +25371,21 @@
     "isHttps": false
   },
   {
-    "name": "National Geographic (India) (576p) [Geo-blocked]",
+    "name": "National Geographic (India) (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+    "url": "http://51.75.127.199:3141/natgeo/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic (India) HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://51.75.127.199:3141/natgeohd/index.m3u8",
     "isHttps": false
   },
   {
@@ -25404,6 +25404,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://198.58.104.90:8989/natgeo/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic Wild (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://51.75.127.199:3141/natgeowild/index.m3u8",
     "isHttps": false
   },
   {
@@ -25461,12 +25470,30 @@
     "isHttps": false
   },
   {
-    "name": "NHK World-Japan HD (720p)",
+    "name": "NBC WTLV (1080p)",
+    "logo": "https://i.imgur.com/nxY84W5.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.197.41.183/NBC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NHK World-Japan HD (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "country": "",
     "language": "",
     "group": "Culture;News",
-    "url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
+    "url": "http://51.75.127.199:3141/nhkworldjapan/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick HD+ (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://51.75.127.199:3141/nickhd/index.m3u8",
     "isHttps": false
   },
   {
@@ -25803,6 +25830,15 @@
     "isHttps": false
   },
   {
+    "name": "Romedy Now (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/romedynow/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Roze News (576p)",
     "logo": "https://i.imgur.com/TedWqfL.png",
     "country": "",
@@ -25929,15 +25965,6 @@
     "isHttps": false
   },
   {
-    "name": "Sky Sports Football (720p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://188.138.29.131/skyfootball/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "SPOTV (720p)",
     "logo": "https://i.imgur.com/HaoVsm5.png",
     "country": "",
@@ -25974,12 +26001,66 @@
     "isHttps": false
   },
   {
+    "name": "Star Movies (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmovies/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies (India) HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmovieshd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Movies Select HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://51.75.127.199:3141/starmoviesselecthd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Sports 1 (576p)",
+    "logo": "https://i.imgur.com/E5jjKHI.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://51.75.127.199:3141/starsports1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Sports 2 (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://51.75.127.199:3141/starsports2/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Sports 2 HD (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Star Sports Khel (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://51.75.127.199:3141/starsportskhel/index.m3u8",
     "isHttps": false
   },
   {
@@ -26199,6 +26280,15 @@
     "isHttps": false
   },
   {
+    "name": "Toonami Aftermath West (480p)",
+    "logo": "https://i.imgur.com/aSjhZK7.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Toronto 360 TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/YJYdHKO.png",
     "country": "",
@@ -26349,6 +26439,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test",
+    "isHttps": false
+  },
+  {
+    "name": "Unite8 Sports 2 HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://51.75.127.199:3141/andflixhd/index.m3u8",
     "isHttps": false
   },
   {
