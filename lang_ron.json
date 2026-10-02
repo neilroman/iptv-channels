@@ -180,6 +180,15 @@
     "isHttps": true
   },
   {
+    "name": "Chefi.ro (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CineMaraton (576i)",
     "logo": "https://i.imgur.com/BY8UZa0.png",
     "country": "",
@@ -288,6 +297,24 @@
     "isHttps": true
   },
   {
+    "name": "Euronews Romania (576p)",
+    "logo": "https://i.imgur.com/jUOVUXt.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Favorit TV (576p)",
+    "logo": "https://i.imgur.com/sTy4FHs.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Film Now HD (1080i)",
     "logo": "https://i.imgur.com/sSoRvGz.png",
     "country": "",
@@ -330,6 +357,15 @@
     "language": "",
     "group": "Cooking",
     "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "History (Romania)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://dokagents.site/live/history/mono.m3u8",
     "isHttps": true
   },
   {
@@ -600,15 +636,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"News\",Euronews Romania",
-    "logo": "https://i.imgur.com/jUOVUXt.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
     "isHttps": true
   },
   {
@@ -1098,6 +1125,15 @@
     "isHttps": true
   },
   {
+    "name": "Taraf TV (576p)",
+    "logo": "https://i.imgur.com/0iuwjbK.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Tele7ABC HD (720p)",
     "logo": "https://i.imgur.com/CheqyWH.png",
     "country": "",
@@ -1359,12 +1395,21 @@
     "isHttps": false
   },
   {
-    "name": "PRO TV HD",
+    "name": "PRO TV HD (1080p)",
     "logo": "https://i.imgur.com/zVk3WlT.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "PRO TV International",
+    "logo": "https://i.imgur.com/vfr1ZYw.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0",
     "isHttps": false
   },
   {

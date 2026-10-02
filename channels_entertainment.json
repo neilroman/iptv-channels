@@ -4518,15 +4518,6 @@
     "isHttps": true
   },
   {
-    "name": "Polsat Reality (720p)",
-    "logo": "https://i.imgur.com/yBecqPa.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Popstar! TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/d4xEiXX.png",
     "country": "",
@@ -5172,6 +5163,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Bharat (United Kingdom) (576p)",
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8",
     "isHttps": true
   },
   {
@@ -7377,6 +7377,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://51.75.127.199:3141/mtvhd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MTV (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://57.128.231.171:8080/227/index.m3u8",
     "isHttps": false
   },
   {

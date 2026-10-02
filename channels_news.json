@@ -2700,6 +2700,15 @@
     "isHttps": true
   },
   {
+    "name": "Euronews Romania (576p)",
+    "logo": "https://i.imgur.com/jUOVUXt.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Euronews Spanish (1080p)",
     "logo": "https://i.imgur.com/8t9mdg9.png",
     "country": "",
@@ -2940,15 +2949,6 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Guatevision (720p)",
-    "logo": "https://i.imgur.com/mbmHPnO.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8",
     "isHttps": true
   },
   {
@@ -3879,15 +3879,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"News\",Euronews Romania",
-    "logo": "https://i.imgur.com/jUOVUXt.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/131.0.0.0 Safari/537.36\" group-title=\"News\",Canal Caribe",
     "logo": "https://i.imgur.com/CV5Rz35.png",
     "country": "",
@@ -4074,6 +4065,15 @@
     "language": "",
     "group": "News",
     "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "M Nadu TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8",
     "isHttps": true
   },
   {
@@ -4650,6 +4650,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "News Leader (576p)",
+    "logo": "https://img-cdn.publive.online/fit-in/360x280/filters:format(webp)/newsleaderlive/media/agency_attachments/2026/04/15/2026-04-15t100517555z-news-leader-640-480-1-sarvajeet-singh-chauhan-2026-04-15-15-35-17.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/newsleader/index.m3u8",
     "isHttps": true
   },
   {
@@ -7173,6 +7182,15 @@
     "isHttps": true
   },
   {
+    "name": "TV7 Bharat (576p)",
+    "logo": "https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV9 Bangla (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BANGLA/images/LOGO_HD/image.png",
     "country": "",
@@ -8253,15 +8271,6 @@
     "isHttps": false
   },
   {
-    "name": "ESPNews (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Euronews Georgia",
     "logo": "https://i.imgur.com/VNJ4soR.png",
     "country": "",
@@ -8367,6 +8376,15 @@
     "language": "",
     "group": "News",
     "url": "http://170.82.202.31/GNT/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Guatevision (1080p)",
+    "logo": "https://i.imgur.com/mbmHPnO.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://200.115.120.1:8000/play/ca066/index.m3u8",
     "isHttps": false
   },
   {
@@ -9081,7 +9099,7 @@
     "isHttps": false
   },
   {
-    "name": "Star Bharat (576p)",
+    "name": "Star Bharat (India) (576p)",
     "logo": "https://i.imgur.com/Q8ajPij.png",
     "country": "",
     "language": "",
@@ -9090,7 +9108,7 @@
     "isHttps": false
   },
   {
-    "name": "Star Bharat HD (1080p)",
+    "name": "Star Bharat (India) HD (1080p)",
     "logo": "https://i.imgur.com/Q8ajPij.png",
     "country": "",
     "language": "",
@@ -9249,6 +9267,15 @@
     "language": "",
     "group": "News",
     "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+    "isHttps": false
+  },
+  {
+    "name": "UP NOW (720p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/Upnow.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
     "isHttps": false
   },
   {

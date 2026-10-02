@@ -405,6 +405,15 @@
     "isHttps": true
   },
   {
+    "name": "Colors Cineplex (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Colors MENA HD (720p)",
     "logo": "https://i.imgur.com/LjNFTdC.png",
     "country": "",
@@ -1143,6 +1152,15 @@
     "isHttps": true
   },
   {
+    "name": "Mangalmay TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mangalmaylive.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
     "name": "Mango (India) (576p)",
     "logo": "https://i.imgur.com/neZm4CY.png",
     "country": "",
@@ -1392,6 +1410,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "News Leader (576p)",
+    "logo": "https://img-cdn.publive.online/fit-in/360x280/filters:format(webp)/newsleaderlive/media/agency_attachments/2026/04/15/2026-04-15t100517555z-news-leader-640-480-1-sarvajeet-singh-chauhan-2026-04-15-15-35-17.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/newsleader/index.m3u8",
     "isHttps": true
   },
   {
@@ -1989,6 +2016,15 @@
     "isHttps": true
   },
   {
+    "name": "Star Bharat (United Kingdom) (576p)",
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Star Sports 2 Hindi (720p)",
     "logo": "https://i.imgur.com/kHerF19.png",
     "country": "",
@@ -2211,6 +2247,15 @@
     "language": "",
     "group": "News",
     "url": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV7 Bharat (576p)",
+    "logo": "https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
     "isHttps": true
   },
   {
@@ -3024,7 +3069,7 @@
     "isHttps": false
   },
   {
-    "name": "Star Bharat (576p)",
+    "name": "Star Bharat (India) (576p)",
     "logo": "https://i.imgur.com/Q8ajPij.png",
     "country": "",
     "language": "",
@@ -3033,7 +3078,7 @@
     "isHttps": false
   },
   {
-    "name": "Star Bharat HD (1080p)",
+    "name": "Star Bharat (India) HD (1080p)",
     "logo": "https://i.imgur.com/Q8ajPij.png",
     "country": "",
     "language": "",
@@ -3255,6 +3300,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://51.75.127.199:3141/zeecafehd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "UP NOW (720p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/Upnow.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
     "isHttps": false
   },
   {

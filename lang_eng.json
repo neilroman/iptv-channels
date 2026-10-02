@@ -2700,12 +2700,12 @@
     "isHttps": true
   },
   {
-    "name": "BBC Two Northern Ireland (540p) [Geo-blocked]",
+    "name": "BBC Two Northern Ireland",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8",
+    "url": "https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd",
     "isHttps": true
   },
   {
@@ -4257,12 +4257,12 @@
     "isHttps": true
   },
   {
-    "name": "CBeebies (Poland) (576p)",
+    "name": "CBeebies (Poland)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8",
+    "url": "https://xyktmobile00.s.gy/ticketview/49092",
     "isHttps": true
   },
   {
@@ -9855,6 +9855,15 @@
     "isHttps": true
   },
   {
+    "name": "ITV1 London +1",
+    "logo": "https://i.imgur.com/xwPekCF.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://xyktmobile00.s.gy/TICK_44100",
+    "isHttps": true
+  },
+  {
     "name": "ITV2 HD (1080p)",
     "logo": "https://i.imgur.com/2BpUK0W.png",
     "country": "",
@@ -14832,6 +14841,15 @@
     "isHttps": true
   },
   {
+    "name": "Party Mix HD (1080p)",
+    "logo": "https://i.imgur.com/leF8AGo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Pasco TV (480p)",
     "logo": "https://i.imgur.com/CM91sME.png",
     "country": "",
@@ -18816,15 +18834,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 5 HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
     "isHttps": true
   },
   {
@@ -23850,6 +23859,15 @@
     "isHttps": false
   },
   {
+    "name": "AXN (Spain) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://193.254.245.162/AXN/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AXS TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
     "country": "",
@@ -24327,6 +24345,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Turbo (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Auto",
+    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel (India) (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
     "country": "",
@@ -24360,15 +24387,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://212.5.144.156/disney/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (United States) HD East (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -24441,15 +24459,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ESPNews (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -25677,6 +25686,15 @@
     "isHttps": false
   },
   {
+    "name": "Paramount Network (432p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Pardesi TV (720p)",
     "logo": "https://i.imgur.com/CwAdPpZ.jpg",
     "country": "",
@@ -25731,12 +25749,21 @@
     "isHttps": false
   },
   {
-    "name": "PRO TV HD",
+    "name": "PRO TV HD (1080p)",
     "logo": "https://i.imgur.com/zVk3WlT.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "PRO TV International",
+    "logo": "https://i.imgur.com/vfr1ZYw.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -26484,6 +26511,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VH1 (432p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://193.254.245.162/VH1/index.m3u8",
     "isHttps": false
   },
   {

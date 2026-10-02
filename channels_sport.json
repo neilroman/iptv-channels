@@ -1544,7 +1544,7 @@
     "country": "",
     "language": "",
     "group": "General;Sports",
-    "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+    "url": "https://cdn.bestream.io/prime/prime.m3u8",
     "isHttps": true
   },
   {
@@ -1887,15 +1887,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sony Sports Ten 5 HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
     "isHttps": true
   },
   {
@@ -2673,6 +2664,15 @@
     "isHttps": false
   },
   {
+    "name": "Canal+ Sport (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/EOXnU15.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CCTV-16 HD (1080p)",
     "logo": "https://i.imgur.com/ZzV6JQp.png",
     "country": "",
@@ -2844,15 +2844,6 @@
     "isHttps": false
   },
   {
-    "name": "ESPNews (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News;Sports",
-    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ESPNU (720p)",
     "logo": "https://i.imgur.com/HiBrysh.png",
     "country": "",
@@ -2967,6 +2958,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://190.61.90.17:40000/play/a03v/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Golf + (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/WHnddkg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
     "isHttps": false
   },
   {

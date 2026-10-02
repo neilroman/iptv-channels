@@ -1098,24 +1098,6 @@
     "isHttps": true
   },
   {
-    "name": "Eska TV (1080p)",
-    "logo": "https://i.imgur.com/N0eH0Cg.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Eska TV Extra (1080p)",
-    "logo": "https://i.imgur.com/pZAFshQ.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ETV Beats (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png",
     "country": "",
@@ -3075,6 +3057,15 @@
     "language": "",
     "group": "Music",
     "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Party Mix HD (1080p)",
+    "logo": "https://i.imgur.com/leF8AGo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -6039,6 +6030,15 @@
     "isHttps": false
   },
   {
+    "name": "Claro Musica TV (1080p)",
+    "logo": "https://i.imgur.com/vrSFUwv.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://45.171.64.30:6060/play/a010",
+    "isHttps": false
+  },
+  {
     "name": "Classic Music (1080p)",
     "logo": "https://i.imgur.com/TpXs1qA.png",
     "country": "",
@@ -6360,6 +6360,15 @@
     "language": "",
     "group": "Music",
     "url": "http://149.100.11.235:8080/Mazzika/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MCM Pop (576p)",
+    "logo": "https://i.imgur.com/j31lBL7.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://193.254.245.162/MCM/index.m3u8",
     "isHttps": false
   },
   {
@@ -6765,6 +6774,15 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/281/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VH1 (432p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://193.254.245.162/VH1/index.m3u8",
     "isHttps": false
   },
   {

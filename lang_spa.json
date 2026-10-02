@@ -882,6 +882,15 @@
     "isHttps": true
   },
   {
+    "name": "Antena 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Antena 7 (480p)",
     "logo": "https://i.imgur.com/zKWFgeQ.png",
     "country": "",
@@ -1212,6 +1221,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "AXN Movies (Spain)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
     "isHttps": true
   },
   {
@@ -1914,6 +1932,15 @@
     "language": "",
     "group": "General",
     "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal 12 Venado Tuerto (1080i)",
+    "logo": "https://i.imgur.com/b93YC0V.jpeg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8",
     "isHttps": true
   },
   {
@@ -4140,15 +4167,6 @@
     "isHttps": true
   },
   {
-    "name": "Color Vision (1280p) [Not 24/7]",
-    "logo": "https://i.imgur.com/rkgWToA.jpg",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://hls.tvabierta.net/hls/009.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Colosal TV",
     "logo": "https://i.imgur.com/0DZB3eB.png",
     "country": "",
@@ -6342,15 +6360,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://stream.guarotv.net:3592/hybrid/play.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Guatevision (720p)",
-    "logo": "https://i.imgur.com/mbmHPnO.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8",
     "isHttps": true
   },
   {
@@ -17055,6 +17064,15 @@
     "isHttps": true
   },
   {
+    "name": "WAPA-TV 4.1 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/kqq7tD9.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Wapp (720p)",
     "logo": "https://i.imgur.com/Bv1yJ1d.png",
     "country": "",
@@ -17712,6 +17730,15 @@
     "isHttps": false
   },
   {
+    "name": "AXN (Spain) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://193.254.245.162/AXN/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AXN Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -17772,6 +17799,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.252.238.18:8000/play/a01g/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Az Corazon (720p)",
+    "logo": "https://i.imgur.com/KIpSdQC.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://200.115.120.1:8000/play/ca020/index.m3u8",
     "isHttps": false
   },
   {
@@ -18342,6 +18378,24 @@
     "isHttps": false
   },
   {
+    "name": "Claro Cinema (1080p)",
+    "logo": "https://i.imgur.com/SOLGQxQ.jpg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://158.172.217.18:8000/play/a00d/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Claro Musica TV (1080p)",
+    "logo": "https://i.imgur.com/vrSFUwv.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://45.171.64.30:6060/play/a010",
+    "isHttps": false
+  },
+  {
     "name": "Claro Sports (1080p)",
     "logo": "https://i.imgur.com/n0kd17r.png",
     "country": "",
@@ -18474,15 +18528,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://212.5.144.156/disney/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (United States) HD East (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -18747,12 +18792,12 @@
     "isHttps": false
   },
   {
-    "name": "ESNE TV (720p)",
+    "name": "ESNE TV (1080p)",
     "logo": "https://i.imgur.com/bwAuFgx.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://168.196.127.137:6001/play/a071/index.m3u8",
+    "url": "http://190.217.66.92:8000/play/a0fp/index.m3u8",
     "isHttps": false
   },
   {
@@ -18960,6 +19005,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://15.204.246.24:8080/GolfChannelHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Guatevision (1080p)",
+    "logo": "https://i.imgur.com/mbmHPnO.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://200.115.120.1:8000/play/ca066/index.m3u8",
     "isHttps": false
   },
   {
@@ -20724,6 +20778,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Vea Canal (720p)",
+    "logo": "https://i.imgur.com/oPJlbNf.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://181.78.106.127:5000/play/ca090/index.m3u8",
     "isHttps": false
   },
   {

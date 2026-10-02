@@ -2147,7 +2147,7 @@
     "country": "",
     "language": "",
     "group": "General;Sports",
-    "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+    "url": "https://cdn.bestream.io/prime/prime.m3u8",
     "isHttps": true
   },
   {
@@ -2678,7 +2678,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+    "url": "https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8",
     "isHttps": true
   },
   {
@@ -3042,6 +3042,15 @@
     "isHttps": false
   },
   {
+    "name": "Nile Drama (576p)",
+    "logo": "https://i.imgur.com/FasJFMM.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://185.9.2.18/chid_352/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Radio Albalad TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png",
     "country": "",
@@ -3102,15 +3111,6 @@
     "language": "",
     "group": "General",
     "url": "http://185.9.2.18/chid_347/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV7 (1080p)",
-    "logo": "https://i.imgur.com/40rR4hD.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://185.9.2.18/chid_352/index.m3u8",
     "isHttps": false
   },
   {
