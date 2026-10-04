@@ -675,15 +675,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36\" group-title=\"Movies\",Pro Cinema (576i)",
-    "logo": "https://i.imgur.com/TvHFGwZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/procinema/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36\" group-title=\"Sports\",Digi Sport 3 (576i)",
     "logo": "https://i.imgur.com/T1ci5UK.png",
     "country": "",
@@ -703,7 +694,7 @@
   },
   {
     "name": "like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36\" group-title=\"Sports\",Prima Sport 5 (480p)",
-    "logo": "",
+    "logo": "https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -942,15 +933,6 @@
     "language": "",
     "group": "Legislative",
     "url": "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "PRO TV Chisinau (480p)",
-    "logo": "https://i.imgur.com/X5PYRxF.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
     "isHttps": true
   },
   {
@@ -1341,12 +1323,21 @@
     "isHttps": true
   },
   {
-    "name": "Acasa Gold",
+    "name": "Acasa (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "Acasa Gold (1080p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -1356,6 +1347,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "H!t Music Channel (Romania)",
+    "logo": "https://i.imgur.com/sqC2hqV.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -1377,6 +1377,15 @@
     "isHttps": false
   },
   {
+    "name": "Music Channel",
+    "logo": "https://i.imgur.com/nadVCxM.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "Nova TV Brasov (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/33Vn0Ij.png",
     "country": "",
@@ -1395,6 +1404,33 @@
     "isHttps": false
   },
   {
+    "name": "Pro Arena (1080p)",
+    "logo": "https://i.imgur.com/KQmB9Cc.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "Pro Cinema (1080p)",
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "PRO TV Chisinau (576p)",
+    "logo": "https://i.imgur.com/X5PYRxF.png",
+    "country": "",
+    "language": "",
+    "group": "General;News",
+    "url": "http://178.76.68.60:7441/15/mpegts",
+    "isHttps": false
+  },
+  {
     "name": "PRO TV HD (1080p)",
     "logo": "https://i.imgur.com/zVk3WlT.png",
     "country": "",
@@ -1410,6 +1446,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "Rapsodia TV",
+    "logo": "https://i.imgur.com/mwMG7BB.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {

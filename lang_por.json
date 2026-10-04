@@ -81,7 +81,7 @@
     "isHttps": true
   },
   {
-    "name": "ARTV (Portugal) (720p) [Not 24/7]",
+    "name": "ARTV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/y00t9hr.png",
     "country": "",
     "language": "",
@@ -3240,6 +3240,24 @@
     "isHttps": false
   },
   {
+    "name": "AXN (Portugal) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://188.115.15.121:8000/play/a02z",
+    "isHttps": false
+  },
+  {
+    "name": "AXN White Portugal (576p)",
+    "logo": "https://i.imgur.com/47IKxmt.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://188.115.15.121:8000/play/a01u",
+    "isHttps": false
+  },
+  {
     "name": "Band (720p)",
     "logo": "https://i.imgur.com/1r5T6Pw.png",
     "country": "",
@@ -3555,15 +3573,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
-    "logo": "https://i.imgur.com/47IKxmt.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (Portugal) (720p)",
     "logo": "https://i.imgur.com/tJQckal.png",
     "country": "",
@@ -3606,15 +3615,6 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://znty.dyndns.org:5010/hls/foxlife.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN (Portugal)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://znty.dyndns.org:5010/hls/axn.m3u8",
     "isHttps": false
   },
   {

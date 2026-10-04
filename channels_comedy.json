@@ -1818,15 +1818,6 @@
     "isHttps": false
   },
   {
-    "name": "Laff WJLP (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "http://4.30.180.36:8420/laff/index.m3u8?token=test",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
     "logo": "https://i.imgur.com/avBL8pQ.png",
     "country": "",
@@ -1914,6 +1905,15 @@
     "language": "",
     "group": "Comedy",
     "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "USA Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series;Sports",
+    "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
     "isHttps": false
   },
   {

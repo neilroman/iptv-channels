@@ -3573,6 +3573,15 @@
     "isHttps": true
   },
   {
+    "name": "Kohavision",
+    "logo": "https://i.imgur.com/LOi9yma.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kolalnas TV",
     "logo": "https://i.imgur.com/OyMxcRG.png",
     "country": "",
@@ -5292,6 +5301,15 @@
     "isHttps": true
   },
   {
+    "name": "NTN24 (1080p)",
+    "logo": "https://i.imgur.com/UoKmSAP.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream1.bitred.cl/ntn24/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ntv (720p)",
     "logo": "https://i.imgur.com/gtZLzxq.png",
     "country": "",
@@ -5712,15 +5730,6 @@
     "language": "",
     "group": "News",
     "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "PRO TV Chisinau (480p)",
-    "logo": "https://i.imgur.com/X5PYRxF.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
     "isHttps": true
   },
   {
@@ -7938,15 +7947,6 @@
     "isHttps": false
   },
   {
-    "name": "ATV (Kosovo) (1080p)",
-    "logo": "https://i.imgur.com/lX6sekx.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://5.254.89.106/8709/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ATV+ (1080p)",
     "logo": "https://i.imgur.com/fY9256H.png",
     "country": "",
@@ -8532,15 +8532,6 @@
     "isHttps": false
   },
   {
-    "name": "Kohavision (720p)",
-    "logo": "https://i.imgur.com/LOi9yma.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://5.254.89.106/8705/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Kohenoor News (576p)",
     "logo": "https://i.imgur.com/cD3Ogdh.png",
     "country": "",
@@ -8820,15 +8811,6 @@
     "isHttps": false
   },
   {
-    "name": "NTN24 (720p)",
-    "logo": "https://i.imgur.com/UoKmSAP.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://181.78.12.119:16123/play/ch80/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Obshchestvennoe Nezavisimoe Televidenie (576p)",
     "logo": "https://i.imgur.com/jFP50g2.png",
     "country": "",
@@ -8898,6 +8880,15 @@
     "language": "",
     "group": "News",
     "url": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PRO TV Chisinau (576p)",
+    "logo": "https://i.imgur.com/X5PYRxF.png",
+    "country": "",
+    "language": "",
+    "group": "General;News",
+    "url": "http://178.76.68.60:7441/15/mpegts",
     "isHttps": false
   },
   {

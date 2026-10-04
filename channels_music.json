@@ -6102,15 +6102,6 @@
     "isHttps": false
   },
   {
-    "name": "Elrodi TV (576p)",
-    "logo": "https://i.imgur.com/9oSm30W.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://5.254.89.106/8718/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "EU Music (1080p)",
     "logo": "https://i.imgur.com/fJdvyrG.png",
     "country": "",
@@ -6174,12 +6165,21 @@
     "isHttps": false
   },
   {
-    "name": "H!t Music Channel (480p)",
+    "name": "H!t Music Channel (Hungary) (480p)",
     "logo": "https://i.imgur.com/sqC2hqV.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://hitmusic.hu/hitmusic.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "H!t Music Channel (Romania)",
+    "logo": "https://i.imgur.com/sqC2hqV.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -6363,12 +6363,12 @@
     "isHttps": false
   },
   {
-    "name": "MCM Pop (576p)",
+    "name": "MCM Pop (580p)",
     "logo": "https://i.imgur.com/j31lBL7.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://193.254.245.162/MCM/index.m3u8",
+    "url": "http://188.115.15.121:8000/play/a014",
     "isHttps": false
   },
   {
@@ -6507,6 +6507,15 @@
     "isHttps": false
   },
   {
+    "name": "Music Channel",
+    "logo": "https://i.imgur.com/nadVCxM.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "MusicBox Gold (576p)",
     "logo": "https://i.imgur.com/3arWh0k.png",
     "country": "",
@@ -6540,15 +6549,6 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/153/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "My Music (576p)",
-    "logo": "https://i.imgur.com/7cvPvOx.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://5.254.89.106:80/8821/index.m3u8",
     "isHttps": false
   },
   {
@@ -6606,6 +6606,15 @@
     "isHttps": false
   },
   {
+    "name": "Radio Bruno TV (720p)",
+    "logo": "https://i.imgur.com/WBcwDb7.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Radio Fantastica 98.9 FM (1080p)",
     "logo": "https://i.imgur.com/mpcIbrH.jpg",
     "country": "",
@@ -6642,12 +6651,12 @@
     "isHttps": false
   },
   {
-    "name": "Rumba TV (1080p)",
+    "name": "Rumba TV",
     "logo": "https://i.imgur.com/WtVpWwI.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://45.162.193.35/RUMBATV/index.m3u8",
+    "url": "http://186.148.196.100:8000/play/a02h",
     "isHttps": false
   },
   {
@@ -6696,12 +6705,12 @@
     "isHttps": false
   },
   {
-    "name": "TeleHit (576p)",
+    "name": "TeleHit (1080p)",
     "logo": "https://i.imgur.com/NVxHxJn.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
+    "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
     "isHttps": false
   },
   {

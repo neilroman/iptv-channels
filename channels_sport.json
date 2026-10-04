@@ -1045,7 +1045,7 @@
   },
   {
     "name": "like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36\" group-title=\"Sports\",Prima Sport 5 (480p)",
-    "logo": "",
+    "logo": "https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -3921,6 +3921,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "USA Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series;Sports",
+    "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
     "isHttps": false
   },
   {

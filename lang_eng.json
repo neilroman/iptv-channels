@@ -8028,6 +8028,15 @@
     "isHttps": true
   },
   {
+    "name": "Fox Business Network (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Business",
+    "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Fox News Radio (720p)",
     "logo": "https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png",
     "country": "",
@@ -17073,6 +17082,15 @@
     "isHttps": true
   },
   {
+    "name": "Rada TV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RadiantTV (1080p)",
     "logo": "https://static.wixstatic.com/media/ba7a6c_6cc667c69cf24b94934b9d7f2e9853a5~mv2.png",
     "country": "",
@@ -18771,15 +18789,6 @@
     "language": "",
     "group": "Animation",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260",
-    "isHttps": true
-  },
-  {
-    "name": "Sony BBC Earth HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
     "isHttps": true
   },
   {
@@ -22428,6 +22437,15 @@
     "isHttps": true
   },
   {
+    "name": "UniMas WFUT-DT (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "UniMas WXTV-DT",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",
     "country": "",
@@ -23769,12 +23787,12 @@
     "isHttps": false
   },
   {
-    "name": "Alb UK TV (1080p)",
+    "name": "Alb UK TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/TMg4Kxi.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://5.254.89.106/8794/index.m3u8",
+    "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -24183,12 +24201,12 @@
     "isHttps": false
   },
   {
-    "name": "CNBC (720p)",
+    "name": "CNBC (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
     "country": "",
     "language": "",
     "group": "Business",
-    "url": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test",
+    "url": "http://41.205.93.154/CNBC/index.m3u8",
     "isHttps": false
   },
   {
@@ -24387,15 +24405,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://212.5.144.156/disney/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney International HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://202.70.146.135:8000/play/a04p/index.m3u8",
     "isHttps": false
   },
   {
@@ -24603,15 +24612,6 @@
     "language": "",
     "group": "General",
     "url": "http://190.197.41.183/Fox/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Fox Business Network (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Business",
-    "url": "http://5.254.89.106/6187/index.m3u8",
     "isHttps": false
   },
   {
@@ -24846,15 +24846,6 @@
     "language": "",
     "group": "Comedy",
     "url": "http://tvsen7.aynascope.net/laff/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Laff WJLP (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png",
-    "country": "",
-    "language": "",
-    "group": "Comedy",
-    "url": "http://4.30.180.36:8420/laff/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -25260,15 +25251,6 @@
     "language": "",
     "group": "General",
     "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
-    "isHttps": false
-  },
-  {
-    "name": "MNX (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://59.103.38.46:8000/play/a052/index.m3u8",
     "isHttps": false
   },
   {
@@ -25701,15 +25683,6 @@
     "language": "",
     "group": "Culture",
     "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "PBS WNET (720p)",
-    "logo": "https://i.imgur.com/8c8isLj.png",
-    "country": "",
-    "language": "",
-    "group": "Education",
-    "url": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -26217,12 +26190,12 @@
     "isHttps": false
   },
   {
-    "name": "TeleHit (576p)",
+    "name": "TeleHit (1080p)",
     "logo": "https://i.imgur.com/NVxHxJn.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
+    "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
     "isHttps": false
   },
   {
@@ -26460,15 +26433,6 @@
     "isHttps": false
   },
   {
-    "name": "UniMas WFUT-DT (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test",
-    "isHttps": false
-  },
-  {
     "name": "Unite8 Sports 2 HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
     "country": "",
@@ -26502,6 +26466,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.190.13.8/UnivisionHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "USA Network (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Movies;Series;Sports",
+    "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
     "isHttps": false
   },
   {
@@ -26646,15 +26619,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Zest HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://103.72.101.252:8080/live/2757.m3u8",
     "isHttps": false
   }
 ]
