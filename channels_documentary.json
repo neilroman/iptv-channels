@@ -1458,15 +1458,6 @@
     "isHttps": true
   },
   {
-    "name": "Sky Nature (576p)",
-    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://tvsen6.aynaott.com/skynature/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Smithsonian Channel Pluto TV",
     "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
     "country": "",
@@ -2097,6 +2088,15 @@
     "isHttps": false
   },
   {
+    "name": "National Geographic Wild (India) HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "National Geographic Wild (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "country": "",
@@ -2142,6 +2142,24 @@
     "isHttps": false
   },
   {
+    "name": "Nuta Gold",
+    "logo": "https://i.imgur.com/BEs160o.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Lifestyle",
+    "url": "http://92.114.85.87:8010/play/a00i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Viasat Explore",
+    "logo": "https://i.imgur.com/gDlqO9h.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://92.114.85.87:8014/play/a00g/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Polsat Viasat History (1080p)",
     "logo": "https://i.imgur.com/X16UGUf.png",
     "country": "",
@@ -2151,12 +2169,30 @@
     "isHttps": false
   },
   {
+    "name": "Polsat Viasat Nature",
+    "logo": "https://i.imgur.com/TUcM0oS.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://92.114.85.87:8016/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Reelz (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sony BBC Earth HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
     "isHttps": false
   },
   {
@@ -2205,12 +2241,12 @@
     "isHttps": false
   },
   {
-    "name": "TV8 (Moldova) [Not 24/7]",
+    "name": "TV8 (Moldova)",
     "logo": "https://i.imgur.com/Rsn4oUh.png",
     "country": "",
     "language": "",
     "group": "Documentary;News",
-    "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
+    "url": "http://178.76.68.60:7441/7/mpegts",
     "isHttps": false
   },
   {

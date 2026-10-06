@@ -108,15 +108,6 @@
     "isHttps": true
   },
   {
-    "name": "CBeebies (Poland)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://xyktmobile00.s.gy/ticketview/49092",
-    "isHttps": true
-  },
-  {
     "name": "Dr G Medical Examiner",
     "logo": "",
     "country": "",
@@ -312,6 +303,24 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Polsat Sport Premium 1",
+    "logo": "https://i.imgur.com/hy1SKE0.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://racitonsen.s.gy/PSP1_SHD",
+    "isHttps": true
+  },
+  {
+    "name": "Polsat Sport Premium 2",
+    "logo": "https://i.imgur.com/myyWeXY.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://racitonsen.s.gy/PSP2_SHD",
     "isHttps": true
   },
   {
@@ -513,15 +522,6 @@
     "isHttps": true
   },
   {
-    "name": "TVP1 (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/ewpSjBs.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd",
-    "isHttps": true
-  },
-  {
     "name": "TVT (Poland) (720p)",
     "logo": "https://i.imgur.com/oZyeUzG.png",
     "country": "",
@@ -576,6 +576,15 @@
     "isHttps": false
   },
   {
+    "name": "4 Fun Dance",
+    "logo": "https://i.imgur.com/ZEWHe1B.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://92.114.85.87:8018/play/a00k/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Adventure TV (1080p)",
     "logo": "https://i.imgur.com/VQVr4Nk.png",
     "country": "",
@@ -600,6 +609,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://185.227.34.179:8080/axn-white/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CBeebies (Poland) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://92.114.85.87:8017/play/a004/index.m3u8",
     "isHttps": false
   },
   {
@@ -666,12 +684,48 @@
     "isHttps": false
   },
   {
+    "name": "Eska Rock TV (1080p)",
+    "logo": "https://i.imgur.com/o0Fg19Q.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://92.114.85.87:8016/play/a005/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eska TV (1080p)",
+    "logo": "https://i.imgur.com/N0eH0Cg.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://92.114.85.87:8018/play/a00h/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eska TV Extra (1080p)",
+    "logo": "https://i.imgur.com/pZAFshQ.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://92.114.85.87:8016/play/a008/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FILMBOX+ One (1080p)",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://57.128.231.171:8080/236/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fokus TV",
+    "logo": "https://i.imgur.com/emWWd5k.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
     "isHttps": false
   },
   {
@@ -693,15 +747,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Music\",Eska Rock TV",
-    "logo": "https://i.imgur.com/o0Fg19Q.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"News\",Newsmax Polska",
     "logo": "https://i.imgur.com/2NhPCrY.png",
     "country": "",
@@ -717,6 +762,24 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://57.128.231.171:8080/227/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nuta Gold",
+    "logo": "https://i.imgur.com/BEs160o.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Lifestyle",
+    "url": "http://92.114.85.87:8010/play/a00i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nuta TV",
+    "logo": "https://i.imgur.com/JHFUxDu.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://92.114.85.87:8010/play/a00j/index.m3u8",
     "isHttps": false
   },
   {
@@ -747,6 +810,15 @@
     "isHttps": false
   },
   {
+    "name": "Polsat Music (1080p)",
+    "logo": "https://i.imgur.com/uXygf1l.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://92.114.85.87:8001/play/a00z/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
     "country": "",
@@ -756,12 +828,39 @@
     "isHttps": false
   },
   {
+    "name": "Polsat Sport Fight",
+    "logo": "https://i.imgur.com/8x1FV3o.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Viasat Explore",
+    "logo": "https://i.imgur.com/gDlqO9h.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://92.114.85.87:8014/play/a00g/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Polsat Viasat History (1080p)",
     "logo": "https://i.imgur.com/X16UGUf.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Viasat Nature",
+    "logo": "https://i.imgur.com/TUcM0oS.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://92.114.85.87:8016/play/a004/index.m3u8",
     "isHttps": false
   },
   {
@@ -780,6 +879,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://92.114.85.87:8018/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Super Polsat",
+    "logo": "https://i.imgur.com/6KXJRHc.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://92.114.85.87:8004/play/a00c/index.m3u8",
     "isHttps": false
   },
   {
@@ -828,6 +936,15 @@
     "isHttps": false
   },
   {
+    "name": "TV Republika",
+    "logo": "https://i.imgur.com/ljpK6dZ.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8018/play/a008/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Torun (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/ZJ0yDWI.png",
     "country": "",
@@ -846,6 +963,15 @@
     "isHttps": false
   },
   {
+    "name": "TVC Super",
+    "logo": "https://radiopolska.pl/files/thumb/32049b3594ccdd5/300",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8010/play/a00n/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVP Rozrywka (576p)",
     "logo": "https://i.imgur.com/05Vx5px.png",
     "country": "",
@@ -861,6 +987,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "VOX Music TV (1080p)",
+    "logo": "https://i.imgur.com/N993msF.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://92.114.85.87:8016/play/a00a/index.m3u8",
     "isHttps": false
   }
 ]

@@ -882,6 +882,15 @@
     "isHttps": true
   },
   {
+    "name": "Europe 1 TV (1080p)",
+    "logo": "https://i.ibb.co/rGqB5FcH/Europe1-TV.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Ev-tele (720p)",
     "logo": "https://i.imgur.com/iBlXl2T.png",
     "country": "",
@@ -1422,6 +1431,15 @@
     "isHttps": true
   },
   {
+    "name": "LCP (477p)",
+    "logo": "https://i.imgur.com/k7UImOJ.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Le Figaro TV Ile-de-France (1080p)",
     "logo": "https://i.imgur.com/a8RuRUQ.png",
     "country": "",
@@ -1635,6 +1653,24 @@
     "language": "",
     "group": "Sports",
     "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"General\",Nouvelle Caledonie 1ere (1080p)",
+    "logo": "https://i.imgur.com/BJgNq21.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"News\",Franceinfo (1080p)",
+    "logo": "https://i.imgur.com/eITXz6A.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8",
     "isHttps": true
   },
   {
@@ -3240,15 +3276,6 @@
     "isHttps": true
   },
   {
-    "name": "W9 (1080p)",
-    "logo": "https://i.imgur.com/reYeMuE.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Walker Texas Ranger",
     "logo": "https://i.imgur.com/0N7EhuD.png",
     "country": "",
@@ -3354,6 +3381,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://145.239.5.177/361/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ (720p)",
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3744,6 +3780,15 @@
     "isHttps": false
   },
   {
+    "name": "Nicktoons (France) (1080p)",
+    "logo": "https://i.imgur.com/OWRUPA4.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://193.254.245.162/NICKELODEON/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nollywood TV (720p)",
     "logo": "https://i.imgur.com/29L2gbb.png",
     "country": "",
@@ -4092,6 +4137,15 @@
     "language": "",
     "group": "General",
     "url": "http://69.64.57.208/tvt/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "W9 (1086p)",
+    "logo": "https://i.imgur.com/reYeMuE.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://5.180.164.197:8080/W9/index.m3u8",
     "isHttps": false
   }
 ]

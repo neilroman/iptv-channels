@@ -54,15 +54,6 @@
     "isHttps": true
   },
   {
-    "name": "3ABN Latino",
-    "logo": "https://i.imgur.com/Ugb4AFo.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "3ABN Praise Him Music Network",
     "logo": "https://i.imgur.com/iBcqT8L.png",
     "country": "",
@@ -1188,6 +1179,15 @@
     "isHttps": true
   },
   {
+    "name": "Canal Mas (720p)",
+    "logo": "https://i.imgur.com/gs1L1mW.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://canalmasuruguay.com/hls/master-abr.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Canal Oracion Con Son (1080p)",
     "logo": "https://i.imgur.com/rfnFqU3.png",
     "country": "",
@@ -1914,6 +1914,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Elim TV (720p)",
+    "logo": "https://i.imgur.com/payIg0N.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8",
     "isHttps": true
   },
   {
@@ -4473,6 +4482,15 @@
     "isHttps": true
   },
   {
+    "name": "Nuevo Tiempo TV",
+    "logo": "https://i.imgur.com/eCPzibM.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Oasis TV (Colombia) (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/VKYzFpZ.png",
     "country": "",
@@ -4977,12 +4995,12 @@
     "isHttps": true
   },
   {
-    "name": "RCC TV (1080p) [Not 24/7]",
+    "name": "RCC TV",
     "logo": "https://i.imgur.com/qdjBnRl.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+    "url": "https://xyktmobile00.s.gy/TICK_RCC",
     "isHttps": true
   },
   {
@@ -5001,15 +5019,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Rhema TV (720p)",
-    "logo": "https://i.imgur.com/5o821rT.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6336,6 +6345,15 @@
     "isHttps": true
   },
   {
+    "name": "3ABN Latino (1080p)",
+    "logo": "https://i.imgur.com/Ugb4AFo.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://138.59.177.78:9999/play/a0a3/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "4E (1080p)",
     "logo": "https://i.imgur.com/Na0UCV7.png",
     "country": "",
@@ -6531,15 +6549,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Elim TV (576p)",
-    "logo": "https://i.imgur.com/payIg0N.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://38.252.238.18:8000/play/a01k/index.m3u8",
     "isHttps": false
   },
   {
@@ -6903,15 +6912,6 @@
     "isHttps": false
   },
   {
-    "name": "Nuevo Tiempo TV (1080p)",
-    "logo": "https://i.imgur.com/eCPzibM.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Paighan TV (1080p)",
     "logo": "https://i.imgur.com/zokC3gO.png",
     "country": "",
@@ -6972,6 +6972,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://168.197.104.22/REDE_VIDA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rhema TV (1080p)",
+    "logo": "https://i.imgur.com/5o821rT.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.171.64.30:6060/play/a04k/index.m3u8",
     "isHttps": false
   },
   {

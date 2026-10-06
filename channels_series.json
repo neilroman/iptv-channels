@@ -2187,15 +2187,6 @@
     "isHttps": true
   },
   {
-    "name": "Novelisima",
-    "logo": "https://i.imgur.com/8dUS3Ih.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
-    "isHttps": true
-  },
-  {
     "name": "Numb3rs",
     "logo": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
     "country": "",
@@ -4419,15 +4410,6 @@
     "isHttps": false
   },
   {
-    "name": "Mega Ficcion (1080p)",
-    "logo": "https://i.imgur.com/aQdhJie.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Mir Seriala (576p)",
     "logo": "https://i.imgur.com/uzj7wVp.png",
     "country": "",
@@ -4443,6 +4425,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Novelisima (1080p)",
+    "logo": "https://i.imgur.com/8dUS3Ih.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://138.59.177.78:9999/play/a0gg/index.m3u8",
     "isHttps": false
   },
   {
