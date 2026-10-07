@@ -171,52 +171,7 @@
     "isHttps": true
   },
   {
-    "name": "Kanal ZERO TV",
-    "logo": "https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://racitonsen.s.gy/ZERO_PL",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Comedy",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://racitonsen.s.gy/FB_COMEDY_PL",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Emotion",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://racitonsen.s.gy/FB_EMOTION_PL",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Festival Poland",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://racitonsen.s.gy/FB_FESTIVAL_PL",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits",
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://racitonsen.s.gy/FB_HITS_PL",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin (Hungary)",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -225,7 +180,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin Poland",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin (Hungary) Poland",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -258,15 +213,6 @@
     "language": "",
     "group": "General",
     "url": "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pixel TV (Poland) (720p)",
-    "logo": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8",
     "isHttps": true
   },
   {
@@ -303,24 +249,6 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Polsat Sport Premium 1",
-    "logo": "https://i.imgur.com/hy1SKE0.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://racitonsen.s.gy/PSP1_SHD",
-    "isHttps": true
-  },
-  {
-    "name": "Polsat Sport Premium 2",
-    "logo": "https://i.imgur.com/myyWeXY.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://racitonsen.s.gy/PSP2_SHD",
     "isHttps": true
   },
   {
@@ -603,6 +531,15 @@
     "isHttps": false
   },
   {
+    "name": "AXN Spin (Poland)",
+    "logo": "https://i.imgur.com/LGEbwnT.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://92.114.85.87:8010/play/a00b/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AXN White Poland (576p)",
     "logo": "https://i.imgur.com/47IKxmt.png",
     "country": "",
@@ -711,6 +648,15 @@
     "isHttps": false
   },
   {
+    "name": "FILMBOX+ Festival Poland",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.114.85.87:8018/play/a009/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FILMBOX+ One (1080p)",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "country": "",
@@ -726,6 +672,15 @@
     "language": "",
     "group": "General",
     "url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Home TV",
+    "logo": "https://i.imgur.com/qAFR1Cr.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8010/play/a00h/index.m3u8",
     "isHttps": false
   },
   {
@@ -753,6 +708,42 @@
     "language": "",
     "group": "News",
     "url": "http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Antena HD",
+    "logo": "https://i.imgur.com/obwYQZC.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://92.114.85.87:8010/play/a00g/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Undefined\",Power TV (Poland)",
+    "logo": "https://i.imgur.com/YtaCmIc.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8010/play/a00k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVP 3 Warszawa",
+    "logo": "https://i.imgur.com/AfZOO8U.jpg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8010/play/a006/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVS (Poland)",
+    "logo": "https://i.imgur.com/RHwlp35.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8010/play/a00e/index.m3u8",
     "isHttps": false
   },
   {
@@ -816,6 +807,15 @@
     "language": "",
     "group": "Music",
     "url": "http://92.114.85.87:8001/play/a00z/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Rodzina HD",
+    "logo": "https://i.imgur.com/IS0AW48.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8014/play/a00i/index.m3u8",
     "isHttps": false
   },
   {
@@ -987,6 +987,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat True Crime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Viasat_True_Crime_%2820.05.2026%29.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8010/play/a00a/index.m3u8",
     "isHttps": false
   },
   {

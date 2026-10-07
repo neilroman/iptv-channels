@@ -522,12 +522,12 @@
     "isHttps": true
   },
   {
-    "name": "Asianet HD (720p)",
+    "name": "Asianet HD (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/Wv7MOzg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8",
     "isHttps": true
   },
   {
@@ -2790,12 +2790,12 @@
     "isHttps": true
   },
   {
-    "name": "LAMIL35 TV (480p)",
+    "name": "LAMIL35 TV (720p)",
     "logo": "https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg",
     "country": "",
     "language": "",
     "group": "Animation;Classic;Entertainment",
-    "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
+    "url": "https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2871,7 +2871,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin (Hungary)",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -2898,7 +2898,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin Poland",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin (Hungary) Poland",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -7305,6 +7305,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Antena HD",
+    "logo": "https://i.imgur.com/obwYQZC.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://92.114.85.87:8010/play/a00g/index.m3u8",
     "isHttps": false
   },
   {

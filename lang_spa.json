@@ -2412,15 +2412,6 @@
     "isHttps": true
   },
   {
-    "name": "Canal 4 Posadas (576p)",
-    "logo": "https://i.imgur.com/tElJr3e.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canal 4 RD (1080p)",
     "logo": "https://i.imgur.com/3AqCAji.png",
     "country": "",
@@ -2895,15 +2886,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal CHV Noticias",
-    "logo": "https://i.imgur.com/sx8Aaxr.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS",
     "isHttps": true
   },
   {
@@ -4158,6 +4140,15 @@
     "isHttps": true
   },
   {
+    "name": "Color Vision (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/rkgWToA.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Colosal TV",
     "logo": "https://i.imgur.com/0DZB3eB.png",
     "country": "",
@@ -4965,15 +4956,6 @@
     "language": "",
     "group": "General",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DreamWorks Channel Latin America",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Animation",
-    "url": "https://xyktmobile00.s.gy/PPV913_DREAMWO",
     "isHttps": true
   },
   {
@@ -6390,24 +6372,6 @@
     "isHttps": true
   },
   {
-    "name": "HBO Drama (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "HBO Hits West HD (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HCH (720p)",
     "logo": "https://i.imgur.com/2CB5ezq.png",
     "country": "",
@@ -7551,12 +7515,12 @@
     "isHttps": true
   },
   {
-    "name": "LAMIL35 TV (480p)",
+    "name": "LAMIL35 TV (720p)",
     "logo": "https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg",
     "country": "",
     "language": "",
     "group": "Animation;Classic;Entertainment",
-    "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
+    "url": "https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7827,15 +7791,6 @@
     "language": "",
     "group": "News",
     "url": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVE Internacional Asia-Oceania",
-    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://racitonsen.s.gy/TVE_ASIA",
     "isHttps": true
   },
   {
@@ -8475,6 +8430,51 @@
     "language": "",
     "group": "Animation",
     "url": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Maxcine (720p)",
+    "logo": "https://gia.tv/streams/pptv/208138.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Maxcine 2 (720p)",
+    "logo": "https://gia.tv/streams/pptv/209163.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Maxcine Comedy (720p)",
+    "logo": "https://gia.tv/streams/pptv/208730.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Maxcine Family (720p)",
+    "logo": "https://gia.tv/streams/pptv/208817.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Maxcine Kids (720p)",
+    "logo": "https://gia.tv/streams/pptv/209909.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -12213,12 +12213,12 @@
     "isHttps": true
   },
   {
-    "name": "RCC TV",
+    "name": "RCC TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/qdjBnRl.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://xyktmobile00.s.gy/TICK_RCC",
+    "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
     "isHttps": true
   },
   {
@@ -15237,15 +15237,6 @@
     "isHttps": true
   },
   {
-    "name": "TV Aire",
-    "logo": "https://i.imgur.com/7gHFKPZ.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV Andes (720p) [Not 24/7]",
     "logo": "https://i.ibb.co/c1YHQ8K/tvandes.png",
     "country": "",
@@ -15927,6 +15918,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8",
     "isHttps": true
   },
   {
@@ -17649,6 +17649,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC Series Latin America (1080p)",
+    "logo": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://45.171.64.30:6060/play/a005/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "America Paraguay (720p)",
     "logo": "https://i.imgur.com/rCEu3fM.png",
     "country": "",
@@ -17709,6 +17718,15 @@
     "language": "",
     "group": "News",
     "url": "http://45.171.108.253:8888/ATV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Aunar (1080p)",
+    "logo": "https://i.imgur.com/BfaCaZF.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Travel",
+    "url": "http://190.128.214.97:64333/play/a057/index.m3u8",
     "isHttps": false
   },
   {
@@ -18024,6 +18042,15 @@
     "language": "",
     "group": "General",
     "url": "http://45.5.118.188:8000/play/a00j/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal 4 Posadas (1080p)",
+    "logo": "https://i.imgur.com/tElJr3e.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://190.128.214.97:64333/play/a06l/index.m3u8",
     "isHttps": false
   },
   {
@@ -19260,6 +19287,15 @@
     "isHttps": false
   },
   {
+    "name": "Mega Ficcion (1080p)",
+    "logo": "https://i.imgur.com/aQdhJie.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Meganoticias Ahora (1080p)",
     "logo": "https://i.imgur.com/JCVEqTc.png",
     "country": "",
@@ -19788,6 +19824,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://45.171.64.30:6060/play/a04k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rock & Pop (1080p)",
+    "logo": "https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://190.128.214.97:64333/play/a032/index.m3u8",
     "isHttps": false
   },
   {
@@ -20418,6 +20463,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.190.13.8/TUDNHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV Aire (1080p)",
+    "logo": "https://i.imgur.com/7gHFKPZ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
     "isHttps": false
   },
   {

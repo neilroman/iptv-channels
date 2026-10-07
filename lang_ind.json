@@ -171,6 +171,15 @@
     "isHttps": true
   },
   {
+    "name": "Dens Food Channel [Not 24/7]",
+    "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dhamma TV (720p) [Not 24/7]",
     "logo": "https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png",
     "country": "",
@@ -279,15 +288,6 @@
     "isHttps": true
   },
   {
-    "name": "GTV (Indonesia) HD",
-    "logo": "https://i.imgur.com/jjuKnYs.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://mncmedia.malingtv.workers.dev/gtv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Huma Betang TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/xBTqOEu.png",
     "country": "",
@@ -312,15 +312,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://tvstreamcast.com/indonesiana.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "iNews HD (720p)",
-    "logo": "https://i.imgur.com/M2R3lfg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mncmedia.malingtv.workers.dev/inews.m3u8",
     "isHttps": true
   },
   {
@@ -369,15 +360,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Cooking\",Dens Food Channel [Geo-blocked]",
-    "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education\",Dens Knowledge [Geo-blocked]",
     "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg",
     "country": "",
@@ -402,15 +384,6 @@
     "language": "",
     "group": "General",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",SCTV [Geo-blocked]",
-    "logo": "https://i.imgur.com/EMmOvnQ.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8",
     "isHttps": true
   },
   {
@@ -459,15 +432,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Sports\",TVRI Sport [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Jak TV [Geo-blocked]",
     "logo": "https://i.imgur.com/xyLLLOi.png",
     "country": "",
@@ -510,15 +474,6 @@
     "language": "",
     "group": "General",
     "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Magna Channel (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/tfJo0SO.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -690,15 +645,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RCTI HD (720p)",
-    "logo": "https://i.imgur.com/iLFx8ia.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://mncmedia.malingtv.workers.dev/rcti.m3u8",
     "isHttps": true
   },
   {
@@ -1350,12 +1296,39 @@
     "isHttps": false
   },
   {
+    "name": "GTV (Indonesia) HD (1080p)",
+    "logo": "https://i.imgur.com/jjuKnYs.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://202.150.172.59/GTVHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HITS Movies (576p)",
     "logo": "https://i.imgur.com/kyE3vXf.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls",
+    "isHttps": false
+  },
+  {
+    "name": "Indosiar HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://202.150.172.59/Indosiar/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "iNews HD (1080p)",
+    "logo": "https://i.imgur.com/M2R3lfg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://202.150.172.59/iNews/index.m3u8",
     "isHttps": false
   },
   {
@@ -1467,6 +1440,15 @@
     "isHttps": false
   },
   {
+    "name": "Magna Channel (1080p)",
+    "logo": "https://i.imgur.com/tfJo0SO.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://202.150.172.59/MagnaChannel/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nabawi TV (720p)",
     "logo": "https://i.imgur.com/O8WONFB.png",
     "country": "",
@@ -1494,12 +1476,21 @@
     "isHttps": false
   },
   {
-    "name": "Rajawali TV (576i)",
+    "name": "Rajawali TV (1080p)",
     "logo": "https://i.imgur.com/dlsv1sl.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://175.158.57.130:8888/stream/channelid/412436804",
+    "url": "http://202.150.172.59/RajawaliTV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RCTI HD (1080p)",
+    "logo": "https://i.imgur.com/iLFx8ia.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://202.150.172.59/RCTIHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -1536,6 +1527,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://58.8.186.128:10007/bysid/2811",
+    "isHttps": false
+  },
+  {
+    "name": "SCTV",
+    "logo": "https://i.imgur.com/EMmOvnQ.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8",
     "isHttps": false
   },
   {
@@ -1608,6 +1608,15 @@
     "language": "",
     "group": "Legislative",
     "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVRI Sport (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://202.150.172.59/TVRISport/index.m3u8",
     "isHttps": false
   },
   {

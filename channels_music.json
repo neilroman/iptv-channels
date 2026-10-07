@@ -3690,6 +3690,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Romania Resita (576p) [Not 24/7]",
+    "logo": "https://www.radioresita.ro/wp-content/themes/radioresita/images/custom/logo-main.svg",
+    "country": "",
+    "language": "",
+    "group": "General;Music",
+    "url": "https://stream3.srr.ro/RadioResita/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Romania Targu Mures (576p)",
     "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg",
     "country": "",
@@ -6720,6 +6729,15 @@
     "language": "",
     "group": "Music",
     "url": "http://158.172.217.18:8000/play/a01k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rock & Pop (1080p)",
+    "logo": "https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://190.128.214.97:64333/play/a032/index.m3u8",
     "isHttps": false
   },
   {
