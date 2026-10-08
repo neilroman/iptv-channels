@@ -387,7 +387,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TVRI SD (480p) [Geo-blocked]",
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TVRI (480p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
     "country": "",
     "language": "",
@@ -528,15 +528,6 @@
     "language": "",
     "group": "General",
     "url": "https://mgstv.siar.us/live/mgstv.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "MNCTV HD (720p)",
-    "logo": "https://i.imgur.com/SK8pjQy.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://mncmedia.malingtv.workers.dev/mnctv.m3u8",
     "isHttps": true
   },
   {
@@ -864,15 +855,6 @@
     "isHttps": true
   },
   {
-    "name": "TVRI (1080i)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TVRI Aceh (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
     "country": "",
@@ -969,6 +951,15 @@
     "language": "",
     "group": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVRI HD (1080i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
     "isHttps": true
   },
   {
@@ -1449,6 +1440,15 @@
     "isHttps": false
   },
   {
+    "name": "MNCTV HD",
+    "logo": "https://i.imgur.com/SK8pjQy.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nabawi TV (720p)",
     "logo": "https://i.imgur.com/O8WONFB.png",
     "country": "",
@@ -1473,15 +1473,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Rajawali TV (1080p)",
-    "logo": "https://i.imgur.com/dlsv1sl.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://202.150.172.59/RajawaliTV/index.m3u8",
     "isHttps": false
   },
   {

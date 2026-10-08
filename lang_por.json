@@ -432,6 +432,15 @@
     "isHttps": true
   },
   {
+    "name": "Comedy Central Brasil (480p)",
+    "logo": "https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Comedy Central Pluto TV BR",
     "logo": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
     "country": "",
@@ -861,6 +870,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"General\",TV Guarapari (720p)",
+    "logo": "https://i.imgur.com/eDNzwK0.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3885,6 +3903,15 @@
     "language": "",
     "group": "Series",
     "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast (1080p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
     "isHttps": false
   },
   {

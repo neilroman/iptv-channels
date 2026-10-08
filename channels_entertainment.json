@@ -522,7 +522,7 @@
     "isHttps": true
   },
   {
-    "name": "Asianet HD (720p) [Not 24/7]",
+    "name": "Asianet HD (1080p)",
     "logo": "https://i.imgur.com/Wv7MOzg.png",
     "country": "",
     "language": "",
@@ -2907,15 +2907,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education;Entertainment\",Edutainment TV (1080p)",
     "logo": "https://www.mongolsat.mn/assets/img/channel/8.png",
     "country": "",
@@ -2949,6 +2940,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {
@@ -6786,6 +6786,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Channel Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "E! (Poland) (1080p)",
     "logo": "https://i.imgur.com/TWFDkap.png",
     "country": "",
@@ -7506,15 +7515,6 @@
     "isHttps": false
   },
   {
-    "name": "Oxygen (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Pashto 1 (1080p)",
     "logo": "https://i.imgur.com/tUsLDRe.png",
     "country": "",
@@ -7902,7 +7902,7 @@
     "isHttps": false
   },
   {
-    "name": "TNT (576p)",
+    "name": "TNT (Russia) (576p)",
     "logo": "https://i.imgur.com/T4A6rEI.png",
     "country": "",
     "language": "",
@@ -7911,7 +7911,7 @@
     "isHttps": false
   },
   {
-    "name": "TNT HD (1080p)",
+    "name": "TNT (Russia) HD (1080p)",
     "logo": "https://i.imgur.com/T4A6rEI.png",
     "country": "",
     "language": "",

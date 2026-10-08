@@ -9081,12 +9081,12 @@
     "isHttps": true
   },
   {
-    "name": "History TV18 HD (1080p) [Geo-blocked]",
+    "name": "History TV18 HD",
     "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+    "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
     "isHttps": true
   },
   {
@@ -11034,7 +11034,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Relax\",FunBox UHD",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Relax\",FunBox UHD SD",
     "logo": "https://i.imgur.com/9FJct9o.png",
     "country": "",
     "language": "",
@@ -11835,6 +11835,15 @@
     "isHttps": true
   },
   {
+    "name": "Med.TV (720p)",
+    "logo": "https://i.imgur.com/ejGeXPD.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "MediBizTV (720p)",
     "logo": "https://www.medibiztv.com/assets/logo-E76jcvP9.png",
     "country": "",
@@ -12039,6 +12048,15 @@
     "language": "",
     "group": "Series",
     "url": "https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Military History (720p)",
+    "logo": "https://i.imgur.com/S1SnpoA.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2",
     "isHttps": true
   },
   {
@@ -21762,24 +21780,6 @@
     "isHttps": true
   },
   {
-    "name": "TVM (Malta) (1080p)",
-    "logo": "https://i.imgur.com/V0iMsED.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TVMsport+ (1080p)",
-    "logo": "https://i.imgur.com/YIreFti.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TVNZ 1 [Geo-blocked]",
     "logo": "https://i.imgur.com/Nx76HUE.png",
     "country": "",
@@ -24003,6 +24003,15 @@
     "isHttps": false
   },
   {
+    "name": "Cinemax West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "City 41 (576p)",
     "logo": "https://i.imgur.com/U5BdY2g.png",
     "country": "",
@@ -24180,6 +24189,24 @@
     "language": "",
     "group": "Music",
     "url": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Destination America (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Channel Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
     "isHttps": false
   },
   {
@@ -25515,15 +25542,6 @@
     "isHttps": false
   },
   {
-    "name": "Oxygen (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Pamir TV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/sCBbBOj.png",
     "country": "",
@@ -25638,6 +25656,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://103.250.28.74:8000/play/a03e/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Raizal TV (1080p)",
+    "logo": "https://i.imgur.com/qWNSxq8.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8",
     "isHttps": false
   },
   {
@@ -26055,6 +26082,15 @@
     "isHttps": false
   },
   {
+    "name": "TBS (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://193.254.245.162/TBS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TeenNick (406p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
     "country": "",
@@ -26154,6 +26190,15 @@
     "isHttps": false
   },
   {
+    "name": "TNT (United States) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://193.254.245.162/TNT-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Together TV (576p)",
     "logo": "https://i.imgur.com/wf62HhM.png",
     "country": "",
@@ -26178,6 +26223,15 @@
     "language": "",
     "group": "Animation",
     "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast (1080p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
     "isHttps": false
   },
   {
@@ -26223,6 +26277,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "truTV (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -26286,6 +26349,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+    "isHttps": false
+  },
+  {
+    "name": "TVM (Malta) [Geo-blocked]",
+    "logo": "https://i.imgur.com/V0iMsED.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://80.79.6.221:25461/smash/public/19",
     "isHttps": false
   },
   {

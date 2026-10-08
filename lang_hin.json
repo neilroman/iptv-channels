@@ -765,6 +765,15 @@
     "isHttps": true
   },
   {
+    "name": "Foodxp (1080p)",
+    "logo": "https://i.imgur.com/zOWog5j.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://techtraveleat.in/stream.m3u8?id=foodxp",
+    "isHttps": true
+  },
+  {
     "name": "Gangaur TV (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png",
     "country": "",
@@ -864,12 +873,12 @@
     "isHttps": true
   },
   {
-    "name": "History TV18 HD (1080p) [Geo-blocked]",
+    "name": "History TV18 HD",
     "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+    "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
     "isHttps": true
   },
   {
@@ -1107,21 +1116,21 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\" group-title=\"News\",Northeast Live (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NORTH_EAST_LIVE/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {

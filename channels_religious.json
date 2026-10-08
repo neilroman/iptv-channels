@@ -3897,15 +3897,6 @@
     "isHttps": true
   },
   {
-    "name": "Maria Vision (360p) [Not 24/7]",
-    "logo": "https://i.imgur.com/GylOPxE.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Maria Vision Italia (1080p)",
     "logo": "https://i.imgur.com/gP3XAlV.jpeg",
     "country": "",
@@ -6855,6 +6846,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://tvsen7.aynascope.net/MadaniTV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Maria Vision (1080p)",
+    "logo": "https://i.imgur.com/GylOPxE.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://200.122.223.13:55000/play/a022/index.m3u8",
     "isHttps": false
   },
   {

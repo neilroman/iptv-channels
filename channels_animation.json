@@ -1224,6 +1224,24 @@
     "isHttps": false
   },
   {
+    "name": "Cartoon Network Latin America North Atlantic (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://38.252.238.18:8000/play/a053/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network Latin America South Atlantic (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -1383,6 +1401,15 @@
     "language": "",
     "group": "Animation",
     "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast (1080p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
     "isHttps": false
   },
   {

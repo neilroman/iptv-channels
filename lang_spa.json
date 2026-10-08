@@ -7308,15 +7308,6 @@
     "isHttps": true
   },
   {
-    "name": "La Kalle (720p)",
-    "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "La Melinkana TV (720p)",
     "logo": "https://i.imgur.com/I0nzI1y.png",
     "country": "",
@@ -7812,15 +7803,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"Culture\",Tele Amiga (480p) [Not 24/7]",
-    "logo": "https://i.imgur.com/gBZFZNv.png",
-    "country": "",
-    "language": "",
-    "group": "Culture",
-    "url": "https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"Entertainment\",Canal TRO + (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/Vs1H6bK.png",
     "country": "",
@@ -8295,15 +8277,6 @@
     "language": "",
     "group": "General",
     "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Maria Vision (360p) [Not 24/7]",
-    "logo": "https://i.imgur.com/GylOPxE.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
     "isHttps": true
   },
   {
@@ -15975,6 +15948,15 @@
     "isHttps": true
   },
   {
+    "name": "TVes (1080p)",
+    "logo": "https://i.imgur.com/QX5DVUB.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVGracia",
     "logo": "https://i.imgur.com/tMl4ISO.png",
     "country": "",
@@ -17838,6 +17820,15 @@
     "isHttps": false
   },
   {
+    "name": "Azteca Uno (1080p)",
+    "logo": "https://i.imgur.com/rRxgBtI.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://38.44.109.41:8003/play/a033/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BabyFirst Spanish (1080p)",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "country": "",
@@ -18243,6 +18234,24 @@
     "isHttps": false
   },
   {
+    "name": "Cartoon Network Latin America North Atlantic (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://38.252.238.18:8000/play/a053/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network Latin America South Atlantic (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CDN (576p)",
     "logo": "https://i.imgur.com/eQyjIgf.png",
     "country": "",
@@ -18348,6 +18357,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinemax Latin America HD (1080p)",
+    "logo": "https://i.imgur.com/cZWoJWD.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://38.65.175.84:8000/play/a093/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinemax West (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
     "isHttps": false
   },
   {
@@ -18501,6 +18528,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://15.204.246.24:8080/DHEHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Channel Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Kids Latin America Mexico (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://38.65.175.84:8000/play/a0an/index.m3u8",
     "isHttps": false
   },
   {
@@ -19035,6 +19080,15 @@
     "isHttps": false
   },
   {
+    "name": "Investigation Discovery Latin America South (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "JN 19 (720p)",
     "logo": "https://i.imgur.com/dudxyqk.png",
     "country": "",
@@ -19122,6 +19176,15 @@
     "language": "",
     "group": "General;Public",
     "url": "http://185.47.212.25:8080/tdp_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "La Kalle (1080p)",
+    "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8",
     "isHttps": false
   },
   {
@@ -19257,6 +19320,15 @@
     "language": "",
     "group": "General",
     "url": "http://200.7.219.221:8088/live/livetv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Maria Vision (1080p)",
+    "logo": "https://i.imgur.com/GylOPxE.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://200.122.223.13:55000/play/a022/index.m3u8",
     "isHttps": false
   },
   {
@@ -20079,12 +20151,39 @@
     "isHttps": false
   },
   {
+    "name": "TBS (720p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://193.254.245.162/TBS/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TC Television (1080p)",
     "logo": "https://i.imgur.com/okK02EN.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://45.224.97.181:9999/TC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TCM Latin America South (1080p)",
+    "logo": "https://i.imgur.com/QpDkrmT.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.171.64.30:6060/play/a014/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tele Amiga (720p)",
+    "logo": "https://i.imgur.com/gBZFZNv.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8",
     "isHttps": false
   },
   {
@@ -20367,12 +20466,12 @@
     "isHttps": false
   },
   {
-    "name": "Tigo Sports (Paraguay) (1080p)",
+    "name": "Tigo Sports (Paraguay)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+    "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
     "isHttps": false
   },
   {
@@ -20403,12 +20502,48 @@
     "isHttps": false
   },
   {
+    "name": "TNT (United States) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://193.254.245.162/TNT-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.171.64.30:6060/play/a03i/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TNT Novelas (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
     "country": "",
     "language": "",
     "group": "Series",
     "url": "http://190.93.224.42/TNT-NOVELAS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT Series Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://168.196.127.137:6001/play/a095/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast (1080p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
     "isHttps": false
   },
   {
