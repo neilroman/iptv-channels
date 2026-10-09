@@ -959,16 +959,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Alhurra Iraq (720p)",
-    "logo": "https://i.imgur.com/fsgQDcN.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8",
+    "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
     "isHttps": true
   },
   {
@@ -3381,15 +3372,6 @@
     "language": "",
     "group": "News",
     "url": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "InfoWars (1080p)",
-    "logo": "https://i.imgur.com/a7h9epj.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8145,6 +8127,15 @@
     "isHttps": false
   },
   {
+    "name": "CNN Chile (1080p)",
+    "logo": "https://i.imgur.com/t4EXijz.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CNN Prima News (1080p)",
     "logo": "https://i.imgur.com/elZyUjX.png",
     "country": "",
@@ -8394,6 +8385,15 @@
     "language": "",
     "group": "News",
     "url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HLN (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
     "isHttps": false
   },
   {
@@ -8888,7 +8888,7 @@
     "country": "",
     "language": "",
     "group": "General;News",
-    "url": "http://178.76.68.60:7441/15/mpegts",
+    "url": "http://178.76.68.60:7442/15/mpegts",
     "isHttps": false
   },
   {
@@ -9230,7 +9230,7 @@
     "country": "",
     "language": "",
     "group": "Documentary;News",
-    "url": "http://178.76.68.60:7441/7/mpegts",
+    "url": "http://178.76.68.60:7442/7/mpegts",
     "isHttps": false
   },
   {

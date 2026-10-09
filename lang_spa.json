@@ -17604,15 +17604,6 @@
     "isHttps": false
   },
   {
-    "name": "Adult Swim Latin America (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Alcarria TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/pzJAYan.png",
     "country": "",
@@ -17655,6 +17646,15 @@
     "language": "",
     "group": "General",
     "url": "http://45.171.108.253:8888/AMERICA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Animal Planet Latin America HD (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -18252,6 +18252,15 @@
     "isHttps": false
   },
   {
+    "name": "Cartoon Network Latin America South Pacific (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://45.167.1.138:8000/play/a00w",
+    "isHttps": false
+  },
+  {
     "name": "CDN (576p)",
     "logo": "https://i.imgur.com/eQyjIgf.png",
     "country": "",
@@ -18432,6 +18441,15 @@
     "isHttps": false
   },
   {
+    "name": "CNN Chile (1080p)",
+    "logo": "https://i.imgur.com/t4EXijz.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Comedy Central Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
     "country": "",
@@ -18537,6 +18555,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Kids Latin America Colombia (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://38.134.250.110:8000/play/a003/index.m3u8",
     "isHttps": false
   },
   {
@@ -18891,6 +18918,15 @@
     "isHttps": false
   },
   {
+    "name": "Fox Sports (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FunBox",
     "logo": "https://i.imgur.com/9MXM6jD.png",
     "country": "",
@@ -19026,6 +19062,15 @@
     "isHttps": false
   },
   {
+    "name": "HBO Latin America (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://15.204.246.24:8080/HBOHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HBO Movies (720p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png",
     "country": "",
@@ -19059,6 +19104,15 @@
     "language": "",
     "group": "Music",
     "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HLN (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
     "isHttps": false
   },
   {
@@ -20043,6 +20097,15 @@
     "isHttps": false
   },
   {
+    "name": "Space (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Channel (Chile) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
@@ -20430,6 +20493,15 @@
     "isHttps": false
   },
   {
+    "name": "Television Publica (1080p)",
+    "logo": "https://i.imgur.com/XGrkzN3.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TeleXitos (1080p)",
     "logo": "",
     "country": "",
@@ -20475,6 +20547,15 @@
     "isHttps": false
   },
   {
+    "name": "TLC Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Tlnovelas Latin America (1080p)",
     "logo": "https://i.imgur.com/Rvm38Mu.png",
     "country": "",
@@ -20517,6 +20598,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.171.64.30:6060/play/a03i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT Latin America Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://181.78.211.244:8005/play/a09g/index.m3u8",
     "isHttps": false
   },
   {
@@ -20790,6 +20880,15 @@
     "isHttps": false
   },
   {
+    "name": "Universal TV Latin America Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://38.134.250.110:8000/play/a006/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Univision Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
     "country": "",
@@ -20940,6 +21039,15 @@
     "language": "",
     "group": "General",
     "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Warner Channel Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
     "isHttps": false
   },
   {

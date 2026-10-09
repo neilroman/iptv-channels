@@ -608,16 +608,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Alhurra Iraq (720p)",
-    "logo": "https://i.imgur.com/fsgQDcN.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8",
+    "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
     "isHttps": true
   },
   {
@@ -1296,6 +1287,15 @@
     "isHttps": true
   },
   {
+    "name": "Jawhara TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/mRSQ5bP.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Jeddah Radio (1080p)",
     "logo": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
     "country": "",
@@ -1521,24 +1521,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"General\",MBC 1 USA",
-    "logo": "https://i.imgur.com/CiA3plN.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Kids\",MBC 3 USA (1080p)",
-    "logo": "https://i.imgur.com/PVt8OPN.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/92.0.4515.131 Safari/537.36\" group-title=\"General\",Musawa Channel (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/GB2Q9kl.png",
     "country": "",
@@ -1689,6 +1671,24 @@
     "language": "",
     "group": "General",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MBC 1 USA (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/CiA3plN.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MBC 3 USA (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/PVt8OPN.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
     "isHttps": true
   },
   {
@@ -2985,15 +2985,6 @@
     "language": "",
     "group": "Religious",
     "url": "http://ar.imamhossaintv.com/live/ih2.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Jawhara TV (720p) [Not 24/7]",
-    "logo": "https://i.imgur.com/mRSQ5bP.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8",
     "isHttps": false
   },
   {

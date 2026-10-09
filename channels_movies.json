@@ -621,15 +621,6 @@
     "isHttps": true
   },
   {
-    "name": "CineMaraton (576i)",
-    "logo": "https://i.imgur.com/BY8UZa0.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cinemaraton Plus (1080i)",
     "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
     "country": "",
@@ -924,15 +915,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
-    "name": "Film Mania (576p)",
-    "logo": "https://i.imgur.com/crhsomk.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dokagents.site/live/filmmania/mono.m3u8",
     "isHttps": true
   },
   {
@@ -7062,6 +7044,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/202/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Warner Channel Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
     "isHttps": false
   },
   {

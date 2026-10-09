@@ -379,7 +379,7 @@
   },
   {
     "name": "Epic Crimes (1080p)",
-    "logo": "https://i.imgur.com/EFDsCkH.png",
+    "logo": "https://i.imgur.com/a5kaqDc.png",
     "country": "",
     "language": "",
     "group": "Documentary",
@@ -456,15 +456,6 @@
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "History (Romania)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://dokagents.site/live/history/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1620,6 +1611,42 @@
     "isHttps": false
   },
   {
+    "name": "American Heroes Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Animal Planet (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Animal Planet East HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Animal Planet Latin America HD (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "BBC Earth (1080p)",
     "logo": "https://i.imgur.com/nGSsUd4.png",
     "country": "",
@@ -1779,6 +1806,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://213.91.179.28:8000/play/a0cf",
+    "isHttps": false
+  },
+  {
+    "name": "Investigation Discovery (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://212.5.144.156:8080/id/index.m3u8",
     "isHttps": false
   },
   {
@@ -2246,7 +2282,7 @@
     "country": "",
     "language": "",
     "group": "Documentary;News",
-    "url": "http://178.76.68.60:7441/7/mpegts",
+    "url": "http://178.76.68.60:7442/7/mpegts",
     "isHttps": false
   },
   {
