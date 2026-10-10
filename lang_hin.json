@@ -2323,11 +2323,20 @@
   },
   {
     "name": "YRF Music (1080p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",
+    "logo": "https://i.imgur.com/pKj3F4M.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "YRF Music Nepal",
+    "logo": "https://i.imgur.com/mxx05Z9.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8",
     "isHttps": true
   },
   {
@@ -2463,6 +2472,15 @@
     "language": "",
     "group": "Music",
     "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Zoom (India) Nepal (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
     "isHttps": true
   },
   {

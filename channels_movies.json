@@ -630,6 +630,15 @@
     "isHttps": true
   },
   {
+    "name": "Cinemax Latin America (720p)",
+    "logo": "https://i.imgur.com/cZWoJWD.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cinevault 80s (720p)",
     "logo": "https://i.imgur.com/xaCyyDd.png",
     "country": "",
@@ -5472,6 +5481,24 @@
     "isHttps": false
   },
   {
+    "name": "HBO 2 Latin America (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://38.65.175.84:8000/play/a0ct/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO 2 Latin America HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://45.171.64.30:6060/play/a00i/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HBO Movies (720p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png",
     "country": "",
@@ -6507,6 +6534,15 @@
     "isHttps": false
   },
   {
+    "name": "Polsat Film HD",
+    "logo": "https://i.imgur.com/wGH6shZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=",
+    "isHttps": false
+  },
+  {
     "name": "Premialnoe HD (1080p)",
     "logo": "https://i.imgur.com/ck4aLBP.png",
     "country": "",
@@ -6517,7 +6553,7 @@
   },
   {
     "name": "Pro Cinema (1080p)",
-    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521",
     "country": "",
     "language": "",
     "group": "Movies",

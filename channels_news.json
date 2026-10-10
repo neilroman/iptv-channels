@@ -869,7 +869,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+    "url": "https://indexforce.com/newshighres/mystream/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -951,15 +951,6 @@
     "language": "",
     "group": "News",
     "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Alhurra (720p)",
-    "logo": "https://i.imgur.com/tiQp2sR.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
     "isHttps": true
   },
   {
@@ -1059,6 +1050,15 @@
     "language": "",
     "group": "News",
     "url": "https://hplayer1.juyun.tv/camera/154379194.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena 3 CNN (576p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
     "isHttps": true
   },
   {
@@ -2115,6 +2115,24 @@
     "isHttps": true
   },
   {
+    "name": "CNN (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CNN en Espanol (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Conecta2TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/W6FDUwt.png",
     "country": "",
@@ -3132,7 +3150,7 @@
     "isHttps": true
   },
   {
-    "name": "HMTV (720p)",
+    "name": "HMTV (India) (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s143136_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
@@ -5707,7 +5725,7 @@
   },
   {
     "name": "Prima News",
-    "logo": "https://i.imgur.com/wlqGfU2.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -5734,7 +5752,7 @@
   },
   {
     "name": "PROTV News (1080p)",
-    "logo": "",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753",
     "country": "",
     "language": "",
     "group": "News",

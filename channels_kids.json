@@ -846,7 +846,7 @@
     "isHttps": true
   },
   {
-    "name": "KidZone Max (1080p) [Geo-blocked]",
+    "name": "KidZone Max SD (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/qJSvxE2.png",
     "country": "",
     "language": "",
@@ -1872,30 +1872,12 @@
     "isHttps": true
   },
   {
-    "name": "S KPop! (480p)",
-    "logo": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
-    "country": "",
-    "language": "",
-    "group": "Kids;Music",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "S Play Event (1080p)",
     "logo": "https://i.postimg.cc/5y6t70Mz/In-Shot-20260908-113231556.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "S Tom Sings (1080p)",
-    "logo": "https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8",
     "isHttps": true
   },
   {
@@ -2700,6 +2682,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Kids Latin America (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Discovery Kids Latin America Brazil (720p) [Geo-blocked]",
     "logo": "",
     "country": "",
@@ -3258,6 +3249,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (France) (504p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Luli (1080p)",
     "logo": "https://cdn.epg.one/img2/2695.png",
     "country": "",
@@ -3551,7 +3551,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://190.128.214.97:64333/play/a02r/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
     "isHttps": false
   },
   {
@@ -3672,12 +3672,21 @@
     "isHttps": false
   },
   {
-    "name": "TeenNick (406p)",
+    "name": "TeenNick (Israel) (406p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TeenNick (United States) (432p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
     "isHttps": false
   },
   {
@@ -3714,6 +3723,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TraLaLa DSN",
+    "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {

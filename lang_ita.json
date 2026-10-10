@@ -711,6 +711,15 @@
     "isHttps": true
   },
   {
+    "name": "LA7 HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "LA7d (720p)",
     "logo": "https://i.imgur.com/sM0A3GD.png",
     "country": "",
@@ -2625,6 +2634,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "La7 Cinema (720p)",
+    "logo": "https://i.imgur.com/khPweok.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://102.129.186.182:81/la7d/index.m3u8",
     "isHttps": false
   },
   {
