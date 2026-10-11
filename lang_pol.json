@@ -639,6 +639,42 @@
     "isHttps": false
   },
   {
+    "name": "Eurosport 1 Polska (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest?cb=20220806090310",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://57.128.210.196:8080/264/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport 2 Polska (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://57.128.210.196:8080/263/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport 3 Polska",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport 4 Polska (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://57.128.231.171:8080/291/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FILMBOX+ Festival Poland",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
     "country": "",
@@ -810,6 +846,15 @@
     "isHttps": false
   },
   {
+    "name": "Polsat Rodzina (1080p)",
+    "logo": "https://i.imgur.com/IS0AW48.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.210.196:8080/197/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Polsat Rodzina HD",
     "logo": "https://i.imgur.com/IS0AW48.png",
     "country": "",
@@ -819,21 +864,48 @@
     "isHttps": false
   },
   {
-    "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
+    "name": "Polsat Seriale (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://57.128.210.196:8080/196/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Sport 1 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
+    "url": "http://57.128.210.196:8080/193/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "Polsat Sport Fight",
+    "name": "Polsat Sport 2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.210.196:8080/195/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Sport 3 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.210.196:8080/192/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Sport Fight (1080p)",
     "logo": "https://i.imgur.com/8x1FV3o.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
+    "url": "http://57.128.210.196:8080/194/index.m3u8",
     "isHttps": false
   },
   {
@@ -954,6 +1026,15 @@
     "isHttps": false
   },
   {
+    "name": "TV6 (Poland) (1080p)",
+    "logo": "https://i.imgur.com/sW2PQ9z.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.210.196:8080/160/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVC (Poland) (1080p)",
     "logo": "https://i.imgur.com/1Wmib2f.png",
     "country": "",
@@ -972,6 +1053,15 @@
     "isHttps": false
   },
   {
+    "name": "TVP HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.210.196:8080/141/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVP Rozrywka (576p)",
     "logo": "https://i.imgur.com/05Vx5px.png",
     "country": "",
@@ -981,12 +1071,57 @@
     "isHttps": false
   },
   {
+    "name": "TVP Sport (1080p)",
+    "logo": "https://i.imgur.com/JUZDOCO.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://57.128.210.196:8080/134/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVP Wilno",
+    "logo": "https://i.imgur.com/8oORLGF.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://78.62.9.23:55555/TVP%20Wilno%20HD",
+    "isHttps": false
+  },
+  {
+    "name": "TVP1 (1080p)",
+    "logo": "https://i.imgur.com/ewpSjBs.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.210.196:8080/144/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVP2 (1080p)",
+    "logo": "https://i.imgur.com/XxCc32B.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.210.196:8080/143/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVT Zgorzelec (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/zhzVpgf.jpg",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "V90 (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://57.128.231.171:8080/228/index.m3u8",
     "isHttps": false
   },
   {

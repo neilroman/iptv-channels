@@ -963,6 +963,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoon Network Asia (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (Brazil) (480p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -2673,15 +2682,6 @@
     "isHttps": false
   },
   {
-    "name": "Detski mir (576p)",
-    "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Discovery Kids Latin America (1080p)",
     "logo": "",
     "country": "",
@@ -2733,15 +2733,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (India) (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://51.75.127.199:3141/disneychannel/index.m3u8",
     "isHttps": false
   },
   {
@@ -2894,7 +2885,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://51.75.127.199:3141/disneyjunior/index.m3u8",
+    "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -3039,15 +3030,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/144/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Kapitan Fantastika HD (1080p)",
-    "logo": "https://i.imgur.com/K3PSHiT.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3309,15 +3291,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nick HD+ (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://51.75.127.199:3141/nickhd/index.m3u8",
     "isHttps": false
   },
   {

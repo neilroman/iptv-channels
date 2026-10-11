@@ -450,7 +450,16 @@
     "isHttps": false
   },
   {
-    "name": "Food Network (720p)",
+    "name": "Food Network (Russia) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://stream.mcquack.net/298/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Food Network (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
     "country": "",
     "language": "",
@@ -465,15 +474,6 @@
     "language": "",
     "group": "Cooking",
     "url": "http://168.196.127.137:6001/play/a09v/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FoodTime (1080p)",
-    "logo": "https://i.imgur.com/gxCYAwH.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "http://str2.iptvhd.ru:8080/Eda/index.m3u8",
     "isHttps": false
   },
   {

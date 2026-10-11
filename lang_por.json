@@ -423,6 +423,24 @@
     "isHttps": true
   },
   {
+    "name": "CNN Brasil (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CNN Portugal",
+    "logo": "https://i.imgur.com/bc6tYVZ.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "COM Brasil (720p)",
     "logo": "https://i.imgur.com/GrjGwKM.png",
     "country": "",
@@ -2286,6 +2304,15 @@
     "isHttps": true
   },
   {
+    "name": "TBS West (720p) [Geo-blocked]",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TCM 10 HD (1080p)",
     "logo": "https://i.imgur.com/aMuMVvB.png",
     "country": "",
@@ -2319,6 +2346,15 @@
     "language": "",
     "group": "News",
     "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TNT (United States) West (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8",
     "isHttps": true
   },
   {
@@ -3438,7 +3474,7 @@
     "isHttps": false
   },
   {
-    "name": "ESPN (1080p)",
+    "name": "ESPN (Brazil) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
     "country": "",
     "language": "",
@@ -3447,7 +3483,7 @@
     "isHttps": false
   },
   {
-    "name": "ESPN 3 (1080p)",
+    "name": "ESPN 3 (Brazil) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
     "country": "",
     "language": "",
@@ -3456,7 +3492,7 @@
     "isHttps": false
   },
   {
-    "name": "ESPN 4 (1080p)",
+    "name": "ESPN 4 (Brazil) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
     "country": "",
     "language": "",
@@ -3921,6 +3957,15 @@
     "language": "",
     "group": "Outdoor",
     "url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TLC Latin America Brazil (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://79.127.238.228:14433",
     "isHttps": false
   },
   {

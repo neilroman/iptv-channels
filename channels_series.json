@@ -4181,7 +4181,7 @@
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8",
+    "url": "http://31.148.48.15/A2/index.m3u8",
     "isHttps": false
   },
   {
@@ -4263,15 +4263,6 @@
     "language": "",
     "group": "Series",
     "url": "http://stream.mcquack.net/129/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FX Life (576p)",
-    "logo": "https://i.imgur.com/VLv4r50.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -4437,12 +4428,12 @@
     "isHttps": false
   },
   {
-    "name": "Nashe HD (1080p)",
+    "name": "Nashe HD (576p)",
     "logo": "https://i.imgur.com/KO8dhi9.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
-    "url": "http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8",
+    "url": "http://stream.mcquack.net/217/index.m3u8",
     "isHttps": false
   },
   {
@@ -4479,6 +4470,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Seriale (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://57.128.210.196:8080/196/index.m3u8",
     "isHttps": false
   },
   {
