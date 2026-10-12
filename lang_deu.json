@@ -414,6 +414,15 @@
     "isHttps": true
   },
   {
+    "name": "Disney Channel (Germany) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://s6.hopslan.com/disneyX/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "DMF (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/sJaBU7X.jpeg",
     "country": "",
@@ -726,6 +735,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "kabel eins Doku (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://s6.hopslan.com/dokuX/index.m3u8",
     "isHttps": true
   },
   {
@@ -1050,6 +1068,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nick Schweiz",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NickSchweiz.png/960px-NickSchweiz.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts",
     "isHttps": true
   },
   {
@@ -2691,15 +2718,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel (Germany)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
-    "isHttps": false
-  },
-  {
     "name": "DMAX (Germany) (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png",
     "country": "",
@@ -2715,15 +2733,6 @@
     "language": "",
     "group": "General",
     "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "kabel eins Doku",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
     "isHttps": false
   },
   {
@@ -2916,12 +2925,12 @@
     "isHttps": false
   },
   {
-    "name": "ZDFneo",
+    "name": "ZDFneo (720p)",
     "logo": "https://i.imgur.com/1JIIGgL.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass",
+    "url": "http://5.180.164.197:8080/ZDFNEO/index.m3u8",
     "isHttps": false
   }
 ]

@@ -792,6 +792,15 @@
     "isHttps": true
   },
   {
+    "name": "Euronews Russian (720p)",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Evrokino (576p)",
     "logo": "https://i.imgur.com/8LPtPf6.png",
     "country": "",
@@ -3402,12 +3411,12 @@
     "isHttps": false
   },
   {
-    "name": "DocuBox Russia (1080p)",
+    "name": "DocuBox Russia",
     "logo": "https://i.imgur.com/pX4U9OG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8",
+    "url": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3480,15 +3489,6 @@
     "language": "",
     "group": "General",
     "url": "http://tshift-1.telecoma.tv/enisei/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Euronews Russian (1080p)",
-    "logo": "https://i.imgur.com/8t9mdg9.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://str2.iptvhd.ru:8080/Euronews/index.m3u8",
     "isHttps": false
   },
   {
@@ -5505,6 +5505,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Travel Channel (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest?cb=20191226223708",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://stream.mcquack.net/231/index.m3u8",
     "isHttps": false
   },
   {

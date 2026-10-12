@@ -459,6 +459,15 @@
     "isHttps": true
   },
   {
+    "name": "History (Netherlands) (360p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "History (Slovenia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "country": "",
@@ -546,6 +555,15 @@
     "language": "",
     "group": "Documentary",
     "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "kabel eins Doku (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://s6.hopslan.com/dokuX/index.m3u8",
     "isHttps": true
   },
   {
@@ -717,6 +735,15 @@
     "language": "",
     "group": "Documentary",
     "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Netherlands) (360p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1728,12 +1755,12 @@
     "isHttps": false
   },
   {
-    "name": "DocuBox Russia (1080p)",
+    "name": "DocuBox Russia",
     "logo": "https://i.imgur.com/pX4U9OG.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8",
+    "url": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -1818,6 +1845,15 @@
     "isHttps": false
   },
   {
+    "name": "Investigation Discovery (Hungary)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Investigation Discovery (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
     "country": "",
@@ -1851,15 +1887,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "kabel eins Doku",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
     "isHttps": false
   },
   {

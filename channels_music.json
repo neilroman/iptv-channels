@@ -1,5 +1,14 @@
 [
   {
+    "name": "+MaisUm (720p)",
+    "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;General;Movies;Music",
+    "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "13 Festival (1080p)",
     "logo": "https://i.imgur.com/Ymk6j5o.png",
     "country": "",
@@ -4455,6 +4464,15 @@
     "isHttps": true
   },
   {
+    "name": "Stingray iConcerts HD",
+    "logo": "https://i.imgur.com/GKc7RFz.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Stingray Jukebox Oldies (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
     "country": "",
@@ -4803,6 +4821,15 @@
     "language": "",
     "group": "Music",
     "url": "https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TMF (1080p)",
+    "logo": "https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Music",
+    "url": "https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
     "isHttps": true
   },
   {
@@ -6462,12 +6489,12 @@
     "isHttps": false
   },
   {
-    "name": "Mezzo (1080p)",
+    "name": "Mezzo (576p)",
     "logo": "https://i.imgur.com/auNdGeW.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8",
+    "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
     "isHttps": false
   },
   {
@@ -6768,12 +6795,12 @@
     "isHttps": false
   },
   {
-    "name": "Stingray iConcerts HD (1080p)",
-    "logo": "https://i.imgur.com/GKc7RFz.png",
+    "name": "Sin Limites (1080p)",
+    "logo": "https://i.imgur.com/wrFfgzC.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8",
+    "url": "http://170.244.209.30:8000/play/a1im/index.m3u8",
     "isHttps": false
   },
   {
@@ -6783,6 +6810,15 @@
     "language": "",
     "group": "Music",
     "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tarima TV (720p)",
+    "logo": "https://vercanalesdominicanos.com/wp-content/uploads/2026/03/tarima.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8",
     "isHttps": false
   },
   {

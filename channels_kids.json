@@ -324,6 +324,24 @@
     "isHttps": true
   },
   {
+    "name": "Cartoon Network (Italy) HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://zg9mhld.s.gy/HD-CARTOON-IT.ts",
+    "isHttps": true
+  },
+  {
+    "name": "Cartoon Network Latin America Mexico",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://zg9mhld.s.gy/HD-CARTOON-MX.ts",
+    "isHttps": true
+  },
+  {
     "name": "CBBC (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/tk8G4CU.png",
     "country": "",
@@ -447,6 +465,15 @@
     "language": "",
     "group": "Kids;Religious",
     "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Disney Channel (Germany) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://s6.hopslan.com/disneyX/index.m3u8",
     "isHttps": true
   },
   {
@@ -981,6 +1008,33 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Animation;Kids\",Cartoon Network Latin America",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment;Kids\",Veronica / Disney Jr. (360p)",
+    "logo": "https://i.imgur.com/5L5TcYz.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Kids",
+    "url": "https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Kids\",Disney Channel (Netherlands) (360p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Little Stars Universe",
     "logo": "https://i.imgur.com/RasrA0s.png",
     "country": "",
@@ -1212,6 +1266,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nick Schweiz",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NickSchweiz.png/960px-NickSchweiz.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts",
     "isHttps": true
   },
   {
@@ -1935,15 +1998,6 @@
     "isHttps": true
   },
   {
-    "name": "Sony Yay! (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Spacetoon Arabic (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
     "country": "",
@@ -2538,6 +2592,15 @@
     "isHttps": false
   },
   {
+    "name": "Boomerang (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Box Kids TV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",
     "country": "",
@@ -2580,6 +2643,33 @@
     "language": "",
     "group": "Kids",
     "url": "http://185.37.150.46/Karusel/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network (United States) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network CEE Czech Republic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network CEE Ukraine (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8",
     "isHttps": false
   },
   {
@@ -2683,7 +2773,7 @@
   },
   {
     "name": "Discovery Kids Latin America (1080p)",
-    "logo": "",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -2692,7 +2782,7 @@
   },
   {
     "name": "Discovery Kids Latin America Brazil (720p) [Geo-blocked]",
-    "logo": "",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -2701,7 +2791,7 @@
   },
   {
     "name": "Discovery Kids Latin America Colombia (1080p)",
-    "logo": "",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -2710,7 +2800,7 @@
   },
   {
     "name": "Discovery Kids Latin America Mexico (1080p)",
-    "logo": "",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
     "country": "",
     "language": "",
     "group": "Kids",
@@ -2727,30 +2817,12 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel (Germany)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
-    "isHttps": false
-  },
-  {
     "name": "Disney Channel (India) HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (Israel) (576p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/3840px-2022_Disney_Channel_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8",
     "isHttps": false
   },
   {
@@ -3015,15 +3087,6 @@
     "isHttps": false
   },
   {
-    "name": "Junior (1080p)",
-    "logo": "https://i.imgur.com/w8fYTnw.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://str2.iptvhd.ru:8080/junior/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Kapitan Fantastika (1080p)",
     "logo": "https://i.imgur.com/K3PSHiT.png",
     "country": "",
@@ -3177,21 +3240,21 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoonito Asia (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Disney Channel (Bulgaria)",
     "logo": "https://i.imgur.com/UxrAiAe.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "http://213.91.179.28:8000/play/a059",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Disney Channel (Netherlands)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://86.87.15.10:8004/play/a02g/index.m3u8",
     "isHttps": false
   },
   {
@@ -3237,15 +3300,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Luli (1080p)",
-    "logo": "https://cdn.epg.one/img2/2695.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8",
     "isHttps": false
   },
   {
@@ -3312,15 +3366,6 @@
     "isHttps": false
   },
   {
-    "name": "Nick Jr. (Israel) (576p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nick Jr. (Italy) (720p)",
     "logo": "https://i.imgur.com/6p3eFgf.png",
     "country": "",
@@ -3354,24 +3399,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://107.167.16.138/nickjr/index.m3u8?token=test",
-    "isHttps": false
-  },
-  {
-    "name": "Nick Jr. Asia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nick Jr. Asia HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://58.8.186.128:10003/bysid/2330",
     "isHttps": false
   },
   {
@@ -3426,15 +3453,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon Asia (1080p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8",
     "isHttps": false
   },
   {
@@ -3597,6 +3615,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sony Yay! (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
     "isHttps": false
   },
   {

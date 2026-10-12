@@ -72,15 +72,6 @@
     "isHttps": true
   },
   {
-    "name": "Antena 3 CNN (576p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Antena International",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
     "country": "",
@@ -684,6 +675,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0\" group-title=\"News\",Antena 3 CNN (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "LiraTV (720p)",
     "logo": "https://i.imgur.com/hBswXYZ.png",
     "country": "",
@@ -1095,6 +1095,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sangeorz TV (576p)",
+    "logo": "https://sangeorztv.ro/wp-content/uploads/2025/12/sangeorz-tv-3.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1",
     "isHttps": true
   },
   {

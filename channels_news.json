@@ -1062,15 +1062,6 @@
     "isHttps": true
   },
   {
-    "name": "Antena 3 CNN (576p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Antik Info TV (1080p)",
     "logo": "https://i.imgur.com/Q0qL60o.png",
     "country": "",
@@ -2151,6 +2142,24 @@
     "isHttps": true
   },
   {
+    "name": "CNN International (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CNN International North America (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CNN Portugal",
     "logo": "https://i.imgur.com/bc6tYVZ.png",
     "country": "",
@@ -2751,6 +2760,15 @@
     "language": "",
     "group": "News",
     "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Euronews Russian (720p)",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
     "isHttps": true
   },
   {
@@ -4011,6 +4029,24 @@
     "language": "",
     "group": "News",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0\" group-title=\"News\",Antena 3 CNN (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",CNN Indonesia",
+    "logo": "https://i.imgur.com/l0JyOrm.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8",
     "isHttps": true
   },
   {
@@ -8127,15 +8163,6 @@
     "isHttps": false
   },
   {
-    "name": "CNN International",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "CNN Prima News (1080p)",
     "logo": "https://i.imgur.com/elZyUjX.png",
     "country": "",
@@ -8250,15 +8277,6 @@
     "language": "",
     "group": "News",
     "url": "http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts",
-    "isHttps": false
-  },
-  {
-    "name": "Euronews Russian (1080p)",
-    "logo": "https://i.imgur.com/8t9mdg9.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://str2.iptvhd.ru:8080/Euronews/index.m3u8",
     "isHttps": false
   },
   {
