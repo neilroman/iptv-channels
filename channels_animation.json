@@ -104,16 +104,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://zg9mhld.s.gy/HD-CARTOON-IT.ts",
-    "isHttps": true
-  },
-  {
-    "name": "Cartoon Network Latin America Mexico",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://zg9mhld.s.gy/HD-CARTOON-MX.ts",
+    "url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073",
     "isHttps": true
   },
   {
@@ -1269,6 +1260,15 @@
     "isHttps": false
   },
   {
+    "name": "Cartoon Network CEE Poland (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://57.128.231.171:8080/293/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cartoon Network CEE Ukraine (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
@@ -1391,7 +1391,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -1500,6 +1500,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast SouthAmerica (1080p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
     "isHttps": false
   },
   {

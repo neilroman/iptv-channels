@@ -711,6 +711,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Italiana (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (Bulgaria) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
     "country": "",
@@ -1665,15 +1674,6 @@
     "isHttps": false
   },
   {
-    "name": "Animal Planet (United States) East HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Animal Planet Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
     "country": "",
@@ -1752,6 +1752,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Historia (576p)",
+    "logo": "https://i.imgur.com/CXqCG0G.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.231.171:8080/281/index.m3u8",
     "isHttps": false
   },
   {

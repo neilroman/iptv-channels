@@ -329,16 +329,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://zg9mhld.s.gy/HD-CARTOON-IT.ts",
-    "isHttps": true
-  },
-  {
-    "name": "Cartoon Network Latin America Mexico",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://zg9mhld.s.gy/HD-CARTOON-MX.ts",
+    "url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073",
     "isHttps": true
   },
   {
@@ -1274,7 +1265,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts",
+    "url": "https://bin.webhookrelay.com/v1/webhooks/0351cd0b-b0d7-4836-8cc9-4d2280c7961c",
     "isHttps": true
   },
   {
@@ -1284,15 +1275,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
-    "isHttps": true
-  },
-  {
-    "name": "Nickelodeon (Italy)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://zg9mhld.s.gy/HD-NICK-IT.ts",
     "isHttps": true
   },
   {
@@ -2664,6 +2646,15 @@
     "isHttps": false
   },
   {
+    "name": "Cartoon Network CEE Poland (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://57.128.231.171:8080/293/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cartoon Network CEE Ukraine (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
@@ -2706,6 +2697,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://45.167.1.138:8000/play/a00w",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoonito CEE Czechia",
+    "logo": "https://i.imgur.com/9MrzLb1.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2787,6 +2787,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Kids Latin America Chile (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://38.224.231.176:8000/play/a01j/index.m3u8",
     "isHttps": false
   },
   {
@@ -2948,7 +2957,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3723,6 +3732,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast SouthAmerica (1080p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
     "isHttps": false
   },
   {

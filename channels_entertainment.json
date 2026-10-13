@@ -6597,6 +6597,15 @@
     "isHttps": false
   },
   {
+    "name": "Adult Swim Latin America",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://170.244.209.30:8000/play/a02v/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Adult Swim Latin America Brazil (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
     "country": "",
@@ -6846,6 +6855,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://88.212.15.17/live/discovery_hungary/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Channel (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://57.128.231.171:8080/282/index.m3u8",
     "isHttps": false
   },
   {
@@ -7470,12 +7488,12 @@
     "isHttps": false
   },
   {
-    "name": "Movistar Plus (576p)",
+    "name": "Movistar Plus (1080p)",
     "logo": "https://i.imgur.com/yGQGDoi.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.4.1.201:8000/play/a19y/index.m3u8",
+    "url": "http://200.62.239.170:830/play/a08z/index.m3u8",
     "isHttps": false
   },
   {
@@ -7530,15 +7548,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NBC Universo West (720p)",
-    "logo": "https://i.imgur.com/RZ8pIKe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
     "isHttps": false
   },
   {

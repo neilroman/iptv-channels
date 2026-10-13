@@ -4266,21 +4266,12 @@
     "isHttps": false
   },
   {
-    "name": "HBO (720p)",
+    "name": "HBO (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "HBO 2 Latin America (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://38.65.175.84:8000/play/a0ct/index.m3u8",
     "isHttps": false
   },
   {
@@ -4605,6 +4596,15 @@
     "language": "",
     "group": "Series",
     "url": "http://45.162.64.114/TNT_NOVELAS/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TNT Novelas Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://190.61.47.54:8000/play/a02f/index.m3u8",
     "isHttps": false
   },
   {

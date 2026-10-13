@@ -5535,12 +5535,12 @@
     "isHttps": true
   },
   {
-    "name": "CNN (1080p)",
+    "name": "CNN (720p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+    "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
     "isHttps": true
   },
   {
@@ -5559,6 +5559,15 @@
     "language": "",
     "group": "News",
     "url": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CNN Originals (1080p)",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6084,6 +6093,15 @@
     "isHttps": true
   },
   {
+    "name": "Da Vinci Asia Vietnam (1080p)",
+    "logo": "https://i.imgur.com/iBx7K1M.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=214",
+    "isHttps": true
+  },
+  {
     "name": "Dallas Cowboys Cheerleaders",
     "logo": "https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png",
     "country": "",
@@ -6585,15 +6603,6 @@
     "language": "",
     "group": "Culture;Documentary",
     "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Discovery Family (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Discovery_Family_Channel_%28DFC%29.png",
-    "country": "",
-    "language": "",
-    "group": "Family",
-    "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "isHttps": true
   },
   {
@@ -9135,7 +9144,7 @@
     "isHttps": true
   },
   {
-    "name": "HGTV (1080p)",
+    "name": "HGTV (Italy) (1080p)",
     "logo": "https://i.imgur.com/ejPii8T.png",
     "country": "",
     "language": "",
@@ -9960,15 +9969,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ITV1 (360p)",
-    "logo": "https://i.imgur.com/xwPekCF.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://lb.iptvnetwork.net/ls28/10103/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -10953,6 +10953,15 @@
     "isHttps": true
   },
   {
+    "name": "like Geck0) Chrome/102.0.0.0 Safari/537.37\" group-title=\"Undefined\",Love Nature en Espanol (1080p)",
+    "logo": "https://i.imgur.com/7uNdcWB.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Family\",My Family [Geo-blocked]",
     "logo": "https://i.imgur.com/IaCmCt9.png",
     "country": "",
@@ -11463,15 +11472,6 @@
     "language": "",
     "group": "Outdoor",
     "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Love Nature en Espanol (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/7uNdcWB.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -23814,15 +23814,6 @@
     "isHttps": false
   },
   {
-    "name": "Animal Planet (United States) East HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Apna Channel (576p)",
     "logo": "https://i.imgur.com/ICSA4W6.png",
     "country": "",
@@ -24027,15 +24018,6 @@
     "language": "",
     "group": "General",
     "url": "http://193.46.58.239:8080/BBCTwoHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC UHD 3 (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://45.14.84.37/bbc3/index.m3u8",
     "isHttps": false
   },
   {
@@ -24660,6 +24642,15 @@
     "isHttps": false
   },
   {
+    "name": "Food Network (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://57.128.231.171:8080/253/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Food Network (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
     "country": "",
@@ -24777,7 +24768,7 @@
     "isHttps": false
   },
   {
-    "name": "HBO (720p)",
+    "name": "HBO (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
     "country": "",
     "language": "",
@@ -25593,15 +25584,6 @@
     "language": "",
     "group": "General",
     "url": "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NBC Universo West (720p)",
-    "logo": "https://i.imgur.com/RZ8pIKe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
     "isHttps": false
   },
   {

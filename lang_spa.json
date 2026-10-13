@@ -3555,15 +3555,6 @@
     "isHttps": true
   },
   {
-    "name": "Cartoon Network Latin America Mexico",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://zg9mhld.s.gy/HD-CARTOON-MX.ts",
-    "isHttps": true
-  },
-  {
     "name": "Cascara TV (720p)",
     "logo": "https://i.imgur.com/DEUR7mB.png",
     "country": "",
@@ -4263,6 +4254,15 @@
     "language": "",
     "group": "General",
     "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Undefined\",HBO Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streaming.onnethn.com/HBO/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -12699,15 +12699,6 @@
     "isHttps": true
   },
   {
-    "name": "RTP (Bolivia) (576p)",
-    "logo": "https://i.imgur.com/cECNvvr.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://rtp.noxun.net/hls720/stream3.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RTP (Peru) (720p)",
     "logo": "https://i.imgur.com/nHMqAHn.jpeg",
     "country": "",
@@ -16632,7 +16623,7 @@
     "isHttps": true
   },
   {
-    "name": "Unitel (1080p)",
+    "name": "Unitel (Peru) (1080p)",
     "logo": "https://i.imgur.com/F0PWpyc.png",
     "country": "",
     "language": "",
@@ -17748,6 +17739,15 @@
     "isHttps": false
   },
   {
+    "name": "Adult Swim Latin America",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://170.244.209.30:8000/play/a02v/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Alcarria TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/pzJAYan.png",
     "country": "",
@@ -18729,6 +18729,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Kids Latin America Chile (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://38.224.231.176:8000/play/a01j/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Discovery Kids Latin America Colombia (1080p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
     "country": "",
@@ -18869,7 +18878,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -19305,21 +19314,12 @@
     "isHttps": false
   },
   {
-    "name": "HBO (720p)",
+    "name": "HBO (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "HBO 2 Latin America (576p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://38.65.175.84:8000/play/a0ct/index.m3u8",
     "isHttps": false
   },
   {
@@ -19347,15 +19347,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "HBO Latin America (720p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://15.204.246.24:8080/HBOHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -19836,12 +19827,12 @@
     "isHttps": false
   },
   {
-    "name": "Movistar Plus (576p)",
+    "name": "Movistar Plus (1080p)",
     "logo": "https://i.imgur.com/yGQGDoi.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://45.4.1.201:8000/play/a19y/index.m3u8",
+    "url": "http://200.62.239.170:830/play/a08z/index.m3u8",
     "isHttps": false
   },
   {
@@ -19914,15 +19905,6 @@
     "language": "",
     "group": "General",
     "url": "http://187.102.210.46/NATIVATV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NBC Universo West (720p)",
-    "logo": "https://i.imgur.com/RZ8pIKe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -20232,21 +20214,21 @@
     "isHttps": false
   },
   {
-    "name": "Red Uno (1080p) [Geo-blocked]",
+    "name": "Red Uno (1080p)",
     "logo": "https://i.imgur.com/wfNaEV9.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8",
+    "url": "http://190.181.61.93:8000/play/a002/index.m3u8",
     "isHttps": false
   },
   {
-    "name": "Red Uno La Paz (1080p) [Geo-blocked]",
+    "name": "Red Uno La Paz (1080p)",
     "logo": "https://i.imgur.com/wfNaEV9.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8",
+    "url": "http://190.181.61.93:8000/play/a003/index.m3u8",
     "isHttps": false
   },
   {
@@ -20292,6 +20274,15 @@
     "language": "",
     "group": "News",
     "url": "http://15.204.246.24:8080/RTHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RTP (Bolivia) (1080p)",
+    "logo": "https://i.imgur.com/cECNvvr.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.181.61.93:8000/play/a00n/index.m3u8",
     "isHttps": false
   },
   {
@@ -20943,6 +20934,15 @@
     "isHttps": false
   },
   {
+    "name": "TNT Novelas Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://190.61.47.54:8000/play/a02f/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TNT Series Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
     "country": "",
@@ -20958,6 +20958,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast SouthAmerica (1080p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
     "isHttps": false
   },
   {
@@ -21192,6 +21201,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://168.228.44.241:9997/play/a09e/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Unitel (Bolivia) (1080p)",
+    "logo": "https://i.imgur.com/B9wg1zj.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://190.181.61.93:8000/play/1909/index.m3u8",
     "isHttps": false
   },
   {

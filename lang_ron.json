@@ -531,15 +531,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Classic;Movies\",Bollywood Classic Romania",
-    "logo": "https://i.imgur.com/ugPo6ca.png",
-    "country": "",
-    "language": "",
-    "group": "Classic;Movies",
-    "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic (Romania)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
@@ -1359,6 +1350,33 @@
     "isHttps": false
   },
   {
+    "name": "Bollywood Classic Romania (576p)",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "Digi 24 HD (1080i)",
+    "logo": "https://i.imgur.com/qmRnD0M.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "EMI TV HD (1080i)",
+    "logo": "https://i.imgur.com/B5zssCz.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "Favorit TV2",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305",
     "country": "",
@@ -1548,6 +1566,15 @@
     "isHttps": false
   },
   {
+    "name": "Travel Mix (576p)",
+    "logo": "https://i.imgur.com/4dMeEQO.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "TV Buzau (576p)",
     "logo": "https://i.imgur.com/GhFmUVO.png",
     "country": "",
@@ -1590,6 +1617,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://89.38.8.130:39443",
+    "isHttps": false
+  },
+  {
+    "name": "UTV (Romania) (576p)",
+    "logo": "https://i.imgur.com/aBdz9IT.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {
