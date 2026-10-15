@@ -1116,6 +1116,15 @@
     "isHttps": true
   },
   {
+    "name": "Adult Swim West [Not 24/7;Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Adventure Earth (1080p)",
     "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
     "country": "",
@@ -1644,6 +1653,15 @@
     "language": "",
     "group": "Outdoor",
     "url": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Animal Planet (India) HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -2241,15 +2259,6 @@
     "isHttps": true
   },
   {
-    "name": "BBC News (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://xemzi.short.gy/1000015",
-    "isHttps": true
-  },
-  {
     "name": "BBC News Africa (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -2742,24 +2751,6 @@
     "language": "",
     "group": "General",
     "url": "https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd",
-    "isHttps": true
-  },
-  {
-    "name": "BBC UHD 1 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://xemzi.short.gy/1000001",
-    "isHttps": true
-  },
-  {
-    "name": "BBC UHD 2 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://xemzi.short.gy/1000002",
     "isHttps": true
   },
   {
@@ -4074,6 +4065,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cartoon Network HD+ (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -5562,6 +5562,15 @@
     "isHttps": true
   },
   {
+    "name": "CNN News 18 (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CNN Originals (1080p)",
     "logo": "https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
     "country": "",
@@ -6603,6 +6612,15 @@
     "language": "",
     "group": "Culture;Documentary",
     "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Discovery Kids (720p)",
+    "logo": "https://i.imgur.com/0iNQvoL.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -8361,15 +8379,6 @@
     "isHttps": true
   },
   {
-    "name": "GB News HD (2160p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://xemzi.short.gy/1000017",
-    "isHttps": true
-  },
-  {
     "name": "GBS TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/2AP1xVg.png",
     "country": "",
@@ -9981,15 +9990,6 @@
     "isHttps": true
   },
   {
-    "name": "ITV2 HD (1080p)",
-    "logo": "https://i.imgur.com/2BpUK0W.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://xemzi.short.gy/1000012",
-    "isHttps": true
-  },
-  {
     "name": "ITV3 (360p)",
     "logo": "https://i.imgur.com/JuyM2z5.png",
     "country": "",
@@ -10548,12 +10548,12 @@
     "isHttps": true
   },
   {
-    "name": "KIX",
+    "name": "KIX (1080p)",
     "logo": "https://i.imgur.com/zWcUAdb.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://liveh34.vtvprime.vn/hls/KIX/04.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9901",
     "isHttps": true
   },
   {
@@ -12732,6 +12732,15 @@
     "language": "",
     "group": "General",
     "url": "https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MS NOW (432p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8",
     "isHttps": true
   },
   {
@@ -16890,15 +16899,6 @@
     "language": "",
     "group": "News",
     "url": "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "PRIDEtv LATAM (1080p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Lifestyle;Music",
-    "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
     "isHttps": true
   },
   {
@@ -23157,6 +23157,15 @@
     "isHttps": true
   },
   {
+    "name": "Willamette Falls Media Center",
+    "logo": "https://i.imgur.com/KwlFyem.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Willow Sports (1080p)",
     "logo": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",
     "country": "",
@@ -23868,15 +23877,6 @@
     "isHttps": false
   },
   {
-    "name": "AXN (Spain) (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://193.254.245.162/AXN/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "AXN Black Hungary (576p)",
     "logo": "https://i.imgur.com/Peo1QiZ.png",
     "country": "",
@@ -23892,6 +23892,15 @@
     "language": "",
     "group": "Music",
     "url": "http://23.239.31.26:8989/axstv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "BabyTV (1080p)",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://57.128.231.171:8080/310/index.m3u8",
     "isHttps": false
   },
   {
@@ -23964,15 +23973,6 @@
     "language": "",
     "group": "News",
     "url": "http://46.32.176.50/bbcworld/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC News Latin America (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://138.121.15.230:9002/BBC-NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -24138,6 +24138,15 @@
     "isHttps": false
   },
   {
+    "name": "Cartoonito CEE Poland (1080p)",
+    "logo": "https://i.imgur.com/9MrzLb1.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://57.128.231.171:8080/303/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CBeebies (Poland) (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
     "country": "",
@@ -24192,6 +24201,15 @@
     "isHttps": false
   },
   {
+    "name": "Cinemax Asia HD (1080p)",
+    "logo": "https://i.imgur.com/c8crJfA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "isHttps": false
+  },
+  {
     "name": "Cinemax Classics (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png",
     "country": "",
@@ -24234,6 +24252,24 @@
     "language": "",
     "group": "Business",
     "url": "http://41.205.93.154/CNBC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CNBC Europe (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Business",
+    "url": "http://57.128.231.171:8080/234/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CNN HD (720p) [Geo-blocked]",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://212.5.144.156:8080/cnn/index.m3u8",
     "isHttps": false
   },
   {
@@ -24423,6 +24459,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney Channel (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://57.128.231.171:8080/278/index.m3u8",
     "isHttps": false
   },
   {
@@ -24777,6 +24822,15 @@
     "isHttps": false
   },
   {
+    "name": "HBO Asia Taiwan (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://125.227.210.55:1003/VideoInput/play.ts",
+    "isHttps": false
+  },
+  {
     "name": "HBO Hits (720p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
     "country": "",
@@ -24795,12 +24849,30 @@
     "isHttps": false
   },
   {
+    "name": "History (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.231.171:8080/240/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "History (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://212.5.144.156:8080/history/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History 2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.231.171:8080/247/index.m3u8",
     "isHttps": false
   },
   {
@@ -24882,6 +24954,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Investigation Discovery (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.231.171:8080/239/index.m3u8",
     "isHttps": false
   },
   {
@@ -25794,15 +25875,6 @@
     "isHttps": false
   },
   {
-    "name": "Paramount Network (432p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Pardesi TV (720p)",
     "logo": "https://i.imgur.com/CwAdPpZ.jpg",
     "country": "",
@@ -25884,6 +25956,15 @@
     "isHttps": false
   },
   {
+    "name": "Quadro (2160p)",
+    "logo": "https://i.imgur.com/P4c53HA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/316/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Quran TV (Pakistan) (576p)",
     "logo": "https://i.imgur.com/nc7X3Ux.png",
     "country": "",
@@ -25917,6 +25998,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Retro Plus (1080p)",
+    "logo": "https://i.imgur.com/fkCasXI.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.119.97.124:8080/play/a00t/index.m3u8",
     "isHttps": false
   },
   {
@@ -26151,15 +26241,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -26412,6 +26493,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://92.114.85.72:8000/play/a08p",
+    "isHttps": false
+  },
+  {
+    "name": "TLC (Hungary)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://88.212.15.17/live/tlc_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -26700,15 +26790,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "VH1 (432p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://193.254.245.162/VH1/index.m3u8",
     "isHttps": false
   },
   {

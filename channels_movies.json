@@ -4878,6 +4878,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC Europe Poland (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/318/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "AMC Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
@@ -4947,15 +4956,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://188.115.15.121:8000/play/a02z",
-    "isHttps": false
-  },
-  {
-    "name": "AXN (Spain) (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://193.254.245.162/AXN/index.m3u8",
     "isHttps": false
   },
   {
@@ -5253,6 +5253,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinemax Asia HD (1080p)",
+    "logo": "https://i.imgur.com/c8crJfA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
     "isHttps": false
   },
   {
@@ -5559,6 +5568,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO Asia Taiwan (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://125.227.210.55:1003/VideoInput/play.ts",
     "isHttps": false
   },
   {
@@ -6543,12 +6561,21 @@
     "isHttps": false
   },
   {
-    "name": "Paramount Network (432p)",
+    "name": "Paramount Network (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
-    "url": "http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8",
+    "url": "http://57.128.210.196:8080/212/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polsat Film (1080p)",
+    "logo": "https://i.imgur.com/wGH6shZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.210.196:8080/205/index.m3u8",
     "isHttps": false
   },
   {
@@ -6594,6 +6621,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Quadro (2160p)",
+    "logo": "https://i.imgur.com/P4c53HA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/316/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Retro Plus 3 (1080p)",
+    "logo": "https://i.imgur.com/i0rZsgG.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://181.119.97.124:8080/play/retroplus_3/index.m3u8",
     "isHttps": false
   },
   {
@@ -6774,15 +6819,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -6999,6 +7035,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Warner TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://88.212.15.17/live/warner_tv/index.m3u8",
     "isHttps": false
   },
   {

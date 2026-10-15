@@ -45,6 +45,15 @@
     "isHttps": true
   },
   {
+    "name": "Animal Planet (India) HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Archivos Forenses",
     "logo": "https://i.imgur.com/Pxrl9Ug.png",
     "country": "",
@@ -1782,12 +1791,30 @@
     "isHttps": false
   },
   {
+    "name": "History (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.231.171:8080/240/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "History (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
     "url": "http://212.5.144.156:8080/history/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History 2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.231.171:8080/247/index.m3u8",
     "isHttps": false
   },
   {
@@ -1860,6 +1887,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Investigation Discovery (Poland) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.231.171:8080/239/index.m3u8",
     "isHttps": false
   },
   {

@@ -171,6 +171,15 @@
     "isHttps": true
   },
   {
+    "name": "Animal Planet (India) HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Anjan TV (720p)",
     "logo": "https://i.imgur.com/sh0yFSf.png",
     "country": "",
@@ -375,6 +384,24 @@
     "language": "",
     "group": "Education",
     "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cartoon Network (India) (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cartoon Network HD+ (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -663,6 +690,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Discovery Kids (720p)",
+    "logo": "https://i.imgur.com/0iNQvoL.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -1320,15 +1356,6 @@
     "language": "",
     "group": "News",
     "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Namdhari TV (404p) [Not 24/7]",
-    "logo": "https://i.imgur.com/NalsXTo.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://namdhari.tv/live/sbs1.m3u8",
     "isHttps": true
   },
   {
@@ -2985,15 +3012,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls",
     "isHttps": false
   },
   {

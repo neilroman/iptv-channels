@@ -99,12 +99,21 @@
     "isHttps": true
   },
   {
-    "name": "Cartoon Network (Italy) HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "name": "Cartoon Network (India) (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Cartoon Network HD+ (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -189,12 +198,21 @@
     "isHttps": true
   },
   {
-    "name": "EnerGeek FAN (1080p)",
+    "name": "EnerGeek (1080p) [Geo-blocked]",
+    "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26",
+    "isHttps": true
+  },
+  {
+    "name": "EnerGeek FAN (720p) [Geo-blocked]",
     "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
     "country": "",
     "language": "",
     "group": "Animation",
-    "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+    "url": "https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26",
     "isHttps": true
   },
   {
@@ -312,6 +330,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Animation;Kids\",Disney Channel Latin America South",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8",
     "isHttps": true
   },
   {
@@ -1311,6 +1338,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://45.167.1.138:8000/play/a00w",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoonito Latin America (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://45.173.12.70:8000/play/a0hh",
     "isHttps": false
   },
   {
