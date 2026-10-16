@@ -153,6 +153,15 @@
     "isHttps": true
   },
   {
+    "name": "Banat TV",
+    "logo": "https://i.imgur.com/yVsocid.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://www.btv.ro/hls/banat-tv.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bollywood Film",
     "logo": "https://i.imgur.com/bEMUpHZ.png",
     "country": "",
@@ -1350,6 +1359,15 @@
     "isHttps": false
   },
   {
+    "name": "Beauty ON (576p)",
+    "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "Bollywood Classic Romania (576p)",
     "logo": "https://i.imgur.com/ugPo6ca.png",
     "country": "",
@@ -1359,12 +1377,30 @@
     "isHttps": false
   },
   {
+    "name": "CineWow (576p)",
+    "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "Digi 24 HD (1080i)",
     "logo": "https://i.imgur.com/qmRnD0M.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "Disco Mix (576p)",
+    "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {

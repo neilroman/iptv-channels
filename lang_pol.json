@@ -351,21 +351,21 @@
     "isHttps": true
   },
   {
-    "name": "TV Okazje (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/DbALkkV.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd",
-    "isHttps": true
-  },
-  {
     "name": "TV Puls (1080p)",
     "logo": "https://i.imgur.com/gXA7pai.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8",
+    "url": "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Puls HD (1080p)",
+    "logo": "https://i.imgur.com/gXA7pai.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
     "isHttps": true
   },
   {
@@ -468,6 +468,15 @@
     "isHttps": false
   },
   {
+    "name": "Active Family HD (1080i)",
+    "logo": "https://i.imgur.com/I1wdWAo.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://92.114.85.87:8010/play/a00p/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Adventure TV (1080p)",
     "logo": "https://i.imgur.com/VQVr4Nk.png",
     "country": "",
@@ -486,12 +495,30 @@
     "isHttps": false
   },
   {
-    "name": "AXN Black Poland (576p)",
+    "name": "AXN Black (Poland) (576i)",
+    "logo": "https://i.imgur.com/Nqvx6nz.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://92.114.85.87:8014/play/a00h/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Black (United States) Poland (576p)",
     "logo": "https://i.imgur.com/Peo1QiZ.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://185.227.34.179:8080/axn-black/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Poland (1080p)",
+    "logo": "https://i.imgur.com/i5wOhkf.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.114.85.87:8015/play/a00f/index.m3u8",
     "isHttps": false
   },
   {
@@ -504,7 +531,16 @@
     "isHttps": false
   },
   {
-    "name": "AXN White Poland (576p)",
+    "name": "AXN White (Poland) (576i)",
+    "logo": "https://i.imgur.com/DaAyLE7.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://92.114.85.87:8014/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN White (United States) Poland (576p)",
     "logo": "https://i.imgur.com/47IKxmt.png",
     "country": "",
     "language": "",
@@ -519,6 +555,69 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://57.128.231.171:8080/306/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CANAL+ 360 (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/960px-Canal360_1920x1080.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://92.114.85.87:8019/play/a003/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Dokument (576i)",
+    "logo": "https://i.imgur.com/La6WF7D.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://57.128.210.196:8080/301/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Domo (576i)",
+    "logo": "https://i.imgur.com/Iz2BxbR.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8019/play/a008/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Film (576i)",
+    "logo": "https://i.imgur.com/2yMtcJw.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.210.196:8080/296/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Kuchnia (576i)",
+    "logo": "https://i.imgur.com/d1JTJBl.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://92.114.85.87:8019/play/a009/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Now (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/960px-C%2BNow.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8006/play/a005/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Canal+ Seriale (576i)",
+    "logo": "https://i.imgur.com/B55Rl3T.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://57.128.210.196:8080/294/index.m3u8",
     "isHttps": false
   },
   {
@@ -537,6 +636,24 @@
     "language": "",
     "group": "Kids",
     "url": "http://92.114.85.87:8017/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinemax 2 Central Europe Poland (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/288/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cinemax Central Europe Poland (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://57.128.231.171:8080/287/index.m3u8",
     "isHttps": false
   },
   {
@@ -702,12 +819,48 @@
     "isHttps": false
   },
   {
+    "name": "FightBox Poland (576i)",
+    "logo": "https://i.imgur.com/mRsnztA.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://92.114.85.87:8003/play/a00b/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FILMBOX+ Comedy (720p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.114.85.87:8008/play/a009/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FILMBOX+ Emotion (720p)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.114.85.87:8008/play/a008/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FILMBOX+ Festival Poland",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://92.114.85.87:8018/play/a009/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FILMBOX+ Hits (576i)",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.114.85.87:8008/play/a00a/index.m3u8",
     "isHttps": false
   },
   {
@@ -726,6 +879,33 @@
     "language": "",
     "group": "General",
     "url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO (Poland) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://57.128.231.171:8080/243/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO 2 (Poland) (576i)",
+    "logo": "https://i.imgur.com/2e3muOJ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://57.128.231.171:8080/246/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO 3 (Poland) (1080p)",
+    "logo": "https://i.imgur.com/3QIHh2V.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://57.128.231.171:8080/245/index.m3u8",
     "isHttps": false
   },
   {
@@ -762,15 +942,6 @@
     "language": "",
     "group": "Music",
     "url": "http://57.128.231.171:8080/237/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"News\",Newsmax Polska",
-    "logo": "https://i.imgur.com/2NhPCrY.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0",
     "isHttps": false
   },
   {
@@ -828,6 +999,60 @@
     "isHttps": false
   },
   {
+    "name": "Nat Geo People (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/960px-New_NatGeo_People_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://92.114.85.87:8016/play/a003/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic Wild (Poland) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://92.114.85.87:8010/play/a005/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Newsmax Polska (576i)",
+    "logo": "https://i.imgur.com/2NhPCrY.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://92.114.85.87:8014/play/a006/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nick Jr. (Poland) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://92.114.85.87:8013/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon (Poland) (576i)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://92.114.85.87:8013/play/a005/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nowa TV (1080p)",
+    "logo": "https://i.imgur.com/8cHK49r.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://92.114.85.87:8001/play/a013/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nuta Gold",
     "logo": "https://i.imgur.com/BEs160o.png",
     "country": "",
@@ -861,6 +1086,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://57.128.210.196:8080/210/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Polonia 1 (576i)",
+    "logo": "https://i.imgur.com/4TVDMGD.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8012/play/a006/index.m3u8",
     "isHttps": false
   },
   {
@@ -1008,6 +1242,15 @@
     "isHttps": false
   },
   {
+    "name": "Polsat Seriale HD (1080i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://92.114.85.87:8014/play/a00a/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Polsat Sport 1 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
     "country": "",
@@ -1080,12 +1323,39 @@
     "isHttps": false
   },
   {
+    "name": "Romance TV (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8009/play/a00a/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Stars TV (1080p)",
+    "logo": "https://i.imgur.com/NdITPCk.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8001/play/a00o/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Stopklatka TV",
     "logo": "https://i.imgur.com/qqNsIkx.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://92.114.85.87:8018/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sundance TV (Poland) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://92.114.85.87:8003/play/a004/index.m3u8",
     "isHttps": false
   },
   {
@@ -1104,6 +1374,24 @@
     "language": "",
     "group": "General",
     "url": "http://92.114.85.87:8010/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tele5 (576i)",
+    "logo": "https://i.imgur.com/36ZNsIL.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8012/play/a005/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Teletoon+ HD (1080i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://92.114.85.87:8009/play/a006/index.m3u8",
     "isHttps": false
   },
   {
@@ -1134,12 +1422,12 @@
     "isHttps": false
   },
   {
-    "name": "TV Puls HD (1080p)",
-    "logo": "https://i.imgur.com/gXA7pai.png",
+    "name": "TV Okazje (576i)",
+    "logo": "https://i.imgur.com/DbALkkV.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://193.24.244.60:1001/udp/239.254.4.121:6060",
+    "url": "http://92.114.85.87:8014/play/a008/index.m3u8",
     "isHttps": false
   },
   {
@@ -1206,6 +1494,15 @@
     "isHttps": false
   },
   {
+    "name": "TVP ABC (576i)",
+    "logo": "https://i.imgur.com/wP2mpfM.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://92.114.85.87:8002/play/a00b/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVP HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
     "country": "",
@@ -1215,12 +1512,39 @@
     "isHttps": false
   },
   {
+    "name": "TVP Historia (576i)",
+    "logo": "https://i.imgur.com/Bc4QZiy.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8002/play/a00d/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVP Kultura (1080p)",
+    "logo": "https://i.imgur.com/JU858Es.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8006/play/a007/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVP Rozrywka (576p)",
     "logo": "https://i.imgur.com/05Vx5px.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://185.227.34.179:8080/tvp-rozrywka/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVP Seriale (1080p)",
+    "logo": "https://i.imgur.com/MuRtvXk.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://92.114.85.87:8019/play/a00a/index.m3u8",
     "isHttps": false
   },
   {
@@ -1269,12 +1593,12 @@
     "isHttps": false
   },
   {
-    "name": "V90 (1080p)",
-    "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
+    "name": "Viasat Epic Drama Poland (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg",
     "country": "",
     "language": "",
-    "group": "Music",
-    "url": "http://57.128.231.171:8080/228/index.m3u8",
+    "group": "Series",
+    "url": "http://92.114.85.87:8001/play/a00x/index.m3u8",
     "isHttps": false
   },
   {
@@ -1338,6 +1662,33 @@
     "language": "",
     "group": "Undefined",
     "url": "http://57.128.231.171:8080/122/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "WP TV (576i)",
+    "logo": "https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8002/play/a008/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Wydarzenia 24 (576i)",
+    "logo": "https://i.imgur.com/uYpUnHP.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://92.114.85.87:8016/play/a007/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zoom TV (576i)",
+    "logo": "https://i.imgur.com/UtZM4zm.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://92.114.85.87:8001/play/a00y/index.m3u8",
     "isHttps": false
   }
 ]

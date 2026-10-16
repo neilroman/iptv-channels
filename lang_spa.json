@@ -7893,6 +7893,24 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies;Series\",HBO Xtreme Latin America",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies;Series\",Star Channel Latin America South",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AXN Latin America South",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -7908,6 +7926,24 @@
     "language": "",
     "group": "Movies",
     "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",HBO Mundi Latin America",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Series\",TNT Series Latin America South",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8",
     "isHttps": true
   },
   {
@@ -7953,6 +7989,24 @@
     "language": "",
     "group": "Undefined",
     "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Undefined\",TNT Latin America South",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tnt/chunks.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",FX Latin America South",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8",
     "isHttps": true
   },
   {
@@ -13572,7 +13626,7 @@
     "isHttps": true
   },
   {
-    "name": "Sundance TV",
+    "name": "Sundance TV (Spain)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",
     "country": "",
     "language": "",
@@ -13959,6 +14013,15 @@
     "isHttps": true
   },
   {
+    "name": "Tele Posadas SD (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/88MVgwX.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Tele Proyecto TV [Not 24/7]",
     "logo": "https://imgur.com/LmBxN5x.png",
     "country": "",
@@ -14091,15 +14154,6 @@
     "language": "",
     "group": "News",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Teleceiba (720p)",
-    "logo": "https://i.imgur.com/oPSfsvy.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://teleceiba.com/stream/tlcb720.m3u8",
     "isHttps": true
   },
   {
@@ -15804,12 +15858,12 @@
     "isHttps": true
   },
   {
-    "name": "TV Oasis Monay (720p)",
+    "name": "TV Oasis Monay (1080i)",
     "logo": "https://i.imgur.com/hwd7osJ.jpeg",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+    "url": "https://live.teve.pro/live/tvoasis/index.m3u8",
     "isHttps": true
   },
   {
@@ -17106,6 +17160,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "VIVE TV (1080p)",
+    "logo": "https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8",
     "isHttps": true
   },
   {
@@ -19053,15 +19116,6 @@
     "isHttps": false
   },
   {
-    "name": "El Trece Internacional Latin America (1080p)",
-    "logo": "https://i.imgur.com/Vo6prbh.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Encuentro (720p)",
     "logo": "https://i.imgur.com/uBBZR1X.png",
     "country": "",
@@ -20715,6 +20769,15 @@
     "language": "",
     "group": "General",
     "url": "http://138.121.15.230:9002/TELECARIBE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Teleceiba (1080p)",
+    "logo": "https://i.imgur.com/oPSfsvy.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.238.141.222:8000/play/a0pf/index.m3u8",
     "isHttps": false
   },
   {
