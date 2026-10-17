@@ -1116,6 +1116,15 @@
     "isHttps": true
   },
   {
+    "name": "Arirang TV HD (1080p)",
+    "logo": "https://i.imgur.com/Asu5pE9.png",
+    "country": "",
+    "language": "",
+    "group": "General;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111",
+    "isHttps": true
+  },
+  {
     "name": "Arirang UN (1080p)",
     "logo": "https://i.imgur.com/Jdy3WNm.png",
     "country": "",
@@ -6561,6 +6570,15 @@
     "isHttps": true
   },
   {
+    "name": "Sky News Extra",
+    "logo": "https://i.imgur.com/ZsPb8nL.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sky News Extra 1 (540p)",
     "logo": "https://i.imgur.com/ZsPb8nL.png",
     "country": "",
@@ -7998,15 +8016,6 @@
     "language": "",
     "group": "General;News",
     "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Arirang TV HD (720p)",
-    "logo": "https://i.imgur.com/Asu5pE9.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "http://45.162.64.114/ARIRANG/index.m3u8",
     "isHttps": false
   },
   {

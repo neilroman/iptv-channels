@@ -1800,6 +1800,15 @@
     "isHttps": true
   },
   {
+    "name": "Arirang TV HD (1080p)",
+    "logo": "https://i.imgur.com/Asu5pE9.png",
+    "country": "",
+    "language": "",
+    "group": "General;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111",
+    "isHttps": true
+  },
+  {
     "name": "Arirang UN (1080p)",
     "logo": "https://i.imgur.com/Jdy3WNm.png",
     "country": "",
@@ -4375,7 +4384,7 @@
   },
   {
     "name": "CBS KUTV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/KUTV_13.svg/960px-KUTV_13.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "country": "",
     "language": "",
     "group": "General",
@@ -4393,7 +4402,7 @@
   },
   {
     "name": "CBS KZTV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/KZTV_logo%2C_introduced_in_2021.svg/960px-KZTV_logo%2C_introduced_in_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "country": "",
     "language": "",
     "group": "General",
@@ -4546,7 +4555,7 @@
   },
   {
     "name": "CBS WCBI-TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/WCBITVDT.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "country": "",
     "language": "",
     "group": "General",
@@ -18756,6 +18765,15 @@
     "isHttps": true
   },
   {
+    "name": "Sky News Extra",
+    "logo": "https://i.imgur.com/ZsPb8nL.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sky News Extra 1 (540p)",
     "logo": "https://i.imgur.com/ZsPb8nL.png",
     "country": "",
@@ -18789,6 +18807,15 @@
     "language": "",
     "group": "Weather",
     "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sky News Weather Channel",
+    "logo": "https://i.imgur.com/FKg6AQr.png",
+    "country": "",
+    "language": "",
+    "group": "Weather",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8",
     "isHttps": true
   },
   {
@@ -23991,15 +24018,6 @@
     "language": "",
     "group": "General;News",
     "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Arirang TV HD (720p)",
-    "logo": "https://i.imgur.com/Asu5pE9.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "http://45.162.64.114/ARIRANG/index.m3u8",
     "isHttps": false
   },
   {
