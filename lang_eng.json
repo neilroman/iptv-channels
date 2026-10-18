@@ -6660,6 +6660,15 @@
     "isHttps": true
   },
   {
+    "name": "Discovery Channel (India) HD (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Discovery Kids (720p)",
     "logo": "https://i.imgur.com/0iNQvoL.png",
     "country": "",
@@ -9540,6 +9549,15 @@
     "isHttps": true
   },
   {
+    "name": "Hope Channel PROYECTO JA (360p)",
+    "logo": "https://i.imgur.com/VDyf36C.png",
+    "country": "",
+    "language": "",
+    "group": "Family;Music;Religious",
+    "url": "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Hornbill TV (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png",
     "country": "",
@@ -11664,6 +11682,15 @@
     "isHttps": true
   },
   {
+    "name": "Lucas & Friends",
+    "logo": "https://i.postimg.cc/cLft65S5/Dmin-CTnq-400x400.jpg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Lucky Dog (720p)",
     "logo": "https://i.imgur.com/1j4gwL3.png",
     "country": "",
@@ -11697,6 +11724,15 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Luxembourg Global Radio TV (1080p)",
+    "logo": "https://globalradio.lu/wp-content/uploads/2025/03/Mask-Group-1.jpg#10",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://stream.globalradio.lu/lgr/index.m3u8",
     "isHttps": true
   },
   {
@@ -14271,6 +14307,15 @@
     "language": "",
     "group": "Culture;News",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=106",
+    "isHttps": true
+  },
+  {
+    "name": "NHL AntenaPlay",
+    "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
     "isHttps": true
   },
   {
@@ -21339,6 +21384,24 @@
     "isHttps": true
   },
   {
+    "name": "TLC (India) (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TLC (India) HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TLN KQSL (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
     "country": "",
@@ -24120,15 +24183,6 @@
     "isHttps": false
   },
   {
-    "name": "BBC Lifestyle Asia (720p)",
-    "logo": "https://i.imgur.com/9mzJJ3y.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://58.8.186.128:10003/bysid/2333",
-    "isHttps": false
-  },
-  {
     "name": "BBC Lifestyle Poland (1080p)",
     "logo": "https://i.imgur.com/9mzJJ3y.png",
     "country": "",
@@ -24503,7 +24557,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/test_cai_hevc/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_cai_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -24657,15 +24711,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://57.128.231.171:8080/278/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (United States) (720p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://212.5.144.156/disney/index.m3u8",
     "isHttps": false
   },
   {
@@ -24873,15 +24918,6 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://stream.mcquack.net/119/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FashionTV Asia (720p)",
-    "logo": "https://i.imgur.com/ucTh9tO.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://58.8.186.128:10006/bysid/2616",
     "isHttps": false
   },
   {
@@ -25331,7 +25367,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.29/live/bbc_first/index.m3u8",
+    "url": "http://88.212.15.17/live/bbc_first/index.m3u8",
     "isHttps": false
   },
   {
@@ -25340,7 +25376,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/jim_jam_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -25349,7 +25385,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_nick_jr/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_nick_jr/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25358,7 +25394,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/amc_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/amc_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -25367,7 +25403,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/axn_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/axn_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -25376,7 +25412,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
+    "url": "http://88.212.15.17/live/fb_premium_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -25421,7 +25457,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/viasat_film/index.m3u8",
+    "url": "http://88.212.15.17/live/viasat_film/index.m3u8",
     "isHttps": false
   },
   {
@@ -25448,7 +25484,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25457,7 +25493,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.19/live/viasat3/index.m3u8",
+    "url": "http://88.212.15.17/live/viasat3/index.m3u8",
     "isHttps": false
   },
   {
@@ -25466,7 +25502,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.19/live/viasat6/index.m3u8",
+    "url": "http://88.212.15.17/live/viasat6/index.m3u8",
     "isHttps": false
   },
   {
@@ -25475,7 +25511,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.19/live/viasat2/index.m3u8",
+    "url": "http://88.212.15.17/live/viasat2/index.m3u8",
     "isHttps": false
   },
   {
@@ -25511,7 +25547,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_amc_25p/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_amc_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25529,7 +25565,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_black/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_black/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25682,7 +25718,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_minimax/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25790,7 +25826,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_classic/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
     "isHttps": false
   },
   {
@@ -25799,7 +25835,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_dance/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
     "isHttps": false
   },
   {
@@ -25808,7 +25844,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
     "isHttps": false
   },
   {
@@ -25817,7 +25853,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_sexy/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
     "isHttps": false
   },
   {
@@ -26240,7 +26276,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://88.212.15.19/live/real_madrid_tv/index.m3u8",
+    "url": "http://88.212.15.17/live/real_madrid_tv/index.m3u8",
     "isHttps": false
   },
   {
@@ -26457,24 +26493,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
-    "name": "SPOTV (720p)",
-    "logo": "https://i.imgur.com/HaoVsm5.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://58.8.186.128:10006/bysid/2614",
-    "isHttps": false
-  },
-  {
-    "name": "SPOTV 2 (720p)",
-    "logo": "https://i.imgur.com/YD8fbTH.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://58.8.186.128:10006/bysid/2630",
     "isHttps": false
   },
   {
@@ -26979,15 +26997,6 @@
     "language": "",
     "group": "General",
     "url": "http://80.79.6.221:25461/smash/public/19",
-    "isHttps": false
-  },
-  {
-    "name": "tvN Asia HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://58.8.186.128:10005/bysid/2518",
     "isHttps": false
   },
   {

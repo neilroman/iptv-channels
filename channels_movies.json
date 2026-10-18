@@ -2169,6 +2169,15 @@
     "isHttps": true
   },
   {
+    "name": "Nashe Novoe Kino",
+    "logo": "https://i.imgur.com/IOxIsPj.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NEW K.MOVIES (1080p)",
     "logo": "https://i.imgur.com/wCgirjc.png",
     "country": "",
@@ -2274,15 +2283,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Novyi Russkii (720p)",
-    "logo": "https://i.imgur.com/iuRSScH.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
     "isHttps": true
   },
   {
@@ -3789,15 +3789,6 @@
     "isHttps": true
   },
   {
-    "name": "Pro100TV (576p)",
-    "logo": "https://i.imgur.com/YfQEflM.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Classic;Entertainment;Family;Movies",
-    "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Public Movies (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png",
     "country": "",
@@ -4155,15 +4146,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Russkiy Illusion (576p)",
-    "logo": "https://i.imgur.com/RlsqFN8.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -5999,7 +5981,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/amc_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/amc_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -6008,7 +5990,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/axn_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/axn_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -6017,7 +5999,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/film_cafe/index.m3u8",
+    "url": "http://88.212.15.17/live/film_cafe/index.m3u8",
     "isHttps": false
   },
   {
@@ -6026,7 +6008,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
+    "url": "http://88.212.15.17/live/fb_premium_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -6053,7 +6035,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/viasat_film/index.m3u8",
+    "url": "http://88.212.15.17/live/viasat_film/index.m3u8",
     "isHttps": false
   },
   {
@@ -6071,7 +6053,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6080,7 +6062,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/film_plus_hun_atk/index.m3u8",
+    "url": "http://88.212.15.17/live/film_plus_hun_atk/index.m3u8",
     "isHttps": false
   },
   {
@@ -6089,7 +6071,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/film4_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/film4_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -6107,7 +6089,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/mozi/index.m3u8",
+    "url": "http://88.212.15.17/live/mozi/index.m3u8",
     "isHttps": false
   },
   {
@@ -6116,7 +6098,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/mozi_plusz/index.m3u8",
+    "url": "http://88.212.15.17/live/mozi_plusz/index.m3u8",
     "isHttps": false
   },
   {
@@ -6125,7 +6107,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+    "url": "http://88.212.15.17/live/moziverzum/index.m3u8",
     "isHttps": false
   },
   {
@@ -6170,7 +6152,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_amc_25p/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_amc_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6188,7 +6170,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_black/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_black/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6197,7 +6179,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_axn/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_axn/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6278,7 +6260,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_filmbox_family_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6296,7 +6278,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_film_boxextra_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6305,7 +6287,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6314,7 +6296,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6323,7 +6305,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_filmbox/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6422,7 +6404,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6431,7 +6413,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6440,7 +6422,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6458,7 +6440,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6669,15 +6651,6 @@
     "isHttps": false
   },
   {
-    "name": "Nashe Novoe Kino (1080p)",
-    "logo": "https://i.imgur.com/IOxIsPj.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nile Drama (576p)",
     "logo": "https://i.imgur.com/FasJFMM.png",
     "country": "",
@@ -6786,6 +6759,15 @@
     "isHttps": false
   },
   {
+    "name": "Rai Movie HD (1080p)",
+    "logo": "https://i.imgur.com/0FjxXU9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://team-tv.co:81/raimovie/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Retro Plus 3 (1080p)",
     "logo": "https://i.imgur.com/i0rZsgG.png",
     "country": "",
@@ -6828,6 +6810,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/204/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Russkiy Illusion (576p)",
+    "logo": "https://i.imgur.com/RlsqFN8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://31.148.48.15/Russkiy_illusion/index.m3u8",
     "isHttps": false
   },
   {
@@ -7026,51 +7017,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://46.151.196.223:14326/",
-    "isHttps": false
-  },
-  {
-    "name": "True Film 1 (720p)",
-    "logo": "https://i.imgur.com/z9XvYLe.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://58.8.186.128:10004/bysid/2415",
-    "isHttps": false
-  },
-  {
-    "name": "True Film 2 (720p)",
-    "logo": "https://i.imgur.com/4K1HbOB.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://58.8.186.128:10004/bysid/2432",
-    "isHttps": false
-  },
-  {
-    "name": "True Film Asia (720p)",
-    "logo": "https://i.imgur.com/Ci872im.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://58.8.186.128:10004/bysid/2416",
-    "isHttps": false
-  },
-  {
-    "name": "True Movie Hits (720p)",
-    "logo": "https://i.imgur.com/65kk1R3.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://58.8.186.128:10003/bysid/2325",
-    "isHttps": false
-  },
-  {
-    "name": "True Thai Film (720p)",
-    "logo": "https://i.imgur.com/MfLY3LF.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://58.8.186.128:10003/bysid/2326",
     "isHttps": false
   },
   {

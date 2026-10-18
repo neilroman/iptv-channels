@@ -1575,12 +1575,12 @@
     "isHttps": true
   },
   {
-    "name": "Rai 3 (720p)",
+    "name": "Rai 3 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8",
     "isHttps": true
   },
   {
@@ -2724,6 +2724,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rai Movie HD (1080p)",
+    "logo": "https://i.imgur.com/0FjxXU9.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://team-tv.co:81/raimovie/index.m3u8",
     "isHttps": false
   },
   {

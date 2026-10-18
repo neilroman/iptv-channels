@@ -5,7 +5,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+    "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8",
     "isHttps": true
   },
   {
@@ -1590,6 +1590,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "V90 (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://57.128.231.171:8080/228/index.m3u8",
     "isHttps": false
   },
   {

@@ -1566,6 +1566,15 @@
     "isHttps": true
   },
   {
+    "name": "Discovery Channel (India) HD (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Discovery Channel (Italy) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
     "country": "",
@@ -4275,15 +4284,6 @@
     "isHttps": true
   },
   {
-    "name": "Oruzhie (576p)",
-    "logo": "https://i.imgur.com/lfJQJqa.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "OTV (Ghana) (720p)",
     "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
     "country": "",
@@ -4695,15 +4695,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pro100TV (576p)",
-    "logo": "https://i.imgur.com/YfQEflM.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Classic;Entertainment;Family;Movies",
-    "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
     "isHttps": true
   },
   {
@@ -5274,6 +5265,15 @@
     "isHttps": true
   },
   {
+    "name": "Sony SAB (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sooriyan TV (1080p)",
     "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
     "country": "",
@@ -5406,6 +5406,24 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sun Surya HD (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sun TV HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
     "isHttps": true
   },
   {
@@ -6872,7 +6890,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/test_cai_hevc/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_cai_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -7232,7 +7250,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.29/live/bbc_first/index.m3u8",
+    "url": "http://88.212.15.17/live/bbc_first/index.m3u8",
     "isHttps": false
   },
   {
@@ -7241,7 +7259,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/jocky/index.m3u8",
+    "url": "http://88.212.15.17/live/jocky/index.m3u8",
     "isHttps": false
   },
   {
@@ -7250,7 +7268,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/lifetv/index.m3u8",
+    "url": "http://88.212.15.17/live/lifetv/index.m3u8",
     "isHttps": false
   },
   {
@@ -7259,7 +7277,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/moziklub_atk/index.m3u8",
+    "url": "http://88.212.15.17/live/moziklub_atk/index.m3u8",
     "isHttps": false
   },
   {
@@ -7268,7 +7286,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/sorozatklub_atk/index.m3u8",
+    "url": "http://88.212.15.17/live/sorozatklub_atk/index.m3u8",
     "isHttps": false
   },
   {
@@ -7286,7 +7304,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -7304,7 +7322,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/izaura/index.m3u8",
+    "url": "http://88.212.15.17/live/izaura/index.m3u8",
     "isHttps": false
   },
   {
@@ -7331,7 +7349,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/rtl_otthon_atk/index.m3u8",
+    "url": "http://88.212.15.17/live/rtl_otthon_atk/index.m3u8",
     "isHttps": false
   },
   {
@@ -7340,7 +7358,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/spektrum_home_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/spektrum_home_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -7367,7 +7385,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/test_white/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_white/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -7484,7 +7502,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/m2_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -7637,7 +7655,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/otv/playlist.m3u8",
+    "url": "http://88.212.15.17/live/otv/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -7839,21 +7857,12 @@
     "isHttps": false
   },
   {
-    "name": "Sony SAB (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a01q/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "Spektrum Home (Czech Republic)",
     "logo": "https://i.imgur.com/VaVi65F.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.19/live/test_home_hevc/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_home_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -7899,15 +7908,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://stream.mcquack.net/269/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Sun TV HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a02a/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -8052,15 +8052,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "tvN Asia HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://58.8.186.128:10005/bysid/2518",
     "isHttps": false
   },
   {

@@ -23,7 +23,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+    "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8",
     "isHttps": true
   },
   {
@@ -1071,6 +1071,15 @@
     "isHttps": true
   },
   {
+    "name": "Lucas & Friends",
+    "logo": "https://i.postimg.cc/cLft65S5/Dmin-CTnq-400x400.jpg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "MBC 3 USA (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/PVt8OPN.png",
     "country": "",
@@ -1086,6 +1095,15 @@
     "language": "",
     "group": "Animation;Kids;Music",
     "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MiMi TV (720p)",
+    "logo": "https://i.imgur.com/NmQglPa.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://fl.biztv.media/MiMiTV_720/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1194,15 +1212,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
-    "name": "Multimania (576p)",
-    "logo": "https://i.imgur.com/abh8ZBA.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1464,15 +1473,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "O! International (576p)",
-    "logo": "https://i.imgur.com/pDc665V.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -2049,15 +2049,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "STS kids International (576p)",
-    "logo": "https://i.imgur.com/o9kLpAL.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -2709,12 +2700,12 @@
     "isHttps": false
   },
   {
-    "name": "Cartoon Network Latin America Brazil (720p) [Geo-blocked]",
+    "name": "Cartoon Network Latin America Brazil (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
+    "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
     "isHttps": false
   },
   {
@@ -2831,7 +2822,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+    "url": "http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2885,7 +2876,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_disney/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_disney/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -2922,15 +2913,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (United States) (720p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://212.5.144.156/disney/index.m3u8",
     "isHttps": false
   },
   {
@@ -3209,7 +3191,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_disney_junior/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_disney_junior/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3218,7 +3200,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/jim_jam_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -3227,7 +3209,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/kolyokklub_atk/index.m3u8",
+    "url": "http://88.212.15.17/live/kolyokklub_atk/index.m3u8",
     "isHttps": false
   },
   {
@@ -3236,7 +3218,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/minimax_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/minimax_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -3245,7 +3227,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_nick_jr/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_nick_jr/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3254,7 +3236,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/nick_junior_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/nick_junior_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -3263,7 +3245,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3272,7 +3254,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/nicktoons_hungary/index.m3u8",
+    "url": "http://88.212.15.17/live/nicktoons_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -3281,7 +3263,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
+    "url": "http://88.212.15.17/live/disney_channel_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -3299,7 +3281,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3317,7 +3299,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/tv2_kids/index.m3u8",
+    "url": "http://88.212.15.17/live/tv2_kids/index.m3u8",
     "isHttps": false
   },
   {
@@ -3407,7 +3389,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_minimax/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3587,7 +3569,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_nicktoons/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3633,6 +3615,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/60/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "O! International (720p)",
+    "logo": "https://i.imgur.com/pDc665V.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3840,15 +3831,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Tooncast SouthAmerica (1080p)",
-    "logo": "https://i.imgur.com/3yXRbQy.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
     "isHttps": false
   },
   {

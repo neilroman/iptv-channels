@@ -576,15 +576,6 @@
     "isHttps": true
   },
   {
-    "name": "Busuioc TV",
-    "logo": "https://i.imgur.com/CQtfBPu.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cadena Elite (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/3yeGDTP.png",
     "country": "",
@@ -1509,6 +1500,15 @@
     "language": "",
     "group": "Music",
     "url": "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Hope Channel PROYECTO JA (360p)",
+    "logo": "https://i.imgur.com/VDyf36C.png",
+    "country": "",
+    "language": "",
+    "group": "Family;Music;Religious",
+    "url": "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8",
     "isHttps": true
   },
   {
@@ -6395,7 +6395,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6404,7 +6404,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+    "url": "http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6584,7 +6584,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_classic/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
     "isHttps": false
   },
   {
@@ -6593,7 +6593,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_dance/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
     "isHttps": false
   },
   {
@@ -6602,7 +6602,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
     "isHttps": false
   },
   {
@@ -6611,7 +6611,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.19/live/mb_sexy/index.m3u8",
+    "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
     "isHttps": false
   },
   {
@@ -6675,6 +6675,15 @@
     "language": "",
     "group": "Music",
     "url": "http://31.148.48.15/O2_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Orizont TV (576p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -6921,6 +6930,15 @@
     "isHttps": false
   },
   {
+    "name": "TV AS (576p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "TV Duga+ (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/qZV3JW5.png",
     "country": "",
@@ -6936,6 +6954,15 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/281/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "V90 (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://57.128.231.171:8080/228/index.m3u8",
     "isHttps": false
   },
   {

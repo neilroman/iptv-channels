@@ -711,6 +711,15 @@
     "isHttps": true
   },
   {
+    "name": "Discovery Channel (India) HD (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Discovery Kids (720p)",
     "logo": "https://i.imgur.com/0iNQvoL.png",
     "country": "",
@@ -2034,6 +2043,15 @@
     "isHttps": true
   },
   {
+    "name": "Sony SAB (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony Wah (1080p) [Geo-blocked]",
     "logo": "https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -2211,6 +2229,24 @@
     "language": "",
     "group": "News",
     "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TLC (India) (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TLC (India) HD (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -3003,15 +3039,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
-    "name": "Sony SAB (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a01q/index.m3u8?hls",
     "isHttps": false
   },
   {
