@@ -7047,6 +7047,15 @@
     "isHttps": true
   },
   {
+    "name": "JEMR TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/CnR2m66.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://tv.webmedialive.com/jmrtv/live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "JFV TV (720p)",
     "logo": "https://i.imgur.com/SrmI6nU.jpeg",
     "country": "",
@@ -7983,7 +7992,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Sports\",ESPN Premium (Chile)",
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Sports\",ESPN Premium",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
     "country": "",
     "language": "",
@@ -8070,15 +8079,6 @@
     "language": "",
     "group": "General",
     "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"General\",Telemedellin (720p)",
-    "logo": "https://i.imgur.com/GnxzRTC.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -18027,6 +18027,15 @@
     "isHttps": false
   },
   {
+    "name": "Az Cinema (1080p)",
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Az Clic (1080p)",
     "logo": "https://i.imgur.com/ClqIQ4M.png",
     "country": "",
@@ -19161,15 +19170,6 @@
     "isHttps": false
   },
   {
-    "name": "ESPN Premium (Argentina) HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Este Canal TV (576p)",
     "logo": "https://i.imgur.com/jDT5XFs.jpg",
     "country": "",
@@ -19419,15 +19419,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "HBO Movies (720p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
     "isHttps": false
   },
   {
@@ -20727,6 +20718,15 @@
     "isHttps": false
   },
   {
+    "name": "Teleantioquia Plus (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/TeleantioquiaPlus.svg/revision/latest/scale-to-width-down/320?cb=20260826013823&path-prefix=es",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TeleAragua (480p)",
     "logo": "https://i.imgur.com/jPzcb2S.png",
     "country": "",
@@ -20841,6 +20841,15 @@
     "language": "",
     "group": "General",
     "url": "http://190.61.47.54:8000/play/a015/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Telemedellin (1080p)",
+    "logo": "https://i.imgur.com/GnxzRTC.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://181.78.82.130:8000/play/a0ru/index.m3u8",
     "isHttps": false
   },
   {

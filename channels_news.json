@@ -666,15 +666,6 @@
     "isHttps": true
   },
   {
-    "name": "Al Alam (360p)",
-    "logo": "https://i.imgur.com/Zdi31dy.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live2.alalam.ir/alalam.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Al Alam Al Yawm",
     "logo": "https://i.imgur.com/aAGjAoW.png",
     "country": "",
@@ -1557,6 +1548,15 @@
     "isHttps": true
   },
   {
+    "name": "BTV (Indonesia) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BTV News (720p)",
     "logo": "https://i.imgur.com/sUHiRj3.png",
     "country": "",
@@ -2403,12 +2403,12 @@
     "isHttps": true
   },
   {
-    "name": "Dong Nai TV 1 (720p)",
+    "name": "Dong Nai TV 1 (1080p)",
     "logo": "https://i.imgur.com/oQyioVa.png",
     "country": "",
     "language": "",
     "group": "General;News",
-    "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=53",
     "isHttps": true
   },
   {
@@ -3852,15 +3852,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",BTV (Indonesia) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",Kompas TV [Geo-blocked]",
     "logo": "https://i.imgur.com/bD6UHeZ.png",
     "country": "",
@@ -5199,6 +5190,15 @@
     "language": "",
     "group": "News",
     "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "News24 World",
+    "logo": "https://i.imgur.com/mzc1nJS.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
     "isHttps": true
   },
   {
@@ -6576,15 +6576,6 @@
     "language": "",
     "group": "News",
     "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sky News Extra",
-    "logo": "https://i.imgur.com/ZsPb8nL.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
     "isHttps": true
   },
   {
@@ -7988,7 +7979,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://live2.alalam.ir/live/Alalam/index.m3u8",
+    "url": "http://live2.alalam.ir/alalam.m3u8",
     "isHttps": false
   },
   {

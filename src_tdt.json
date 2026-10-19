@@ -599,7 +599,16 @@
     "country": "",
     "language": "",
     "group": "Musicales",
-    "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+    "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "4FUN TV Polonia PL",
+    "logo": "https://graph.facebook.com/4FUN.TV/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Musicales",
+    "url": "https://stream.4fun.tv:8888/sd/4fun.m3u8",
     "isHttps": true
   },
   {
@@ -1238,7 +1247,7 @@
     "country": "",
     "language": "",
     "group": "C. de Madrid",
-    "url": "https://media2.streambrothers.com:1936/8140/8140/.m3u8",
+    "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2421,6 +2430,15 @@
     "isHttps": true
   },
   {
+    "name": "EXN24 (Extremadura Noticias)",
+    "logo": "https://graph.facebook.com/noticiasCEX/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Extremadura",
+    "url": "https://dsdhx5k1zli7y.cloudfront.net/wct-73d928aa-5bc9-408c-97c6-61d898009440/continuous/41fa7b5f-29f3-4b34-8dee-a68fa27a7080/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Expres Chequia",
     "logo": "https://graph.facebook.com/OckoExpres/picture?width=200&height=200",
     "country": "",
@@ -2700,7 +2718,7 @@
     "isHttps": true
   },
   {
-    "name": "Junta Castilla y León",
+    "name": "Junta de Castilla y León",
     "logo": "https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3024,7 +3042,7 @@
     "isHttps": true
   },
   {
-    "name": "México Travel TV",
+    "name": "México Travel Channel",
     "logo": "https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3276,15 +3294,6 @@
     "isHttps": true
   },
   {
-    "name": "Onda Cero",
-    "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Informativos",
-    "url": "https://atres-live.ondacero.es/h264/live/obs/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Onda Valencia",
     "logo": "https://yt3.googleusercontent.com/aAS5uJNDnPz53xkeUbZ_1NaV8TJv35qhoFcmmE9UgIkpquYpNUOP6bRLwcB5WUcznnQdubdO=s200",
     "country": "",
@@ -3390,15 +3399,6 @@
     "language": "",
     "group": "C. Foral de Navarra",
     "url": "https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR",
-    "isHttps": true
-  },
-  {
-    "name": "Pat Bolivia",
-    "logo": "https://graph.facebook.com/patboliviahd/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. América",
-    "url": "https://www.redpat.tv:8000/play/12/74929205.m3u8",
     "isHttps": true
   },
   {
@@ -4424,7 +4424,7 @@
     "country": "",
     "language": "",
     "group": "Andalucía",
-    "url": "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8",
+    "url": "https://video.telemotril.com/telemotril-channel-1/index.m3u8",
     "isHttps": true
   },
   {
@@ -5049,7 +5049,7 @@
     "isHttps": true
   },
   {
-    "name": "WDR Westdeutschen Alemania DE",
+    "name": "WDR Westdeutscher Alemania DE",
     "logo": "https://pbs.twimg.com/profile_images/1368636275243315201/mWySSrnO_200x200.jpg",
     "country": "",
     "language": "",
