@@ -5581,7 +5581,7 @@
   },
   {
     "name": "CNN International (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -5590,7 +5590,7 @@
   },
   {
     "name": "CNN International North America (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL/images/LOGO_HD/image.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -6408,7 +6408,7 @@
     "isHttps": true
   },
   {
-    "name": "DD Sports (720p)",
+    "name": "DD Sports HD (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
@@ -8592,6 +8592,15 @@
     "language": "",
     "group": "Series",
     "url": "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Giallo (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
     "isHttps": true
   },
   {
@@ -14562,6 +14571,15 @@
     "isHttps": true
   },
   {
+    "name": "Nove (1080p)",
+    "logo": "https://i.imgur.com/rTjIkGO.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Now 70s (720p)",
     "logo": "https://i.imgur.com/qiCCX5X.png",
     "country": "",
@@ -18918,6 +18936,15 @@
     "isHttps": true
   },
   {
+    "name": "Smart Radio (576p)",
+    "logo": "https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Smash TV (720p)",
     "logo": "https://i.imgur.com/Yg6ZWKu.png",
     "country": "",
@@ -20346,6 +20373,15 @@
     "language": "",
     "group": "Documentary",
     "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TELE 5 (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://s6.hopslan.com/tele5X/index.m3u8",
     "isHttps": true
   },
   {
@@ -24705,6 +24741,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Life SD (576i)",
+    "logo": "https://i.imgur.com/aMCoSWI.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://57.128.231.171:8080/280/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Discovery Turbo (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",
     "country": "",
@@ -24759,21 +24804,21 @@
     "isHttps": false
   },
   {
-    "name": "Disney XD (United States) (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Distrito Comedia (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png",
     "country": "",
     "language": "",
     "group": "Comedy",
     "url": "http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "DTX (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/960px-DTX_Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Auto",
+    "url": "http://57.128.231.171:8080/274/index.m3u8",
     "isHttps": false
   },
   {
@@ -24850,7 +24895,7 @@
   },
   {
     "name": "ESPN (United States) HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd_c.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -25026,6 +25071,15 @@
     "language": "",
     "group": "General",
     "url": "http://190.197.41.183/Fox/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Fox Comedy (576i)",
+    "logo": "https://i.imgur.com/7oZaSDI.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://57.128.231.171:8080/250/index.m3u8",
     "isHttps": false
   },
   {
@@ -26376,15 +26430,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "SBS WorldWatch",
-    "logo": "https://i.imgur.com/gCKMxrW.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://44.32.200.142:5004/auto/v35",
     "isHttps": false
   },
   {

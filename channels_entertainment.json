@@ -2178,6 +2178,15 @@
     "isHttps": true
   },
   {
+    "name": "Giallo (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "GikTVMX (720p)",
     "logo": "https://i.imgur.com/Gwz78jZ.png",
     "country": "",
@@ -4182,15 +4191,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "NOW TV (720p)",
-    "logo": "https://i.imgur.com/5EYjWK7.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
     "isHttps": true
   },
   {
@@ -6435,12 +6435,12 @@
     "isHttps": true
   },
   {
-    "name": "Zee Telugu HD (720p)",
+    "name": "Zee Telugu HD (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8",
     "isHttps": true
   },
   {

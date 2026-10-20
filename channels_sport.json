@@ -360,7 +360,7 @@
     "isHttps": true
   },
   {
-    "name": "CRTV Sports and Entertainment (360p)",
+    "name": "CRTV Sports and Entertainment SD (360p)",
     "logo": "https://i.imgur.com/DiIei9F.png",
     "country": "",
     "language": "",
@@ -396,21 +396,21 @@
     "isHttps": true
   },
   {
-    "name": "DD Sports (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DD Sports SD (1080p)",
+    "name": "DD Sports (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "DD Sports HD (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
     "isHttps": true
   },
   {
@@ -738,6 +738,15 @@
     "isHttps": true
   },
   {
+    "name": "Fox Sports 2 (576i)",
+    "logo": "https://i.imgur.com/oG7HzEf.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Fox Sports News (1080p)",
     "logo": "https://i.imgur.com/FhMQrJk.png",
     "country": "",
@@ -816,15 +825,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ge Fast (1080p)",
-    "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1926,6 +1926,15 @@
     "isHttps": true
   },
   {
+    "name": "Sport Extra",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sport+ Qazaqstan (1080p)",
     "logo": "https://i.imgur.com/vIV7x6n.png",
     "country": "",
@@ -3007,7 +3016,7 @@
   },
   {
     "name": "ESPN (United States) HD (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd_c.png",
     "country": "",
     "language": "",
     "group": "Sports",

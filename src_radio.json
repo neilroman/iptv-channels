@@ -162,7 +162,7 @@
     "isHttps": true
   },
   {
-    "name": "Andorra Música - Andorra",
+    "name": "Andorra Música",
     "logo": "https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -501,15 +501,6 @@
     "language": "",
     "group": "Radio_Andalucía",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3",
-    "isHttps": true
-  },
-  {
-    "name": "Cadena Dial Castellón",
-    "logo": "https://graph.facebook.com/cadenadialcastelllon/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_C. Valenciana",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_SC.mp3",
     "isHttps": true
   },
   {
@@ -2147,7 +2138,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Andalucía",
-    "url": "https://radio.grupoelixir.es:9012/stream",
+    "url": "https://radio.grupoelixir.es:9018/stream",
     "isHttps": true
   },
   {
@@ -2664,7 +2655,7 @@
     "isHttps": true
   },
   {
-    "name": "Gaydio UK",
+    "name": "Gaydio Reino Unido",
     "logo": "https://graph.facebook.com/gaydio/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3452,7 +3443,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Musicales",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3",
     "isHttps": true
   },
   {
@@ -5481,15 +5472,6 @@
     "isHttps": true
   },
   {
-    "name": "Radio Barbastro-Ainsa",
-    "logo": "https://graph.facebook.com/RadioBarbastroyAinsa/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Aragón",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARBASTRO.mp3",
-    "isHttps": true
-  },
-  {
     "name": "Radio Benicarló",
     "logo": "https://pbs.twimg.com/profile_images/1544316931175550979/6M8VF3dz_200x200.jpg",
     "country": "",
@@ -5685,15 +5667,6 @@
     "language": "",
     "group": "Radio_Cataluña",
     "url": "https://streaming12.elitecomunicacion.es:8228/stream",
-    "isHttps": true
-  },
-  {
-    "name": "Ràdio Despí",
-    "logo": "https://graph.facebook.com/radiodespi/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Cataluña",
-    "url": "https://streaming12.elitecomunicacion.es:8228/stream?type=.mp3",
     "isHttps": true
   },
   {
@@ -5913,42 +5886,6 @@
     "isHttps": true
   },
   {
-    "name": "Radio Huesca Graus",
-    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Aragón",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GRAUS.mp3",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Huesca Jaca",
-    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Aragón",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JACA.mp3",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Huesca Sabiñánigo",
-    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Aragón",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SABINANIGO.mp3",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Huesca Sariñena",
-    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Aragón",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3",
-    "isHttps": true
-  },
-  {
     "name": "Radio Ibi",
     "logo": "https://pbs.twimg.com/profile_images/524879648971165696/0R6A-gKg_200x200.jpeg",
     "country": "",
@@ -6045,6 +5982,15 @@
     "language": "",
     "group": "Radio_Andalucía",
     "url": "https://server10.emitironline.com:30132/stream",
+    "isHttps": true
+  },
+  {
+    "name": "Ràdio La Mina",
+    "logo": "https://graph.facebook.com/RadiolaMina/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Cataluña",
+    "url": "https://cervera.eldialdigital.com:21121/stream",
     "isHttps": true
   },
   {
@@ -6435,7 +6381,7 @@
     "isHttps": true
   },
   {
-    "name": "Radio Montecarlo",
+    "name": "Radio Montecarlo Mónaco",
     "logo": "https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -7281,7 +7227,7 @@
     "isHttps": true
   },
   {
-    "name": "Rinse FM France",
+    "name": "Rinse FM Francia",
     "logo": "https://graph.facebook.com/rinsefm/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -7290,7 +7236,7 @@
     "isHttps": true
   },
   {
-    "name": "Rinse FM UK",
+    "name": "Rinse FM Reino Unido",
     "logo": "https://graph.facebook.com/rinsefm/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -7623,6 +7569,15 @@
     "isHttps": true
   },
   {
+    "name": "SER Barbastro-Ainsa",
+    "logo": "https://graph.facebook.com/RadioBarbastroyAinsa/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Aragón",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARBASTRO.mp3",
+    "isHttps": true
+  },
+  {
     "name": "SER Barcelona",
     "logo": "https://graph.facebook.com/radiobarcelona.cadenaser/picture?width=200&height=200",
     "country": "",
@@ -7638,6 +7593,15 @@
     "language": "",
     "group": "Radio_Andalucía",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAZA.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "SER Benidorm",
+    "logo": "https://graph.facebook.com/RadioBenidorm/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_C. Valenciana",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BENIDORM.mp3",
     "isHttps": true
   },
   {
@@ -7965,6 +7929,15 @@
     "isHttps": true
   },
   {
+    "name": "SER Haro",
+    "logo": "https://graph.facebook.com/radioharo/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_La Rioja",
+    "url": "https://streaming.radioharo.com/radioharo.mp3",
+    "isHttps": true
+  },
+  {
     "name": "SER Henares",
     "logo": "https://graph.facebook.com/serhenares/picture?width=200&height=200",
     "country": "",
@@ -7989,6 +7962,42 @@
     "language": "",
     "group": "Radio_Aragón",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUESCA.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "SER Huesca Graus",
+    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Aragón",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GRAUS.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "SER Huesca Jaca",
+    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Aragón",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_JACA.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "SER Huesca Sabiñánigo",
+    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Aragón",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SABINANIGO.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "SER Huesca Sariñena",
+    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Aragón",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3",
     "isHttps": true
   },
   {
@@ -8424,33 +8433,6 @@
     "isHttps": true
   },
   {
-    "name": "SER Radio Benidorm",
-    "logo": "https://graph.facebook.com/RadioBenidorm/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_C. Valenciana",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BENIDORM.mp3",
-    "isHttps": true
-  },
-  {
-    "name": "SER Radio Haro",
-    "logo": "https://graph.facebook.com/radioharo/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_La Rioja",
-    "url": "https://streaming.radioharo.com/radioharo.mp3",
-    "isHttps": true
-  },
-  {
-    "name": "SER Radio Santander",
-    "logo": "https://graph.facebook.com/CadenaSerCantabria/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Cantabria",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3",
-    "isHttps": true
-  },
-  {
     "name": "SER Reus",
     "logo": "https://graph.facebook.com/CadenaSERTarragonaReus/picture?width=200&height=200",
     "country": "",
@@ -8493,6 +8475,15 @@
     "language": "",
     "group": "Radio_País Vasco",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SAN_SEBASTIAN.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "SER Santander",
+    "logo": "https://graph.facebook.com/CadenaSerCantabria/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Cantabria",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3",
     "isHttps": true
   },
   {
@@ -8874,7 +8865,7 @@
     "isHttps": true
   },
   {
-    "name": "Total Rock UK",
+    "name": "Total Rock Reino Unido",
     "logo": "https://graph.facebook.com/TotalRockOnline/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -9240,15 +9231,6 @@
     "language": "",
     "group": "Radio_Castilla y León",
     "url": "http://radioevolucion.freeddns.org:8001/fibra_baja",
-    "isHttps": false
-  },
-  {
-    "name": "Ràdio La Mina",
-    "logo": "https://graph.facebook.com/RadiolaMina/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Cataluña",
-    "url": "http://cervera.eldialdigital.com:11121/stream",
     "isHttps": false
   },
   {

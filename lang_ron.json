@@ -1134,12 +1134,30 @@
     "isHttps": true
   },
   {
+    "name": "Smart Radio (576p)",
+    "logo": "https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SperantaTV (1080p)",
     "logo": "https://i.imgur.com/KUyqQCX.png",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sport Extra",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
     "isHttps": true
   },
   {
@@ -1185,6 +1203,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://dvb.tennet.ro/mobile_tv/telestar.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Tequila Music TV",
+    "logo": "https://tequilamusic.net/imagini/tv-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream.tequilamusic.net/hls/tequila_tv.m3u8",
     "isHttps": true
   },
   {

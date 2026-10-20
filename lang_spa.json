@@ -207,6 +207,60 @@
     "isHttps": true
   },
   {
+    "name": "7TV",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "7TV Cordoba",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "7TV Jaen",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "7TV Jerez",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "7TV Malaga",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "7TV Sevilla",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "8 La Marina TV (576p)",
     "logo": "https://i.imgur.com/BTJvvBK.png",
     "country": "",
@@ -1557,15 +1611,6 @@
     "isHttps": true
   },
   {
-    "name": "Bolivision Santa Cruz (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Bonao TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/en1vCZB.png",
     "country": "",
@@ -1872,12 +1917,12 @@
     "isHttps": true
   },
   {
-    "name": "Canal 10 (Nicaragua) (360p) [Geo-blocked]",
+    "name": "Canal 10 (Nicaragua)",
     "logo": "https://i.imgur.com/ztp781b.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://www.canal10.com.ni/envivo",
+    "url": "https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8",
     "isHttps": true
   },
   {
@@ -5067,6 +5112,15 @@
     "isHttps": true
   },
   {
+    "name": "EBN Television WIDP (1080p)",
+    "logo": "https://i.imgur.com/4OCptwT.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "EbS (1080p)",
     "logo": "https://i.imgur.com/DIIRPNN.png",
     "country": "",
@@ -6081,6 +6135,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://multimedia.fortalezatv.cl/video/video.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Fox Sports 2 (576i)",
+    "logo": "https://i.imgur.com/oG7HzEf.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -9699,6 +9762,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nick Jr. Latin America (1080p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -13878,6 +13950,15 @@
     "isHttps": true
   },
   {
+    "name": "TCM Latin America Chile (1080p)",
+    "logo": "https://i.imgur.com/QpDkrmT.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streaming.onnethn.com/TCM_HD/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TCS+ (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/iYFWG06.png",
     "country": "",
@@ -14014,7 +14095,7 @@
   },
   {
     "name": "Tele Posadas (720p)",
-    "logo": "https://i.imgur.com/88MVgwX.png",
+    "logo": "",
     "country": "",
     "language": "",
     "group": "General",
@@ -14023,7 +14104,7 @@
   },
   {
     "name": "Tele Posadas SD (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/88MVgwX.png",
+    "logo": "https://i.imgur.com/sfUBb7I.jpeg",
     "country": "",
     "language": "",
     "group": "General",
@@ -18978,15 +19059,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney XD (United States) (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
     "isHttps": false
   },
   {

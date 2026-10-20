@@ -900,7 +900,7 @@
     "isHttps": true
   },
   {
-    "name": "Al Arabiya Emiratos Árabes AR",
+    "name": "Al Arabiya Emiratos Árabes Unidos AR",
     "logo": "https://graph.facebook.com/AlArabiya/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1005,15 +1005,6 @@
     "language": "",
     "group": "Andalucía",
     "url": "https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Andalucía Turismo",
-    "logo": "https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200",
-    "country": "",
-    "language": "",
-    "group": "Andalucía",
-    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1",
     "isHttps": true
   },
   {
@@ -1575,7 +1566,7 @@
     "isHttps": true
   },
   {
-    "name": "Channel NewsAsia EN",
+    "name": "Channel NewsAsia Singapur EN",
     "logo": "https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -1836,7 +1827,7 @@
     "isHttps": true
   },
   {
-    "name": "CourtTV USA EN",
+    "name": "Court TV USA EN",
     "logo": "https://graph.facebook.com/courttv/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2061,7 +2052,7 @@
     "isHttps": true
   },
   {
-    "name": "Ecuador TV Ecuador",
+    "name": "Ecuador TV",
     "logo": "https://pbs.twimg.com/profile_images/1962545090485784576/uXP9DhVk_200x200.jpg",
     "country": "",
     "language": "",
@@ -2232,7 +2223,7 @@
     "isHttps": true
   },
   {
-    "name": "Estrella TV México",
+    "name": "Estrella TV USA",
     "logo": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2241,7 +2232,7 @@
     "isHttps": true
   },
   {
-    "name": "Estrella TV México",
+    "name": "Estrella TV USA",
     "logo": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2250,7 +2241,7 @@
     "isHttps": true
   },
   {
-    "name": "Estrella TV México",
+    "name": "Estrella TV USA",
     "logo": "https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2277,12 +2268,30 @@
     "isHttps": true
   },
   {
+    "name": "ETB 1 On",
+    "logo": "https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200",
+    "country": "",
+    "language": "",
+    "group": "País Vasco",
+    "url": "https://cdn1.etbon.eus/etb1on/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ETB 2",
     "logo": "https://graph.facebook.com/eitb/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "País Vasco",
     "url": "https://cdn1.etbon.eus/etb2/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ETB 2 On",
+    "logo": "https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200",
+    "country": "",
+    "language": "",
+    "group": "País Vasco",
+    "url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
     "isHttps": true
   },
   {
@@ -2331,24 +2340,6 @@
     "isHttps": true
   },
   {
-    "name": "ETB1 ON",
-    "logo": "https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200",
-    "country": "",
-    "language": "",
-    "group": "País Vasco",
-    "url": "https://cdn1.etbon.eus/etb1on/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ETB2 ON",
-    "logo": "https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200",
-    "country": "",
-    "language": "",
-    "group": "País Vasco",
-    "url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "etv",
     "logo": "https://graph.facebook.com/etv.llobregat/picture?width=200&height=200",
     "country": "",
@@ -2394,7 +2385,7 @@
     "isHttps": true
   },
   {
-    "name": "EWTN",
+    "name": "EWTN USA",
     "logo": "https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2403,7 +2394,7 @@
     "isHttps": true
   },
   {
-    "name": "EWTN",
+    "name": "EWTN USA",
     "logo": "https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2412,7 +2403,7 @@
     "isHttps": true
   },
   {
-    "name": "EWTN EN",
+    "name": "EWTN USA EN",
     "logo": "https://graph.facebook.com/ewtnespanol/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -2736,7 +2727,7 @@
     "isHttps": true
   },
   {
-    "name": "Kronehit Austria",
+    "name": "Kronehit Austria DE",
     "logo": "https://graph.facebook.com/kronehit/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3015,7 +3006,7 @@
     "isHttps": true
   },
   {
-    "name": "Medi1 TV Marruecos",
+    "name": "Medi1 TV Marruecos AR",
     "logo": "https://graph.facebook.com/Medi1TV/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3024,7 +3015,7 @@
     "isHttps": true
   },
   {
-    "name": "Medi1 TV Marruecos",
+    "name": "Medi1 TV Marruecos AR",
     "logo": "https://graph.facebook.com/Medi1TV/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3033,7 +3024,7 @@
     "isHttps": true
   },
   {
-    "name": "Medi1 TV Marruecos",
+    "name": "Medi1 TV Marruecos AR",
     "logo": "https://graph.facebook.com/Medi1TV/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3213,7 +3204,7 @@
     "isHttps": true
   },
   {
-    "name": "Number1 FM Turquía",
+    "name": "Number1 TV Turquía",
     "logo": "https://graph.facebook.com/Number1FM/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3240,7 +3231,7 @@
     "isHttps": true
   },
   {
-    "name": "Oman TV",
+    "name": "Oman TV AR",
     "logo": "https://graph.facebook.com/OmanTvGeneral/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3249,7 +3240,7 @@
     "isHttps": true
   },
   {
-    "name": "On TV Portugal",
+    "name": "On TV Portugal PT",
     "logo": "https://graph.facebook.com/ONFM93.8/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3686,7 +3677,7 @@
     "country": "",
     "language": "",
     "group": "Int. Asia",
-    "url": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8",
+    "url": "https://amg01218-amg01218c6-amgplt0915.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01218-amg01218c6-amgplt0915/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3915,24 +3906,6 @@
     "isHttps": true
   },
   {
-    "name": "Segunda estrella (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/17239088.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Segunda estrella (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm29_main.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Semos asina (Canal Extremadura)",
     "logo": "https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",
     "country": "",
@@ -4032,7 +4005,7 @@
     "isHttps": true
   },
   {
-    "name": "Sky Folk Macedonia",
+    "name": "Sky Folk Macedonia del Norte",
     "logo": "https://graph.facebook.com/skyfolk.mk/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4122,7 +4095,7 @@
     "isHttps": true
   },
   {
-    "name": "Sport Italia",
+    "name": "Sportitalia",
     "logo": "https://graph.facebook.com/sportitaliatv/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4131,7 +4104,7 @@
     "isHttps": true
   },
   {
-    "name": "Sport Italia",
+    "name": "Sportitalia",
     "logo": "https://graph.facebook.com/sportitaliatv/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4140,7 +4113,7 @@
     "isHttps": true
   },
   {
-    "name": "Sport Italia IT",
+    "name": "Sportitalia IT",
     "logo": "https://graph.facebook.com/sportitaliatv/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4770,7 +4743,7 @@
     "isHttps": true
   },
   {
-    "name": "TVE Int. Asia y Pacífico GEO",
+    "name": "TVE Internacional Asia y Pacífico GEO",
     "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4779,7 +4752,7 @@
     "isHttps": true
   },
   {
-    "name": "TVE Int. Asia y Pacífico GEO",
+    "name": "TVE Internacional Asia y Pacífico GEO",
     "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4788,7 +4761,7 @@
     "isHttps": true
   },
   {
-    "name": "TVE Int. Europa",
+    "name": "TVE Internacional Europa",
     "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -4797,7 +4770,7 @@
     "isHttps": true
   },
   {
-    "name": "TVE Int. Europa",
+    "name": "TVE Internacional Europa",
     "logo": "https://graph.facebook.com/tveInternacional/picture?width=200&height=200",
     "country": "",
     "language": "",
