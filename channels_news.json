@@ -306,6 +306,15 @@
     "isHttps": true
   },
   {
+    "name": "A2 CNN",
+    "logo": "https://i.imgur.com/TgO3Lzi.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Aaj Ki Khabar (1080p)",
     "logo": "https://m.media-amazon.com/images/I/71q8sOMPwHL.png",
     "country": "",
@@ -3444,6 +3453,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn.pishow.tv/ott/live/411/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "iNews HD (720p)",
+    "logo": "https://i.imgur.com/M2R3lfg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mncmedia.malingtv.workers.dev/inews.m3u8",
     "isHttps": true
   },
   {
@@ -8421,15 +8439,6 @@
     "language": "",
     "group": "News",
     "url": "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "iNews HD (1080p)",
-    "logo": "https://i.imgur.com/M2R3lfg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://202.150.172.59/iNews/index.m3u8",
     "isHttps": false
   },
   {

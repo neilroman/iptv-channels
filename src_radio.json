@@ -297,12 +297,12 @@
     "isHttps": true
   },
   {
-    "name": "Babyradio LatinoAmérica",
+    "name": "Babyradio Latinoamérica",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200",
     "country": "",
     "language": "",
     "group": "Radio_Infantiles",
-    "url": "https://18213.live.streamtheworld.com/SAM04AAC33_SC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC33_SC",
     "isHttps": true
   },
   {
@@ -1125,6 +1125,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE Albacete",
+    "logo": "https://graph.facebook.com/copealbacete.cadenacope/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Castilla-La Mancha",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/albacete-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Alcoy",
     "logo": "https://graph.facebook.com/copealcoy/picture?width=200&height=200",
     "country": "",
@@ -1157,7 +1166,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Aragón",
-    "url": "https://wecast12-h-cloud.flumotion.com/copesedes/barbastro.mp3",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/barbastro.mp3",
     "isHttps": true
   },
   {
@@ -1215,6 +1224,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE Bilbao",
+    "logo": "https://graph.facebook.com/CopeEuskadi/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_País Vasco",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/bilbao-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Burgos",
     "logo": "https://graph.facebook.com/COPEBurgos/picture?width=200&height=200",
     "country": "",
@@ -1260,6 +1278,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE Castellón",
+    "logo": "https://graph.facebook.com/cope.castellon.101.6FM.1053OM/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_C. Valenciana",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/castellon-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Ciudad Real",
     "logo": "https://pbs.twimg.com/profile_images/1747214416926416896/pn-yrsyn_200x200.jpg",
     "country": "",
@@ -1284,6 +1311,15 @@
     "language": "",
     "group": "Radio_Galicia",
     "url": "https://wecast-bl01.flumotion.com/copesedes/lacoruna.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Coruña",
+    "logo": "https://graph.facebook.com/copecoruna/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Galicia",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/lacoruna-mas.mp3",
     "isHttps": true
   },
   {
@@ -1374,6 +1410,15 @@
     "language": "",
     "group": "Radio_Canarias",
     "url": "https://wecast-bl01.flumotion.com/copesedes/laspalmas.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Gran Canaria",
+    "logo": "https://graph.facebook.com/GranCanariaCOPE/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Canarias",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/laspalmas-mas.mp3",
     "isHttps": true
   },
   {
@@ -1503,12 +1548,30 @@
     "isHttps": true
   },
   {
+    "name": "COPE Lugo",
+    "logo": "https://graph.facebook.com/informativoscopelugo/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Galicia",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/lugo-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Madrid",
     "logo": "https://graph.facebook.com/copemadrid/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Radio_C. de Madrid",
     "url": "https://flucast09-h-cloud.flumotion.com/cope/madrid.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Madrid",
+    "logo": "https://graph.facebook.com/copemadrid/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_C. de Madrid",
+    "url": "https://flucast06-o-cloud.flumotion.com/cope/net4.mp3",
     "isHttps": true
   },
   {
@@ -1521,6 +1584,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE Málaga",
+    "logo": "https://pbs.twimg.com/profile_images/1763515200110575616/8TKel8u8_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Radio_Andalucía",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/malaga-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Mallorca",
     "logo": "https://graph.facebook.com/CopeBaleares/picture?width=200&height=200",
     "country": "",
@@ -1530,30 +1602,21 @@
     "isHttps": true
   },
   {
+    "name": "COPE Mallorca",
+    "logo": "https://graph.facebook.com/CopeBaleares/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Illes Balears",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/mallorca-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Marbella",
     "logo": "https://graph.facebook.com/copemarbell/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Radio_Andalucía",
     "url": "https://sonic.sistemahost.es/8236/stream",
-    "isHttps": true
-  },
-  {
-    "name": "COPE Más Madrid",
-    "logo": "https://graph.facebook.com/COPEMasMadrid/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_C. de Madrid",
-    "url": "https://flucast06-o-cloud.flumotion.com/cope/net4.mp3",
-    "isHttps": true
-  },
-  {
-    "name": "COPE Más Zaragoza",
-    "logo": "https://graph.facebook.com/copezaragoza/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Aragón",
-    "url": "https://wecast-bl01.flumotion.com/copesedes/zaragoza-mas.mp3",
     "isHttps": true
   },
   {
@@ -1593,6 +1656,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE Murcia",
+    "logo": "https://graph.facebook.com/COPEMurcia/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_R. de Murcia",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/murcia-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Onda Naranja",
     "logo": "https://graph.facebook.com/ondanaranjacope/picture?width=200&height=200",
     "country": "",
@@ -1602,12 +1674,21 @@
     "isHttps": true
   },
   {
-    "name": "COPE Ourense",
+    "name": "COPE Orense",
     "logo": "https://graph.facebook.com/copeourense/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Radio_Galicia",
     "url": "https://wecast-bl01.flumotion.com/copesedes/orense.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Orense",
+    "logo": "https://graph.facebook.com/copeourense/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Galicia",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/orense-mas.mp3",
     "isHttps": true
   },
   {
@@ -1635,6 +1716,15 @@
     "language": "",
     "group": "Radio_C. Foral de Navarra",
     "url": "https://wecast-bl01.flumotion.com/copesedes/pamplona.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Pamplona",
+    "logo": "https://graph.facebook.com/lacopeennavarra/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_C. Foral de Navarra",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/pamplona-mas.mp3",
     "isHttps": true
   },
   {
@@ -1679,7 +1769,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Andalucía",
-    "url": "https://wecast10-h-cloud.flumotion.com/copesedes/ronda.mp3",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/ronda.mp3",
     "isHttps": true
   },
   {
@@ -1701,6 +1791,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE San Sebastián",
+    "logo": "https://graph.facebook.com/CopeEuskadi/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_País Vasco",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/ssebastian-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Santander",
     "logo": "https://graph.facebook.com/cope.cantabria/picture?width=200&height=200",
     "country": "",
@@ -1715,7 +1814,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Cantabria",
-    "url": "https://wecast27-o-cloud.flumotion.com/copesedes/santander-mas.mp3",
+    "url": "https://wecast02-h-cloud.flumotion.com/copesedes/santander-mas.mp3",
     "isHttps": true
   },
   {
@@ -1743,6 +1842,15 @@
     "language": "",
     "group": "Radio_Andalucía",
     "url": "https://wecast-bl01.flumotion.com/copesedes/sevilla.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Sevilla",
+    "logo": "https://pbs.twimg.com/profile_images/1750090837218693120/7l1S4QEx_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Radio_Andalucía",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/sevilla-mas.mp3",
     "isHttps": true
   },
   {
@@ -1782,6 +1890,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE Tenerife",
+    "logo": "https://pbs.twimg.com/profile_images/1749497170103840768/x0hOsEm2_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Radio_Canarias",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/tenerife-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Teruel",
     "logo": "https://graph.facebook.com/copeteruel/picture?width=200&height=200",
     "country": "",
@@ -1818,12 +1935,30 @@
     "isHttps": true
   },
   {
+    "name": "COPE Valencia",
+    "logo": "https://graph.facebook.com/copevalencia/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_C. Valenciana",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/valencia-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Valladolid",
     "logo": "https://graph.facebook.com/CopeValladolid/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Radio_Castilla y León",
     "url": "https://wecast-bl01.flumotion.com/copesedes/valladolid.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Valladolid",
+    "logo": "https://graph.facebook.com/CopeValladolid/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Castilla y León",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/valladolid-mas.mp3",
     "isHttps": true
   },
   {
@@ -1863,6 +1998,15 @@
     "isHttps": true
   },
   {
+    "name": "COPE Vitoria",
+    "logo": "https://graph.facebook.com/CopeEuskadi/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_País Vasco",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/vitoria-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Yecla",
     "logo": "https://graph.facebook.com/copeyecla/picture?width=200&height=200",
     "country": "",
@@ -1881,12 +2025,30 @@
     "isHttps": true
   },
   {
+    "name": "COPE Zamora",
+    "logo": "https://pbs.twimg.com/profile_images/1749707523051958272/WLMH9EMM_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Radio_Castilla y León",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/zamora-mas.mp3",
+    "isHttps": true
+  },
+  {
     "name": "COPE Zaragoza",
     "logo": "https://graph.facebook.com/copezaragoza/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Radio_Aragón",
     "url": "https://wecast-bl01.flumotion.com/copesedes/zaragoza.mp3",
+    "isHttps": true
+  },
+  {
+    "name": "COPE Zaragoza",
+    "logo": "https://graph.facebook.com/copezaragoza/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Aragón",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/zaragoza-mas.mp3",
     "isHttps": true
   },
   {
@@ -2076,15 +2238,6 @@
     "language": "",
     "group": "Radio_País Vasco",
     "url": "https://multimedia.eitb.eus/live-content/eitbmusika-hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "El Pejeverde",
-    "logo": "https://graph.facebook.com/552642618121698/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Radio_Canarias",
-    "url": "https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2867,7 +3020,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Illes Balears",
-    "url": "https://n0b.radiojar.com/st0wc9kut72vv",
+    "url": "https://ibizasonica.streaming-pro.com:8000/ibizasonica",
     "isHttps": true
   },
   {
@@ -3165,6 +3318,15 @@
     "language": "",
     "group": "Radio_Musicales",
     "url": "https://radio.urbanrevolution.es:8443/hispano",
+    "isHttps": true
+  },
+  {
+    "name": "Lancelot Radio",
+    "logo": "https://graph.facebook.com/RadioLancelot/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Radio_Canarias",
+    "url": "https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4204,7 +4366,7 @@
   },
   {
     "name": "Onda Cero Cáceres",
-    "logo": "https://pbs.twimg.com/profile_images/1623012615449464833/jFvpzBiW_200x200.jpg",
+    "logo": "https://pbs.twimg.com/profile_images/2107393485397495808/QruDO3gV_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Radio_Extremadura",
@@ -5693,7 +5855,7 @@
     "country": "",
     "language": "",
     "group": "Radio_País Vasco",
-    "url": "https://stream-176.zeno.fm/zgn5w0dsrusvv",
+    "url": "https://cdn-peer011.streaming-pro.com:6139/radiodonosti.mp3",
     "isHttps": true
   },
   {
@@ -6238,7 +6400,7 @@
   },
   {
     "name": "Radio Marca Valladolid",
-    "logo": "https://pbs.twimg.com/profile_images/1686786609943920654/FR7ia-yk_200x200.jpg",
+    "logo": "https://pbs.twimg.com/profile_images/2107232808544473088/YNEMVYZx_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Radio_Castilla y León",
@@ -8699,7 +8861,7 @@
     "country": "",
     "language": "",
     "group": "Radio_Deportivas",
-    "url": "https://livesg.sevillafc.hiway.media/restreamer/sevillafc_client/gpu-f-c1-7/restreamer/outgest/5fbbbe86-da09-46d3-ad60-9efe234d1b3b/audio_manifest.m3u8",
+    "url": "https://livesg.sevillafc.hiway.media/restreamer/sevillafc_client/gpu-f-c1-7/restreamer/outgest/77e28a19-40d0-4940-8524-d2fab3d287e6/audio_manifest.m3u8",
     "isHttps": true
   },
   {

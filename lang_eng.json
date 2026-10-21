@@ -1512,6 +1512,15 @@
     "isHttps": true
   },
   {
+    "name": "American Ninja Warrior (1080p)",
+    "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
+    "isHttps": true
+  },
+  {
     "name": "Ameritrade (1080p) [Not 24/7]",
     "logo": "https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",
     "country": "",
@@ -3537,6 +3546,24 @@
     "isHttps": true
   },
   {
+    "name": "Botflix Radioo (1080p)",
+    "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hls.botflix.tv/radioo/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Botflix TV (1080p)",
+    "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+    "country": "",
+    "language": "",
+    "group": "Animation;Entertainment",
+    "url": "https://hls.botflix.tv/tv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bounce XL (1080p)",
     "logo": "https://i.imgur.com/GzxgSkc.png",
     "country": "",
@@ -4083,15 +4110,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Cartoon Network HD+ (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -14220,6 +14238,15 @@
     "isHttps": true
   },
   {
+    "name": "News24 Weather",
+    "logo": "https://i.imgur.com/HkBec1e.png",
+    "country": "",
+    "language": "",
+    "group": "Weather",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "News24 World",
     "logo": "https://i.imgur.com/mzc1nJS.png",
     "country": "",
@@ -16353,15 +16380,6 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Paranormal (Germany) GB",
-    "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pluto TV Paranormal (Sweden)",
     "logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
     "country": "",
@@ -16416,16 +16434,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Reality (Germany) GB",
-    "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Reality (United States)",
+    "name": "Pluto TV Reality",
     "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -16434,7 +16443,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Reality (United States) CA",
+    "name": "Pluto TV Reality CA",
     "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -16488,7 +16497,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Romance (United States)",
+    "name": "Pluto TV Romance",
     "logo": "https://i.imgur.com/GJBxfyf.png",
     "country": "",
     "language": "",
@@ -16521,15 +16530,6 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Germany) GB",
-    "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8",
     "isHttps": true
   },
   {
@@ -16578,16 +16578,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Science (Germany) GB",
-    "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary;Science",
-    "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Science (United States)",
+    "name": "Pluto TV Science",
     "logo": "https://i.imgur.com/uhunRoU.png",
     "country": "",
     "language": "",
@@ -16611,15 +16602,6 @@
     "language": "",
     "group": "Comedy;Series",
     "url": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Snooker 900 (Germany) GB (720p)",
-    "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8",
     "isHttps": true
   },
   {
@@ -16767,16 +16749,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Thrillers (Germany) GB",
-    "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Thrillers (United States)",
+    "name": "Pluto TV Thrillers",
     "logo": "https://i.imgur.com/ULKvDN7.png",
     "country": "",
     "language": "",
@@ -18879,15 +18852,6 @@
     "language": "",
     "group": "Weather",
     "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Sky News Weather Channel",
-    "logo": "https://i.imgur.com/FKg6AQr.png",
-    "country": "",
-    "language": "",
-    "group": "Weather",
-    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8",
     "isHttps": true
   },
   {
@@ -25047,15 +25011,6 @@
     "isHttps": false
   },
   {
-    "name": "Fox (United States) (720p)",
-    "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Fox (United States) West (720p)",
     "logo": "https://imgx.fubo.tv/station_logos/fox_c.png",
     "country": "",
@@ -26574,15 +26529,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Sports 1 (576p)",
-    "logo": "https://i.imgur.com/E5jjKHI.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.151.60.162:2122/play/a01a/index.m3u8?hls",
     "isHttps": false
   },
   {

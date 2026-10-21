@@ -549,6 +549,15 @@
     "isHttps": true
   },
   {
+    "name": "Botflix Radioo (1080p)",
+    "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hls.botflix.tv/radioo/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BPX TV Radio",
     "logo": "https://i.imgur.com/86VXni8.jpeg",
     "country": "",
@@ -600,15 +609,6 @@
     "language": "",
     "group": "Music",
     "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CCTV-15 (1080p)",
-    "logo": "https://i.imgur.com/CCV0eRG.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
     "isHttps": true
   },
   {
@@ -6081,6 +6081,15 @@
     "language": "",
     "group": "Music",
     "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "CCTV-15 (720p)",
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
     "isHttps": false
   },
   {

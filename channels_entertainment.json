@@ -927,6 +927,15 @@
     "isHttps": true
   },
   {
+    "name": "Botflix TV (1080p)",
+    "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+    "country": "",
+    "language": "",
+    "group": "Animation;Entertainment",
+    "url": "https://hls.botflix.tv/tv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bounce XL (1080p)",
     "logo": "https://i.imgur.com/GzxgSkc.png",
     "country": "",
@@ -1590,15 +1599,6 @@
     "language": "",
     "group": "Entertainment;Sports",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=255",
-    "isHttps": true
-  },
-  {
-    "name": "DreamTV (1080p)",
-    "logo": "https://www.mongolsat.mn/assets/img/channel/701.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
     "isHttps": true
   },
   {
@@ -2745,15 +2745,6 @@
     "isHttps": true
   },
   {
-    "name": "KBS Joy [Not 24/7]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://xykt-fix.github.io/flv/KJ_W.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "KCL TV (720p)",
     "logo": "https://i.imgur.com/bkp9dIm.png",
     "country": "",
@@ -3048,6 +3039,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",DreamTV (1080p)",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/701.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
     "isHttps": true
   },
   {
@@ -4590,25 +4590,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Reality (Germany) FR",
-    "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Reality (Germany) GB",
-    "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Pluto TV Reality (United States)",
+    "name": "Pluto TV Reality",
     "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -4617,7 +4599,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Reality (United States) CA",
+    "name": "Pluto TV Reality CA",
     "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
     "country": "",
     "language": "",
@@ -4626,7 +4608,7 @@
     "isHttps": true
   },
   {
-    "name": "Pluto TV Reality (United States) LatAm",
+    "name": "Pluto TV Reality LatAm",
     "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
     "country": "",
     "language": "",

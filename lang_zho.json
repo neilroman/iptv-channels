@@ -72,15 +72,6 @@
     "isHttps": true
   },
   {
-    "name": "CCTV-15 (1080p)",
-    "logo": "https://i.imgur.com/CCV0eRG.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CCTV-4 America (1080p)",
     "logo": "https://i.imgur.com/gBbLyqh.png",
     "country": "",
@@ -366,6 +357,15 @@
     "language": "",
     "group": "Business",
     "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Hunan Economy Channel",
+    "logo": "https://www.tvchinese.net/uploads/tv/hnjs.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8",
     "isHttps": true
   },
   {
@@ -927,6 +927,15 @@
     "isHttps": false
   },
   {
+    "name": "CCTV-15 (720p)",
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CCTV-16 HD (1080p)",
     "logo": "https://i.imgur.com/ZzV6JQp.png",
     "country": "",
@@ -1296,6 +1305,15 @@
     "isHttps": false
   },
   {
+    "name": "EBC Foreign Movie",
+    "logo": "https://i.imgur.com/oUhYdea.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv",
+    "isHttps": false
+  },
+  {
     "name": "EBC News (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/QFZs80p.png",
     "country": "",
@@ -1647,6 +1665,15 @@
     "isHttps": false
   },
   {
+    "name": "PTS 3",
+    "logo": "https://i.imgur.com/I6sVDDt.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv",
+    "isHttps": false
+  },
+  {
     "name": "Qinghai TV (576p)",
     "logo": "https://i.imgur.com/Nyuxo8S.png",
     "country": "",
@@ -1815,6 +1842,15 @@
     "language": "",
     "group": "General",
     "url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
+    "isHttps": false
+  },
+  {
+    "name": "SJTV",
+    "logo": "https://i.imgur.com/PTsFn9B.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv",
     "isHttps": false
   },
   {
