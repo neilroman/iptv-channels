@@ -6138,7 +6138,7 @@
     "isHttps": true
   },
   {
-    "name": "Fox Sports 2 (576i)",
+    "name": "Fox Sports 2 (Argentina) (576i)",
     "logo": "https://i.imgur.com/oG7HzEf.png",
     "country": "",
     "language": "",
@@ -8055,7 +8055,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Sports\",ESPN Premium",
+    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Sports\",ESPN Premium (Chile)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
     "country": "",
     "language": "",
@@ -8160,6 +8160,24 @@
     "language": "",
     "group": "Religious",
     "url": "https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36\" group-title=\"Movies\",Aneflix Live (720p)",
+    "logo": "https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36\" group-title=\"Movies\",Mega Extreno HD (720p)",
+    "logo": "https://cdn.vaughnsoft.net/profile/1792355588/mega_extremo.jpg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv",
     "isHttps": true
   },
   {
@@ -14031,7 +14049,7 @@
     "isHttps": true
   },
   {
-    "name": "Tele Posadas (720p)",
+    "name": "Tele Posadas (576p) [Not 24/7]",
     "logo": "",
     "country": "",
     "language": "",
@@ -18738,6 +18756,15 @@
     "isHttps": false
   },
   {
+    "name": "CNN International Latin America (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://168.228.44.241:9997/play/a073/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "CTV (Bolivia) (1080p)",
     "logo": "https://i.imgur.com/ljKb0UX.png",
     "country": "",
@@ -19176,6 +19203,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://190.61.47.54:8000/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ESPN Premium (Argentina) HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
     "isHttps": false
   },
   {
@@ -21111,6 +21147,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tooncast SouthAmerica (480p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://190.61.42.218:9000/play/a06i/index.m3u8",
     "isHttps": false
   },
   {
