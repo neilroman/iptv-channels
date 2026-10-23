@@ -108,6 +108,15 @@
     "isHttps": true
   },
   {
+    "name": "7X Music (360p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "8XM",
     "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
     "country": "",
@@ -960,6 +969,15 @@
     "language": "",
     "group": "Music",
     "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Dhamaal (576p) [Geo-blocked]",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8",
     "isHttps": true
   },
   {
@@ -2124,6 +2142,15 @@
     "isHttps": true
   },
   {
+    "name": "M6 Music",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
+    "isHttps": true
+  },
+  {
     "name": "Madras FM TV (1080p)",
     "logo": "https://i.imgur.com/spGg1CZ.png",
     "country": "",
@@ -3069,6 +3096,15 @@
     "isHttps": true
   },
   {
+    "name": "Pankh (360p)",
+    "logo": "https://papaji.freetvindia.com/media/pankh.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Panorama FM (1080p)",
     "logo": "https://i.imgur.com/JkDD3bK.png",
     "country": "",
@@ -3336,6 +3372,15 @@
     "language": "",
     "group": "Music",
     "url": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Punjabi Music HD (720p)",
+    "logo": "https://papaji.freetvindia.com/media/Punjabi_Music_HD.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -4838,7 +4883,7 @@
     "country": "",
     "language": "",
     "group": "Classic;Music",
-    "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8",
+    "url": "https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
     "isHttps": true
   },
   {
@@ -6165,15 +6210,6 @@
     "isHttps": false
   },
   {
-    "name": "Dhamaal (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test",
-    "isHttps": false
-  },
-  {
     "name": "Disco Mix (576p)",
     "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
     "country": "",
@@ -6399,15 +6435,6 @@
     "isHttps": false
   },
   {
-    "name": "Kino Polska Muzyka (1080p)",
-    "logo": "https://i.imgur.com/lE1IlPQ.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://57.128.231.171:8080/237/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Kuriakos Music (1080p)",
     "logo": "https://i.imgur.com/Zl40NYi.jpg",
     "country": "",
@@ -6507,15 +6534,6 @@
     "isHttps": false
   },
   {
-    "name": "M6 Music (720p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://145.239.5.177/320/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Mazzika (576p)",
     "logo": "https://i.imgur.com/P7PUHIx.png",
     "country": "",
@@ -6612,15 +6630,6 @@
     "language": "",
     "group": "Music",
     "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Music Box 80s (1080p)",
-    "logo": "https://musicboxtv.net/logo_music_box_80s.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://57.128.231.171:8080/229/index.m3u8",
     "isHttps": false
   },
   {
@@ -6930,12 +6939,12 @@
     "isHttps": false
   },
   {
-    "name": "Telehit Musica (1080p)",
+    "name": "Telehit Musica",
     "logo": "https://i.imgur.com/CofYjWh.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8",
+    "url": "http://190.61.55.34:2401/play/a06t/index.m3u8",
     "isHttps": false
   },
   {
@@ -7011,15 +7020,6 @@
     "isHttps": false
   },
   {
-    "name": "V90 (1080p)",
-    "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://57.128.231.171:8080/228/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "VM Latino (1080p)",
     "logo": "https://i.imgur.com/Dvo1b82.png",
     "country": "",
@@ -7035,15 +7035,6 @@
     "language": "",
     "group": "Music",
     "url": "http://92.114.85.87:8016/play/a00a/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zing! (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://107.167.16.138/zing/index.m3u8?token=test",
     "isHttps": false
   }
 ]

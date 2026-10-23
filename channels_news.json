@@ -315,6 +315,15 @@
     "isHttps": true
   },
   {
+    "name": "Aagaaz Times (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Aaj Ki Khabar (1080p)",
     "logo": "https://m.media-amazon.com/images/I/71q8sOMPwHL.png",
     "country": "",
@@ -1179,6 +1188,15 @@
     "isHttps": true
   },
   {
+    "name": "Ashwaveega News 24x7 (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Asian News (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png",
     "country": "",
@@ -1638,15 +1656,6 @@
     "isHttps": true
   },
   {
-    "name": "Canal E (720p)",
-    "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
-    "country": "",
-    "language": "",
-    "group": "Business;News",
-    "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canal I (1080p)",
     "logo": "https://i.imgur.com/vKfOavW.png",
     "country": "",
@@ -1905,6 +1914,15 @@
     "language": "",
     "group": "News",
     "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CGTN French (1080p)",
+    "logo": "https://i.imgur.com/BwhledK.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2247,6 +2265,15 @@
     "language": "",
     "group": "Movies;News",
     "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CP24 (576p)",
+    "logo": "https://i.imgur.com/YzjZUEl.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
     "isHttps": true
   },
   {
@@ -4554,6 +4581,15 @@
     "isHttps": true
   },
   {
+    "name": "Multivision Federal",
+    "logo": "https://i.imgur.com/jX0lqy3.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Munsif TV (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png",
     "country": "",
@@ -5757,6 +5793,15 @@
     "language": "",
     "group": "News",
     "url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Polsat News (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/sx1yPuc.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
     "isHttps": true
   },
   {
@@ -8127,15 +8172,6 @@
     "isHttps": false
   },
   {
-    "name": "CGTN French (1080p)",
-    "logo": "https://i.imgur.com/BwhledK.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://145.239.5.177/214/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Chifeng Comprehensive News Chanel",
     "logo": "https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg",
     "country": "",
@@ -8223,15 +8259,6 @@
     "language": "",
     "group": "News",
     "url": "http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CP24 (720p)",
-    "logo": "https://i.imgur.com/YzjZUEl.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://107.167.16.138/cp24/index.m3u8?token=test",
     "isHttps": false
   },
   {
@@ -8537,7 +8564,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://145.239.5.177/368/index.m3u8",
+    "url": "http://151.80.18.177:86/LCI_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -8802,15 +8829,6 @@
     "isHttps": false
   },
   {
-    "name": "Polsat News (1080p)",
-    "logo": "https://i.imgur.com/sx1yPuc.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://57.128.210.196:8080/199/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "PRO TV Chisinau (576p)",
     "logo": "https://i.imgur.com/X5PYRxF.png",
     "country": "",
@@ -9060,15 +9078,6 @@
     "language": "",
     "group": "News",
     "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV8 (Moldova) [Not 24/7]",
-    "logo": "https://i.imgur.com/Rsn4oUh.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary;News",
-    "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
     "isHttps": false
   },
   {

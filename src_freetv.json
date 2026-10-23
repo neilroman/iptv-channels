@@ -2043,6 +2043,24 @@
     "isHttps": true
   },
   {
+    "name": "Botflix Radioo",
+    "logo": "https://i.imgur.com/JBEM8lP.png",
+    "country": "US",
+    "language": "",
+    "group": "USA",
+    "url": "https://hls.botflix.tv/radioo/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Botflix TV",
+    "logo": "https://i.imgur.com/JBEM8lP.png",
+    "country": "US",
+    "language": "",
+    "group": "USA",
+    "url": "https://hls.botflix.tv/tv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BR Nord Ⓖ",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png",
     "country": "DE",
@@ -2346,6 +2364,15 @@
     "language": "",
     "group": "Italy",
     "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canale 58",
+    "logo": "https://i.imgur.com/RlFc74C.png",
+    "country": "IT",
+    "language": "",
+    "group": "Italy",
+    "url": "https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8",
     "isHttps": true
   },
   {
@@ -2697,6 +2724,15 @@
     "language": "",
     "group": "Business",
     "url": "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Chilevisión Deportes Ⓖ",
+    "logo": "https://i.imgur.com/eWCXl6a.jpeg",
+    "country": "CL",
+    "language": "",
+    "group": "Chile",
+    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4806,6 +4842,15 @@
     "isHttps": true
   },
   {
+    "name": "Frisbee",
+    "logo": "https://i.imgur.com/9y1zIAe.png",
+    "country": "IT",
+    "language": "",
+    "group": "Italy",
+    "url": "https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FTV News (民視新聞台) Ⓨ",
     "logo": "https://i.imgur.com/j9Gebr5.png",
     "country": "TW",
@@ -5172,6 +5217,15 @@
     "language": "",
     "group": "Finland",
     "url": "https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Hír TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8",
     "isHttps": true
   },
   {
@@ -5928,6 +5982,15 @@
     "language": "",
     "group": "VOD Italy",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "isHttps": true
+  },
+  {
+    "name": "K2",
+    "logo": "https://i.imgur.com/wlLgSiA.png",
+    "country": "IT",
+    "language": "",
+    "group": "Italy",
+    "url": "https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8",
     "isHttps": true
   },
   {
@@ -14220,15 +14283,6 @@
     "isHttps": true
   },
   {
-    "name": "UCL",
-    "logo": "https://i.imgur.com/JxqVHPX.png",
-    "country": "CL",
-    "language": "",
-    "group": "Chile",
-    "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "UCV Televisión",
     "logo": "https://i.imgur.com/2VL4Pts.png",
     "country": "CL",
@@ -15228,6 +15282,15 @@
     "isHttps": true
   },
   {
+    "name": "Министерство Идей",
+    "logo": "https://minidey.ru/media/images/logo_minidey_tv.png",
+    "country": "RU",
+    "language": "",
+    "group": "Russia",
+    "url": "https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Москва 24",
     "logo": "https://i.imgur.com/gXbUMVy.png",
     "country": "RU",
@@ -15822,12 +15885,30 @@
     "isHttps": false
   },
   {
+    "name": "ALWifak News TV",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Lebanon",
+    "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Antena 3",
     "logo": "https://i.imgur.com/j3SP4BS.png",
     "country": "ES",
     "language": "",
     "group": "Spain",
     "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Arabica TV",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Lebanon",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -15864,6 +15945,15 @@
     "language": "",
     "group": "Spain",
     "url": "http://181.78.109.48:8000/play/a00l/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ATV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/ATV_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -15921,30 +16011,12 @@
     "isHttps": false
   },
   {
-    "name": "bTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/330px-BTV_Bulgaria_logo.svg.png",
-    "country": "BG",
-    "language": "",
-    "group": "Bulgaria",
-    "url": "http://213.91.179.28:8000/play/a03w",
-    "isHttps": false
-  },
-  {
     "name": "BTV",
     "logo": "https://i.imgur.com/AeplGsP.png",
     "country": "LT",
     "language": "",
     "group": "Lithuania",
     "url": "http://stream.mcquack.net/35/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Bulgaria On Air",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bulgariaonair.png",
-    "country": "BG",
-    "language": "",
-    "group": "Bulgaria",
-    "url": "http://213.91.179.28:8000/play/a05x",
     "isHttps": false
   },
   {
@@ -16182,6 +16254,15 @@
     "isHttps": false
   },
   {
+    "name": "Cool",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Cool_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Creta",
     "logo": "https://i.imgur.com/x0qK8IE.png",
     "country": "GR",
@@ -16242,6 +16323,15 @@
     "language": "",
     "group": "Italy",
     "url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Duna TV Ⓖ",
+    "logo": "https://i.imgur.com/b4RXacY.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Duna_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -16323,6 +16413,15 @@
     "language": "",
     "group": "Bosnia and Herzegovina",
     "url": "http://94.250.2.6:7374/play/a02s/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Film+",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Film+_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -16812,12 +16911,39 @@
     "isHttps": false
   },
   {
+    "name": "M1 Ⓖ",
+    "logo": "https://i.imgur.com/neddXUd.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/M1_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "M2",
     "logo": "https://i.imgur.com/AfcBWCg.png",
     "country": "UA",
     "language": "",
     "group": "Ukraine",
     "url": "http://stream.mcquack.net/330/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "M2 / Petőfi TV Ⓖ",
+    "logo": "https://i.imgur.com/CzaDhmA.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/M2_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "M5 Hungary Ⓖ",
+    "logo": "https://i.imgur.com/qLQz2V6.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/M5_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -16857,12 +16983,30 @@
     "isHttps": false
   },
   {
+    "name": "Mega 2",
+    "logo": "https://i.imgur.com/c1ME00r.png",
+    "country": "CL",
+    "language": "",
+    "group": "Chile",
+    "url": "http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Mega Ⓢ",
     "logo": "https://i.imgur.com/Udrt2eK.png",
     "country": "ES",
     "language": "",
     "group": "Spain",
     "url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Meganoticias",
+    "logo": "https://i.imgur.com/JCVEqTc.png",
+    "country": "CL",
+    "language": "",
+    "group": "Chile",
+    "url": "http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8",
     "isHttps": false
   },
   {
@@ -16893,30 +17037,12 @@
     "isHttps": false
   },
   {
-    "name": "Nova News",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nova_News_Bulgaria_logo.png",
-    "country": "BG",
-    "language": "",
-    "group": "Bulgaria",
-    "url": "http://213.91.179.28:8000/play/a063",
-    "isHttps": false
-  },
-  {
     "name": "Nova Ⓢ",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png",
     "country": "ES",
     "language": "",
     "group": "Spain",
     "url": "http://40.160.24.55/Nova/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nova TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/120px-NOVA_logo.svg.png",
-    "country": "BG",
-    "language": "",
-    "group": "Bulgaria",
-    "url": "http://213.91.179.28:8000/play/a03l",
     "isHttps": false
   },
   {
@@ -17286,6 +17412,15 @@
     "language": "",
     "group": "Switzerland",
     "url": "http://190.2.155.162/RSI2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "RTL Klub",
+    "logo": "https://i.imgur.com/ruRshE1.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/RTL_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -17748,12 +17883,30 @@
     "isHttps": false
   },
   {
+    "name": "TV2",
+    "logo": "https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/TV2_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV3 Ⓢ",
     "logo": "https://i.imgur.com/7nipq0y.png",
     "country": "LT",
     "language": "",
     "group": "Lithuania",
     "url": "http://stream.mcquack.net/29/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV4",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/TV4_HD/index.m3u8",
     "isHttps": false
   },
   {

@@ -518,7 +518,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+    "url": "https://stream.aguacatetv.com:3949/hybrid/play.m3u8",
     "isHttps": true
   },
   {
@@ -3057,15 +3057,6 @@
     "language": "",
     "group": "General",
     "url": "https://s.emisoras.tv:8081/dtv/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal E (720p)",
-    "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
-    "country": "",
-    "language": "",
-    "group": "Business;News",
-    "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -9447,6 +9438,15 @@
     "language": "",
     "group": "General",
     "url": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Multivision Federal",
+    "logo": "https://i.imgur.com/jX0lqy3.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8",
     "isHttps": true
   },
   {
@@ -18104,7 +18104,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8",
+    "url": "http://209.14.115.253:8081/azteca-deportes/index.m3u8",
     "isHttps": false
   },
   {
@@ -18168,6 +18168,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://138.121.15.230:9002/BETHEL/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Boing (Spain)",
+    "logo": "https://i.imgur.com/nUYuCAP.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://digisat.ddns.net:4022/udp/239.0.5.177:8208",
     "isHttps": false
   },
   {
@@ -19031,7 +19040,7 @@
     "country": "",
     "language": "",
     "group": "Comedy",
-    "url": "http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8",
+    "url": "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8",
     "isHttps": false
   },
   {
@@ -20871,12 +20880,12 @@
     "isHttps": false
   },
   {
-    "name": "Telehit Musica (1080p)",
+    "name": "Telehit Musica",
     "logo": "https://i.imgur.com/CofYjWh.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8",
+    "url": "http://190.61.55.34:2401/play/a06t/index.m3u8",
     "isHttps": false
   },
   {

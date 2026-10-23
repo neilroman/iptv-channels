@@ -252,6 +252,15 @@
     "isHttps": true
   },
   {
+    "name": "arte (France) (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "ATV (Guinea) (400p) [Not 24/7]",
     "logo": "https://i.imgur.com/YkJPCfR.jpeg",
     "country": "",
@@ -396,6 +405,15 @@
     "isHttps": true
   },
   {
+    "name": "C Star (477p)",
+    "logo": "https://i.imgur.com/w4kAX1V.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Caillou",
     "logo": "https://i.imgur.com/RgKaoe4.png",
     "country": "",
@@ -468,6 +486,15 @@
     "isHttps": true
   },
   {
+    "name": "Carac 1 (1080p)",
+    "logo": "https://i.imgur.com/TSc35U6.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Carac 2 (1080p)",
     "logo": "https://i.imgur.com/hCoIPen.png",
     "country": "",
@@ -501,6 +528,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CGTN French (1080p)",
+    "logo": "https://i.imgur.com/BwhledK.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -708,6 +744,15 @@
     "language": "",
     "group": "Music",
     "url": "https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "CRTV (Cameroon)",
+    "logo": "https://i.imgur.com/cQWNh3L.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1422,6 +1467,15 @@
     "isHttps": true
   },
   {
+    "name": "KTO (404p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EY6TsdV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Laura Dave Media TV (720p)",
     "logo": "https://i.imgur.com/zzG1S2n.png",
     "country": "",
@@ -1734,6 +1788,15 @@
     "language": "",
     "group": "Series",
     "url": "https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "M6 Music",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
     "isHttps": true
   },
   {
@@ -3348,24 +3411,6 @@
     "isHttps": true
   },
   {
-    "name": "6ter (1080p)",
-    "logo": "https://i.imgur.com/2nd5Cox.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://145.239.5.177/314/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "AB1 (720p)",
-    "logo": "https://i.imgur.com/9C7UsOe.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://145.239.5.177/332/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Amou Yazid TV (576p)",
     "logo": "https://i.imgur.com/L8UPGPC.png",
     "country": "",
@@ -3384,30 +3429,12 @@
     "isHttps": false
   },
   {
-    "name": "arte (France) (720p)",
-    "logo": "https://i.imgur.com/ecXMjNl.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://145.239.5.177/300/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Boss Brothers TV (1080p)",
     "logo": "https://i.imgur.com/rc9MXm5.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "C Star (1080p)",
-    "logo": "https://i.imgur.com/w4kAX1V.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://145.239.5.177/361/index.m3u8",
     "isHttps": false
   },
   {
@@ -3438,51 +3465,6 @@
     "isHttps": false
   },
   {
-    "name": "Cap Terre (1080p)",
-    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/capterre_white.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://145.239.5.177/359a/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Carac 1 (1080p)",
-    "logo": "https://i.imgur.com/TSc35U6.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://145.239.5.177/371/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CGTN French (1080p)",
-    "logo": "https://i.imgur.com/BwhledK.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://145.239.5.177/214/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Cine+ Emotion (720p)",
-    "logo": "https://i.imgur.com/upYjPvc.jpeg",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://145.239.5.177/337/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CRTV (Cameroon) (576p)",
-    "logo": "https://i.imgur.com/cQWNh3L.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://145.239.5.177/147/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Digital Congo TV",
     "logo": "https://i.imgur.com/uz2Rsu7.png",
     "country": "",
@@ -3507,15 +3489,6 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Foot+",
-    "logo": "https://i.imgur.com/qsLLyn4.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://145.239.5.177/556a/index.m3u8",
     "isHttps": false
   },
   {
@@ -3546,15 +3519,6 @@
     "isHttps": false
   },
   {
-    "name": "France 5 (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://145.239.5.177/305/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Golf + (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/WHnddkg.png",
     "country": "",
@@ -3582,21 +3546,12 @@
     "isHttps": false
   },
   {
-    "name": "KTO (504p)",
-    "logo": "https://i.imgur.com/EY6TsdV.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://145.239.5.177/354/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "La Trois (1080p)",
+    "name": "La Trois (720p)",
     "logo": "https://i.imgur.com/jMs4h9F.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://145.239.5.177/330/index.m3u8",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
     "isHttps": false
   },
   {
@@ -3605,7 +3560,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://145.239.5.177/329/index.m3u8",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
     "isHttps": false
   },
   {
@@ -3614,7 +3569,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://145.239.5.177/368/index.m3u8",
+    "url": "http://151.80.18.177:86/LCI_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -3726,15 +3681,6 @@
     "isHttps": false
   },
   {
-    "name": "M6 Music (720p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://145.239.5.177/320/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "MCM Pop (580p)",
     "logo": "https://i.imgur.com/j31lBL7.png",
     "country": "",
@@ -3807,15 +3753,6 @@
     "isHttps": false
   },
   {
-    "name": "Nollywood TV (720p)",
-    "logo": "https://i.imgur.com/29L2gbb.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://145.239.5.177/148/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Play TV (Cameroon) (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/1dmBqpf.png",
     "country": "",
@@ -3861,39 +3798,12 @@
     "isHttps": false
   },
   {
-    "name": "RFM TV [Not 24/7]",
-    "logo": "https://i.imgur.com/FVDTJxW.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RTL9 (720p)",
-    "logo": "https://i.imgur.com/nFqjVNW.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://145.239.5.177/308/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "RTNC 3",
     "logo": "https://i.imgur.com/rr9Zsno.jpeg",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RTS 3 (Senegal) (720p)",
-    "logo": "https://i.imgur.com/UC3olOw.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://145.239.5.177/224/index.m3u8",
     "isHttps": false
   },
   {
@@ -3924,15 +3834,6 @@
     "isHttps": false
   },
   {
-    "name": "Serie Club (720p)",
-    "logo": "https://i.imgur.com/V8wRRg5.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://145.239.5.177/355/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Tele Congo (720p)",
     "logo": "https://i.imgur.com/gbFtP14.png",
     "country": "",
@@ -3948,24 +3849,6 @@
     "language": "",
     "group": "General",
     "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Teva (1080p)",
-    "logo": "https://i.imgur.com/kDW0hN5.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://145.239.5.177/356/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TFX (720p)",
-    "logo": "https://i.imgur.com/d91GcVf.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://145.239.5.177/315/index.m3u8",
     "isHttps": false
   },
   {
@@ -4011,15 +3894,6 @@
     "language": "",
     "group": "General",
     "url": "http://194.163.157.137:8080/hls/radioalsace.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV Breizh (1080p)",
-    "logo": "https://i.imgur.com/O8W4yhn.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://145.239.5.177/318/index.m3u8",
     "isHttps": false
   },
   {
