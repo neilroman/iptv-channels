@@ -1584,15 +1584,6 @@
     "isHttps": true
   },
   {
-    "name": "Rai Gulp (576p)",
-    "logo": "https://i.imgur.com/irAhPJM.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
-    "isHttps": true
-  },
-  {
     "name": "Rai News 24 (720p)",
     "logo": "https://i.imgur.com/n2u57y3.png",
     "country": "",
@@ -2760,6 +2751,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://team-tv.co:81/rai5/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rai Gulp (1080p)",
+    "logo": "https://i.imgur.com/irAhPJM.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://5.180.164.197:8080/RAIGULP/index.m3u8",
     "isHttps": false
   },
   {

@@ -261,6 +261,15 @@
     "isHttps": true
   },
   {
+    "name": "90.9 Jazzy FM",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "98FM",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/98FM_2022.svg/1920px-98FM_2022.svg.png",
     "country": "IE",
@@ -1143,6 +1152,15 @@
     "isHttps": true
   },
   {
+    "name": "Antena 3 CNN",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "country": "RO",
+    "language": "",
+    "group": "Romania",
+    "url": "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Antenna 2 Bergamo",
     "logo": "https://i.imgur.com/NfvHIAw.png",
     "country": "IT",
@@ -1518,6 +1536,15 @@
     "language": "",
     "group": "Argentina",
     "url": "https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live",
+    "isHttps": true
+  },
+  {
+    "name": "Bartók Rádió",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8",
     "isHttps": true
   },
   {
@@ -2313,15 +2340,6 @@
     "isHttps": true
   },
   {
-    "name": "Canal TE24",
-    "logo": "https://i.ibb.co/3ynghbW/logox2.png",
-    "country": "ES",
-    "language": "",
-    "group": "Spain",
-    "url": "https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canale 10",
     "logo": "https://i.imgur.com/KuQcjYV.png",
     "country": "IT",
@@ -2979,33 +2997,6 @@
     "isHttps": true
   },
   {
-    "name": "CNN",
-    "logo": "https://i.imgur.com/vyrc1I1.png",
-    "country": "US",
-    "language": "",
-    "group": "USA",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CNN",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "CNN International",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "CNN Portugal",
     "logo": "https://i.imgur.com/NYH39xs.png",
     "country": "PT",
@@ -3303,21 +3294,21 @@
     "isHttps": true
   },
   {
-    "name": "Dajto",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png",
-    "country": "SK",
-    "language": "",
-    "group": "Slovakia",
-    "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Dajto",
-    "isHttps": true
-  },
-  {
     "name": "Dance TV",
     "logo": "",
     "country": "HU",
     "language": "",
     "group": "Hungary",
     "url": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Dankó Rádió",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://icast.connectmedia.hu/4747/mr7.aac",
     "isHttps": true
   },
   {
@@ -3618,15 +3609,6 @@
     "isHttps": true
   },
   {
-    "name": "Doma",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png",
-    "country": "SK",
-    "language": "",
-    "group": "Slovakia",
-    "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Doma",
-    "isHttps": true
-  },
-  {
     "name": "Donna Shopping Tv",
     "logo": "https://i.imgur.com/oLDvx2T.png",
     "country": "IT",
@@ -3687,6 +3669,15 @@
     "language": "",
     "group": "USA",
     "url": "https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "DTV Ⓖ",
+    "logo": "https://i.imgur.com/YSpqmSO.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4365,12 +4356,12 @@
     "isHttps": true
   },
   {
-    "name": "Euronews Hungarian Ⓨ",
+    "name": "Euronews Hungarian",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png",
     "country": "HU",
     "language": "",
     "group": "Hungary",
-    "url": "https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8",
     "isHttps": true
   },
   {
@@ -5220,6 +5211,15 @@
     "isHttps": true
   },
   {
+    "name": "Hír FM",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Hír TV",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg",
     "country": "HU",
@@ -5931,15 +5931,6 @@
     "isHttps": true
   },
   {
-    "name": "Jojko",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png",
-    "country": "SK",
-    "language": "",
-    "group": "Slovakia",
-    "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Jojko",
-    "isHttps": true
-  },
-  {
     "name": "Joy News Ⓨ",
     "logo": "https://i.imgur.com/kGuMNmR.png",
     "country": "",
@@ -5973,6 +5964,15 @@
     "language": "",
     "group": "VOD Italy",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
+    "isHttps": true
+  },
+  {
+    "name": "Juventus Rádió",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/juventus/index.m3u8",
     "isHttps": true
   },
   {
@@ -6228,12 +6228,12 @@
     "isHttps": true
   },
   {
-    "name": "Krimi",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png",
-    "country": "SK",
+    "name": "Kossuth Rádió",
+    "logo": "",
+    "country": "HU",
     "language": "",
-    "group": "Slovakia",
-    "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Krimi",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8",
     "isHttps": true
   },
   {
@@ -6837,15 +6837,6 @@
     "language": "",
     "group": "Slovakia",
     "url": "https://cdnsk003.panaccess.com/local/Markiza/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Markíza TN Live",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png",
-    "country": "SK",
-    "language": "",
-    "group": "Slovakia",
-    "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live",
     "isHttps": true
   },
   {
@@ -7533,15 +7524,6 @@
     "isHttps": true
   },
   {
-    "name": "NASA TV Public",
-    "logo": "https://i.imgur.com/rmyfoOI.png",
-    "country": "US",
-    "language": "",
-    "group": "USA",
-    "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "National Geographic Abu Dhabi",
     "logo": "https://i.imgur.com/fNA00VF.png",
     "country": "AE",
@@ -7839,7 +7821,7 @@
     "isHttps": true
   },
   {
-    "name": "NHK総合 (東京)",
+    "name": "NHK総合 (東京) Ⓖ",
     "logo": "https://i.imgur.com/fAZ2BEZ.png",
     "country": "JP",
     "language": "",
@@ -8595,6 +8577,15 @@
     "isHttps": true
   },
   {
+    "name": "Petőfi Rádió",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "PFL MMA – Pluto TV",
     "logo": "https://i.imgur.com/zScgLTv.png",
     "country": "",
@@ -8952,15 +8943,6 @@
     "language": "",
     "group": "Australia",
     "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Radio 1 Ⓨ",
-    "logo": "",
-    "country": "HU",
-    "language": "",
-    "group": "Hungary",
-    "url": "https://www.youtube.com/@radio1hungary/live",
     "isHttps": true
   },
   {
@@ -9330,6 +9312,15 @@
     "language": "",
     "group": "Italy",
     "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Rádió1",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8",
     "isHttps": true
   },
   {
@@ -9888,6 +9879,15 @@
     "language": "",
     "group": "Czech Republic",
     "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Retró Rádió",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/retro/index.m3u8",
     "isHttps": true
   },
   {
@@ -10710,6 +10710,15 @@
     "isHttps": true
   },
   {
+    "name": "Sat/Sun 18:00-22:00 KST)\" tvg-logo=\"https://i.imgur.com/HvFpGeH.png\" tvg-id=\"SportsTelevision.kp\" tvg-chno=\"4\" tvg-country=\"KP\" group-title=\"North Korea\",Sports Television (not 24/7, Sat/Sun 18:00-22:00 KST)",
+    "logo": "https://i.imgur.com/HvFpGeH.png",
+    "country": "KP",
+    "language": "",
+    "group": "North Korea",
+    "url": "https://live.koryocdn.org/sports/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Savoir Média",
     "logo": "https://i.imgur.com/pa4wOVY.png",
     "country": "CA",
@@ -10887,15 +10896,6 @@
     "language": "",
     "group": "VOD Italy",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
-    "isHttps": true
-  },
-  {
-    "name": "Sevdah Ⓢ",
-    "logo": "https://i.imgur.com/V6W3yEp.png",
-    "country": "BA",
-    "language": "",
-    "group": "Bosnia and Herzegovina",
-    "url": "https://restreamer2.tnt.ba/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -11079,6 +11079,15 @@
     "isHttps": true
   },
   {
+    "name": "Sláger FM",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/slager/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Šlágr Muzika Ⓢ",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png",
     "country": "CZ",
@@ -11211,6 +11220,15 @@
     "language": "",
     "group": "Ireland",
     "url": "https://live-bauerie.sharp-stream.com/SP",
+    "isHttps": true
+  },
+  {
+    "name": "Spirit FM",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8",
     "isHttps": true
   },
   {
@@ -11373,15 +11391,6 @@
     "language": "",
     "group": "Mongolia",
     "url": "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Start",
-    "logo": "https://i.imgur.com/nrEtmBN.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -11889,7 +11898,7 @@
     "isHttps": true
   },
   {
-    "name": "TBSテレビ",
+    "name": "TBSテレビ Ⓖ",
     "logo": "https://i.imgur.com/jIZ9TlO.png",
     "country": "JP",
     "language": "",
@@ -13047,15 +13056,6 @@
     "language": "",
     "group": "Saudi Arabia",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Thraki Net TV",
-    "logo": "https://i.imgur.com/DV0I0ed.png",
-    "country": "GR",
-    "language": "",
-    "group": "Greece",
-    "url": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -15678,7 +15678,7 @@
     "isHttps": true
   },
   {
-    "name": "テレビ朝日",
+    "name": "テレビ朝日 Ⓖ",
     "logo": "https://i.imgur.com/5XnMfcR.png",
     "country": "JP",
     "language": "",
@@ -15687,7 +15687,7 @@
     "isHttps": true
   },
   {
-    "name": "テレビ東京",
+    "name": "テレビ東京 Ⓖ",
     "logo": "https://i.imgur.com/U8jBxEi.png",
     "country": "JP",
     "language": "",
@@ -15696,7 +15696,7 @@
     "isHttps": true
   },
   {
-    "name": "フジテレビ",
+    "name": "フジテレビ Ⓖ",
     "logo": "https://i.imgur.com/epJYc7P.png",
     "country": "JP",
     "language": "",
@@ -15714,7 +15714,7 @@
     "isHttps": true
   },
   {
-    "name": "日本テレビ",
+    "name": "日本テレビ Ⓖ",
     "logo": "https://i.imgur.com/ecbM7QS.png",
     "country": "JP",
     "language": "",
@@ -15894,6 +15894,15 @@
     "isHttps": false
   },
   {
+    "name": "AMC Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/AMC_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Antena 3",
     "logo": "https://i.imgur.com/j3SP4BS.png",
     "country": "ES",
@@ -16056,7 +16065,7 @@
     "isHttps": false
   },
   {
-    "name": "CCTV-1 综合",
+    "name": "CCTV-1 综��",
     "logo": "https://i.imgur.com/uHU6Vc0.png",
     "country": "CN",
     "language": "",
@@ -16416,12 +16425,30 @@
     "isHttps": false
   },
   {
+    "name": "FEM3 (TV2 Klub)",
+    "logo": "https://i.imgur.com/AF4Sz8Z.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Film+",
     "logo": "",
     "country": "HU",
     "language": "",
     "group": "Hungary",
     "url": "http://141.94.193.53:80/Film+_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Film4 Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Film4_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -16557,6 +16584,15 @@
     "language": "",
     "group": "Korea",
     "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Galaxy4 Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Galaxy4_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -16704,6 +16740,15 @@
     "isHttps": false
   },
   {
+    "name": "Izaura TV Ⓖ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Izaura_TV_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "JIBS TV",
     "logo": "https://i.imgur.com/RVWpBoz.png",
     "country": "KR",
@@ -16782,15 +16827,6 @@
     "language": "",
     "group": "Netherlands",
     "url": "http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "La 7 CYLTV",
-    "logo": "https://i.imgur.com/o2FlMXP.png",
-    "country": "ES",
-    "language": "",
-    "group": "Spain",
-    "url": "http://nws.nice264.com/ilive/cyl/cyl_cyltvlivem_MB_348/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -16938,6 +16974,15 @@
     "isHttps": false
   },
   {
+    "name": "M4 Sport Ⓖ",
+    "logo": "https://nb1.hu/uploads/news/3/31023.jpg",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/M4_Sport_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "M5 Hungary Ⓖ",
     "logo": "https://i.imgur.com/qLQz2V6.png",
     "country": "HU",
@@ -17010,6 +17055,15 @@
     "isHttps": false
   },
   {
+    "name": "Mozi+ Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Mozi+_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Music Channel",
     "logo": "http://media.boni-records.com/logo.png",
     "country": "US",
@@ -17034,15 +17088,6 @@
     "language": "",
     "group": "Spain",
     "url": "http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nova Ⓢ",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png",
-    "country": "ES",
-    "language": "",
-    "group": "Spain",
-    "url": "http://40.160.24.55/Nova/index.m3u8",
     "isHttps": false
   },
   {
@@ -17514,6 +17559,42 @@
     "isHttps": false
   },
   {
+    "name": "Spektrum Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Spektrum_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Spektrum Home Ⓖ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sport1 Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Sport_1_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sport2 Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/Sport_2_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "SRF 1",
     "logo": "https://i.imgur.com/KCPHba2.png",
     "country": "CH",
@@ -17856,6 +17937,15 @@
     "isHttps": false
   },
   {
+    "name": "TV Paprika Ⓖ",
+    "logo": "",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://141.94.193.53:80/TV_Paprika_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Pirveli",
     "logo": "https://i.imgur.com/cGHsM1x.png",
     "country": "GE",
@@ -17970,6 +18060,15 @@
     "language": "",
     "group": "Venezuela",
     "url": "http://177.234.249.178:8888/VENEVISION/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat 6",
+    "logo": "https://i.imgur.com/kypSbFX.png",
+    "country": "HU",
+    "language": "",
+    "group": "Hungary",
+    "url": "http://88.212.15.17/live/viasat6/index.m3u8",
     "isHttps": false
   },
   {

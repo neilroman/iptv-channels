@@ -297,6 +297,15 @@
     "isHttps": true
   },
   {
+    "name": "Alright! TV (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Alt Media TV",
     "logo": "https://i.imgur.com/YkOgWMc.png",
     "country": "",
@@ -531,12 +540,12 @@
     "isHttps": true
   },
   {
-    "name": "arte (France) (720p) [Geo-blocked]",
+    "name": "arte (France) (720p)",
     "logo": "https://i.imgur.com/ecXMjNl.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+    "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8",
     "isHttps": true
   },
   {
@@ -1341,6 +1350,15 @@
     "isHttps": true
   },
   {
+    "name": "Cine Jomjomat (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cinerama Television (720p)",
     "logo": "https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw",
     "country": "",
@@ -1599,6 +1617,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Desde El Sur TV",
+    "logo": "https://i.imgur.com/y3vNkEU.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stmv.gmpro.top/surtv/surtv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6489,6 +6516,15 @@
     "isHttps": true
   },
   {
+    "name": "Zee Tamil (576p) [Geo-blocked]",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Zee Tamil HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
     "country": "",
@@ -6792,15 +6828,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal+ (720p)",
-    "logo": "https://i.imgur.com/5HcyMnW.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7575,15 +7602,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ON Vie Drama (720p)",
-    "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8",
     "isHttps": false
   },
   {
