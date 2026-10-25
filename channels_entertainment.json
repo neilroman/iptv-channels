@@ -2079,7 +2079,7 @@
     "isHttps": true
   },
   {
-    "name": "FX (720p)",
+    "name": "FX (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "country": "",
     "language": "",
@@ -3156,15 +3156,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (576p)",
-    "logo": "https://i.imgur.com/QxHt9NC.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8",
     "isHttps": true
   },
   {
@@ -4281,6 +4272,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NOW (720p)",
+    "logo": "https://i.imgur.com/5EYjWK7.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
     "isHttps": true
   },
   {
@@ -7443,15 +7443,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 HD (720p)",
-    "logo": "https://i.imgur.com/QxHt9NC.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://151.80.18.177:86/TF1_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Sonce+",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Sonce%2B_%28logo%29_2024.png",
     "country": "",
@@ -7830,12 +7821,12 @@
     "isHttps": false
   },
   {
-    "name": "StarPlus (India) HD (1080i)",
+    "name": "StarPlus (India) HD (1080p)",
     "logo": "https://i.imgur.com/xWxNy3L.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://202.70.146.135:8000/play/a009/index.m3u8",
+    "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
     "isHttps": false
   },
   {
@@ -7872,6 +7863,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TF1",
+    "logo": "https://i.imgur.com/QxHt9NC.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://149.62.177.107:9999/TF1/index.m3u8",
     "isHttps": false
   },
   {

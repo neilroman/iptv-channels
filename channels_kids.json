@@ -189,6 +189,15 @@
     "isHttps": true
   },
   {
+    "name": "BabyTV Turkiye [Geo-blocked]",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Balapan (576p)",
     "logo": "https://vote.rtrk.kz/img/balapan-logo.png",
     "country": "",
@@ -627,15 +636,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "France 4 HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8",
     "isHttps": true
   },
   {
@@ -3101,7 +3101,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://176.65.146.100:8047/play/a074/index.m3u8",
+    "url": "http://149.62.177.107:9999/France_4/index.m3u8",
     "isHttps": false
   },
   {

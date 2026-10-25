@@ -684,6 +684,15 @@
     "isHttps": true
   },
   {
+    "name": "CineWow",
+    "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "City Eden KinoAction [Not 24/7]",
     "logo": "https://i.imgur.com/uuzuvD0.png",
     "country": "",
@@ -1302,6 +1311,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709",
+    "isHttps": true
+  },
+  {
+    "name": "Halloween Non Stop (720p)",
+    "logo": "https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8",
     "isHttps": true
   },
   {
@@ -5256,15 +5274,6 @@
     "isHttps": false
   },
   {
-    "name": "CineWow (576p)",
-    "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "Claro Cinema (1080p)",
     "logo": "https://i.imgur.com/SOLGQxQ.jpg",
     "country": "",
@@ -6660,30 +6669,12 @@
     "isHttps": false
   },
   {
-    "name": "Sony Max (576p) [Geo-blocked]",
-    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-    "isHttps": false
-  },
-  {
-    "name": "Sony Max 1",
-    "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://27.116.22.53:5001/live/3418.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sony Max HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://103.185.24.134:3001/SonyMAX/index.m3u8",
+    "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -6819,6 +6810,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://46.151.196.223:14326/",
+    "isHttps": false
+  },
+  {
+    "name": "TF1 Series Films",
+    "logo": "https://i.imgur.com/4CJIDKQ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
     "isHttps": false
   },
   {

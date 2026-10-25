@@ -135,7 +135,7 @@
     "isHttps": true
   },
   {
-    "name": "24 Horas (Spain) (720p)",
+    "name": "24 Horas (720p)",
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "country": "",
     "language": "",
@@ -5451,6 +5451,15 @@
     "language": "",
     "group": "General",
     "url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "El Trece (1080p)",
+    "logo": "https://i.imgur.com/TrgBAdA.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
     "isHttps": true
   },
   {
@@ -14094,24 +14103,6 @@
     "isHttps": true
   },
   {
-    "name": "Tele Posadas (576p) [Not 24/7]",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Tele Posadas SD (576p) [Not 24/7]",
-    "logo": "https://i.imgur.com/sfUBb7I.jpeg",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Tele Proyecto TV [Not 24/7]",
     "logo": "https://imgur.com/LmBxN5x.png",
     "country": "",
@@ -17847,24 +17838,6 @@
     "isHttps": true
   },
   {
-    "name": "13Rec (576p)",
-    "logo": "https://i.imgur.com/WtBbxEf.png",
-    "country": "",
-    "language": "",
-    "group": "Classic",
-    "url": "http://45.4.1.201:8000/play/a11i/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "24 Horas (Chile) (1080p)",
-    "logo": "https://i.imgur.com/CEE9zPe.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "24 Horas Canarias (1080p)",
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "country": "",
@@ -17987,7 +17960,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.171.108.253:8888/AMERICA/index.m3u8",
+    "url": "http://190.93.224.42/AMERICA-TV/index.m3u8",
     "isHttps": false
   },
   {
@@ -18383,7 +18356,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.5.118.188:8000/play/a00j/index.m3u8",
+    "url": "http://168.228.44.241:9999/play/a042/index.m3u8",
     "isHttps": false
   },
   {
@@ -19206,15 +19179,6 @@
     "isHttps": false
   },
   {
-    "name": "El Trece (1080p)",
-    "logo": "https://i.imgur.com/TrgBAdA.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Encuentro (720p)",
     "logo": "https://i.imgur.com/uBBZR1X.png",
     "country": "",
@@ -19230,6 +19194,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Enlace Television (1080p)",
+    "logo": "https://cdn.colombia.com/canales/enlace-television-3301.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://181.78.12.119:16123/play/ch33/index.m3u8",
     "isHttps": false
   },
   {
@@ -19266,6 +19239,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://190.61.47.54:8000/play/a004/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "ESPN Latin America Mexico (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://168.228.44.241:9997/play/a06p/index.m3u8",
     "isHttps": false
   },
   {
@@ -19581,6 +19563,15 @@
     "language": "",
     "group": "News",
     "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hogar TV (1080p)",
+    "logo": "https://i.imgur.com/zqovMhf.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://190.61.47.54:8000/play/a01n/index.m3u8",
     "isHttps": false
   },
   {
@@ -20382,6 +20373,15 @@
     "language": "",
     "group": "General",
     "url": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Ranchenato TV (1080p)",
+    "logo": "https://i.imgur.com/TCv5NqN.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.78.12.119:16123/play/ch15/index.m3u8",
     "isHttps": false
   },
   {
@@ -21348,12 +21348,12 @@
     "isHttps": false
   },
   {
-    "name": "TVAgro (720p)",
+    "name": "TVAgro (1080p)",
     "logo": "https://i.imgur.com/9nzY7Ch.png",
     "country": "",
     "language": "",
     "group": "Outdoor",
-    "url": "http://168.228.44.241:9999/play/a04n/index.m3u8",
+    "url": "http://190.61.47.54:8000/play/a01k/index.m3u8",
     "isHttps": false
   },
   {

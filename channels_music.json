@@ -3762,6 +3762,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio Romania Iasi (576i) [Not 24/7]",
+    "logo": "https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg",
+    "country": "",
+    "language": "",
+    "group": "General;Music",
+    "url": "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radio Romania Oltenia-Craiova (576p) [Not 24/7]",
     "logo": "https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png",
     "country": "",
@@ -5328,6 +5337,24 @@
     "isHttps": true
   },
   {
+    "name": "TV AS",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Bozsike Hamburg HD (1080p)",
+    "logo": "https://radiobozsike.com/img/icons/android-chrome-512x512.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://rtmp.radiobozsike.com/hls/stream1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Cidade",
     "logo": "https://i.imgur.com/gmSu21X.jpg",
     "country": "",
@@ -6876,6 +6903,15 @@
     "isHttps": false
   },
   {
+    "name": "Ranchenato TV (1080p)",
+    "logo": "https://i.imgur.com/TCv5NqN.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.78.12.119:16123/play/ch15/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Retro Plus (1080p)",
     "logo": "https://i.imgur.com/fkCasXI.png",
     "country": "",
@@ -7026,15 +7062,6 @@
     "language": "",
     "group": "Music",
     "url": "http://83.103.149.75:8085/udp/239.30.0.9:4000",
-    "isHttps": false
-  },
-  {
-    "name": "TV AS (576p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {

@@ -1053,15 +1053,6 @@
     "isHttps": true
   },
   {
-    "name": "France 4 HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Francophonie24 (1080p)",
     "logo": "https://i.imgur.com/uM1v1sd.png",
     "country": "",
@@ -1707,15 +1698,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (576p)",
-    "logo": "https://i.imgur.com/QxHt9NC.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8",
     "isHttps": true
   },
   {
@@ -3474,6 +3456,15 @@
     "isHttps": false
   },
   {
+    "name": "France 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://149.62.177.107:9999/France_2/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "France 3 Cote d'Azur",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg",
     "country": "",
@@ -3497,7 +3488,16 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://176.65.146.100:8047/play/a074/index.m3u8",
+    "url": "http://149.62.177.107:9999/France_4/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "France 5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://149.62.177.107:9999/France_5/index.m3u8",
     "isHttps": false
   },
   {
@@ -3627,15 +3627,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 HD (720p)",
-    "logo": "https://i.imgur.com/QxHt9NC.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://151.80.18.177:86/TF1_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",TMC (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
     "country": "",
@@ -3732,6 +3723,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NOVO19",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://149.62.177.107:9999/NOVO19/index.m3u8",
     "isHttps": false
   },
   {
@@ -3834,6 +3834,33 @@
     "isHttps": false
   },
   {
+    "name": "TF1",
+    "logo": "https://i.imgur.com/QxHt9NC.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://149.62.177.107:9999/TF1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TF1 Series Films",
+    "logo": "https://i.imgur.com/4CJIDKQ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TFX",
+    "logo": "https://i.imgur.com/d91GcVf.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://149.62.177.107:9999/TFX/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Tipik (720p)",
     "logo": "https://i.imgur.com/LKLjnrp.png",
     "country": "",
@@ -3861,12 +3888,12 @@
     "isHttps": false
   },
   {
-    "name": "TMC HD (1080p) [Geo-blocked]",
+    "name": "TMC HD",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8",
+    "url": "http://149.62.177.107:9999/TMC/index.m3u8",
     "isHttps": false
   },
   {
