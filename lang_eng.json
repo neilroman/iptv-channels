@@ -1710,7 +1710,7 @@
     "isHttps": true
   },
   {
-    "name": "Aniplus Asia (720p)",
+    "name": "Aniplus Asia (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/Im3MePy.png",
     "country": "",
     "language": "",
@@ -24156,6 +24156,15 @@
     "isHttps": false
   },
   {
+    "name": "Animax Asia Taiwan",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "http://125.227.210.55:3056/VideoInput/play.ts",
+    "isHttps": false
+  },
+  {
     "name": "Apna Channel (576p)",
     "logo": "https://i.imgur.com/ICSA4W6.png",
     "country": "",
@@ -24602,7 +24611,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.17/live/test_cai_hevc/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_cai_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -24687,15 +24696,6 @@
     "isHttps": false
   },
   {
-    "name": "Disco Mix (576p)",
-    "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "Discovery Asia Taiwan (1080p)",
     "logo": "https://i.imgur.com/foLICwL.png",
     "country": "",
@@ -24774,6 +24774,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney XD (United States) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
     "isHttps": false
   },
   {
@@ -25178,7 +25187,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/id_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -25304,7 +25313,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://88.212.15.17/live/bbc_first/index.m3u8",
+    "url": "http://88.212.7.14/live/bbc_first/index.m3u8",
     "isHttps": false
   },
   {
@@ -25313,7 +25322,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/jim_jam_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -25322,7 +25331,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.17/live/test_nick_jr/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25331,7 +25340,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/amc_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/amc_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -25340,7 +25349,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/axn_hun/index.m3u8",
+    "url": "http://88.212.15.50/live/axn_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -25349,7 +25358,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/fb_premium_hungary/index.m3u8",
+    "url": "http://88.212.7.14/live/fb_premium_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -25394,7 +25403,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/viasat_film/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat_film/index.m3u8",
     "isHttps": false
   },
   {
@@ -25421,7 +25430,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.17/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25430,7 +25439,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.17/live/viasat3/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat3/index.m3u8",
     "isHttps": false
   },
   {
@@ -25439,7 +25448,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.17/live/viasat6/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat6/index.m3u8",
     "isHttps": false
   },
   {
@@ -25448,7 +25457,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://88.212.15.17/live/viasat2/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat2/index.m3u8",
     "isHttps": false
   },
   {
@@ -25475,7 +25484,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_amc_25p/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_amc_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25493,7 +25502,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_black/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_black/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25628,7 +25637,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://88.212.15.17/live/test_minimax/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_minimax/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -25718,7 +25727,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_classic/index.m3u8",
     "isHttps": false
   },
   {
@@ -25727,7 +25736,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_dance/index.m3u8",
     "isHttps": false
   },
   {
@@ -25736,7 +25745,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_hits/index.m3u8",
     "isHttps": false
   },
   {
@@ -25745,7 +25754,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_sexy/index.m3u8",
     "isHttps": false
   },
   {
@@ -26114,7 +26123,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://88.212.15.17/live/real_madrid_tv/index.m3u8",
+    "url": "http://88.212.15.50/live/real_madrid_tv/index.m3u8",
     "isHttps": false
   },
   {
@@ -26618,7 +26627,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle",
-    "url": "http://88.212.15.17/live/tlc_hungary/index.m3u8",
+    "url": "http://88.212.7.14/live/tlc_hungary/index.m3u8",
     "isHttps": false
   },
   {

@@ -1868,7 +1868,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8",
+    "url": "https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8",
     "isHttps": true
   },
   {
@@ -3345,15 +3345,6 @@
     "language": "",
     "group": "General",
     "url": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Canal Sur",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/960px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General;Public",
-    "url": "https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd",
     "isHttps": true
   },
   {
@@ -5994,12 +5985,12 @@
     "isHttps": true
   },
   {
-    "name": "Farovision (720p)",
+    "name": "Farovision (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/YtdOXWb.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
+    "url": "https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6399,12 +6390,12 @@
     "isHttps": true
   },
   {
-    "name": "Global TV (Dominican Republic) (720p)",
+    "name": "Global TV (Dominican Republic) (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/1rQaROm.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8",
+    "url": "https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8591,7 +8582,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://mp.panelchs.com/hls/8024/8024.m3u8",
+    "url": "https://5790d294af2dc.streamlock.net/manieltv/manieltv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -13757,7 +13748,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://mp.panelchs.com/hls/8032/8032.m3u8",
+    "url": "https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8",
     "isHttps": true
   },
   {
@@ -15453,12 +15444,12 @@
     "isHttps": true
   },
   {
-    "name": "Turismo RDTV (720p)",
+    "name": "Turismo RDTV (720p) [Not 24/7]",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg",
     "country": "",
     "language": "",
     "group": "Travel",
-    "url": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
+    "url": "https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -19059,6 +19050,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Disney XD (United States) (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
     "isHttps": false
   },
   {

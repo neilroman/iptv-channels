@@ -1089,12 +1089,12 @@
     "isHttps": true
   },
   {
-    "name": "EMI TV",
+    "name": "EMI TV (576i)",
     "logo": "https://i.imgur.com/B5zssCz.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+    "url": "https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -3084,6 +3084,15 @@
     "language": "",
     "group": "Movies;Music",
     "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Orizont TV (576i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -6273,15 +6282,6 @@
     "isHttps": false
   },
   {
-    "name": "Disco Mix (576p)",
-    "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "Disco Polo Music (1080p)",
     "logo": "https://i.imgur.com/ZZbuTv7.png",
     "country": "",
@@ -6297,15 +6297,6 @@
     "language": "",
     "group": "Music",
     "url": "http://46.249.95.140:8081/hls/data.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "EMI TV HD (1080i)",
-    "logo": "https://i.imgur.com/B5zssCz.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -6417,21 +6408,12 @@
     "isHttps": false
   },
   {
-    "name": "H!t Music Channel (Hungary) (480p)",
+    "name": "H!t Music Channel (480p)",
     "logo": "https://i.imgur.com/sqC2hqV.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://hitmusic.hu/hitmusic.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "H!t Music Channel (Romania)",
-    "logo": "https://i.imgur.com/sqC2hqV.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -6539,7 +6521,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6548,7 +6530,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6710,7 +6692,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_classic/index.m3u8",
     "isHttps": false
   },
   {
@@ -6719,7 +6701,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_dance/index.m3u8",
     "isHttps": false
   },
   {
@@ -6728,7 +6710,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_hits/index.m3u8",
     "isHttps": false
   },
   {
@@ -6737,16 +6719,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Music Channel SD",
-    "logo": "https://i.imgur.com/nadVCxM.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+    "url": "http://88.212.15.50/live/mb_sexy/index.m3u8",
     "isHttps": false
   },
   {
@@ -6801,15 +6774,6 @@
     "language": "",
     "group": "Music",
     "url": "http://31.148.48.15/O2_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Orizont TV (576p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {

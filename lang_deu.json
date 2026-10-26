@@ -2097,12 +2097,12 @@
     "isHttps": true
   },
   {
-    "name": "ServusTV (1080p) [Geo-blocked]",
+    "name": "ServusTV (576p)",
     "logo": "https://i.imgur.com/6W637Gn.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+    "url": "https://s6.hopslan.com/servuz1/index.m3u8",
     "isHttps": true
   },
   {
@@ -2709,6 +2709,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (Germany) HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://109.85.181.77:9981/stream/channelid/652495718?profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "DMAX (Germany) (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png",
     "country": "",
@@ -2813,7 +2822,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8",
     "isHttps": false
   },
   {

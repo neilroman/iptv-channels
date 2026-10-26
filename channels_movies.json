@@ -684,12 +684,12 @@
     "isHttps": true
   },
   {
-    "name": "CineWow",
+    "name": "CineWow (576i)",
     "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8",
+    "url": "https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8",
     "isHttps": true
   },
   {
@@ -1365,6 +1365,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "HTVC Movies (720p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://dethich.pw/htvcphim/index.m3u8",
     "isHttps": true
   },
   {
@@ -4113,12 +4122,12 @@
     "isHttps": true
   },
   {
-    "name": "ServusTV (1080p) [Geo-blocked]",
+    "name": "ServusTV (576p)",
     "logo": "https://i.imgur.com/6W637Gn.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+    "url": "https://s6.hopslan.com/servuz1/index.m3u8",
     "isHttps": true
   },
   {
@@ -5207,7 +5216,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5225,7 +5234,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5495,7 +5504,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/filmbox_hungary/index.m3u8",
+    "url": "http://88.212.7.14/live/filmbox_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -5540,7 +5549,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5558,7 +5567,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5576,7 +5585,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5837,7 +5846,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/amc_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/amc_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -5846,7 +5855,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/axn_hun/index.m3u8",
+    "url": "http://88.212.15.50/live/axn_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -5855,7 +5864,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/film_cafe/index.m3u8",
+    "url": "http://88.212.7.14/live/film_cafe/index.m3u8",
     "isHttps": false
   },
   {
@@ -5864,7 +5873,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/fb_premium_hungary/index.m3u8",
+    "url": "http://88.212.7.14/live/fb_premium_hungary/index.m3u8",
     "isHttps": false
   },
   {
@@ -5891,7 +5900,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/viasat_film/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat_film/index.m3u8",
     "isHttps": false
   },
   {
@@ -5909,7 +5918,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -5918,7 +5927,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/film_plus_hun_atk/index.m3u8",
+    "url": "http://88.212.7.14/live/film_plus_hun_atk/index.m3u8",
     "isHttps": false
   },
   {
@@ -5927,7 +5936,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/film4_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/film4_hun/index.m3u8",
     "isHttps": false
   },
   {
@@ -5945,7 +5954,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/mozi/index.m3u8",
+    "url": "http://88.212.7.14/live/mozi/index.m3u8",
     "isHttps": false
   },
   {
@@ -5954,7 +5963,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/mozi_plusz/index.m3u8",
+    "url": "http://88.212.7.14/live/mozi_plusz/index.m3u8",
     "isHttps": false
   },
   {
@@ -5963,7 +5972,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/moziverzum/index.m3u8",
+    "url": "http://88.212.7.14/live/moziverzum/index.m3u8",
     "isHttps": false
   },
   {
@@ -6008,7 +6017,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_amc_25p/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_amc_25p/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6026,7 +6035,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_black/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_black/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6035,7 +6044,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_axn/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_axn/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6116,7 +6125,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_filmbox_family_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6134,7 +6143,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6143,7 +6152,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6152,7 +6161,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6161,7 +6170,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_filmbox/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_filmbox/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6260,7 +6269,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6269,7 +6278,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6278,7 +6287,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6296,7 +6305,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -6962,7 +6971,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://88.212.15.17/live/warner_tv/index.m3u8",
+    "url": "http://88.212.15.50/live/warner_tv/index.m3u8",
     "isHttps": false
   },
   {

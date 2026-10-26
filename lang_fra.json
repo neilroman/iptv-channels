@@ -3384,6 +3384,15 @@
     "isHttps": true
   },
   {
+    "name": "6ter",
+    "logo": "https://i.imgur.com/2nd5Cox.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://149.62.177.107:9999/6ter/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Amou Yazid TV (576p)",
     "logo": "https://i.imgur.com/L8UPGPC.png",
     "country": "",
@@ -3543,6 +3552,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
+    "isHttps": false
+  },
+  {
+    "name": "LCI",
+    "logo": "https://i.imgur.com/DED8EXs.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://149.62.177.107:9999/LCI/index.m3u8",
     "isHttps": false
   },
   {
@@ -3804,15 +3822,6 @@
     "language": "",
     "group": "General",
     "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "SciFi (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://41.205.93.154/SYFY/index.m3u8",
     "isHttps": false
   },
   {
