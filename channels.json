@@ -13608,7 +13608,7 @@
     "isHttps": true
   },
   {
-    "name": "Cartoon Classics",
+    "name": "Cartoon Classics (Poland)",
     "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
     "country": "",
     "language": "",
@@ -14346,12 +14346,12 @@
     "isHttps": true
   },
   {
-    "name": "CCTV-5+",
+    "name": "CCTV-5+ (1080p)",
     "logo": "https://i.imgur.com/OK8mdJV.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+    "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
     "isHttps": true
   },
   {
@@ -61659,15 +61659,6 @@
     "isHttps": true
   },
   {
-    "name": "SCTV4K (2160p)",
-    "logo": "https://i.imgur.com/eQVMAur.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "SCTV6 (720p)",
     "logo": "https://i.imgur.com/2oOVS42.png",
     "country": "",
@@ -84219,6 +84210,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://185.37.150.46/Karusel/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Classics (Russia)",
+    "logo": "https://sales.planbkino.tv//b/c/471.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://88.218.242.237:8001/Cartoon_Classics",
     "isHttps": false
   },
   {
