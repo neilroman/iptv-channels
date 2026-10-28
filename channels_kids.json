@@ -2331,6 +2331,15 @@
     "isHttps": true
   },
   {
+    "name": "TraLaLa DSN",
+    "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TraLaLa TV",
     "logo": "https://i.imgur.com/xJBMnjy.png",
     "country": "",
@@ -2691,12 +2700,12 @@
     "isHttps": false
   },
   {
-    "name": "Cartoon Network (United States) (720p)",
+    "name": "Cartoon Network (United States) (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
+    "url": "http://212.5.144.156:8080/cartoon/index.m3u8",
     "isHttps": false
   },
   {
@@ -3173,7 +3182,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
+    "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
     "isHttps": false
   },
   {
@@ -3357,6 +3366,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Nickelodeon (Bulgaria)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://213.91.179.28:8000/play/a056",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",RING",
     "logo": "",
     "country": "",
@@ -3425,7 +3443,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
+    "url": "http://stream.mcquack.net/82/index.m3u8",
     "isHttps": false
   },
   {
@@ -3480,15 +3498,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon (Bulgaria) (576p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8",
     "isHttps": false
   },
   {
@@ -3843,21 +3852,21 @@
     "isHttps": false
   },
   {
+    "name": "Tooncast Argentina (720p)",
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://45.134.141.161:2200/ARG/Tooncast/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Tooncast SouthAmerica (480p)",
     "logo": "https://i.imgur.com/3yXRbQy.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
     "url": "http://190.61.42.218:9000/play/a06i/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TraLaLa DSN",
-    "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0",
     "isHttps": false
   },
   {

@@ -711,12 +711,12 @@
     "isHttps": true
   },
   {
-    "name": "Angel TV (720p)",
+    "name": "Angel TV (1080p)",
     "logo": "https://i.imgur.com/qKLEGU7.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/453/master.m3u8",
     "isHttps": true
   },
   {
@@ -1899,6 +1899,15 @@
     "isHttps": true
   },
   {
+    "name": "Dukhniwaran (576p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/dukhniwaran.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dunamis TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/thGAXeM.png",
     "country": "",
@@ -2574,6 +2583,15 @@
     "isHttps": true
   },
   {
+    "name": "GOD TV Asia (576p)",
+    "logo": "https://i.imgur.com/hW4g2oe.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "God's Learning Channel KPCB-DT (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f3/God%27s_Learning_Channel_logo_2022.png",
     "country": "",
@@ -2979,12 +2997,12 @@
     "isHttps": true
   },
   {
-    "name": "Hosanna TV",
+    "name": "Hosanna TV (720p)",
     "logo": "https://i.imgur.com/VYorU1L.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8",
+    "url": "https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "isHttps": true
   },
   {
@@ -3969,6 +3987,15 @@
     "isHttps": true
   },
   {
+    "name": "Mahotsav TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mahotsav_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Majestad TV (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/BJhrvtL.png",
     "country": "",
@@ -4473,12 +4500,12 @@
     "isHttps": true
   },
   {
-    "name": "Nambikkai TV",
+    "name": "Nambikkai TV (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://cdn.pishow.tv/ott/live/1389/master.m3u8",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5523,6 +5550,24 @@
     "language": "",
     "group": "Culture;General;Religious",
     "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Shaheedan Live (576p)",
+    "logo": "https://papaji.freetvindia.com/media/Shaheedan_Live.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt06.tangotv.in/qYyB8fXVSHAHEEDDANLIVE/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Shaheedan Shahib (576p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/Shaheed_Baba_Deep_Singh.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8",
     "isHttps": true
   },
   {
@@ -7200,6 +7245,15 @@
     "isHttps": false
   },
   {
+    "name": "Shree Sanatan TV (720p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/shri_Sanatan_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://sanatan.valamtv.in/hls/shree/bhattji.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sivan TV (1080p)",
     "logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
     "country": "",
@@ -7242,6 +7296,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Valam TV (720p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/Valam_TV.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://cabletv.valamtv.in/hls/stream0.m3u8",
     "isHttps": false
   }
 ]

@@ -2250,6 +2250,15 @@
     "isHttps": true
   },
   {
+    "name": "ON Phim Viet (1080p)",
+    "logo": "https://i.ibb.co/Swvp1vwM/IMG-2525.jpg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://vmttv.dpdns.org/tv360/?id=175",
+    "isHttps": true
+  },
+  {
     "name": "OuterSphere (1080p)",
     "logo": "https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png",
     "country": "",
@@ -4212,21 +4221,21 @@
     "isHttps": false
   },
   {
-    "name": "Bolt (Russia) (576p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Fox Life (576p)",
     "logo": "https://i.imgur.com/O2miSLA.png",
     "country": "",
     "language": "",
     "group": "Series",
     "url": "http://stream.mcquack.net/129/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hallmark Mystery (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://41.205.93.154/HALLMARK/index.m3u8",
     "isHttps": false
   },
   {
@@ -4293,7 +4302,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Bolt (Ukraine) (1080p)",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Bolt (1080p)",
     "logo": "https://i.imgur.com/YdIHXOR.png",
     "country": "",
     "language": "",
@@ -4311,12 +4320,30 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Crime (Bulgaria)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://213.91.179.28:8000/play/a0cs",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Crime (Slovenia)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
     "country": "",
     "language": "",
     "group": "Series",
     "url": "http://92.36.202.5:10001/play/a02o",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Life (Bulgaria)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://213.91.179.28:8000/play/a0cr",
     "isHttps": false
   },
   {
@@ -4419,6 +4446,15 @@
     "isHttps": false
   },
   {
+    "name": "Paramount Network (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Polsat Seriale (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
     "country": "",
@@ -4470,24 +4506,6 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Crime (Bulgaria) (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Life (Bulgaria) (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8",
     "isHttps": false
   },
   {

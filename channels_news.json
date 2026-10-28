@@ -1503,12 +1503,12 @@
     "isHttps": true
   },
   {
-    "name": "BIG TV (720p)",
+    "name": "BIG TV (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/1059/master.m3u8",
+    "url": "https://stream.ottlive.co.in/bigtv/index.m3u8",
     "isHttps": true
   },
   {
@@ -2142,12 +2142,12 @@
     "isHttps": true
   },
   {
-    "name": "CNA International (576p)",
+    "name": "CNA International (1080p)",
     "logo": "https://i.imgur.com/xWglicB.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112",
     "isHttps": true
   },
   {
@@ -2466,6 +2466,15 @@
     "isHttps": true
   },
   {
+    "name": "DNN (576p)",
+    "logo": "https://i.imgur.com/H5Kd0k6.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Don 24 (1080p)",
     "logo": "https://i.imgur.com/fW15la1.png",
     "country": "",
@@ -2565,12 +2574,12 @@
     "isHttps": true
   },
   {
-    "name": "DY 365 (360p)",
+    "name": "DY 365 (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/1624/master.m3u8",
     "isHttps": true
   },
   {
@@ -3474,6 +3483,15 @@
     "isHttps": true
   },
   {
+    "name": "Ind 24 (720p)",
+    "logo": "https://i.imgur.com/exRpVmL.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://livestream.jswk.online/ind24/live/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "India Ahead (576p)",
     "logo": "https://i.imgur.com/hBkTmf9.png",
     "country": "",
@@ -3489,6 +3507,24 @@
     "language": "",
     "group": "News",
     "url": "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "India News (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143190_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "India News Punjab/Himachal (576p)",
+    "logo": "https://i.imgur.com/Mu1MPvt.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
     "isHttps": true
   },
   {
@@ -4140,15 +4176,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"News\",Franceinfo (1080p)",
-    "logo": "https://i.imgur.com/eITXz6A.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0\" group-title=\"News\",Antena 3 CNN (1080p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
     "country": "",
@@ -4743,6 +4770,15 @@
     "isHttps": true
   },
   {
+    "name": "Naxatra News Hindi (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
     "name": "NBC News NOW (1080p)",
     "logo": "https://i.imgur.com/JZt2qh5.png",
     "country": "",
@@ -4758,6 +4794,15 @@
     "language": "",
     "group": "News",
     "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NDTV (576p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn.pishow.tv/ott/live/315/master.m3u8",
     "isHttps": true
   },
   {
@@ -4887,12 +4932,21 @@
     "isHttps": true
   },
   {
-    "name": "News India 24x7",
+    "name": "News Hour (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b83af98cdfd7d995b46178788a835bff.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "News India 24x7 (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
+    "url": "https://samitaorigin.tangotv.in/NEWSINDIA24X7/SAMITAORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -5931,6 +5985,15 @@
     "isHttps": true
   },
   {
+    "name": "Pratham News (576p)",
+    "logo": "https://papaji.freetvindia.com/media/channels/Pratham_news.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Pratidin Time (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRATIDIN_TIME/images/LOGO_HD/image.png",
     "country": "",
@@ -5994,15 +6057,6 @@
     "isHttps": true
   },
   {
-    "name": "PROTV News (1080p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0",
-    "isHttps": true
-  },
-  {
     "name": "Prudent Media (1080p)",
     "logo": "https://i.imgur.com/DG0x4UD.png",
     "country": "",
@@ -6054,6 +6108,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Public First (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
     "isHttps": true
   },
   {
@@ -7290,6 +7353,15 @@
     "isHttps": true
   },
   {
+    "name": "TTN24 (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TTN24.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TurkHaber TV (720p)",
     "logo": "https://i.imgur.com/2AcRKdL.png",
     "country": "",
@@ -8370,15 +8442,6 @@
     "isHttps": false
   },
   {
-    "name": "Digi 24 HD (1080i)",
-    "logo": "https://i.imgur.com/qmRnD0M.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "DNews (720p)",
     "logo": "https://i.imgur.com/jF2BabI.png",
     "country": "",
@@ -8466,6 +8529,15 @@
     "language": "",
     "group": "News",
     "url": "http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Franceinfo (1080p)",
+    "logo": "https://i.imgur.com/eITXz6A.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://149.62.177.107:9999/franceinfo:/index.m3u8",
     "isHttps": false
   },
   {
@@ -8934,6 +9006,15 @@
     "language": "",
     "group": "News",
     "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "PROTV News",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0",
     "isHttps": false
   },
   {

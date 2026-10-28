@@ -720,6 +720,15 @@
     "isHttps": true
   },
   {
+    "name": "Dikij (576p)",
+    "logo": "https://i.imgur.com/VDXDiPC.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dom kino International (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
     "country": "",
@@ -963,6 +972,15 @@
     "isHttps": true
   },
   {
+    "name": "Istoriya (576p)",
+    "logo": "https://i.imgur.com/eEjPail.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Jibek Joly (576p)",
     "logo": "https://i.imgur.com/SqyXtgK.png",
     "country": "",
@@ -1023,6 +1041,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
+    "name": "Kinoseriya (576p)",
+    "logo": "https://i.imgur.com/iao7zLZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv",
     "isHttps": true
   },
   {
@@ -1449,6 +1476,15 @@
     "isHttps": true
   },
   {
+    "name": "National Geographic Wild (Russia) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Naxcivan TV (720p)",
     "logo": "https://i.imgur.com/8yLFkdE.png",
     "country": "",
@@ -1590,6 +1626,33 @@
     "language": "",
     "group": "General",
     "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https",
+    "isHttps": true
+  },
+  {
+    "name": "NTV Law (576p)",
+    "logo": "https://i.imgur.com/3ChnWGg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://cdn.ntv.ru/th_pravo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NTV Style (576p)",
+    "logo": "https://i.imgur.com/rX6K6qT.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "https://cdn.ntv.ru/th_style/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NTV Svoya igra (1080p)",
+    "logo": "https://dictant.rgo.ru/sites/default/files/styles/fullscreen/public/logo3.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8",
     "isHttps": true
   },
   {
@@ -3114,15 +3177,6 @@
     "isHttps": false
   },
   {
-    "name": "Bolt (Russia) (576p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "BRIDGE (576p)",
     "logo": "https://i.imgur.com/qYObfrG.png",
     "country": "",
@@ -3330,15 +3384,6 @@
     "isHttps": false
   },
   {
-    "name": "Dikij (576p)",
-    "logo": "https://i.imgur.com/VDXDiPC.png",
-    "country": "",
-    "language": "",
-    "group": "Outdoor",
-    "url": "http://hls127.freeott.top:8080/Dikiy/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Discovery Channel (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
     "country": "",
@@ -3524,7 +3569,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://hls127.freeott.top:8080/1muz_HD/video.m3u8",
+    "url": "http://rtmp.one.by:2300",
     "isHttps": false
   },
   {
@@ -3587,7 +3632,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/XitHD/video.m3u8",
+    "url": "http://stream.mcquack.net/363/index.m3u8",
     "isHttps": false
   },
   {
@@ -3624,15 +3669,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://stream.mcquack.net/205/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Istoriya (576p)",
-    "logo": "https://i.imgur.com/eEjPail.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
     "isHttps": false
   },
   {
@@ -3744,15 +3780,6 @@
     "isHttps": false
   },
   {
-    "name": "Kinopokaz HD (1080p)",
-    "logo": "https://i.imgur.com/nNjMyAq.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Kinopremyera (1080p)",
     "logo": "https://i.imgur.com/s0UYT8T.png",
     "country": "",
@@ -3780,15 +3807,6 @@
     "isHttps": false
   },
   {
-    "name": "Kinoseriya (1080p)",
-    "logo": "https://i.imgur.com/iao7zLZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Kinosvidanie (576p)",
     "logo": "https://i.imgur.com/ZRaWqxj.png",
     "country": "",
@@ -3804,15 +3822,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/278/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Kluch (576p)",
-    "logo": "https://i.imgur.com/WA9TOPi.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://hls127.freeott.top:8080/Kluch/video.m3u8",
     "isHttps": false
   },
   {
@@ -4239,6 +4248,15 @@
     "isHttps": false
   },
   {
+    "name": "Match! Premier (576p)",
+    "logo": "https://i.imgur.com/GQPyHYK.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Match! Strana (720p)",
     "logo": "https://i.imgur.com/X02s2UE.png",
     "country": "",
@@ -4379,7 +4397,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
+    "url": "http://stream.mcquack.net/82/index.m3u8",
     "isHttps": false
   },
   {
@@ -4464,15 +4482,6 @@
     "isHttps": false
   },
   {
-    "name": "Nashe Lubimoe Kino (576p)",
-    "logo": "https://i.imgur.com/iKPfM5K.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nashe muzhskoe HD (1080p)",
     "logo": "https://i.imgur.com/QRWKpmb.png",
     "country": "",
@@ -4488,15 +4497,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic Wild (Russia) (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8",
     "isHttps": false
   },
   {
@@ -4550,7 +4550,7 @@
     "country": "",
     "language": "",
     "group": "Classic",
-    "url": "http://hls127.freeott.top:8080/Nostalgiya/video.m3u8",
+    "url": "http://176.118.197.101/Nostalgiya/index.m3u8",
     "isHttps": false
   },
   {
@@ -4568,7 +4568,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://hls127.freeott.top:8080/HCTV/video.m3u8",
+    "url": "http://stream.mcquack.net/207/index.m3u8",
     "isHttps": false
   },
   {
@@ -4590,15 +4590,6 @@
     "isHttps": false
   },
   {
-    "name": "NTV Law (576p)",
-    "logo": "https://i.imgur.com/3ChnWGg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "NTV Mir (576p)",
     "logo": "https://i.imgur.com/pUcV46F.png",
     "country": "",
@@ -4614,15 +4605,6 @@
     "language": "",
     "group": "Series",
     "url": "http://stream.mcquack.net/301/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "NTV Style (576p)",
-    "logo": "https://i.imgur.com/rX6K6qT.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8",
     "isHttps": false
   },
   {

@@ -162,6 +162,15 @@
     "isHttps": true
   },
   {
+    "name": "Bollywood Classic Romania (576p)",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bollywood Film",
     "logo": "https://i.imgur.com/bEMUpHZ.png",
     "country": "",
@@ -810,24 +819,6 @@
     "isHttps": true
   },
   {
-    "name": "Mooz Love (576p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mooz Retro (576p)",
-    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mooz Ro!",
     "logo": "https://i.imgur.com/Ft24x5T.png",
     "country": "",
@@ -936,15 +927,6 @@
     "isHttps": true
   },
   {
-    "name": "PROTV News (1080p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0",
-    "isHttps": true
-  },
-  {
     "name": "Quantum TV (576p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/05/Quantum.jpg/revision/latest?cb=20241116163233",
     "country": "",
@@ -1014,15 +996,6 @@
     "language": "",
     "group": "Music",
     "url": "https://media.3netmedia.ro/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
-    "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1233,12 +1206,30 @@
     "isHttps": true
   },
   {
+    "name": "TraLaLa DSN",
+    "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TraLaLa TV",
     "logo": "https://i.imgur.com/xJBMnjy.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Travel Mix",
+    "logo": "https://i.imgur.com/4dMeEQO.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8",
     "isHttps": true
   },
   {
@@ -1458,42 +1449,6 @@
     "isHttps": false
   },
   {
-    "name": "Beauty ON (576p)",
-    "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
-    "name": "Bollywood Classic Romania (576p)",
-    "logo": "https://i.imgur.com/ugPo6ca.png",
-    "country": "",
-    "language": "",
-    "group": "Classic;Movies",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
-    "name": "Digi 24 HD (1080i)",
-    "logo": "https://i.imgur.com/qmRnD0M.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
-    "name": "Favorit TV2",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "Light Channel (Romania) (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/S3Fbf8T.png",
     "country": "",
@@ -1566,12 +1521,12 @@
     "isHttps": false
   },
   {
-    "name": "Rapsodia TV",
-    "logo": "https://i.imgur.com/mwMG7BB.png",
+    "name": "PROTV News",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753",
     "country": "",
     "language": "",
-    "group": "Undefined",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0",
+    "group": "News",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0",
     "isHttps": false
   },
   {
@@ -1620,24 +1575,6 @@
     "isHttps": false
   },
   {
-    "name": "TraLaLa DSN",
-    "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
-    "name": "Travel Mix (576p)",
-    "logo": "https://i.imgur.com/4dMeEQO.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "TV Buzau (576p)",
     "logo": "https://i.imgur.com/GhFmUVO.png",
     "country": "",
@@ -1671,15 +1608,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://89.38.8.130:39443",
-    "isHttps": false
-  },
-  {
-    "name": "VP TV",
-    "logo": "https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0",
     "isHttps": false
   }
 ]

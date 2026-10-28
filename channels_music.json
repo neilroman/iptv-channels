@@ -441,12 +441,12 @@
     "isHttps": true
   },
   {
-    "name": "Balle Balle (576p)",
+    "name": "Balle Balle (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8",
+    "url": "https://mcncdndigital.com/worldpunjabitv/index.m3u8",
     "isHttps": true
   },
   {
@@ -2493,24 +2493,6 @@
     "isHttps": true
   },
   {
-    "name": "Mooz Love (576p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mooz Retro (576p)",
-    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mooz Ro!",
     "logo": "https://i.imgur.com/Ft24x5T.png",
     "country": "",
@@ -3759,15 +3741,6 @@
     "language": "",
     "group": "Music",
     "url": "https://media.3netmedia.ro/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
-    "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6363,15 +6336,6 @@
     "isHttps": false
   },
   {
-    "name": "Favorit TV2",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "First Music Channel (1080p)",
     "logo": "https://i.imgur.com/YdyFJrl.png",
     "country": "",
@@ -6386,7 +6350,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://hls127.freeott.top:8080/1muz_HD/video.m3u8",
+    "url": "http://rtmp.one.by:2300",
     "isHttps": false
   },
   {
@@ -6423,6 +6387,15 @@
     "language": "",
     "group": "Music",
     "url": "http://45.171.64.30:6060/play/a012/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HTV Argentina (720p)",
+    "logo": "https://i.imgur.com/NlKFNHS.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://45.134.141.161:2200/ARG/HTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -6747,15 +6720,6 @@
     "language": "",
     "group": "Music",
     "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nuta TV",
-    "logo": "https://i.imgur.com/JHFUxDu.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://92.114.85.87:8010/play/a00j/index.m3u8",
     "isHttps": false
   },
   {

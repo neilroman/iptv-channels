@@ -324,6 +324,15 @@
     "isHttps": true
   },
   {
+    "name": "Bollywood Classic Romania (576p)",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "country": "",
+    "language": "",
+    "group": "Classic;Movies",
+    "url": "https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bollywood Film",
     "logo": "https://i.imgur.com/bEMUpHZ.png",
     "country": "",
@@ -1530,6 +1539,15 @@
     "isHttps": true
   },
   {
+    "name": "Kinoseriya (576p)",
+    "logo": "https://i.imgur.com/iao7zLZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
     "name": "Kinoteatr (1080p)",
     "logo": "https://i.imgur.com/emH1BgC.png",
     "country": "",
@@ -1626,51 +1644,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 1",
-    "logo": "https://i.imgur.com/MGrJFVN.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 2",
-    "logo": "https://i.imgur.com/Kg7oOcO.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 3",
-    "logo": "https://i.imgur.com/5NZur1S.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Stars",
-    "logo": "https://i.imgur.com/eryPkrT.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Turk",
-    "logo": "https://i.imgur.com/nw8Sa2z.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8",
     "isHttps": true
   },
   {
@@ -2475,12 +2448,12 @@
     "isHttps": true
   },
   {
-    "name": "Pitaara (720p)",
+    "name": "Pitaara (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8",
     "isHttps": true
   },
   {
@@ -4806,15 +4779,6 @@
     "isHttps": true
   },
   {
-    "name": "&xplor HD (1080p) [Geo-blocked]",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-    "isHttps": false
-  },
-  {
     "name": "312 Kino (406p)",
     "logo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
     "country": "",
@@ -5040,30 +5004,12 @@
     "isHttps": false
   },
   {
-    "name": "Bollywood Classic Romania (576p)",
-    "logo": "https://i.imgur.com/ugPo6ca.png",
-    "country": "",
-    "language": "",
-    "group": "Classic;Movies",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0",
-    "isHttps": false
-  },
-  {
     "name": "Bollywood HD (576p)",
     "logo": "https://i.imgur.com/YLQRnXt.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://176.118.197.101/Bollywood_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Bolt (Russia) (576p)",
-    "logo": "https://i.imgur.com/YdIHXOR.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "http://hls127.freeott.top:8080/Bolt/video.m3u8",
     "isHttps": false
   },
   {
@@ -5082,15 +5028,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal+ Cinemas (720p)",
-    "logo": "https://i.imgur.com/fvPoNEa.jpeg",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -5544,6 +5481,15 @@
     "isHttps": false
   },
   {
+    "name": "Hallmark Mystery (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://41.205.93.154/HALLMARK/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HBO (Czech Republic)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924",
     "country": "",
@@ -5612,7 +5558,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/XitHD/video.m3u8",
+    "url": "http://stream.mcquack.net/363/index.m3u8",
     "isHttps": false
   },
   {
@@ -5760,15 +5706,6 @@
     "isHttps": false
   },
   {
-    "name": "Kinopokaz HD (1080p)",
-    "logo": "https://i.imgur.com/nNjMyAq.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Kinopremyera (1080p)",
     "logo": "https://i.imgur.com/s0UYT8T.png",
     "country": "",
@@ -5793,15 +5730,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/170/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Kinoseriya (1080p)",
-    "logo": "https://i.imgur.com/iao7zLZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8",
     "isHttps": false
   },
   {
@@ -5886,7 +5814,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Bolt (Ukraine) (1080p)",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",Bolt (1080p)",
     "logo": "https://i.imgur.com/YdIHXOR.png",
     "country": "",
     "language": "",
@@ -6180,6 +6108,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://213.91.179.28:8000/play/a041",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Star Channel (Bulgaria)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://213.91.179.28:8000/play/a0c9",
     "isHttps": false
   },
   {
@@ -6498,15 +6435,6 @@
     "isHttps": false
   },
   {
-    "name": "Nashe Lubimoe Kino (576p)",
-    "logo": "https://i.imgur.com/iKPfM5K.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nashe muzhskoe HD (1080p)",
     "logo": "https://i.imgur.com/QRWKpmb.png",
     "country": "",
@@ -6540,6 +6468,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/214/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Paramount Network (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
     "isHttps": false
   },
   {
@@ -6714,15 +6651,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Channel (Bulgaria) (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/BG_FOX/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Channel (Chile) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
@@ -6773,7 +6701,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
+    "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
     "isHttps": false
   },
   {
