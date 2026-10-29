@@ -981,6 +981,15 @@
     "isHttps": true
   },
   {
+    "name": "DG:Radio (1080p)",
+    "logo": "https://cdn.dg.church/media/objects/tile-dgradio.jpg",
+    "country": "",
+    "language": "",
+    "group": "Music;Religious",
+    "url": "https://mdn.dg.church/683c0cb036885-1/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dhamaal (576p) [Geo-blocked]",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
     "country": "",
@@ -5868,15 +5877,6 @@
     "isHttps": true
   },
   {
-    "name": "YET Max (720p)",
-    "logo": "https://yettelevision.com/assets/images/logo/channel_11847.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "YleX (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png",
     "country": "",
@@ -6954,6 +6954,15 @@
     "language": "",
     "group": "Music",
     "url": "http://hls.tmacaraibes.com/live/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Top Latino TV",
+    "logo": "https://i.imgur.com/VRl8nPZ.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://38.87.224.20:2220/play/a02b/index.m3u8",
     "isHttps": false
   },
   {

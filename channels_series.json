@@ -1315,7 +1315,7 @@
   },
   {
     "name": "HTVC Movies (720p)",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
@@ -4245,6 +4245,15 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO 2 (Poland) (1080p)",
+    "logo": "https://i.imgur.com/2e3muOJ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://185.227.34.179:8080/hbo-2-hd/index.m3u8",
     "isHttps": false
   },
   {

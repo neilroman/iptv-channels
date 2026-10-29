@@ -234,15 +234,6 @@
     "isHttps": true
   },
   {
-    "name": "4TV News (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "6 TV Telugu (576p)",
     "logo": "https://i.imgur.com/l3EcRnZ.png",
     "country": "",
@@ -1071,6 +1062,15 @@
     "isHttps": true
   },
   {
+    "name": "Antena 3 Constanta (576p)",
+    "logo": "https://antena3constanta.ro/wp-content/uploads/2025/08/ant3-logonn.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Antik Info TV (1080p)",
     "logo": "https://i.imgur.com/Q0qL60o.png",
     "country": "",
@@ -1212,15 +1212,6 @@
     "language": "",
     "group": "News",
     "url": "https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Asianet Suvarna News (1080p) [Not 24/7]",
-    "logo": "https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2385,30 +2376,12 @@
     "isHttps": true
   },
   {
-    "name": "DD Mizoram (504p)",
-    "logo": "https://i.imgur.com/I5zT1DG.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;News",
-    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "DD News (1080p)",
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "DD News HD (1080p)",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
     "isHttps": true
   },
   {
@@ -3600,15 +3573,6 @@
     "isHttps": true
   },
   {
-    "name": "INH 24x7 (396p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Iran International (1080p)",
     "logo": "https://i.imgur.com/55RpaF3.png",
     "country": "",
@@ -4176,6 +4140,132 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Culture;News\",DD Mizoram (576p)",
+    "logo": "https://i.imgur.com/I5zT1DG.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;News",
+    "url": "https://fta.ektv.in/live/381/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",4TV News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/647/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",ABP Sanjha (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/641/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Asianet Suvarna News (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/692/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",DD News HD (1080p)",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/117/117_0.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Gulistan News (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/427/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",India News Gujarati (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/653/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",India News Haryana (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143192_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/590/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",India News Madhya Pradesh/Chhattisgarh (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/600/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",India News Rajasthan (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/601/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",India News Uttar Pradesh (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/304/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",INH 24x7 (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/99/99_0.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Naxatra News (576p)",
+    "logo": "https://i.imgur.com/IGduUk4.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/668/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",STV Haryana News (576p)",
+    "logo": "https://i.imgur.com/TJRZo9e.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://fta.ektv.in/live/607/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0\" group-title=\"News\",Antena 3 CNN (1080p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
     "country": "",
@@ -4735,7 +4825,7 @@
   },
   {
     "name": "Nanduti (1080p)",
-    "logo": "https://i.imgur.com/vnIkhRO.png",
+    "logo": "https://i.imgur.com/AsuVsLa.png",
     "country": "",
     "language": "",
     "group": "News",

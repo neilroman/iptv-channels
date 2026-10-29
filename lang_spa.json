@@ -3286,7 +3286,7 @@
   },
   {
     "name": "Canal Pro",
-    "logo": "https://i.imgur.com/ah8n7jL.png",
+    "logo": "https://i.imgur.com/h7qelDq.png",
     "country": "",
     "language": "",
     "group": "Business",
@@ -9613,7 +9613,7 @@
   },
   {
     "name": "Nanduti (1080p)",
-    "logo": "https://i.imgur.com/vnIkhRO.png",
+    "logo": "https://i.imgur.com/AsuVsLa.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -12457,7 +12457,7 @@
   },
   {
     "name": "RCC TV (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/qdjBnRl.png",
+    "logo": "https://i.imgur.com/sd9iOIh.png",
     "country": "",
     "language": "",
     "group": "Religious",
@@ -14847,6 +14847,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Television Caribe (1080p)",
+    "logo": "https://televisioncaribe.com/logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;General",
+    "url": "https://televisioncaribe.com/index.m3u8",
     "isHttps": true
   },
   {
@@ -17343,15 +17352,6 @@
     "isHttps": true
   },
   {
-    "name": "WAPA-TV 4.1 (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/kqq7tD9.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Wapp (720p)",
     "logo": "https://i.imgur.com/Bv1yJ1d.png",
     "country": "",
@@ -19539,12 +19539,12 @@
     "isHttps": false
   },
   {
-    "name": "HBO+ Latin America (720p) [Geo-blocked]",
+    "name": "HBO+ Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://15.204.246.24:8080/HBOPlusHD/index.m3u8",
+    "url": "http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -21282,6 +21282,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://190.61.42.218:9000/play/a06i/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Top Latino TV",
+    "logo": "https://i.imgur.com/VRl8nPZ.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://38.87.224.20:2220/play/a02b/index.m3u8",
     "isHttps": false
   },
   {
