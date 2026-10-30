@@ -919,7 +919,7 @@
   },
   {
     "name": "PROFI 24 TV",
-    "logo": "",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Profi_24_TV.png/revision/latest?cb=20251020190432",
     "country": "",
     "language": "",
     "group": "General",
@@ -996,6 +996,15 @@
     "language": "",
     "group": "Music",
     "url": "https://media.3netmedia.ro/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
+    "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8",
     "isHttps": true
   },
   {

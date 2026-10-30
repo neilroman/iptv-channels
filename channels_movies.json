@@ -1674,24 +1674,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://fta.ektv.in/live/271/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema 2 (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://fta.ektv.in/live/257/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Maha Movie (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png",
     "country": "",
@@ -4212,6 +4194,15 @@
     "isHttps": true
   },
   {
+    "name": "Sony Movies (United States) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony One Favoris (1080p)",
     "logo": "https://i.imgur.com/RO4AM4b.png",
     "country": "",
@@ -6651,7 +6642,7 @@
     "isHttps": false
   },
   {
-    "name": "Sony Movies (720p)",
+    "name": "Sony Movies (Brazil) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
     "country": "",
     "language": "",
