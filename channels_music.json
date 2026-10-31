@@ -1638,15 +1638,6 @@
     "isHttps": true
   },
   {
-    "name": "Interradio TV",
-    "logo": "https://i.imgur.com/3875n4G.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "IQ Channel (720p)",
     "logo": "https://i.imgur.com/hwuaomt.png",
     "country": "",
@@ -1905,15 +1896,6 @@
     "language": "",
     "group": "Music",
     "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "La Granja TV",
-    "logo": "https://i.imgur.com/90luGab.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2256,15 +2238,6 @@
     "language": "",
     "group": "Music",
     "url": "https://live.obslivestream.com/makaomux/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Maqui TV",
-    "logo": "https://i.imgur.com/U849xvX.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3069,15 +3042,6 @@
     "isHttps": true
   },
   {
-    "name": "Orbita Chile TV (1080p)",
-    "logo": "https://i.imgur.com/gbNh79Z.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Music",
-    "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Orizont TV (576i)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
     "country": "",
@@ -3597,15 +3561,6 @@
     "language": "",
     "group": "Music",
     "url": "https://vmix.dyndns.biz/Edelweiss/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Radio Fiessta (720p)",
-    "logo": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8",
     "isHttps": true
   },
   {
@@ -5445,15 +5400,6 @@
     "isHttps": true
   },
   {
-    "name": "V Classic TV (720p)",
-    "logo": "https://i.imgur.com/WIACJSy.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "V2BEAT TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/PXGqyLn.png",
     "country": "",
@@ -6840,24 +6786,6 @@
     "isHttps": false
   },
   {
-    "name": "Retro Plus (1080p)",
-    "logo": "https://i.imgur.com/fkCasXI.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://181.119.97.124:8080/play/a00t/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Retro Plus 2 (1080p)",
-    "logo": "https://i.imgur.com/5G5kian.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://181.119.97.124:8080/play/a00n/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Rock & Pop (1080p)",
     "logo": "https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png",
     "country": "",
@@ -6876,7 +6804,7 @@
     "isHttps": false
   },
   {
-    "name": "Rumba TV",
+    "name": "Rumba TV (1080p)",
     "logo": "https://i.imgur.com/WtVpWwI.png",
     "country": "",
     "language": "",
@@ -7017,6 +6945,15 @@
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/281/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "V Classic TV (1080p)",
+    "logo": "https://i.imgur.com/WIACJSy.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://186.148.196.100:8000/play/a02z",
     "isHttps": false
   },
   {
