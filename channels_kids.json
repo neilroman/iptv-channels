@@ -738,15 +738,6 @@
     "isHttps": true
   },
   {
-    "name": "Groovia Kids (576p)",
-    "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Gulli Girl (720p)",
     "logo": "https://i.imgur.com/lbViDuC.png",
     "country": "",
@@ -1509,6 +1500,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ON BiBi (1080p)",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab8%20-%20ON%20BiBi.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178",
     "isHttps": true
   },
   {
@@ -3159,15 +3159,6 @@
     "isHttps": false
   },
   {
-    "name": "Hungama TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "JimJam Europe (720p)",
     "logo": "https://i.imgur.com/ODhkYyx.png",
     "country": "",
@@ -3483,6 +3474,15 @@
     "isHttps": false
   },
   {
+    "name": "Nick/Comedy Central +1",
+    "logo": "https://i.imgur.com/08ZUI9k.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Kids",
+    "url": "http://90.183.52.46:4000/play/a046/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nickelodeon (Croatia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
     "country": "",
@@ -3498,6 +3498,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon (Netherlands)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass",
     "isHttps": false
   },
   {
@@ -3717,15 +3726,6 @@
     "isHttps": false
   },
   {
-    "name": "Sony Yay! (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Starz Kids & Family (1080p)",
     "logo": "https://i.imgur.com/eE9FzEP.png",
     "country": "",
@@ -3741,15 +3741,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Super Hungama (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
     "isHttps": false
   },
   {

@@ -81,6 +81,15 @@
     "isHttps": true
   },
   {
+    "name": "Antena 3 Suceava (576i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/65/Antena_3_Suceava_slogan.svg/revision/latest/scale-to-width-down/1000?cb=20240522203102",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://livestream.a3sv.ro/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Antena International",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
     "country": "",
@@ -285,6 +294,15 @@
     "language": "",
     "group": "News",
     "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Disco Mix (576i) [Geo-blocked]",
+    "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -807,6 +825,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Mooz Dance HD (1080i) [Geo-blocked]",
+    "logo": "https://i.imgur.com/aX70RD2.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1545,6 +1572,15 @@
     "language": "",
     "group": "News",
     "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "Rapsodia TV",
+    "logo": "https://i.imgur.com/mwMG7BB.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://hls02ns.antenaplay.ro/hls/rapsoida-tv-sd/index.m3u8",
     "isHttps": false
   },
   {

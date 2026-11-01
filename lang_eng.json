@@ -6705,6 +6705,15 @@
     "isHttps": true
   },
   {
+    "name": "Disco Mix (576i) [Geo-blocked]",
+    "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Discovering China (1080p)",
     "logo": "https://i.imgur.com/wr2bLaA.png",
     "country": "",
@@ -24264,6 +24273,15 @@
     "isHttps": false
   },
   {
+    "name": "Animal Planet (United Kingdom)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://37.49.224.5/stream/10/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Animal Planet (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
     "country": "",
@@ -24813,6 +24831,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Channel (United Kingdom)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://37.49.224.5/stream/11/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Discovery Channel (United States) (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
     "country": "",
@@ -24828,6 +24855,33 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery History",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://37.49.224.5/stream/12/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Science Europe UK",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Science",
+    "url": "http://37.49.224.5/stream/9/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Turbo (United Kingdom)",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2409.png",
+    "country": "",
+    "language": "",
+    "group": "Auto",
+    "url": "http://37.49.224.5/stream/13/index.m3u8",
     "isHttps": false
   },
   {
@@ -25173,6 +25227,15 @@
     "isHttps": false
   },
   {
+    "name": "HBO Asia HD (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HBO Asia Taiwan (1080p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
     "country": "",
@@ -25182,12 +25245,39 @@
     "isHttps": false
   },
   {
+    "name": "HBO Family Asia HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Family",
+    "url": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HBO Hits (720p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies;Series",
     "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO Hits Asia HD (1080p)",
+    "logo": "https://i.imgur.com/CTjmocc.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO Signature Asia HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
     "isHttps": false
   },
   {
@@ -25992,6 +26082,24 @@
     "isHttps": false
   },
   {
+    "name": "Nick/Comedy Central +1",
+    "logo": "https://i.imgur.com/08ZUI9k.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy;Kids",
+    "url": "http://90.183.52.46:4000/play/a046/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon (Netherlands)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "Nickelodeon (Russia) (576p)",
     "logo": "https://i.imgur.com/w8iE8dV.png",
     "country": "",
@@ -26253,6 +26361,15 @@
     "isHttps": false
   },
   {
+    "name": "Really",
+    "logo": "https://i.imgur.com/lY5sFgo.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://37.49.224.5/stream/36/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Reelz (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
     "country": "",
@@ -26403,6 +26520,78 @@
     "language": "",
     "group": "News",
     "url": "http://103.250.28.74:8000/play/a00v/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport 1",
+    "logo": "https://i.imgur.com/ThJHEuN.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/44/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport 2",
+    "logo": "https://i.imgur.com/cu8yB69.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/45/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport 3",
+    "logo": "https://i.imgur.com/XYp3Ua3.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/46/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport 4",
+    "logo": "https://i.imgur.com/KUXs7SQ.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/51/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport 7",
+    "logo": "https://i.imgur.com/iuTNWh4.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/50/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport 8",
+    "logo": "https://i.imgur.com/8YjqlRv.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/70/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport 9",
+    "logo": "https://i.imgur.com/9fLRHSg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/52/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sky Sport Select",
+    "logo": "https://i.imgur.com/6x2anTA.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://37.49.224.5/stream/53/index.m3u8",
     "isHttps": false
   },
   {
@@ -26565,15 +26754,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Super Hungama (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
     "isHttps": false
   },
   {

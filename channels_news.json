@@ -450,15 +450,6 @@
     "isHttps": true
   },
   {
-    "name": "ABC-TV Paraguay (1080p)",
-    "logo": "https://i.imgur.com/OqfBMGy.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
-    "isHttps": true
-  },
-  {
     "name": "ABN Andhra Jyoti (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -1068,6 +1059,15 @@
     "language": "",
     "group": "News",
     "url": "https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena 3 Suceava (576i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/65/Antena_3_Suceava_slogan.svg/revision/latest/scale-to-width-down/1000?cb=20240522203102",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://livestream.a3sv.ro/master.m3u8",
     "isHttps": true
   },
   {
@@ -8244,6 +8244,15 @@
     "isHttps": false
   },
   {
+    "name": "ABC-TV Paraguay",
+    "logo": "https://i.imgur.com/OqfBMGy.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "ABN News (1080p)",
     "logo": "https://i.imgur.com/R7BThkR.jpeg",
     "country": "",
@@ -9374,7 +9383,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
     "isHttps": false
   },
   {
