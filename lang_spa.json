@@ -3906,15 +3906,6 @@
     "isHttps": true
   },
   {
-    "name": "Cine Sony (720p)",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cine Terror",
     "logo": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
     "country": "",
@@ -7614,12 +7605,12 @@
     "isHttps": true
   },
   {
-    "name": "Larivision TV",
+    "name": "Larivision TV (720p) [Not 24/7]",
     "logo": "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://cloud5.larivision.net/hls/live.m3u8",
+    "url": "https://live.larivision.net/livelan/live.m3u8",
     "isHttps": true
   },
   {
@@ -17910,15 +17901,6 @@
     "isHttps": false
   },
   {
-    "name": "Bolivision (1080p)",
-    "logo": "https://i.imgur.com/U98Z5zn.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://15.204.246.24:8080/BolivisionHD/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Boomerang (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
     "country": "",
@@ -18366,6 +18348,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cine Sony (720p)",
+    "logo": "https://i.imgur.com/bZWoDTg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://186.148.196.82:8001/play/a0a4",
     "isHttps": false
   },
   {

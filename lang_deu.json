@@ -1980,6 +1980,15 @@
     "isHttps": true
   },
   {
+    "name": "RTL Super HD (576p)",
+    "logo": "https://i.imgur.com/KbdK8t9.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://s6.hopslan.com/superX/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "RTL Zwee (1080p)",
     "logo": "https://i.imgur.com/7SmCtyy.png",
     "country": "",
@@ -1995,6 +2004,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RTL Zwei HD (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://s6.hopslan.com/rtl2q/index.m3u8",
     "isHttps": true
   },
   {
@@ -2733,6 +2751,15 @@
     "language": "",
     "group": "Lifestyle",
     "url": "http://5.180.164.197:8080/DMAX/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport 1 Germany",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://90.183.52.46:4000/play/a06v/index.m3u8",
     "isHttps": false
   },
   {

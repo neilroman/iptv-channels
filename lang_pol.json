@@ -306,6 +306,15 @@
     "isHttps": true
   },
   {
+    "name": "Super Express TV (1080p)",
+    "logo": "https://i.imgur.com/HuIsALV.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Telewizja Biznesowa (1080p)",
     "logo": "https://i.imgur.com/XC7i7ZL.png",
     "country": "",
@@ -600,6 +609,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://92.114.85.87:8007/play/a009",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoonito CEE",
+    "logo": "https://i.imgur.com/9MrzLb1.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://193.33.39.108:9019/play/a00t",
     "isHttps": false
   },
   {

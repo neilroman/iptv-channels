@@ -5112,15 +5112,6 @@
     "isHttps": true
   },
   {
-    "name": "Cine Sony (720p)",
-    "logo": "https://i.imgur.com/bZWoDTg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cinemax Asia (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/c8crJfA.png",
     "country": "",
@@ -5742,7 +5733,7 @@
     "isHttps": true
   },
   {
-    "name": "Comedy TV (United States) (720p)",
+    "name": "Comedy.TV (720p)",
     "logo": "https://i.imgur.com/KLfXnba.png",
     "country": "",
     "language": "",
@@ -7413,6 +7404,15 @@
     "language": "",
     "group": "General",
     "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ES.TV (720p)",
+    "logo": "https://i.imgur.com/ihY01ao.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -9280,7 +9280,7 @@
   },
   {
     "name": "HBO Asia SD (720p) [Geo-blocked]",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+    "logo": "https://i.imgur.com/cE2gBt6.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -10575,7 +10575,7 @@
     "isHttps": true
   },
   {
-    "name": "Justice Central TV (720p)",
+    "name": "Justice Central.TV (720p)",
     "logo": "https://i.imgur.com/peuHszg.png",
     "country": "",
     "language": "",
@@ -17847,11 +17847,11 @@
     "isHttps": true
   },
   {
-    "name": "Recipe TV (720p)",
+    "name": "Recipe.TV (720p)",
     "logo": "https://i.imgur.com/HcL4a8z.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
+    "group": "Cooking",
     "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
     "isHttps": true
   },
@@ -18177,6 +18177,15 @@
     "language": "",
     "group": "Legislative",
     "url": "https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Romantic FM (576i)",
+    "logo": "https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8",
     "isHttps": true
   },
   {
@@ -24561,6 +24570,15 @@
     "isHttps": false
   },
   {
+    "name": "Cartoonito CEE",
+    "logo": "https://i.imgur.com/9MrzLb1.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://193.33.39.108:9019/play/a00t",
+    "isHttps": false
+  },
+  {
     "name": "Cartoonito CEE Poland (1080p)",
     "logo": "https://i.imgur.com/9MrzLb1.png",
     "country": "",
@@ -24606,6 +24624,15 @@
     "isHttps": false
   },
   {
+    "name": "Cine Sony (720p)",
+    "logo": "https://i.imgur.com/bZWoDTg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://186.148.196.82:8001/play/a0a4",
+    "isHttps": false
+  },
+  {
     "name": "CinemaWorld (720p)",
     "logo": "https://i.imgur.com/D2qNVZ7.png",
     "country": "",
@@ -24624,12 +24651,30 @@
     "isHttps": false
   },
   {
+    "name": "Cinemax 2 Central Europe",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://193.33.39.108:9009/play/a024",
+    "isHttps": false
+  },
+  {
     "name": "Cinemax Asia HD (1080p)",
     "logo": "https://i.imgur.com/c8crJfA.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "isHttps": false
+  },
+  {
+    "name": "Cinemax Central Europe",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://193.33.39.108:9023/play/a01b",
     "isHttps": false
   },
   {
@@ -25228,7 +25273,7 @@
   },
   {
     "name": "HBO Asia HD (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+    "logo": "https://i.imgur.com/cE2gBt6.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -25237,7 +25282,7 @@
   },
   {
     "name": "HBO Asia Taiwan (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+    "logo": "https://i.imgur.com/cE2gBt6.png",
     "country": "",
     "language": "",
     "group": "Movies",

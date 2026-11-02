@@ -99,6 +99,15 @@
     "isHttps": true
   },
   {
+    "name": "AntenaSport",
+    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AS3 Sport TV (1080p)",
     "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
     "country": "",
@@ -1818,15 +1827,6 @@
     "isHttps": true
   },
   {
-    "name": "Sport Extra",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sport+ Qazaqstan (1080p)",
     "logo": "https://i.imgur.com/vIV7x6n.png",
     "country": "",
@@ -2949,6 +2949,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport 1 Germany",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://90.183.52.46:4000/play/a06v/index.m3u8",
     "isHttps": false
   },
   {

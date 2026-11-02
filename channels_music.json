@@ -433,7 +433,7 @@
   },
   {
     "name": "B4U Music (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+    "logo": "https://i.imgur.com/hytapio.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -2466,39 +2466,12 @@
     "isHttps": true
   },
   {
-    "name": "Mooz Dance",
-    "logo": "https://i.imgur.com/aX70RD2.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mooz Dance HD (1080i) [Geo-blocked]",
     "logo": "https://i.imgur.com/aX70RD2.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mooz Hits",
-    "logo": "https://i.imgur.com/GwATd3Y.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Mooz Ro!",
-    "logo": "https://i.imgur.com/Ft24x5T.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
     "isHttps": true
   },
   {
@@ -3879,6 +3852,15 @@
     "isHttps": true
   },
   {
+    "name": "Radio ZU (720p)",
+    "logo": "https://radiozu.ro/img/logo-zu.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Radiofreccia (1080p)",
     "logo": "https://i.imgur.com/RxeRlar.png",
     "country": "",
@@ -4038,6 +4020,15 @@
     "language": "",
     "group": "Music",
     "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Romantic FM (576i)",
+    "logo": "https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8",
     "isHttps": true
   },
   {
@@ -5706,6 +5697,15 @@
     "isHttps": true
   },
   {
+    "name": "Wah Punjabi (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
     "name": "Wavez FM",
     "logo": "https://i.imgur.com/uyROZSS.png",
     "country": "",
@@ -6990,6 +6990,15 @@
     "language": "",
     "group": "Music",
     "url": "http://186.148.196.100:8000/play/a02z",
+    "isHttps": false
+  },
+  {
+    "name": "Vision Beats (720p)",
+    "logo": "https://i.imgur.com/xx5RQdi.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
     "isHttps": false
   },
   {
