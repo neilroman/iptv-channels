@@ -460,7 +460,7 @@
   },
   {
     "name": "ESPN 5 Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -469,7 +469,7 @@
   },
   {
     "name": "ESPN 6 Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -478,7 +478,7 @@
   },
   {
     "name": "ESPN 7 Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -531,12 +531,30 @@
     "isHttps": true
   },
   {
+    "name": "Eurosport 1 Russia (1080p)",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://s7.iptv-24.net/1439/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Eurosport 1 Turkiye",
     "logo": "https://i.imgur.com/olQJgm7.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Eurosport 2 Russia (1080p)",
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://s7.iptv-24.net/1452/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1827,6 +1845,15 @@
     "isHttps": true
   },
   {
+    "name": "Sport Total FM (576i)",
+    "logo": "https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://livesptfm.com/SPTFM/Live/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sport+ Qazaqstan (1080p)",
     "logo": "https://i.imgur.com/vIV7x6n.png",
     "country": "",
@@ -2826,24 +2853,6 @@
     "isHttps": false
   },
   {
-    "name": "ERT Sports 1 (1080p)",
-    "logo": "https://i.imgur.com/EsczO2H.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
-    "isHttps": false
-  },
-  {
-    "name": "ERT Sports 2 (1080p)",
-    "logo": "https://i.imgur.com/b2SNQPi.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
-    "isHttps": false
-  },
-  {
     "name": "ESPN (Brazil) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
     "country": "",
@@ -2952,6 +2961,15 @@
     "isHttps": false
   },
   {
+    "name": "Eurosport 1 Czechia",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Eurosport 1 Germany",
     "logo": "https://i.imgur.com/olQJgm7.png",
     "country": "",
@@ -2979,21 +2997,21 @@
     "isHttps": false
   },
   {
-    "name": "Eurosport 1 Russia (1080p)",
-    "logo": "https://i.imgur.com/olQJgm7.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://stream.mcquack.net/176/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Eurosport 1 Spain (576p)",
     "logo": "https://i.imgur.com/olQJgm7.png",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport 2 Czechia",
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -3012,15 +3030,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://57.128.210.196:8080/263/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Eurosport 2 Russia (1080p)",
-    "logo": "https://i.imgur.com/f56dHgR.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://stream.mcquack.net/192/index.m3u8",
     "isHttps": false
   },
   {
@@ -4101,15 +4110,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://168.196.127.137:6001/play/a0ay/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Tigo Sports (Paraguay)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
     "isHttps": false
   },
   {

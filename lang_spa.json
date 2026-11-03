@@ -1323,6 +1323,15 @@
     "isHttps": true
   },
   {
+    "name": "Azteca Uno +1 (720p)",
+    "logo": "https://i.imgur.com/rRxgBtI.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "B15 Fresnillo (1080p)",
     "logo": "https://i.imgur.com/kaUhEQy.png",
     "country": "",
@@ -5608,7 +5617,7 @@
   },
   {
     "name": "ESPN 5 Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -5617,7 +5626,7 @@
   },
   {
     "name": "ESPN 6 Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -5626,7 +5635,7 @@
   },
   {
     "name": "ESPN 7 Latin America (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -18684,6 +18693,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (United States) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "country": "",
@@ -20880,15 +20898,6 @@
     "isHttps": false
   },
   {
-    "name": "Tigo Sports (Paraguay)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TLC Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
     "country": "",
@@ -20979,6 +20988,15 @@
     "isHttps": false
   },
   {
+    "name": "TNT Novelas ColombiaHD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://181.78.79.131:8000/play/a0na",
+    "isHttps": false
+  },
+  {
     "name": "TNT Series Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
     "country": "",
@@ -21029,7 +21047,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8",
     "isHttps": false
   },
   {

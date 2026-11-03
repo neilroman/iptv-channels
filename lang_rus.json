@@ -810,6 +810,24 @@
     "isHttps": true
   },
   {
+    "name": "Eurosport 1 Russia (1080p)",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://s7.iptv-24.net/1439/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Eurosport 2 Russia (1080p)",
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://s7.iptv-24.net/1452/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Evrokino (576p)",
     "logo": "https://i.imgur.com/8LPtPf6.png",
     "country": "",
@@ -1878,6 +1896,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "RBK-TV (576p)",
+    "logo": "https://i.imgur.com/CwhmJby.png",
+    "country": "",
+    "language": "",
+    "group": "Business",
+    "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3528,24 +3555,6 @@
     "isHttps": false
   },
   {
-    "name": "Eurosport 1 Russia (1080p)",
-    "logo": "https://i.imgur.com/olQJgm7.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://stream.mcquack.net/176/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Eurosport 2 Russia (1080p)",
-    "logo": "https://i.imgur.com/f56dHgR.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://stream.mcquack.net/192/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Evrokino HD (1080p)",
     "logo": "https://i.imgur.com/8LPtPf6.png",
     "country": "",
@@ -4023,15 +4032,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Culture;News\",Ost West (576p)",
-    "logo": "https://i.imgur.com/nSQWo49.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;News",
-    "url": "http://hls127.freeott.top:8080/OstWest/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies;Series\",FilmUADrama (1080p)",
     "logo": "https://i.imgur.com/Hnwsh5d.png",
     "country": "",
@@ -4491,15 +4491,6 @@
     "isHttps": false
   },
   {
-    "name": "Nash Kinomir (576p)",
-    "logo": "https://i.imgur.com/7M1J42A.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nash Kinopokaz HD (576p)",
     "logo": "https://i.imgur.com/iwTMl8O.png",
     "country": "",
@@ -4686,15 +4677,6 @@
     "language": "",
     "group": "News",
     "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Ocean-TV (576p)",
-    "logo": "https://i.imgur.com/zswzDZS.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8",
     "isHttps": false
   },
   {
@@ -4902,15 +4884,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://stream.mcquack.net/464/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "RBK-TV (576p)",
-    "logo": "https://i.imgur.com/CwhmJby.png",
-    "country": "",
-    "language": "",
-    "group": "Business",
-    "url": "http://hls127.freeott.top:8080/RBK/video.m3u8",
     "isHttps": false
   },
   {
@@ -5157,15 +5130,6 @@
     "isHttps": false
   },
   {
-    "name": "Shot TV (576p)",
-    "logo": "https://i.imgur.com/MLSG7tA.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sochi Live (720p) [Not 24/7]",
     "logo": "https://www.cableman.ru/sites/default/files/sochi_live.png",
     "country": "",
@@ -5288,7 +5252,7 @@
     "country": "",
     "language": "",
     "group": "Culture",
-    "url": "http://hls127.freeott.top:8080/Teatr/video.m3u8",
+    "url": "http://31.148.48.15/Sochi_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -5409,15 +5373,6 @@
     "isHttps": false
   },
   {
-    "name": "Top Secret (576p)",
-    "logo": "https://i.imgur.com/HM4xy4G.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Travel Channel (Russia) (1080p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest?cb=20191226223708",
     "country": "",
@@ -5486,7 +5441,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://hls127.freeott.top:8080/Tv_Center/video.m3u8",
+    "url": "http://185.71.81.6:8080/10/index.m3u8",
     "isHttps": false
   },
   {
