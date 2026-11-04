@@ -207,12 +207,12 @@
     "isHttps": true
   },
   {
-    "name": "Polsat (1080p) [Geo-blocked]",
+    "name": "Polsat",
     "logo": "https://i.imgur.com/xff6zGN.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+    "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -447,6 +447,24 @@
     "language": "",
     "group": "Undefined",
     "url": "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVP1 HD",
+    "logo": "https://i.imgur.com/ewpSjBs.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TVP2 HD",
+    "logo": "https://i.imgur.com/XxCc32B.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
