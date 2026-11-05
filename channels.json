@@ -5382,6 +5382,15 @@
     "isHttps": true
   },
   {
+    "name": "Antena 1 (Romania) HD (1440p)",
+    "logo": "https://i.imgur.com/EPmwuuv.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Antena 21 (480p)",
     "logo": "https://i.imgur.com/QE0XWLh.png",
     "country": "",
@@ -8646,6 +8655,15 @@
     "language": "",
     "group": "Classic;Series",
     "url": "https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "beIN Sports USA (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8",
     "isHttps": true
   },
   {
@@ -45630,6 +45648,15 @@
     "isHttps": true
   },
   {
+    "name": "Nippon TV",
+    "logo": "https://i.imgur.com/IxD8V5X.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://ntv5.mov3.co/hls/ntv.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nitida TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/z9JkxcM.png",
     "country": "",
@@ -66871,7 +66898,7 @@
   },
   {
     "name": "Tay Ninh TV (720p)",
-    "logo": "https://tayninhtv.vn/static/images/logo.png",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
     "country": "",
     "language": "",
     "group": "General",
@@ -74184,6 +74211,15 @@
     "language": "",
     "group": "Entertainment;General",
     "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV Tokyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
     "isHttps": true
   },
   {
