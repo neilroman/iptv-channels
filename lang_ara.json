@@ -302,7 +302,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]",
+    "url": "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.coppa=0&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ic=[IC]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.network_name=[networkname]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]",
     "isHttps": true
   },
   {
@@ -567,7 +567,7 @@
     "isHttps": true
   },
   {
-    "name": "Alawla TV",
+    "name": "Alawla TV (720p)",
     "logo": "https://i.imgur.com/3Kv0t3X.png",
     "country": "",
     "language": "",
@@ -1229,7 +1229,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8",
     "isHttps": true
   },
   {
@@ -2781,7 +2781,7 @@
     "isHttps": true
   },
   {
-    "name": "2M",
+    "name": "2M (576p)",
     "logo": "https://i.imgur.com/PJYTfHi.png",
     "country": "",
     "language": "",
@@ -3111,6 +3111,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://31.14.41.69:8080/hls/sensesonline/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Thaqalayn TV",
+    "logo": "https://i.imgur.com/u02FSgI.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://62.60.207.173:8080/hls/thaqalayn/index.m3u8",
     "isHttps": false
   },
   {

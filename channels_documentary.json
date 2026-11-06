@@ -729,6 +729,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Documentary\",Safari TV (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://fta.ektv.in/live/410/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Italiana (1080p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626",
     "country": "",
@@ -1440,15 +1449,6 @@
     "isHttps": true
   },
   {
-    "name": "Safari TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Sensing Murder",
     "logo": "https://i.imgur.com/HYEABSt.png",
     "country": "",
@@ -1593,15 +1593,6 @@
     "isHttps": true
   },
   {
-    "name": "viju Nature (576p)",
-    "logo": "https://i.imgur.com/8BPZ18l.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "WaterBear (1080p)",
     "logo": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
     "country": "",
@@ -1670,7 +1661,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
+    "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
     "isHttps": false
   },
   {
@@ -2039,7 +2030,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==",
     "isHttps": false
   },
   {
@@ -2156,7 +2147,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8",
+    "url": "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -2273,7 +2264,7 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://stream.mcquack.net/239/index.m3u8",
+    "url": "http://46.53.200.153:7777/play/a01i/index.m3u8",
     "isHttps": false
   },
   {
@@ -2282,7 +2273,16 @@
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+    "url": "http://46.53.200.153:7777/play/a01j/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "viju Nature (576p)",
+    "logo": "https://i.imgur.com/8BPZ18l.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://46.53.200.153:7777/play/a01k/index.m3u8",
     "isHttps": false
   },
   {

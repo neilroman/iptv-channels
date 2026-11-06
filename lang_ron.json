@@ -270,7 +270,7 @@
     "isHttps": true
   },
   {
-    "name": "Credo TV",
+    "name": "Credo TV (1080p)",
     "logo": "https://i.imgur.com/RD4TgcM.png",
     "country": "",
     "language": "",
@@ -621,15 +621,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Kids\",Nickelodeon (Romania)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Lifestyle;Travel\",TV Paprika (Romania)",
     "logo": "https://i.imgur.com/3fuXBHT.png",
     "country": "",
@@ -765,7 +756,7 @@
     "isHttps": true
   },
   {
-    "name": "MISA TV",
+    "name": "MISA TV (720p)",
     "logo": "https://i.imgur.com/2RxQNm6.png",
     "country": "",
     "language": "",
@@ -927,7 +918,7 @@
     "isHttps": true
   },
   {
-    "name": "Qub TV",
+    "name": "Qub TV (720p)",
     "logo": "https://i.imgur.com/GvyF2Wh.png",
     "country": "",
     "language": "",
@@ -1296,7 +1287,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR 1",
+    "name": "TVR 1 (1440p)",
     "logo": "https://i.imgur.com/CcUX1gB.png",
     "country": "",
     "language": "",
@@ -1305,7 +1296,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR 2",
+    "name": "TVR 2 (1440p)",
     "logo": "https://i.imgur.com/mKouHIZ.png",
     "country": "",
     "language": "",
@@ -1314,7 +1305,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR 3",
+    "name": "TVR 3 (1440p)",
     "logo": "https://i.imgur.com/yHCuTap.png",
     "country": "",
     "language": "",
@@ -1323,7 +1314,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Cluj",
+    "name": "TVR Cluj (1440p)",
     "logo": "https://i.imgur.com/RkDra93.png",
     "country": "",
     "language": "",
@@ -1332,7 +1323,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Craiova",
+    "name": "TVR Craiova (1440p)",
     "logo": "https://i.imgur.com/vxWbQiy.png",
     "country": "",
     "language": "",
@@ -1341,7 +1332,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Cultural",
+    "name": "TVR Cultural (1440p)",
     "logo": "https://i.imgur.com/U9i70C9.png",
     "country": "",
     "language": "",
@@ -1350,7 +1341,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Folclor",
+    "name": "TVR Folclor (1440p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png",
     "country": "",
     "language": "",
@@ -1359,7 +1350,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Iasi",
+    "name": "TVR Iasi (1440p)",
     "logo": "https://i.imgur.com/Kxkihds.png",
     "country": "",
     "language": "",
@@ -1368,7 +1359,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Info",
+    "name": "TVR Info (1440p)",
     "logo": "https://i.imgur.com/7oE7ThR.png",
     "country": "",
     "language": "",
@@ -1377,7 +1368,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR International",
+    "name": "TVR International (1440p)",
     "logo": "https://i.imgur.com/w28wcHs.png",
     "country": "",
     "language": "",
@@ -1404,7 +1395,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Sport",
+    "name": "TVR Sport (1440p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
     "country": "",
     "language": "",
@@ -1413,7 +1404,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Targu-Mures",
+    "name": "TVR Targu-Mures (1440p)",
     "logo": "https://i.imgur.com/9Hptdqj.png",
     "country": "",
     "language": "",
@@ -1422,7 +1413,7 @@
     "isHttps": true
   },
   {
-    "name": "TVR Timisoara",
+    "name": "TVR Timisoara (1440p)",
     "logo": "https://i.imgur.com/0x6Edei.png",
     "country": "",
     "language": "",
@@ -1500,6 +1491,15 @@
     "language": "",
     "group": "Outdoor",
     "url": "http://88.212.7.14/live/fishing_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon (Romania)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://178.76.68.60:7442/64/mpegts",
     "isHttps": false
   },
   {

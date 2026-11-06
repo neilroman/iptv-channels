@@ -810,7 +810,7 @@
     "isHttps": true
   },
   {
-    "name": "9 la Loma TV",
+    "name": "9 La Loma TV",
     "logo": "https://graph.facebook.com/9laloma/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -825,6 +825,15 @@
     "language": "",
     "group": "C. Valenciana",
     "url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Aaj Tak India",
+    "logo": "https://graph.facebook.com/aajtak/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. Asia",
+    "url": "https://feeds.intoday.in/aajtak/api/master.m3u8",
     "isHttps": true
   },
   {
@@ -2430,15 +2439,6 @@
     "isHttps": true
   },
   {
-    "name": "FOX Live Now USA EN",
-    "logo": "https://graph.facebook.com/livenowfox/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. América",
-    "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Fuengirola TV",
     "logo": "https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200",
     "country": "",
@@ -2589,15 +2589,6 @@
     "language": "",
     "group": "Castilla-La Mancha",
     "url": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "India Today",
-    "logo": "https://graph.facebook.com/IndiaToday/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Asia",
-    "url": "https://feeds.intoday.in/aajtak/api/master.m3u8",
     "isHttps": true
   },
   {
@@ -2898,6 +2889,15 @@
     "isHttps": true
   },
   {
+    "name": "LiveNOW from FOX USA EN",
+    "logo": "https://graph.facebook.com/livenowfox/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Int. América",
+    "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Lleida TV",
     "logo": "https://graph.facebook.com/LleidaTV/picture?width=200&height=200",
     "country": "",
@@ -3132,7 +3132,7 @@
     "isHttps": true
   },
   {
-    "name": "Newsmax TV USA EN",
+    "name": "Newsmax2 USA EN",
     "logo": "https://graph.facebook.com/newsmax/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3141,7 +3141,7 @@
     "isHttps": true
   },
   {
-    "name": "Newsmax TV USA EN",
+    "name": "Newsmax2 USA EN",
     "logo": "https://graph.facebook.com/newsmax/picture?width=200&height=200",
     "country": "",
     "language": "",
@@ -3538,7 +3538,7 @@
   },
   {
     "name": "Radio 5",
-    "logo": "https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg",
+    "logo": "https://pbs.twimg.com/profile_images/2116820353640964096/JDGVKMUL_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Informativos",
@@ -4545,8 +4545,8 @@
     "isHttps": true
   },
   {
-    "name": "TRT World Turquía",
-    "logo": "https://graph.facebook.com/trtworld/picture?width=200&height=200",
+    "name": "TRT Haber Turquía",
+    "logo": "https://graph.facebook.com/trthaber/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. Europa",
@@ -4725,6 +4725,15 @@
     "isHttps": true
   },
   {
+    "name": "TV3 HD",
+    "logo": "https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png",
+    "country": "",
+    "language": "",
+    "group": "Cataluña",
+    "url": "https://directes-tv-int-dev.3catdirectes.cat/live-content/tv3-uhd-cmaf/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV5Monde Francia FR",
     "logo": "https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200",
     "country": "",
@@ -4784,7 +4793,7 @@
     "country": "",
     "language": "",
     "group": "Galicia",
-    "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+    "url": "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
     "isHttps": true
   },
   {
@@ -4793,7 +4802,7 @@
     "country": "",
     "language": "",
     "group": "Galicia",
-    "url": "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8",
+    "url": "https://crtvg-tvg2.flumotion.cloud/playlist_dvr.m3u8",
     "isHttps": true
   },
   {
@@ -4803,15 +4812,6 @@
     "language": "",
     "group": "Galicia",
     "url": "https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TVG Europa",
-    "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Int. Europa",
-    "url": "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
     "isHttps": true
   },
   {

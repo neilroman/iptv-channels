@@ -54,7 +54,7 @@
     "isHttps": true
   },
   {
-    "name": "Beautiful Life TV",
+    "name": "Beautiful Life TV (720p)",
     "logo": "https://i.imgur.com/hkwcBM9.png",
     "country": "",
     "language": "",
@@ -63,7 +63,7 @@
     "isHttps": true
   },
   {
-    "name": "Berita RTM [Geo-blocked]",
+    "name": "Berita RTM (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/1Xzxsgl.png",
     "country": "",
     "language": "",
@@ -231,15 +231,6 @@
     "language": "",
     "group": "Culture;Documentary",
     "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Dongguan Comprehensive News Channel",
-    "logo": "https://www.tvchinese.net/uploads/tv/dgtv1.jpg",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8",
     "isHttps": true
   },
   {
@@ -603,7 +594,7 @@
     "isHttps": true
   },
   {
-    "name": "Okey [Geo-blocked]",
+    "name": "Okey (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/V2jREQ5.png",
     "country": "",
     "language": "",
@@ -1305,6 +1296,15 @@
     "isHttps": false
   },
   {
+    "name": "Dongguan Comprehensive News Channel",
+    "logo": "https://www.tvchinese.net/uploads/tv/dgtv1.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv",
+    "isHttps": false
+  },
+  {
     "name": "Dunhuang TV (1080p)",
     "logo": "https://i.imgur.com/RpGKOQd.jpg",
     "country": "",
@@ -1382,7 +1382,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88",
+    "url": "http://120.39.52.202:5140/福建综合",
     "isHttps": false
   },
   {
@@ -1400,7 +1400,7 @@
     "country": "",
     "language": "",
     "group": "General;Travel",
-    "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+    "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1",
     "isHttps": false
   },
   {
@@ -1625,7 +1625,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+    "url": "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8",
     "isHttps": false
   },
   {
@@ -1706,7 +1706,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8",
+    "url": "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1",
     "isHttps": false
   },
   {
@@ -1724,7 +1724,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+    "url": "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
     "isHttps": false
   },
   {
@@ -1733,7 +1733,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
+    "url": "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1",
     "isHttps": false
   },
   {
@@ -1751,7 +1751,7 @@
     "country": "",
     "language": "",
     "group": "Kids;Lifestyle",
-    "url": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8",
+    "url": "http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1",
     "isHttps": false
   },
   {

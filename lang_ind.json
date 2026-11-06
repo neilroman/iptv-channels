@@ -936,15 +936,6 @@
     "isHttps": true
   },
   {
-    "name": "TVRI HD (1080i)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TVRI Jakarta (576i) [Not 24/7]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
     "country": "",
@@ -1359,7 +1350,7 @@
     "isHttps": false
   },
   {
-    "name": "JTV Madiun",
+    "name": "JTV Madiun (720p)",
     "logo": "https://i.imgur.com/mIDWIQk.png",
     "country": "",
     "language": "",
@@ -1377,7 +1368,7 @@
     "isHttps": false
   },
   {
-    "name": "JTV Malang",
+    "name": "JTV Malang (480p)",
     "logo": "https://i.imgur.com/mIDWIQk.png",
     "country": "",
     "language": "",
@@ -1548,6 +1539,15 @@
     "isHttps": false
   },
   {
+    "name": "TVRI HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://202.150.172.59/TVRI/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TVRI Sport (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
     "country": "",
@@ -1562,7 +1562,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://ikitv.sqn.at:8000/play/a023/index.m3u8",
+    "url": "http://202.150.172.59/VTVHD/index.m3u8",
     "isHttps": false
   }
 ]

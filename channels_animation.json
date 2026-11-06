@@ -1,6 +1,6 @@
 [
   {
-    "name": "3ABN Kids",
+    "name": "3ABN Kids (720p)",
     "logo": "https://i.imgur.com/z3npqO1.png",
     "country": "",
     "language": "",
@@ -198,15 +198,6 @@
     "isHttps": true
   },
   {
-    "name": "DreamWorks Channel Asia (1080p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Animation",
-    "url": "https://cdn12.178.indevs.in/163189/dreamworks",
-    "isHttps": true
-  },
-  {
     "name": "Dreiko TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/k8U0e0b.png",
     "country": "",
@@ -243,7 +234,7 @@
     "isHttps": true
   },
   {
-    "name": "Extrema Kids TV [Not 24/7]",
+    "name": "Extrema Kids TV (1080p) [Not 24/7]",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
     "country": "",
     "language": "",
@@ -1458,6 +1449,15 @@
     "isHttps": false
   },
   {
+    "name": "DreamWorks Channel Asia (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "FAN (1080p)",
     "logo": "https://i.imgur.com/mDeTbaF.png",
     "country": "",
@@ -1499,7 +1499,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://200.115.120.1:8000/play/ca091/index.m3u8",
+    "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
     "isHttps": false
   },
   {
