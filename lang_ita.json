@@ -1008,15 +1008,6 @@
     "isHttps": true
   },
   {
-    "name": "Nickelodeon (Italy)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nove (1080p)",
     "logo": "https://i.imgur.com/rTjIkGO.png",
     "country": "",
@@ -2691,6 +2682,15 @@
     "isHttps": false
   },
   {
+    "name": "DeA Kids",
+    "logo": "https://i.imgur.com/ixnJAuq.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.227.34.104/stream/113/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Esperia TV (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png",
     "country": "",
@@ -2754,6 +2754,24 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoon Network (Italy)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://185.227.34.104/stream/122/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (Italy)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://185.227.34.104/stream/117/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Milan TV (720p)",
     "logo": "https://i.imgur.com/gAMQfUw.png",
     "country": "",
@@ -2814,6 +2832,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rai 2 HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://team-tv.co:81/rai2/index.m3u8",
     "isHttps": false
   },
   {

@@ -63,21 +63,21 @@
     "isHttps": true
   },
   {
-    "name": "Antena 1 (Romania)",
-    "logo": "https://i.imgur.com/EPmwuuv.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Antena 1 (Romania) HD (1440p)",
     "logo": "https://i.imgur.com/EPmwuuv.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena 3 CNN HD (1080i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8",
     "isHttps": true
   },
   {
@@ -99,12 +99,12 @@
     "isHttps": true
   },
   {
-    "name": "Antena International",
+    "name": "Antena International (576p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8",
     "isHttps": true
   },
   {
@@ -114,6 +114,24 @@
     "language": "",
     "group": "Lifestyle",
     "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena Stars HD (1080i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "AntenaPlay Events (576i) [Not 24/7]",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8",
     "isHttps": true
   },
   {
@@ -141,6 +159,15 @@
     "language": "",
     "group": "General",
     "url": "https://s2.netstreaming.eu/astv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Asia Express NonStop (576p)",
+    "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8",
     "isHttps": true
   },
   {
@@ -234,6 +261,15 @@
     "isHttps": true
   },
   {
+    "name": "Chefi.ro HD (1080i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cinemaraton Plus (1080i)",
     "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
     "country": "",
@@ -294,6 +330,15 @@
     "language": "",
     "group": "News",
     "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Digi 4K (2160p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8",
     "isHttps": true
   },
   {
@@ -378,12 +423,12 @@
     "isHttps": true
   },
   {
-    "name": "Happy Channel",
+    "name": "Happy Channel HD (1080i)",
     "logo": "https://i.imgur.com/kpFaiku.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8",
     "isHttps": true
   },
   {
@@ -393,15 +438,6 @@
     "language": "",
     "group": "General",
     "url": "https://s2.netstreaming.eu/hd365.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Hello Taste",
-    "logo": "https://i.imgur.com/TdKO0er.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
     "isHttps": true
   },
   {
@@ -460,7 +496,7 @@
   },
   {
     "name": "Impact TV Manele (1080p)",
-    "logo": "https://i.imgur.com/G5mNdpE.png",
+    "logo": "https://i.imgur.com/4JdnUAd.png",
     "country": "",
     "language": "",
     "group": "Music",
@@ -492,6 +528,15 @@
     "language": "",
     "group": "News",
     "url": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Insula non stop (576i)",
+    "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8",
     "isHttps": true
   },
   {

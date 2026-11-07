@@ -1521,6 +1521,15 @@
     "isHttps": true
   },
   {
+    "name": "Bicolor+ Premium [Geo-blocked]",
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bio Bio TV (1080p)",
     "logo": "https://i.imgur.com/lhglEUP.png",
     "country": "",
@@ -4914,6 +4923,15 @@
     "isHttps": true
   },
   {
+    "name": "Doraemon (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dreiko TV (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/k8U0e0b.png",
     "country": "",
@@ -7854,6 +7872,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://canalmasuruguay.com/hls/720p/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Animation\",DreamWorks Channel Latin America (1080p)",
+    "logo": "",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8",
     "isHttps": true
   },
   {
@@ -12726,6 +12753,15 @@
     "isHttps": true
   },
   {
+    "name": "Senado TV (576p)",
+    "logo": "https://i.imgur.com/LzgODUS.png",
+    "country": "",
+    "language": "",
+    "group": "Legislative",
+    "url": "https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1",
+    "isHttps": true
+  },
+  {
     "name": "Senal Digital TV [Not 24/7]",
     "logo": "https://imgur.com/KGqUu1X.jpg",
     "country": "",
@@ -12804,6 +12840,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Shin-chan (720p)",
+    "logo": "https://image.tmdb.org/t/p/original/fIYWvHIeqc1A9D4PyayFkgjRxCh.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8",
     "isHttps": true
   },
   {
@@ -15723,6 +15768,15 @@
     "isHttps": true
   },
   {
+    "name": "TVE Internacional America (720p)",
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "country": "",
@@ -16836,6 +16890,15 @@
     "language": "",
     "group": "General",
     "url": "https://wapa.hostless.app/WAPA-TV-4-1.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5WNBFmp.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
     "isHttps": true
   },
   {
@@ -19152,6 +19215,15 @@
     "isHttps": false
   },
   {
+    "name": "HBO Pop Latin America (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Comedy",
+    "url": "http://15.204.246.24:8080/HBOPOPHD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "HBO+ Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png",
     "country": "",
@@ -19841,7 +19913,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://15.204.246.24:8080/NickHD/index.m3u8",
+    "url": "http://181.78.79.131:8000/play/a0qm",
     "isHttps": false
   },
   {
@@ -20508,6 +20580,15 @@
     "language": "",
     "group": "General",
     "url": "http://45.224.97.181:9999/TC/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TCM Latin America (1080p)",
+    "logo": "https://i.imgur.com/QpDkrmT.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://181.78.14.26:4000/play/a04d/index.m3u8",
     "isHttps": false
   },
   {
@@ -21213,15 +21294,6 @@
     "isHttps": false
   },
   {
-    "name": "TVE Internacional America",
-    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a",
-    "isHttps": false
-  },
-  {
     "name": "TVE Internacional Asia-Oceania",
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "country": "",
@@ -21534,6 +21606,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Warner Channel Mexico (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://15.204.246.24:8080/WarnerChannelHD/index.m3u8",
     "isHttps": false
   },
   {

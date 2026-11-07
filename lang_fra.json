@@ -324,6 +324,15 @@
     "isHttps": true
   },
   {
+    "name": "Benin TV Junior (720p)",
+    "logo": "https://i.imgur.com/bWxjtuJ.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Benin Web TV (720p)",
     "logo": "https://i.imgur.com/CYy4n0N.png",
     "country": "",
@@ -807,6 +816,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Digital Channel (480p)",
+    "logo": "https://digitalchannel.bj/wp-content/uploads/2025/03/cropped-logo-192x192.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8",
     "isHttps": true
   },
   {
@@ -3195,15 +3213,6 @@
     "isHttps": true
   },
   {
-    "name": "TV5Monde Info (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/AJx5Fy2.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV7 Colmar (576p)",
     "logo": "https://i.imgur.com/kSdGi43.png",
     "country": "",
@@ -3663,15 +3672,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (France) (504p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Luxe TV (1080p)",
     "logo": "https://i.imgur.com/24ehonx.png",
     "country": "",
@@ -3681,12 +3681,12 @@
     "isHttps": false
   },
   {
-    "name": "MCM Pop (580p)",
+    "name": "MCM Pop",
     "logo": "https://i.imgur.com/j31lBL7.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://188.115.15.121:8000/play/a014",
+    "url": "http://176.65.153.78:8201/play/a070/index.m3u8",
     "isHttps": false
   },
   {
@@ -3750,15 +3750,6 @@
     "language": "",
     "group": "Culture",
     "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon Junior (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
     "isHttps": false
   },
   {
@@ -3993,6 +3984,15 @@
     "language": "",
     "group": "General",
     "url": "http://5.180.164.197:8080/TV5MONDE/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TV5Monde Info (1080p)",
+    "logo": "https://i.imgur.com/AJx5Fy2.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0",
     "isHttps": false
   },
   {

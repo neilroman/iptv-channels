@@ -1026,12 +1026,12 @@
     "isHttps": true
   },
   {
-    "name": "ANB News (720p)",
+    "name": "ANB News (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
+    "url": "https://stream.ottlive.co.in/anb/index.m3u8",
     "isHttps": true
   },
   {
@@ -1050,6 +1050,15 @@
     "language": "",
     "group": "News",
     "url": "https://hplayer1.juyun.tv/camera/154379194.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Antena 3 CNN HD (1080i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8",
     "isHttps": true
   },
   {
@@ -1467,12 +1476,12 @@
     "isHttps": true
   },
   {
-    "name": "Bharat24 (720p)",
+    "name": "Bharat24 (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.ottlive.co.in/bharat24/index.m3u8",
+    "url": "https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8",
     "isHttps": true
   },
   {
@@ -3366,6 +3375,15 @@
     "isHttps": true
   },
   {
+    "name": "IBC 24 (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Ici RDI (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png",
     "country": "",
@@ -4110,15 +4128,6 @@
     "language": "",
     "group": "News",
     "url": "https://fta.ektv.in/live/710/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",IBC 24 (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://fta.ektv.in/live/309/master.m3u8",
     "isHttps": true
   },
   {
@@ -5031,12 +5040,12 @@
     "isHttps": true
   },
   {
-    "name": "News India 24x7 (576p)",
+    "name": "News India 24x7 (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
+    "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
     "isHttps": true
   },
   {
@@ -5067,30 +5076,30 @@
     "isHttps": true
   },
   {
-    "name": "News Live Bangla (576p)",
+    "name": "News Live Bangla (1080p)",
     "logo": "https://papaji.freetvindia.com/media/News_Live_Bangla.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/10003/master.m3u8",
+    "url": "https://stream.ottlive.co.in/newslivebangla/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "News Malayalam 24x7 (576p)",
+    "name": "News Malayalam 24x7 (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/1629/master.m3u8",
+    "url": "https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8",
     "isHttps": true
   },
   {
-    "name": "News Marathi 24x7 (720p)",
+    "name": "News Marathi 24x7 (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8",
+    "url": "https://stream.ottlive.co.in/newsmarathi/index.m3u8",
     "isHttps": true
   },
   {
@@ -5157,6 +5166,15 @@
     "isHttps": true
   },
   {
+    "name": "News Only (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://newsonly.kableone.com/newsonly/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "News State MP & CHG (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png",
     "country": "",
@@ -5184,12 +5202,12 @@
     "isHttps": true
   },
   {
-    "name": "News Tamil 24x7 (576p)",
+    "name": "News Tamil 24x7 (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/1433/master.m3u8",
+    "url": "https://stream.ottlive.co.in/newstamil/index.m3u8",
     "isHttps": true
   },
   {
@@ -5859,6 +5877,15 @@
     "isHttps": true
   },
   {
+    "name": "Onkar News (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/onkarnews/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Online TV Nusantara (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/E9CCIpP.jpg",
     "country": "",
@@ -6075,12 +6102,12 @@
     "isHttps": true
   },
   {
-    "name": "Prameya News7 (576p)",
+    "name": "Prameya News7 (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7c8ab820-a4ad-4c48-b326-2d7bc6639cef/index.m3u8",
     "isHttps": true
   },
   {
@@ -6705,12 +6732,12 @@
     "isHttps": true
   },
   {
-    "name": "Sakshi TV (576p)",
+    "name": "Sakshi TV (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://cdn.pishow.tv/ott/live/409/master.m3u8",
+    "url": "https://stream.ottlive.co.in/sakshitv/index.m3u8",
     "isHttps": true
   },
   {
@@ -6990,6 +7017,15 @@
     "language": "",
     "group": "News",
     "url": "https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Surya Samachar (576p)",
+    "logo": "https://i.imgur.com/vxs1kRB.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -7569,12 +7605,12 @@
     "isHttps": true
   },
   {
-    "name": "TV27 News (360p)",
+    "name": "TV27 News (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
+    "url": "https://stream.ottlive.co.in/tv27/index.m3u8",
     "isHttps": true
   },
   {
@@ -7614,21 +7650,21 @@
     "isHttps": true
   },
   {
-    "name": "TV5Monde Info (1080p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/AJx5Fy2.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TV7 Bharat (576p)",
     "logo": "https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV7 National (1080p)",
+    "logo": "https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/52ac91e7-2c9d-415b-a63f-fb41413105ff.jpg",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
     "isHttps": true
   },
   {
@@ -9270,6 +9306,15 @@
     "isHttps": false
   },
   {
+    "name": "Star Bharat (India) HD (1080p)",
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Suno News HD (1080p)",
     "logo": "https://i.imgur.com/FeSntVO.jpg",
     "country": "",
@@ -9351,6 +9396,15 @@
     "isHttps": false
   },
   {
+    "name": "TV5Monde Info (1080p)",
+    "logo": "https://i.imgur.com/AJx5Fy2.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0",
+    "isHttps": false
+  },
+  {
     "name": "TVBS News [Geo-blocked]",
     "logo": "https://i.imgur.com/171lwfg.png",
     "country": "",
@@ -9375,15 +9429,6 @@
     "language": "",
     "group": "News",
     "url": "http://80.79.6.221:25461/smash/public/20",
-    "isHttps": false
-  },
-  {
-    "name": "TVP Wilno",
-    "logo": "https://i.imgur.com/8oORLGF.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://78.62.9.23:55555/TVP%20Wilno%20HD",
     "isHttps": false
   },
   {
@@ -9420,15 +9465,6 @@
     "language": "",
     "group": "News",
     "url": "http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Wydarzenia 24 (576i)",
-    "logo": "https://i.imgur.com/uYpUnHP.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://92.114.85.87:8016/play/a007/index.m3u8",
     "isHttps": false
   }
 ]

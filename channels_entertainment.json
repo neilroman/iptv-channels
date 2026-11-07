@@ -486,6 +486,15 @@
     "isHttps": true
   },
   {
+    "name": "Antena Stars HD (1080i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "AP TV (720p)",
     "logo": "https://i.imgur.com/Oky18bX.png",
     "country": "",
@@ -555,6 +564,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Asia Express NonStop (576p)",
+    "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8",
     "isHttps": true
   },
   {
@@ -1503,15 +1521,6 @@
     "isHttps": true
   },
   {
-    "name": "DD National (576p)",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://cdn.pishow.tv/ott/live/11/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "De unge modre",
     "logo": "https://images.pluto.tv/channels/69172a4fcf4a1101befdd894/colorLogoPNG_1770030924752.png",
     "country": "",
@@ -1572,15 +1581,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Discovery Channel (India) HD (720p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -2304,12 +2304,12 @@
     "isHttps": true
   },
   {
-    "name": "Happy Channel",
+    "name": "Happy Channel HD (1080i)",
     "logo": "https://i.imgur.com/kpFaiku.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8",
     "isHttps": true
   },
   {
@@ -2535,6 +2535,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Insula non stop (576i)",
+    "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8",
     "isHttps": true
   },
   {
@@ -4203,6 +4212,15 @@
     "isHttps": true
   },
   {
+    "name": "Namma Bangalore (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Namma_Bangalore.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stream.ottlive.co.in/nammatv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nasim",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png",
     "country": "",
@@ -5436,7 +5454,16 @@
     "isHttps": true
   },
   {
-    "name": "Star Bharat (576p)",
+    "name": "SRK TV (1080p)",
+    "logo": "https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Star Bharat (United Kingdom) (576p)",
     "logo": "https://i.imgur.com/Q8ajPij.png",
     "country": "",
     "language": "",
@@ -5451,15 +5478,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Jalsha HD (720p)",
-    "logo": "https://i.imgur.com/IlufzR5.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
     "isHttps": true
   },
   {
@@ -6453,12 +6471,12 @@
     "isHttps": true
   },
   {
-    "name": "Zee Bangla HD (720p)",
+    "name": "Zee Bangla HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
+    "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
     "isHttps": true
   },
   {
@@ -6543,12 +6561,12 @@
     "isHttps": true
   },
   {
-    "name": "Zee Telugu HD (576p)",
+    "name": "Zee Telugu HD (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8",
+    "url": "https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8",
     "isHttps": true
   },
   {
@@ -6939,6 +6957,15 @@
     "isHttps": false
   },
   {
+    "name": "DD National (576p)",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://163.61.226.31:9981/stream/channelid/1991369999?profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "Discovery Asia Taiwan (1080p)",
     "logo": "https://i.imgur.com/foLICwL.png",
     "country": "",
@@ -6948,12 +6975,30 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Channel (Bulgaria)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://213.91.179.28:8000/play/a044",
+    "isHttps": false
+  },
+  {
     "name": "Discovery Channel (Hungary)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://88.212.7.14/live/discovery_hungary/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Channel (India) HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
     "isHttps": false
   },
   {
@@ -7857,12 +7902,30 @@
     "isHttps": false
   },
   {
+    "name": "Star Jalsha HD (1080p)",
+    "logo": "https://i.imgur.com/IlufzR5.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Kiran (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
+    "isHttps": false
+  },
+  {
+    "name": "Star Utsav (576p)",
+    "logo": "https://i.imgur.com/H1jhHDl.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://163.61.226.31:9981/stream/channelid/894286890?profile=pass",
     "isHttps": false
   },
   {
@@ -8127,12 +8190,12 @@
     "isHttps": false
   },
   {
-    "name": "Zee TV HD (720p) [Geo-blocked]",
+    "name": "Zee TV HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+    "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
     "isHttps": false
   }
 ]
