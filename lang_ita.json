@@ -2691,6 +2691,24 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Channel (Italy) HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://102.129.186.182:81/discovery/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "DMAX (Italy) HD (720p)",
+    "logo": "https://i.imgur.com/uGd9fnn.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://102.129.186.182:81/dmax/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Esperia TV (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png",
     "country": "",
@@ -2895,6 +2913,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://team-tv.co:81/raipremium/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Real Time HD (720p)",
+    "logo": "https://i.imgur.com/SPlk2Gx.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://102.129.186.182:81/realtime/index.m3u8",
     "isHttps": false
   },
   {

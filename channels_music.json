@@ -801,15 +801,6 @@
     "isHttps": true
   },
   {
-    "name": "Corazon TV",
-    "logo": "https://i.imgur.com/HVdbXku.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Couleur 3 (720p)",
     "logo": "https://i.imgur.com/VOIwYYd.png",
     "country": "",
@@ -4932,15 +4923,6 @@
     "isHttps": true
   },
   {
-    "name": "Tra Vinh TV (1080p)",
-    "logo": "https://i.imgur.com/F12VdKO.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;Entertainment;Music;News",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
-    "isHttps": true
-  },
-  {
     "name": "Trace Africa (1080p)",
     "logo": "https://i.imgur.com/kPUkoS7.png",
     "country": "",
@@ -5598,6 +5580,15 @@
     "isHttps": true
   },
   {
+    "name": "Vinh Long TV 5 (1080p)",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Entertainment;Music;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
+    "isHttps": true
+  },
+  {
     "name": "Vintage Music (720p)",
     "logo": "https://i.imgur.com/KImqYnN.jpeg",
     "country": "",
@@ -6162,6 +6153,15 @@
     "language": "",
     "group": "Music",
     "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Corazon TV (720p)",
+    "logo": "https://i.imgur.com/HVdbXku.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.79.86.130:8000/play/a05d/index.m3u8",
     "isHttps": false
   },
   {

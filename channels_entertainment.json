@@ -2979,6 +2979,15 @@
     "isHttps": true
   },
   {
+    "name": "Lifetime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://tvsen7.aynascope.net/lifetime/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Lifetime Latin America Mexico (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
     "country": "",
@@ -3012,24 +3021,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN White (United States)",
-    "logo": "https://i.imgur.com/47IKxmt.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",BBC First Romania",
-    "logo": "https://i.imgur.com/UBoBYUI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8",
     "isHttps": true
   },
   {
@@ -5508,6 +5499,15 @@
     "isHttps": true
   },
   {
+    "name": "StarPlus (United Kingdom) (576p)",
+    "logo": "https://i.imgur.com/xWxNy3L.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Stories by AMC (1080p)",
     "logo": "https://i.imgur.com/QJtwJoS.png",
     "country": "",
@@ -5940,15 +5940,6 @@
     "isHttps": true
   },
   {
-    "name": "Tra Vinh TV (1080p)",
-    "logo": "https://i.imgur.com/F12VdKO.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;Entertainment;Music;News",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
-    "isHttps": true
-  },
-  {
     "name": "Tshwane TV (576p)",
     "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png",
     "country": "",
@@ -6297,6 +6288,15 @@
     "language": "",
     "group": "Culture;Entertainment;Sports;Travel",
     "url": "https://dethich.pw/thvl4/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Vinh Long TV 5 (1080p)",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Entertainment;Music;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
     "isHttps": true
   },
   {
@@ -6908,7 +6908,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls",
+    "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
     "isHttps": false
   },
   {
@@ -6918,15 +6918,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Colors Infinity HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a02r/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -6999,6 +6990,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Channel (Italy) HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://102.129.186.182:81/discovery/index.m3u8",
     "isHttps": false
   },
   {
@@ -7107,15 +7107,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Epic Parivar (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -7560,6 +7551,33 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Entertainment\",13eme Rue",
+    "logo": "https://i.imgur.com/k0DCMTL.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://192.99.186.30/stream/251/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Discovery Channel (France)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://192.99.186.30/stream/68/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Entertainment\",SciFi",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://192.99.186.30/stream/250/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "M2 (Hungary) (1080p)",
     "logo": "https://i.imgur.com/B0nYT0l.png",
     "country": "",
@@ -7844,16 +7862,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a023/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
-    "name": "Sony Entertainment Television (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+    "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
     "isHttps": false
   },
   {
@@ -7893,12 +7902,12 @@
     "isHttps": false
   },
   {
-    "name": "Star Jalsha (576p)",
+    "name": "Star Jalsha (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/IlufzR5.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
+    "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
     "isHttps": false
   },
   {
@@ -7908,15 +7917,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Kiran (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -7935,15 +7935,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "StarPlus (United Kingdom) (576p)",
-    "logo": "https://i.imgur.com/xWxNy3L.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a0fo/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -8163,30 +8154,12 @@
     "isHttps": false
   },
   {
-    "name": "Zee Bangla (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a011/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "Zee Bangla Sonar (576p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
     "isHttps": false
   },
   {

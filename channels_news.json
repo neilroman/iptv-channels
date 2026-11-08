@@ -6849,6 +6849,15 @@
     "isHttps": true
   },
   {
+    "name": "Sky News",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://dash4.antik.sk/live/test_skynews/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sky News Arabia (1080p)",
     "logo": "https://i.imgur.com/SvjU4h6.png",
     "country": "",
@@ -7389,15 +7398,6 @@
     "isHttps": true
   },
   {
-    "name": "Tra Vinh TV (1080p)",
-    "logo": "https://i.imgur.com/F12VdKO.png",
-    "country": "",
-    "language": "",
-    "group": "Culture;Entertainment;Music;News",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
-    "isHttps": true
-  },
-  {
     "name": "Trailers UK (1080p)",
     "logo": "https://i.imgur.com/RwZ1hCN.png",
     "country": "",
@@ -7893,6 +7893,15 @@
     "isHttps": true
   },
   {
+    "name": "Vinh Long TV 5 (1080p)",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png",
+    "country": "",
+    "language": "",
+    "group": "Culture;Entertainment;Music;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
+    "isHttps": true
+  },
+  {
     "name": "VIP News (360p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VIP_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -8367,15 +8376,6 @@
     "language": "",
     "group": "News",
     "url": "http://45.171.108.253:8888/ATV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "BBC News Asia Pacific (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.151.60.162:2122/play/a0fl/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -8943,6 +8943,24 @@
     "language": "",
     "group": "News",
     "url": "http://stream.mcquack.net/442/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",CNN International South Asia",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://103.253.74.210:7070/stream/115/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",Fox News International",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://103.253.74.210:7070/stream/124/index.m3u8",
     "isHttps": false
   },
   {

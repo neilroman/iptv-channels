@@ -1611,15 +1611,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Series\",Viasat Epic Drama Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies;Series\",HBO Xtreme Latin America",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",
     "country": "",
@@ -4212,6 +4203,15 @@
     "isHttps": false
   },
   {
+    "name": "CTV Dla Ciebie TV",
+    "logo": "https://ukrtvr.org/images/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B5/CTV%20-%20Dla%20Ciebie%20TV.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://90.183.52.46:4000/play/a065/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Europa Europa (1080p)",
     "logo": "https://i.imgur.com/w5SOfyJ.png",
     "country": "",
@@ -4365,15 +4365,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",TVRUS+",
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://83.228.75.166:8000/play/a0aq",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Series\",HOT Drama (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png",
     "country": "",
@@ -4398,6 +4389,24 @@
     "language": "",
     "group": "Movies;Series",
     "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies;Series\",AXN Asia Thailand",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://103.253.74.210:7070/stream/89/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Series\",AXN White (Germany)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://46.244.99.71:8181/stream/50/index.m3u8",
     "isHttps": false
   },
   {
@@ -4623,6 +4632,15 @@
     "language": "",
     "group": "Series",
     "url": "http://38.252.238.18:8000/play/a01h/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "TVRUS+ (576p)",
+    "logo": "https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "http://91.235.255.32:8001/1:0:1:6AC:3138:13E:820000:0:0:0",
     "isHttps": false
   },
   {

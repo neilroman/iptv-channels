@@ -4374,15 +4374,6 @@
     "isHttps": true
   },
   {
-    "name": "Corazon TV",
-    "logo": "https://i.imgur.com/HVdbXku.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Correa Radiovision",
     "logo": "https://i.imgur.com/bNCGzjf.jpeg",
     "country": "",
@@ -5208,15 +5199,6 @@
     "language": "",
     "group": "Lifestyle",
     "url": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "El Mundo del Campo (720p)",
-    "logo": "https://i.imgur.com/xG2apUG.jpeg",
-    "country": "",
-    "language": "",
-    "group": "Outdoor",
-    "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
     "isHttps": true
   },
   {
@@ -12123,15 +12105,6 @@
     "isHttps": true
   },
   {
-    "name": "Real Madrid TV (726p)",
-    "logo": "https://i.imgur.com/5pMo7dL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Real Television (720p)",
     "logo": "https://i.imgur.com/7KECyh5.jpeg",
     "country": "",
@@ -17361,6 +17334,15 @@
     "isHttps": true
   },
   {
+    "name": "123TV (480p)",
+    "logo": "https://i.imgur.com/xXGeZms.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://200.59.191.177:8000/play/a0lb/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "24 Horas Canarias (1080p)",
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "country": "",
@@ -18027,6 +18009,15 @@
     "isHttps": false
   },
   {
+    "name": "Canal 8 Sincelejo (720p)",
+    "logo": "https://i.imgur.com/6lAA8lL.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://181.78.21.38:8000/play/a0df/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Canal 9 La Union (1080p)",
     "logo": "https://i.imgur.com/rdeUErb.png",
     "country": "",
@@ -18414,12 +18405,30 @@
     "isHttps": false
   },
   {
+    "name": "Colombeia (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Colombeia.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://200.59.191.177:8000/play/a0la/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Comercio TV (1080p)",
     "logo": "https://www.amagi.com/hubfs/Group%202-3.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://45.70.201.81:8000/play/a014/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Corazon TV (720p)",
+    "logo": "https://i.imgur.com/HVdbXku.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://181.79.86.130:8000/play/a05d/index.m3u8",
     "isHttps": false
   },
   {
@@ -18819,6 +18828,15 @@
     "isHttps": false
   },
   {
+    "name": "El Mundo del Campo (1080p)",
+    "logo": "https://i.imgur.com/xG2apUG.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "http://181.78.21.38:8000/play/a040/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "El Nueve (1080p)",
     "logo": "https://i.imgur.com/cJHP7bU.png",
     "country": "",
@@ -19005,6 +19023,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FMH Kids (720p)",
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://38.87.224.19:2220/play/a03u/index.m3u8",
     "isHttps": false
   },
   {
@@ -19350,6 +19377,15 @@
     "isHttps": false
   },
   {
+    "name": "IVC (480p)",
+    "logo": "https://i.imgur.com/HyXYR2o.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://200.59.191.177:8000/play/a00j/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "JN 19 (720p)",
     "logo": "https://i.imgur.com/dudxyqk.png",
     "country": "",
@@ -19581,6 +19617,33 @@
     "language": "",
     "group": "General",
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"General\",Eurochannel",
+    "logo": "https://i.imgur.com/yXAtmI6.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://45.186.240.164:9000/stream/54/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",DMAX (Spain)",
+    "logo": "https://i.imgur.com/En2sLlW.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://90.163.85.113:8093/stream/51/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",Real Madrid TV (1080p)",
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://90.163.85.113:8093/stream/26/index.m3u8",
     "isHttps": false
   },
   {
@@ -20394,6 +20457,15 @@
     "isHttps": false
   },
   {
+    "name": "Sky Sports 2 (1080p)",
+    "logo": "https://i.imgur.com/VM0a8Ny.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://200.115.120.1:8000/play/ca82266/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sol TV (Bolivia) (720p)",
     "logo": "https://i.imgur.com/2m8PVpA.png",
     "country": "",
@@ -20436,6 +20508,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "SportsMax News (1080p)",
+    "logo": "https://i.imgur.com/IjN1Nhm.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://181.79.86.130:8000/play/a081/index.m3u8",
     "isHttps": false
   },
   {
@@ -21240,6 +21321,15 @@
     "isHttps": false
   },
   {
+    "name": "TV FANB (576p)",
+    "logo": "https://i.imgur.com/yaEyv29.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://200.59.191.177:8000/play/a0le/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TV Peru (1080p)",
     "logo": "https://i.imgur.com/6io0IrX.png",
     "country": "",
@@ -21552,6 +21642,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Vive (576p)",
+    "logo": "https://i.imgur.com/VEYhkDq.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "http://200.59.191.177:8000/play/a0l6/index.m3u8",
     "isHttps": false
   },
   {

@@ -7470,7 +7470,7 @@
     "isHttps": true
   },
   {
-    "name": "Eurosport (720p)",
+    "name": "Eurosport (India) (720p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
     "country": "",
     "language": "",
@@ -7479,12 +7479,21 @@
     "isHttps": true
   },
   {
-    "name": "Eurosport HD (1080p)",
+    "name": "Eurosport (India) HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Sports",
     "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Eurosport 4K Romania (2160p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/0o3zjC7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
     "isHttps": true
   },
   {
@@ -11232,6 +11241,15 @@
     "isHttps": true
   },
   {
+    "name": "Lifetime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://tvsen7.aynascope.net/lifetime/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "LifevisionTV (406p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -11286,66 +11304,12 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",BBC Earth Romania",
-    "logo": "https://i.imgur.com/nGSsUd4.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic (Romania)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN White (United States)",
-    "logo": "https://i.imgur.com/47IKxmt.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",BBC First Romania",
-    "logo": "https://i.imgur.com/UBoBYUI.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Kids\",Disney Junior (Romania)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AMC Europe Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AXN Black (United States) Romania",
-    "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8",
     "isHttps": true
   },
   {
@@ -12645,15 +12609,6 @@
     "isHttps": true
   },
   {
-    "name": "Minimax (Romania)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Miracle TV (480p)",
     "logo": "https://i.imgur.com/pTn8Vc3.png",
     "country": "",
@@ -12678,6 +12633,15 @@
     "language": "",
     "group": "Culture",
     "url": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MISA TV English (576i)",
+    "logo": "https://i.imgur.com/2RxQNm6.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8",
     "isHttps": true
   },
   {
@@ -19035,6 +18999,15 @@
     "isHttps": true
   },
   {
+    "name": "Sky News",
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://dash4.antik.sk/live/test_skynews/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sky News Extra 1 (540p)",
     "logo": "https://i.imgur.com/ZsPb8nL.png",
     "country": "",
@@ -22059,6 +22032,15 @@
     "isHttps": true
   },
   {
+    "name": "Travelxp HD (1080p) [Geo-blocked]",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Tribeca Channel (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/JCpFAll.png",
     "country": "",
@@ -24426,15 +24408,6 @@
     "isHttps": false
   },
   {
-    "name": "BBC News Asia Pacific (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.151.60.162:2122/play/a0fl/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "BBC News Europe (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "country": "",
@@ -24777,15 +24750,6 @@
     "isHttps": false
   },
   {
-    "name": "Colors Infinity HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.151.60.162:2122/play/a02r/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "Cooking Channel (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/960px-Cooking_Channel.svg.png",
     "country": "",
@@ -25011,24 +24975,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney International HD (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Junior (India) (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "Disney Junior (United States) (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
     "country": "",
@@ -25053,6 +24999,15 @@
     "language": "",
     "group": "Comedy",
     "url": "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "DMAX (Italy) HD (720p)",
+    "logo": "https://i.imgur.com/uGd9fnn.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://102.129.186.182:81/dmax/index.m3u8",
     "isHttps": false
   },
   {
@@ -25425,15 +25380,6 @@
     "isHttps": false
   },
   {
-    "name": "HITS Movies (576p)",
-    "logo": "https://i.imgur.com/kyE3vXf.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "HLN (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",
     "country": "",
@@ -25803,15 +25749,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Adria",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black (United States) Czech Republic",
     "logo": "https://i.imgur.com/Peo1QiZ.png",
     "country": "",
@@ -25890,6 +25827,105 @@
     "language": "",
     "group": "Music",
     "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"General\",Eurochannel",
+    "logo": "https://i.imgur.com/yXAtmI6.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://45.186.240.164:9000/stream/54/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Germany)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://94.130.48.67:8042/stream/111/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. Asia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://103.253.74.210:7070/stream/116/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon Asia",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://103.253.74.210:7070/stream/117/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",TLC Southeast Asia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://103.253.74.210:7070/stream/108/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Adria (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://87.238.211.217:2209/stream/104/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",CNN International South Asia",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://103.253.74.210:7070/stream/115/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",Fox News International",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://103.253.74.210:7070/stream/124/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 1 Germany",
+    "logo": "https://i.imgur.com/2Z2EmZF.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://45.142.104.86/stream/25/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 2 Germany",
+    "logo": "https://i.imgur.com/OGj3qf5.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://45.142.104.86/stream/15/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport (France)",
+    "logo": "https://i.imgur.com/s4jDnJh.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://103.253.74.210:7070/stream/122/index.m3u8",
     "isHttps": false
   },
   {
@@ -26006,7 +26042,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
+    "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
     "isHttps": false
   },
   {
@@ -26195,7 +26231,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls",
+    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
     "isHttps": false
   },
   {
@@ -26721,15 +26757,6 @@
     "isHttps": false
   },
   {
-    "name": "Sony Pix HD (1080p)",
-    "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "Star Asia (720p)",
     "logo": "https://i.imgur.com/9coLhX8.png",
     "country": "",
@@ -26745,15 +26772,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Sports 2 (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
     "isHttps": false
   },
   {
@@ -27090,15 +27108,6 @@
     "isHttps": false
   },
   {
-    "name": "Travelxp HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "truTV (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",
     "country": "",
@@ -27234,15 +27243,6 @@
     "isHttps": false
   },
   {
-    "name": "Unite8 Sports 2 (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
-    "isHttps": false
-  },
-  {
     "name": "Universal Cinema (1080p)",
     "logo": "https://i.imgur.com/XxfET68.png",
     "country": "",
@@ -27324,6 +27324,15 @@
     "isHttps": false
   },
   {
+    "name": "Voyo Events (576i) [Not 24/7]",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/df/Voyo_2026.svg/revision/latest/scale-to-width-down/1000?cb=20261006171646",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
     "name": "VSH News (576p)",
     "logo": "https://i.imgur.com/pmPZoYC.png",
     "country": "",
@@ -27375,15 +27384,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "WWE Network (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
     "isHttps": false
   },
   {
