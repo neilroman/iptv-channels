@@ -4149,30 +4149,12 @@
     "isHttps": true
   },
   {
-    "name": "Star Gold Select (1080p)",
-    "logo": "https://i.imgur.com/U7eiuqv.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Star Maa Movies HD (720p)",
     "logo": "https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
     "isHttps": true
   },
   {
@@ -4644,15 +4626,6 @@
     "isHttps": true
   },
   {
-    "name": "Zee Cinema (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zee Cinema APAC (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
@@ -5073,15 +5046,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://flussonic.linkintel.ru/cinema/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CinemaWorld (720p)",
-    "logo": "https://i.imgur.com/D2qNVZ7.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
     "isHttps": false
   },
   {
@@ -6390,6 +6354,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies\",Film Mania",
+    "logo": "https://i.imgur.com/crhsomk.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://205.237.104.26:8080/stream/340/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies\",Telecine Cult",
     "logo": "https://i.imgur.com/6GuHXnr.png",
     "country": "",
@@ -6773,7 +6746,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
+    "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
     "isHttps": false
   },
   {

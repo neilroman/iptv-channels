@@ -63,7 +63,7 @@
     "isHttps": true
   },
   {
-    "name": "Berita RTM (1080p) [Geo-blocked]",
+    "name": "Berita RTM (1080p)",
     "logo": "https://i.imgur.com/1Xzxsgl.png",
     "country": "",
     "language": "",
@@ -594,7 +594,7 @@
     "isHttps": true
   },
   {
-    "name": "Okey (1080p) [Geo-blocked]",
+    "name": "Okey (1080p)",
     "logo": "https://i.imgur.com/V2jREQ5.png",
     "country": "",
     "language": "",
@@ -734,7 +734,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
     "isHttps": true
   },
   {
@@ -817,15 +817,6 @@
     "group": "Undefined",
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8",
     "isHttps": true
-  },
-  {
-    "name": "8TV",
-    "logo": "https://i.imgur.com/Jkx9W88.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://cdn6.163189.xyz/163189/8tv",
-    "isHttps": false
   },
   {
     "name": "Ando TV (1080p)",

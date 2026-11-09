@@ -2907,7 +2907,7 @@
     "isHttps": true
   },
   {
-    "name": "Berita RTM (1080p) [Geo-blocked]",
+    "name": "Berita RTM (1080p)",
     "logo": "https://i.imgur.com/1Xzxsgl.png",
     "country": "",
     "language": "",
@@ -14616,6 +14616,15 @@
     "isHttps": true
   },
   {
+    "name": "NickToons 90s [Geo-blocked]",
+    "logo": "https://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoPNG.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://i.mjh.nz/.r/10-nicktoons-90s.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nigbati (720p) [Not 24/7]",
     "logo": "",
     "country": "",
@@ -14904,15 +14913,6 @@
     "isHttps": true
   },
   {
-    "name": "NTV7",
-    "logo": "https://i.imgur.com/jDWR3xI.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-    "isHttps": true
-  },
-  {
     "name": "Numb3rs",
     "logo": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
     "country": "",
@@ -15057,7 +15057,7 @@
     "isHttps": true
   },
   {
-    "name": "Okey (1080p) [Geo-blocked]",
+    "name": "Okey (1080p)",
     "logo": "https://i.imgur.com/V2jREQ5.png",
     "country": "",
     "language": "",
@@ -18261,15 +18261,6 @@
     "isHttps": true
   },
   {
-    "name": "RTM ASEAN",
-    "logo": "https://i.imgur.com/skAiUxg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RTN Chicago (480p)",
     "logo": "https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png",
     "country": "",
@@ -19662,15 +19653,6 @@
     "language": "",
     "group": "Music",
     "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
     "isHttps": true
   },
   {
@@ -22325,7 +22307,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
     "isHttps": true
   },
   {
@@ -22352,7 +22334,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
     "isHttps": true
   },
   {
@@ -24561,6 +24543,15 @@
     "isHttps": false
   },
   {
+    "name": "Cartoon Network Asia Thailand",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://103.253.74.210:7070/stream/118/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Cartoon Network HD+ (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
     "country": "",
@@ -24630,15 +24621,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://186.148.196.82:8001/play/a0a4",
-    "isHttps": false
-  },
-  {
-    "name": "CinemaWorld (720p)",
-    "logo": "https://i.imgur.com/D2qNVZ7.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
     "isHttps": false
   },
   {
@@ -25740,6 +25722,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV Global",
+    "logo": "https://i.imgur.com/n2BoU7Q.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://85.14.32.26:8800/udp/239.100.10.67:5000",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe Czech Republic",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "country": "",
@@ -25854,6 +25845,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://103.253.74.210:7070/stream/116/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (United Kingdom)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://93.186.201.93/stream/397/index.m3u8",
     "isHttps": false
   },
   {
@@ -25974,15 +25974,6 @@
     "isHttps": false
   },
   {
-    "name": "Mezzo (576p)",
-    "logo": "https://i.imgur.com/auNdGeW.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
-    "isHttps": false
-  },
-  {
     "name": "Mezzo Live (1080p)",
     "logo": "https://i.imgur.com/H9ytKPN.png",
     "country": "",
@@ -26061,15 +26052,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "MTV Global (720p)",
-    "logo": "https://i.imgur.com/n2BoU7Q.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://dvr2.kablova.tv/MTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -26748,15 +26730,6 @@
     "isHttps": false
   },
   {
-    "name": "Sony BBC Earth HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Asia (720p)",
     "logo": "https://i.imgur.com/9coLhX8.png",
     "country": "",
@@ -26919,12 +26892,12 @@
     "isHttps": false
   },
   {
-    "name": "Telemundo West (2160p)",
+    "name": "Telemundo West (720p)",
     "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
+    "url": "http://45.5.117.57:8900/play/a058/index.m3u8",
     "isHttps": false
   },
   {
@@ -27257,16 +27230,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://38.252.238.18:8000/play/a03e/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Univision East HD (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://45.190.13.8/UnivisionHD/index.m3u8",
+    "url": "http://190.197.41.183/Univision/index.m3u8",
     "isHttps": false
   },
   {

@@ -2412,24 +2412,6 @@
     "isHttps": true
   },
   {
-    "name": "Star Gold Select (1080p)",
-    "logo": "https://i.imgur.com/U7eiuqv.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "StarPlus (United Kingdom) (576p)",
     "logo": "https://i.imgur.com/xWxNy3L.png",
     "country": "",
@@ -2669,7 +2651,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
     "isHttps": true
   },
   {
@@ -2832,15 +2814,6 @@
     "language": "",
     "group": "Classic",
     "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Zee Cinema (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
     "isHttps": true
   },
   {
@@ -3267,15 +3240,6 @@
     "isHttps": false
   },
   {
-    "name": "Sony BBC Earth HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sony Entertainment Television HD (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
     "country": "",
@@ -3326,7 +3290,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
+    "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
     "isHttps": false
   },
   {

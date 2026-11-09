@@ -14967,6 +14967,15 @@
     "isHttps": true
   },
   {
+    "name": "TUDN (United States) (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/oT5CAvd.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Tunevision (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/XNiXqgj.png",
     "country": "",
@@ -18774,6 +18783,15 @@
     "isHttps": false
   },
   {
+    "name": "E! Latin America Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;News",
+    "url": "http://38.134.250.110:8000/play/a00x/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "E! Latin America Mexico (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
     "country": "",
@@ -19764,6 +19782,15 @@
     "isHttps": false
   },
   {
+    "name": "Mi Musica Popular (1080p)",
+    "logo": "https://i.imgur.com/auW6Ve1.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://45.226.205.96:48000/play/a0f8/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Mi Musica Reggaeton (1080p)",
     "logo": "https://i.imgur.com/MMb9u4u.png",
     "country": "",
@@ -19953,12 +19980,12 @@
     "isHttps": false
   },
   {
-    "name": "NET TV (720p)",
+    "name": "NET TV (1080p)",
     "logo": "https://i.imgur.com/IhJ0BjF.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+    "url": "http://45.226.205.96:48000/play/a09p/index.m3u8",
     "isHttps": false
   },
   {
@@ -20601,6 +20628,15 @@
     "isHttps": false
   },
   {
+    "name": "Studio Universal Latin America Colombia (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://45.171.64.30:2000/play/a04o/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Studio Universal Latin America South",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
     "country": "",
@@ -20814,15 +20850,6 @@
     "language": "",
     "group": "General",
     "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Telefe Interior (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8",
     "isHttps": false
   },
   {
@@ -21273,15 +21300,6 @@
     "language": "",
     "group": "News",
     "url": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TUDN (United States) (1080p)",
-    "logo": "https://i.imgur.com/oT5CAvd.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://45.190.13.8/TUDNHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -21777,15 +21795,6 @@
     "language": "",
     "group": "Education",
     "url": "http://138.121.15.230:9002/ZOOM/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ZTV (1080p)",
-    "logo": "https://zplay.cl/img/ztv.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://45.70.201.81:8000/play/a00u/index.m3u8",
     "isHttps": false
   }
 ]
