@@ -756,6 +756,15 @@
     "isHttps": true
   },
   {
+    "name": "Mireasa+ (480p)",
+    "logo": "https://i.imgur.com/URwmGuY.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "MISA TV (720p)",
     "logo": "https://i.imgur.com/2RxQNm6.png",
     "country": "",
@@ -1485,6 +1494,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Channel (Romania)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://92.180.26.103:80/stream/28/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Light Channel (Romania) (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/S3Fbf8T.png",
     "country": "",
@@ -1599,6 +1617,15 @@
     "language": "",
     "group": "General",
     "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sport Extra HD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://92.180.26.103:80/stream/93/index.m3u8",
     "isHttps": false
   },
   {
