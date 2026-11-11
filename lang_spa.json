@@ -783,21 +783,21 @@
     "isHttps": true
   },
   {
+    "name": "America Internacional (720p)",
+    "logo": "https://i.imgur.com/4ZTKAGd.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0",
+    "isHttps": true
+  },
+  {
     "name": "America TeVe (1080p)",
     "logo": "https://i.imgur.com/K9o3mLP.png",
     "country": "",
     "language": "",
     "group": "Entertainment;General",
     "url": "https://live.gideo.video/americateve2/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Amigos TV Chiquimula (480p)",
-    "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
     "isHttps": true
   },
   {
@@ -1968,6 +1968,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal 11 (Honduras) (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/Sht2Rd4.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -14121,6 +14130,15 @@
     "isHttps": true
   },
   {
+    "name": "Telemicro HD (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/WhgySAk.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn4.wind.do/streams/telemicro/telemicro_1080.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Telemotril (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/4nspLHb.png",
     "country": "",
@@ -15858,6 +15876,15 @@
     "isHttps": true
   },
   {
+    "name": "TVE Star HD (1080p)",
+    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVenLinea (1080p)",
     "logo": "https://i.imgur.com/txV8lw0.png",
     "country": "",
@@ -16269,15 +16296,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://live-utv.unah.edu.hn/web/salida.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "UNE TV (720p)",
-    "logo": "https://i.imgur.com/V9Fpd3Y.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -17496,15 +17514,6 @@
     "isHttps": false
   },
   {
-    "name": "Adult Swim Latin America",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://170.244.209.30:8000/play/a02v/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Alcarria TV (576p) [Not 24/7]",
     "logo": "https://i.imgur.com/pzJAYan.png",
     "country": "",
@@ -17559,6 +17568,15 @@
     "isHttps": false
   },
   {
+    "name": "Amigos TV Chiquimula (1080p)",
+    "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.166.93.156:9999/play/a0j2/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Animal Planet Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
     "country": "",
@@ -17574,15 +17592,6 @@
     "language": "",
     "group": "Documentary",
     "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Antena 3 Internacional (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
     "isHttps": false
   },
   {
@@ -17658,15 +17667,6 @@
     "isHttps": false
   },
   {
-    "name": "AXN Latin America Mexico",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "AXN Latin America South",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -17700,15 +17700,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Az Clic (1080p)",
-    "logo": "https://i.imgur.com/ClqIQ4M.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://38.252.238.18:8000/play/a01g/index.m3u8",
     "isHttps": false
   },
   {
@@ -17880,15 +17871,6 @@
     "language": "",
     "group": "General",
     "url": "http://168.228.44.241:9999/play/a01m/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal 11 (Honduras) (1080p)",
-    "logo": "https://i.imgur.com/Sht2Rd4.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8",
     "isHttps": false
   },
   {
@@ -18167,7 +18149,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://170.244.209.30:8000/play/a1ib/index.m3u8",
+    "url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
     "isHttps": false
   },
   {
@@ -18239,7 +18221,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://38.252.238.18:8000/play/a053/index.m3u8",
+    "url": "http://45.173.12.70:8000/play/a0fj",
     "isHttps": false
   },
   {
@@ -18270,12 +18252,12 @@
     "isHttps": false
   },
   {
-    "name": "CDN (576p)",
+    "name": "CDN (480p)",
     "logo": "https://i.imgur.com/eQyjIgf.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://190.61.90.17:40000/play/a03p/index.m3u8",
+    "url": "http://187.245.231.226:8000/play/a0ss/index.m3u8",
     "isHttps": false
   },
   {
@@ -18402,15 +18384,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Cinemax Latin America HD (1080p)",
-    "logo": "https://i.imgur.com/cZWoJWD.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://38.65.175.84:8000/play/a093/index.m3u8",
     "isHttps": false
   },
   {
@@ -18645,15 +18618,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://38.134.250.110:8000/play/a003/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Discovery Kids Latin America Mexico (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://38.65.175.84:8000/play/a0an/index.m3u8",
     "isHttps": false
   },
   {
@@ -18927,15 +18891,6 @@
     "isHttps": false
   },
   {
-    "name": "El Sembrador Nueva Evangelizacion ESNE",
-    "logo": "https://i.imgur.com/APhSi1Y.jpg",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://190.61.90.17:40000/play/a025/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "El Trece Internacional Latin America",
     "logo": "https://i.imgur.com/Vo6prbh.png",
     "country": "",
@@ -18972,12 +18927,12 @@
     "isHttps": false
   },
   {
-    "name": "ESNE TV (1080p)",
+    "name": "ESNE TV (720p)",
     "logo": "https://i.imgur.com/bwAuFgx.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://132.255.210.69:8000/play/a02v/index.m3u8",
+    "url": "http://168.196.127.137:6001/play/a071/index.m3u8",
     "isHttps": false
   },
   {
@@ -19062,21 +19017,12 @@
     "isHttps": false
   },
   {
-    "name": "Exa TV",
-    "logo": "https://i.imgur.com/JWOqr1a.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Exitosa TV (1080p)",
     "logo": "https://i.imgur.com/pu0BSB7.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://170.244.209.30:8000/play/a1ic/index.m3u8",
+    "url": "http://190.93.224.42/EXITOSA/index.m3u8",
     "isHttps": false
   },
   {
@@ -19122,6 +19068,15 @@
     "language": "",
     "group": "Cooking",
     "url": "http://168.196.127.137:6001/play/a09v/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "FOX Central (1080p)",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://181.78.106.127:5000/play/a009/index.m3u8",
     "isHttps": false
   },
   {
@@ -19449,12 +19404,12 @@
     "isHttps": false
   },
   {
-    "name": "Investigation Discovery Latin America South (1080p)",
+    "name": "Investigation Discovery Latin America South",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8",
     "isHttps": false
   },
   {
@@ -19922,7 +19877,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://170.244.209.30:8000/play/a1i8/index.m3u8",
+    "url": "http://195.178.110.110/movistar/index.m3u8",
     "isHttps": false
   },
   {
@@ -20250,15 +20205,6 @@
     "isHttps": false
   },
   {
-    "name": "PX Sports (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://38.65.175.84:8000/play/a0ku/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Quiero Musica en mi Idioma (1080p)",
     "logo": "https://i.imgur.com/RO9Dz3X.png",
     "country": "",
@@ -20489,7 +20435,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://38.252.238.18:8000/play/a00g/index.m3u8",
+    "url": "http://168.196.127.137:6001/play/a04y/index.m3u8",
     "isHttps": false
   },
   {
@@ -20508,15 +20454,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Sin Limites (1080p)",
-    "logo": "https://i.imgur.com/wrFfgzC.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://170.244.209.30:8000/play/a1im/index.m3u8",
     "isHttps": false
   },
   {
@@ -20574,12 +20511,12 @@
     "isHttps": false
   },
   {
-    "name": "Sony Movies Latin America (1080p)",
+    "name": "Sony Movies Latin America (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://38.252.238.18:8000/play/a01e/index.m3u8",
+    "url": "http://15.204.246.24:8080/SonyMoviesHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -21087,15 +21024,6 @@
     "isHttps": false
   },
   {
-    "name": "TeleXitos (1080p)",
-    "logo": "",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://190.197.41.183/TELEXITOS/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Tigo Sports (El Salvador) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
     "country": "",
@@ -21384,15 +21312,6 @@
     "isHttps": false
   },
   {
-    "name": "TV Chile (576p)",
-    "logo": "https://i.imgur.com/oYFto0V.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TV Culturas (576p)",
     "logo": "https://comteco.com.bo/img/upload/canales/lBVfEh.png",
     "country": "",
@@ -21474,15 +21393,6 @@
     "isHttps": false
   },
   {
-    "name": "TVE Star HD (1080p)",
-    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://38.252.238.18:8000/play/a01h/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "TVGE",
     "logo": "https://i.imgur.com/iOdHgPd.png",
     "country": "",
@@ -21552,6 +21462,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://tv.ulagos.cl/web/live.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "UNE TV (1080p)",
+    "logo": "https://i.imgur.com/V9Fpd3Y.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.166.93.156:9999/play/a0jo/index.m3u8",
     "isHttps": false
   },
   {
@@ -21812,7 +21731,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://170.244.209.30:8000/play/a1id/index.m3u8",
+    "url": "http://190.93.224.42/WILLAX/index.m3u8",
     "isHttps": false
   },
   {

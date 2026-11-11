@@ -351,15 +351,6 @@
     "isHttps": true
   },
   {
-    "name": "Cartoon Network (India) (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Cartoon Network (Pakistan)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
@@ -501,15 +492,6 @@
     "language": "",
     "group": "Kids;Religious",
     "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Discovery Kids (720p)",
-    "logo": "https://i.imgur.com/0iNQvoL.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
     "isHttps": true
   },
   {
@@ -1260,24 +1242,6 @@
     "isHttps": true
   },
   {
-    "name": "New Channel (480p)",
-    "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920",
-    "country": "",
-    "language": "",
-    "group": "Kids;Music",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "New Channel Pop! (480p)",
-    "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nick Jr. Club (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
     "country": "",
@@ -1338,6 +1302,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nickelodeon (Australia) [Geo-blocked]",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://i.mjh.nz/.r/10shake-nsw.m3u8",
     "isHttps": true
   },
   {
@@ -1890,15 +1863,6 @@
     "isHttps": true
   },
   {
-    "name": "Pogo (720p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Pooya TV",
     "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
     "country": "",
@@ -2265,6 +2229,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Tom Sings TV (1080p)",
+    "logo": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8",
     "isHttps": true
   },
   {
@@ -2808,12 +2781,12 @@
     "isHttps": false
   },
   {
-    "name": "Cartoon Network Latin America Brazil (720p)",
+    "name": "Cartoon Network Latin America Brazil (720p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
+    "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
     "isHttps": false
   },
   {
@@ -2822,7 +2795,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://38.252.238.18:8000/play/a053/index.m3u8",
+    "url": "http://45.173.12.70:8000/play/a0fj",
     "isHttps": false
   },
   {
@@ -2994,15 +2967,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://38.134.250.110:8000/play/a003/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Discovery Kids Latin America Mexico (1080p)",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://38.65.175.84:8000/play/a0an/index.m3u8",
     "isHttps": false
   },
   {
@@ -3191,7 +3155,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
+    "url": "http://186.219.52.187/zoomoo/index.m3u8",
     "isHttps": false
   },
   {
@@ -3483,6 +3447,15 @@
     "isHttps": false
   },
   {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Boing Plus",
+    "logo": "https://i.imgur.com/STbfHwE.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://95.141.36.9:8080/stream/181/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Germany)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "country": "",
@@ -3534,6 +3507,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://94.130.48.67:8042/stream/112/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Rai Yoyo",
+    "logo": "https://i.imgur.com/9gCxiDy.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://95.141.36.9:8080/stream/156/index.m3u8",
     "isHttps": false
   },
   {
@@ -3795,6 +3777,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Pogo (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://103.135.253.32:8080/POGO/index.m3u8",
     "isHttps": false
   },
   {

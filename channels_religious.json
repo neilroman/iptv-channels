@@ -666,15 +666,6 @@
     "isHttps": true
   },
   {
-    "name": "Amigos TV Chiquimula (480p)",
-    "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Amozhgary TV",
     "logo": "https://i.imgur.com/sseqFsO.png",
     "country": "",
@@ -6777,6 +6768,15 @@
     "isHttps": false
   },
   {
+    "name": "Amigos TV Chiquimula (1080p)",
+    "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://45.166.93.156:9999/play/a0j2/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Ando TV (1080p)",
     "logo": "https://i.imgur.com/EpTsFVu.png",
     "country": "",
@@ -6876,15 +6876,6 @@
     "isHttps": false
   },
   {
-    "name": "El Sembrador Nueva Evangelizacion ESNE",
-    "logo": "https://i.imgur.com/APhSi1Y.jpg",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://190.61.90.17:40000/play/a025/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Elbeshara GTV (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/b0Wx7pE.png",
     "country": "",
@@ -6903,12 +6894,12 @@
     "isHttps": false
   },
   {
-    "name": "ESNE TV (1080p)",
+    "name": "ESNE TV (720p)",
     "logo": "https://i.imgur.com/bwAuFgx.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://132.255.210.69:8000/play/a02v/index.m3u8",
+    "url": "http://168.196.127.137:6001/play/a071/index.m3u8",
     "isHttps": false
   },
   {
@@ -7214,7 +7205,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
+    "url": "http://186.219.52.187/novo_tempo/index.m3u8",
     "isHttps": false
   },
   {
@@ -7268,7 +7259,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8",
+    "url": "http://186.219.52.187/seculo21/index.m3u8",
     "isHttps": false
   },
   {
@@ -7358,7 +7349,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8",
+    "url": "http://45.177.114.115/TV_APARECIDA_HD/index.m3u8",
     "isHttps": false
   },
   {
@@ -7367,7 +7358,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.162.64.114/EVANGELIZAR/index.m3u8",
+    "url": "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
     "isHttps": false
   },
   {
@@ -7376,7 +7367,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
+    "url": "http://186.219.52.187/pai_eterno/index.m3u8",
     "isHttps": false
   },
   {

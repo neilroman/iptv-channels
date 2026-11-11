@@ -7785,15 +7785,6 @@
     "isHttps": true
   },
   {
-    "name": "UNE TV (720p)",
-    "logo": "https://i.imgur.com/V9Fpd3Y.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "UNews (1080p)",
     "logo": "",
     "country": "",
@@ -8294,7 +8285,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
+    "url": "http://45.177.114.115/agromais/index.m3u8",
     "isHttps": false
   },
   {
@@ -8429,7 +8420,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://170.244.209.30:8000/play/a1ib/index.m3u8",
+    "url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
     "isHttps": false
   },
   {
@@ -8645,7 +8636,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://170.244.209.30:8000/play/a1ic/index.m3u8",
+    "url": "http://190.93.224.42/EXITOSA/index.m3u8",
     "isHttps": false
   },
   {
@@ -9212,7 +9203,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+    "url": "http://45.177.114.115/RECORD_NEWS/index.m3u8",
     "isHttps": false
   },
   {
@@ -9456,6 +9447,15 @@
     "language": "",
     "group": "News",
     "url": "http://80.79.6.221:25461/smash/public/20",
+    "isHttps": false
+  },
+  {
+    "name": "UNE TV (1080p)",
+    "logo": "https://i.imgur.com/V9Fpd3Y.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://45.166.93.156:9999/play/a0jo/index.m3u8",
     "isHttps": false
   },
   {
