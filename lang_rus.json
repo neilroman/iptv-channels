@@ -828,6 +828,15 @@
     "isHttps": true
   },
   {
+    "name": "FON TV (1080p)",
+    "logo": "https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FREEDOM (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
     "country": "",
@@ -1113,15 +1122,6 @@
     "language": "",
     "group": "Shop",
     "url": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Cooking\",Telecafe (Russia) (720p)",
-    "logo": "https://i.imgur.com/1H3h1HL.png",
-    "country": "",
-    "language": "",
-    "group": "Cooking",
-    "url": "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
     "isHttps": true
   },
   {
@@ -2310,15 +2310,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Cinema",
-    "logo": "https://i.imgur.com/5sis895.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3834,12 +3825,12 @@
     "isHttps": false
   },
   {
-    "name": "Kinouzhas (576p)",
+    "name": "Kinouzhas (1080p)",
     "logo": "https://i.imgur.com/mAcAAQF.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://stream.mcquack.net/278/index.m3u8",
+    "url": "http://s1.merlive.am/Kinoujas/index.m3u8",
     "isHttps": false
   },
   {
@@ -5157,6 +5148,15 @@
     "isHttps": false
   },
   {
+    "name": "Star Cinema (576p)",
+    "logo": "https://i.imgur.com/5sis895.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://s1.merlive.am/starsinema/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "START Air (1080p)",
     "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
     "country": "",
@@ -5256,6 +5256,15 @@
     "isHttps": false
   },
   {
+    "name": "Telecafe (Russia) (1080p)",
+    "logo": "https://i.imgur.com/1H3h1HL.png",
+    "country": "",
+    "language": "",
+    "group": "Cooking",
+    "url": "http://s1.merlive.am/telekafe/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Teleputeshestviya (576p)",
     "logo": "https://i.imgur.com/eXJm1n3.png",
     "country": "",
@@ -5265,12 +5274,12 @@
     "isHttps": false
   },
   {
-    "name": "TERRA (720p)",
+    "name": "TERRA (1080p)",
     "logo": "https://i.imgur.com/ZxUjCpF.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "http://31.148.48.15/Terra_HD/index.m3u8",
+    "url": "http://s1.merlive.am/TerraHD/index.m3u8",
     "isHttps": false
   },
   {

@@ -540,6 +540,15 @@
     "isHttps": true
   },
   {
+    "name": "Info HD (576i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ec/Info_TV_Deva.png/revision/latest?cb=20241109152015",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://netstreaming.eu/InfoHd.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Informatia TV",
     "logo": "https://i.imgur.com/P1ZbVRg.png",
     "country": "",
@@ -1323,6 +1332,15 @@
     "isHttps": true
   },
   {
+    "name": "TV1 (Romania) (576i)",
+    "logo": "https://tv1sm.ro/uploads/logo/logo_6725d98a792221-79839652.jpg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://netstreaming.eu/tv1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TVR 1 (1440p)",
     "logo": "https://i.imgur.com/CcUX1gB.png",
     "country": "",
@@ -1554,6 +1572,15 @@
     "language": "",
     "group": "General",
     "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Prima 4K (2160p)",
+    "logo": "https://i.imgur.com/fOFgdHj.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://92.180.26.103/stream/80/index.m3u8",
     "isHttps": false
   },
   {

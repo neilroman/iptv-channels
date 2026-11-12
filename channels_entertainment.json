@@ -1548,12 +1548,12 @@
     "isHttps": true
   },
   {
-    "name": "Desi Channel (720p)",
+    "name": "Desi Channel (1080p)",
     "logo": "https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+    "url": "https://desichannel.kableone.com/desichannel/master.m3u8",
     "isHttps": true
   },
   {
@@ -4410,6 +4410,15 @@
     "isHttps": true
   },
   {
+    "name": "ON Info TV (1080p)",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png",
+    "country": "",
+    "language": "",
+    "group": "Business;Entertainment",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
+    "isHttps": true
+  },
+  {
     "name": "ON Vie Dramas (1080i)",
     "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
     "country": "",
@@ -4893,6 +4902,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Punjab Plus (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Punjab_Plus.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://punjabplustv.akamaized.net/punjabplustv/master.m3u8",
     "isHttps": true
   },
   {
@@ -5595,6 +5613,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Swastik Stories (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8",
     "isHttps": true
   },
   {
@@ -7812,12 +7839,12 @@
     "isHttps": false
   },
   {
-    "name": "Sony Aath (576p)",
+    "name": "Sony Aath (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
+    "url": "http://27.124.71.27/Sony_Aath/index.m3u8",
     "isHttps": false
   },
   {

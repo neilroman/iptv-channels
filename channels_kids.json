@@ -360,6 +360,15 @@
     "isHttps": true
   },
   {
+    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Cartoonito HD (720p)",
     "logo": "https://i.imgur.com/6vYWCD0.png",
     "country": "",
@@ -2700,7 +2709,7 @@
     "isHttps": false
   },
   {
-    "name": "Cartoon Network (United States) (720p) [Geo-blocked]",
+    "name": "Cartoon Network (United States) West (1080p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
     "language": "",
@@ -2997,15 +3006,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Channel (India) HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney Channel (Poland) HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "country": "",
@@ -3123,6 +3123,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Junior (Poland) (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://111.88.7.92:8000/play/a00o/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney Junior (United States) (480p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
     "country": "",
@@ -3219,15 +3228,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://stream.mcquack.net/44/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Hungama TV (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8",
     "isHttps": false
   },
   {
