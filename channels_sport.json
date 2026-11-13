@@ -180,6 +180,15 @@
     "isHttps": true
   },
   {
+    "name": "beIN Sports 1",
+    "logo": "https://i.imgur.com/Vtk2cGI.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://vg162.adcdsd123321.shop/7.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "beIN Sports USA (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
     "country": "",
@@ -243,6 +252,15 @@
     "isHttps": true
   },
   {
+    "name": "Bicolor+ (720p)",
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790182833200/6a8e1eb7f5d6_640_360.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bicolor+ Premium [Geo-blocked]",
     "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png",
     "country": "",
@@ -258,6 +276,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bicolor+ Premium 3 (720p)",
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -780,6 +807,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Formula 1 AntenaPlay (576i) [Not 24/7]",
+    "logo": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8",
     "isHttps": true
   },
   {
@@ -3096,6 +3132,15 @@
     "isHttps": false
   },
   {
+    "name": "Eurosport 1 UK (1080p)",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://85.117.37.43/eurosport1/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Eurosport 2 Bulgaria",
     "logo": "https://i.imgur.com/f56dHgR.png",
     "country": "",
@@ -3381,33 +3426,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://stream.mcquack.net/313/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 1",
-    "logo": "https://i.imgur.com/8ANUZAu.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 2",
-    "logo": "https://i.imgur.com/NOBACb6.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 3",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3",
     "isHttps": false
   },
   {
@@ -4119,6 +4137,24 @@
     "language": "",
     "group": "Sports",
     "url": "http://46.53.200.153:7777/play/test_krask1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Setanta Sports 3 (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://85.117.61.84/setanta3/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Setanta Sports+ Georgia (1080p)",
+    "logo": "https://i.imgur.com/ZtoZQUV.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://85.117.61.84/setanta2/index.m3u8",
     "isHttps": false
   },
   {
