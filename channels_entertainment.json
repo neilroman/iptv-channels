@@ -2871,6 +2871,15 @@
     "isHttps": true
   },
   {
+    "name": "La Sexta (1080p)",
+    "logo": "https://i.imgur.com/aKV5voq.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd",
+    "isHttps": true
+  },
+  {
     "name": "La5 [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/960px-La5_Mediaset.svg.png",
     "country": "",
@@ -3600,6 +3609,15 @@
     "isHttps": true
   },
   {
+    "name": "Mega (Spain) (1080p)",
+    "logo": "https://i.imgur.com/Udrt2eK.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Mel Radio TV (360p)",
     "logo": "https://i.imgur.com/uu8Clh2.png",
     "country": "",
@@ -4218,6 +4236,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Neox (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd",
     "isHttps": true
   },
   {
@@ -6462,12 +6489,12 @@
     "isHttps": true
   },
   {
-    "name": "Zee Bangla HD (1080p)",
+    "name": "Zee Bangla HD (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
     "isHttps": true
   },
   {
