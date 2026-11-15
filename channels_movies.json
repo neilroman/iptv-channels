@@ -198,15 +198,6 @@
     "isHttps": true
   },
   {
-    "name": "AXN Movies (Spain)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
-    "isHttps": true
-  },
-  {
     "name": "B4U Bhojpuri (1080p)",
     "logo": "https://i.imgur.com/NwOQUDp.png",
     "country": "",
@@ -1476,7 +1467,7 @@
     "isHttps": true
   },
   {
-    "name": "Kinopremyera HD (1080p)",
+    "name": "Kinopremyera (1080p)",
     "logo": "https://i.imgur.com/s0UYT8T.png",
     "country": "",
     "language": "",
@@ -1823,7 +1814,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1832,7 +1823,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1841,7 +1832,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1850,7 +1841,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1859,7 +1850,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4383,6 +4374,15 @@
     "isHttps": true
   },
   {
+    "name": "TF1 Series Films (1080p)",
+    "logo": "https://i.imgur.com/4CJIDKQ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Thalaa TV (1080p)",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
     "country": "",
@@ -4770,6 +4770,15 @@
     "isHttps": false
   },
   {
+    "name": "AXN (Spain)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
+    "isHttps": false
+  },
+  {
     "name": "AXN Asia Indonesia",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
@@ -4839,6 +4848,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "AXN Movies (Spain)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
     "isHttps": false
   },
   {
@@ -5640,15 +5658,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/64/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Kinopremyera (1080p)",
-    "logo": "https://i.imgur.com/s0UYT8T.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8",
     "isHttps": false
   },
   {
@@ -6543,7 +6552,16 @@
     "isHttps": false
   },
   {
-    "name": "Paramount Network (1080p)",
+    "name": "Paramount Network (Poland)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693",
+    "isHttps": false
+  },
+  {
+    "name": "Paramount Network (United States) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
     "country": "",
     "language": "",
@@ -6696,6 +6714,15 @@
     "isHttps": false
   },
   {
+    "name": "Star Action (720p)",
+    "logo": "https://i.imgur.com/XD1Tpet.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Star Channel (Chile) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "country": "",
@@ -6792,15 +6819,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://46.151.196.223:14326",
-    "isHttps": false
-  },
-  {
-    "name": "TF1 Series Films (1080p)",
-    "logo": "https://i.imgur.com/4CJIDKQ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
     "isHttps": false
   },
   {

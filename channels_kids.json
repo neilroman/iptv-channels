@@ -369,12 +369,12 @@
     "isHttps": true
   },
   {
-    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+    "name": "Cartoon Network (United States) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
+    "url": "https://tvnow.hostless.app/cartoon-network.m3u8",
     "isHttps": true
   },
   {
@@ -531,6 +531,15 @@
     "isHttps": true
   },
   {
+    "name": "Disney Junior (United States) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://tvnow.hostless.app/disney-junior.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Dora TV",
     "logo": "https://i.imgur.com/zJuSbmU.png",
     "country": "",
@@ -617,7 +626,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -663,6 +672,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "France 4 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1260,6 +1278,15 @@
     "isHttps": true
   },
   {
+    "name": "Nick Jr. (United States) (1080p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://tvnow.hostless.app/nick-jr.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nick Jr. Club (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
     "country": "",
@@ -1332,12 +1359,30 @@
     "isHttps": true
   },
   {
+    "name": "Nickelodeon (France) (720p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Nickelodeon (Germany)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
     "language": "",
     "group": "Kids",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
+    "isHttps": true
+  },
+  {
+    "name": "Nickelodeon (United States) (1080p)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://tvnow.hostless.app/nickelodeon.m3u8",
     "isHttps": true
   },
   {
@@ -1383,6 +1428,15 @@
     "language": "",
     "group": "Kids",
     "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nickelodeon Junior (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1437,6 +1491,24 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://x1colegal.com/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nicktoons (France) (720p)",
+    "logo": "https://i.imgur.com/OWRUPA4.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nicktoons (United States) (1080p)",
+    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://tvnow.hostless.app/nicktoons.m3u8",
     "isHttps": true
   },
   {
@@ -2646,6 +2718,24 @@
     "isHttps": false
   },
   {
+    "name": "Boomerang (France) HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://41.205.93.154/BOOMERANG/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Boomerang (Italy)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
+    "isHttps": false
+  },
+  {
     "name": "Boomerang (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
     "country": "",
@@ -3150,15 +3240,6 @@
     "isHttps": false
   },
   {
-    "name": "Disney Junior (United States) (480p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Disney XD (Poland) (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "country": "",
@@ -3201,15 +3282,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://38.87.224.19:2220/play/a03u/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "France 4 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://149.62.177.107:9999/France_4/index.m3u8",
     "isHttps": false
   },
   {
@@ -3627,15 +3699,6 @@
     "isHttps": false
   },
   {
-    "name": "Nick Jr. (United States) (720p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Nick/Comedy Central +1",
     "logo": "https://i.imgur.com/08ZUI9k.png",
     "country": "",
@@ -3699,6 +3762,15 @@
     "isHttps": false
   },
   {
+    "name": "Nickelodeon Arabia (1080i)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nickelodeon Latin America (1080p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -3732,15 +3804,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://178.76.68.60:7442/80/mpegts",
-    "isHttps": false
-  },
-  {
-    "name": "Nicktoons (United States) (720p)",
-    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "isHttps": false
   },
   {

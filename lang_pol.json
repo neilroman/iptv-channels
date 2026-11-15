@@ -162,7 +162,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin (Hungary)",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -171,7 +171,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin (Hungary) Poland",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin Poland",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -240,6 +240,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Polsat X",
+    "logo": "https://i.imgur.com/8juCHsb.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://bingbang.kotmiuaczek.workers.dev/?id=1594464",
     "isHttps": true
   },
   {
@@ -540,15 +549,6 @@
     "isHttps": false
   },
   {
-    "name": "AXN Spin (Poland)",
-    "logo": "https://i.imgur.com/LGEbwnT.png",
-    "country": "",
-    "language": "",
-    "group": "Series",
-    "url": "http://92.114.85.87:8010/play/a00b/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "AXN White (Poland) (576i)",
     "logo": "https://i.imgur.com/DaAyLE7.png",
     "country": "",
@@ -591,15 +591,6 @@
     "language": "",
     "group": "Cooking",
     "url": "http://92.114.85.87:8019/play/a009/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Canal+ Now (576i)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/960px-C%2BNow.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://92.114.85.87:8006/play/a005/index.m3u8",
     "isHttps": false
   },
   {
@@ -743,7 +734,16 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=512159637",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport 4 Polska",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
     "isHttps": false
   },
   {
@@ -945,12 +945,12 @@
     "isHttps": false
   },
   {
-    "name": "Nuta Gold",
-    "logo": "https://i.imgur.com/BEs160o.png",
+    "name": "Paramount Network (Poland)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
     "country": "",
     "language": "",
-    "group": "Documentary;Lifestyle",
-    "url": "http://92.114.85.87:8010/play/a00i/index.m3u8",
+    "group": "Movies;Series",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693",
     "isHttps": false
   },
   {

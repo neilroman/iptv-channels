@@ -495,6 +495,24 @@
     "isHttps": true
   },
   {
+    "name": "Eurosport 1 Italy",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Eurosport 2 Italy (540p)",
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "FailArmy Italy (720p)",
     "logo": "https://i.imgur.com/VIpQJxL.png",
     "country": "",
@@ -1566,15 +1584,6 @@
     "isHttps": true
   },
   {
-    "name": "Rai 1 (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Rai 3 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
     "country": "",
@@ -2628,6 +2637,15 @@
     "isHttps": false
   },
   {
+    "name": "Boomerang (Italy)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
+    "isHttps": false
+  },
+  {
     "name": "Caccia e Pesca (720p)",
     "logo": "https://i.imgur.com/uZr0cXB.png",
     "country": "",
@@ -2961,6 +2979,15 @@
     "isHttps": false
   },
   {
+    "name": "Rai 1 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://team-tv.co:81/rai1/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Rai 2 HD (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
     "country": "",
@@ -3012,6 +3039,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://team-tv.co:81/raimovie/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Rai Sport",
+    "logo": "https://i.imgur.com/6PEevOM.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
     "isHttps": false
   },
   {

@@ -126,6 +126,15 @@
     "isHttps": true
   },
   {
+    "name": "6ter (720p)",
+    "logo": "https://i.imgur.com/2nd5Cox.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "7 Gold (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
     "country": "",
@@ -2772,6 +2781,15 @@
     "isHttps": true
   },
   {
+    "name": "Kidz (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/iBgsCOV.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kingsview TV (1080p)",
     "logo": "https://i.imgur.com/py1XOXX.png",
     "country": "",
@@ -2877,6 +2895,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd",
+    "isHttps": true
+  },
+  {
+    "name": "La Sexta HD (1080p)",
+    "logo": "https://i.imgur.com/aKV5voq.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ignac16.github.io/voxel-tv-streams/la6.mpd",
     "isHttps": true
   },
   {
@@ -2988,7 +3015,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin (Hungary)",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -2997,7 +3024,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin (Hungary) Poland",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",AXN Spin Poland",
     "logo": "https://i.imgur.com/uVFenKm.png",
     "country": "",
     "language": "",
@@ -3618,6 +3645,15 @@
     "isHttps": true
   },
   {
+    "name": "Mega (Spain) HD (1080p)",
+    "logo": "https://i.imgur.com/Udrt2eK.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ignac16.github.io/voxel-tv-streams/mega.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Mel Radio TV (360p)",
     "logo": "https://i.imgur.com/uu8Clh2.png",
     "country": "",
@@ -3741,6 +3777,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "MTV (France) (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4248,6 +4293,15 @@
     "isHttps": true
   },
   {
+    "name": "Neox HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://ignac16.github.io/voxel-tv-streams/neox.mpd",
+    "isHttps": true
+  },
+  {
     "name": "Nepal 1 (576p)",
     "logo": "https://i.ibb.co/bMZpdbYJ/Nepal-1.png",
     "country": "",
@@ -4425,6 +4479,15 @@
     "language": "",
     "group": "Business;Entertainment",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
+    "isHttps": true
+  },
+  {
+    "name": "ON V Family (480p)",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Family",
+    "url": "https://vmttv.dpdns.org/tv360?id=187",
     "isHttps": true
   },
   {
@@ -6696,15 +6759,6 @@
     "isHttps": false
   },
   {
-    "name": "6ter (1080p)",
-    "logo": "https://i.imgur.com/2nd5Cox.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://149.62.177.107:9999/6ter/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "A-Plus TV (576p)",
     "logo": "https://i.imgur.com/uu0UJme.png",
     "country": "",
@@ -6863,7 +6917,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://176.118.197.101/Che/index.m3u8",
+    "url": "http://flussonic.linkintel.ru/che/index.m3u8",
     "isHttps": false
   },
   {
@@ -7020,6 +7074,15 @@
     "isHttps": false
   },
   {
+    "name": "Discovery Channel Middle East & Africa (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Discovery World (1080p)",
     "logo": "https://i.imgur.com/yNFmUkE.png",
     "country": "",
@@ -7038,7 +7101,16 @@
     "isHttps": false
   },
   {
-    "name": "E! East (1080p)",
+    "name": "E! (Romania)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3166915380",
+    "isHttps": false
+  },
+  {
+    "name": "E! (United States) East (1080p)",
     "logo": "https://i.imgur.com/TWFDkap.png",
     "country": "",
     "language": "",
@@ -7422,15 +7494,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://99.27.51.147:8080/M6/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV (France)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://99.27.51.147:8080/MTV/index.m3u8",
     "isHttps": false
   },
   {

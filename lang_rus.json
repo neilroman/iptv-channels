@@ -1044,7 +1044,7 @@
     "isHttps": true
   },
   {
-    "name": "Kinopremyera HD (1080p)",
+    "name": "Kinopremyera (1080p)",
     "logo": "https://i.imgur.com/s0UYT8T.png",
     "country": "",
     "language": "",
@@ -1152,6 +1152,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Channel 5 International (576i)",
+    "logo": "https://i.imgur.com/KPXMa3U.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Mir (720p)",
     "logo": "https://i.imgur.com/AqWaJT8.png",
     "country": "",
@@ -1194,15 +1203,6 @@
     "language": "",
     "group": "General",
     "url": "https://shift03.isp.bg/RTVi/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0\" group-title=\"General\",Channel 8 Krasnoyarsk HD (1080p)",
-    "logo": "https://i.imgur.com/q3JCAC3.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8",
     "isHttps": true
   },
   {
@@ -3303,15 +3303,6 @@
     "isHttps": false
   },
   {
-    "name": "Channel 5 International (576p)",
-    "logo": "https://i.imgur.com/KPXMa3U.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://178.134.1.158:8081/5channel/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Channel 7 (Kazakhstan) (576p)",
     "logo": "https://i.imgur.com/LebKU09.png",
     "country": "",
@@ -3353,7 +3344,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://176.118.197.101/Che/index.m3u8",
+    "url": "http://flussonic.linkintel.ru/che/index.m3u8",
     "isHttps": false
   },
   {
@@ -3804,15 +3795,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/64/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Kinopremyera (1080p)",
-    "logo": "https://i.imgur.com/s0UYT8T.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8",
     "isHttps": false
   },
   {
@@ -4860,15 +4842,6 @@
     "isHttps": false
   },
   {
-    "name": "REN TV International (576p)",
-    "logo": "https://i.imgur.com/gBjk9oF.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://178.134.1.158:8081/RENTV/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Retro (576p)",
     "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png",
     "country": "",
@@ -5163,15 +5136,6 @@
     "language": "",
     "group": "Family",
     "url": "http://stream.mcquack.net/138/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "STS International (576p)",
-    "logo": "https://i.imgur.com/mwiC0RG.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://178.134.1.158:8081/CTC/index.m3u8",
     "isHttps": false
   },
   {

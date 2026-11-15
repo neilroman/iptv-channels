@@ -981,15 +981,6 @@
     "isHttps": true
   },
   {
-    "name": "AmarUjala (1080p)",
-    "logo": "https://i.imgur.com/ndQ8LZp.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "America's Voice (720p)",
     "logo": "",
     "country": "",
@@ -1242,12 +1233,12 @@
     "isHttps": true
   },
   {
-    "name": "Asom Live 24 (576p)",
-    "logo": "https://papaji.freetvindia.com/media/channels/asom_live_24x7.png",
+    "name": "Assam Talks (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
+    "url": "https://cdn.pishow.tv/ott/live/258/master.m3u8",
     "isHttps": true
   },
   {
@@ -1527,15 +1518,6 @@
     "language": "",
     "group": "News",
     "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Black News Channel (1080p)",
-    "logo": "https://i.imgur.com/oX5oR4d.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3006,6 +2988,15 @@
     "isHttps": true
   },
   {
+    "name": "Franceinfo (720p)",
+    "logo": "https://i.imgur.com/eITXz6A.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Free Speech TV (720p)",
     "logo": "https://i.imgur.com/Qq6heRq.png",
     "country": "",
@@ -3885,6 +3876,15 @@
     "language": "",
     "group": "News",
     "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "LCI (1080p)",
+    "logo": "https://i.imgur.com/DED8EXs.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8451,15 +8451,6 @@
     "isHttps": false
   },
   {
-    "name": "Assam Talks (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "ATV+ (1080p)",
     "logo": "https://i.imgur.com/fY9256H.png",
     "country": "",
@@ -8766,15 +8757,6 @@
     "isHttps": false
   },
   {
-    "name": "Franceinfo (1080p)",
-    "logo": "https://i.imgur.com/eITXz6A.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://149.62.177.107:9999/franceinfo:/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Fresh News (720p)",
     "logo": "https://i.imgur.com/bV6sawt.png",
     "country": "",
@@ -8952,15 +8934,6 @@
     "language": "",
     "group": "News",
     "url": "http://103.250.28.74:8000/play/a01q/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "LCI (1080p)",
-    "logo": "https://i.imgur.com/DED8EXs.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://149.62.177.107:9999/LCI/index.m3u8",
     "isHttps": false
   },
   {
