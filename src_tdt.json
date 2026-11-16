@@ -702,15 +702,6 @@
     "isHttps": true
   },
   {
-    "name": "7TV Huelva",
-    "logo": "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Andalucía",
-    "url": "https://streaming004.gestec-video.com/hls/regional.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "7TV Jaén",
     "logo": "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200",
     "country": "",
@@ -1212,6 +1203,15 @@
     "language": "",
     "group": "Int. América",
     "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Canal 13 Canarias",
+    "logo": "https://graph.facebook.com/canal13canarias/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Canarias",
+    "url": "https://eu1.servers10.com:8081/8316/index.m3u8",
     "isHttps": true
   },
   {
@@ -2547,15 +2547,6 @@
     "isHttps": true
   },
   {
-    "name": "HCH Honduras",
-    "logo": "https://pbs.twimg.com/profile_images/1571129300623015936/-HJCmEk3_200x200.jpg",
-    "country": "",
-    "language": "",
-    "group": "Int. América",
-    "url": "https://stream.hch.hn/live/streams/stream1.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HispanTV Irán",
     "logo": "https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg",
     "country": "",
@@ -2772,7 +2763,7 @@
     "isHttps": true
   },
   {
-    "name": "La 2 Cat",
+    "name": "La 2Cat",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-PTZCuOfGtshG9A9z2phYEL97ppHhD0cug&s",
     "country": "",
     "language": "",
@@ -3133,7 +3124,7 @@
   },
   {
     "name": "Newsmax2 USA EN",
-    "logo": "https://graph.facebook.com/newsmax/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/Newsmax2/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. América",
@@ -3142,7 +3133,7 @@
   },
   {
     "name": "Newsmax2 USA EN",
-    "logo": "https://graph.facebook.com/newsmax/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/Newsmax2/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Int. América",
@@ -3380,7 +3371,7 @@
     "country": "",
     "language": "",
     "group": "Infantiles",
-    "url": "https://183.bozztv.com/ssh101/ssh101/pequeradiotv/playlist.m3u8",
+    "url": "https://vps-9f1e2662.vps.ovh.net/hls/antenitatv.m3u8",
     "isHttps": true
   },
   {
@@ -3781,7 +3772,7 @@
   },
   {
     "name": "RTL Radio Freccia Italia IT",
-    "logo": "https://graph.facebook.com/RTL102.5/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/radiofrecciaufficiale/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Musicales",
@@ -3790,7 +3781,7 @@
   },
   {
     "name": "RTL Zeta Italia IT",
-    "logo": "https://graph.facebook.com/RTL102.5/picture?width=200&height=200",
+    "logo": "https://graph.facebook.com/radiozeta.it/picture?width=200&height=200",
     "country": "",
     "language": "",
     "group": "Musicales",
@@ -3871,7 +3862,7 @@
   },
   {
     "name": "Saja Nansa TV",
-    "logo": "https://graph.facebook.com/ondaoccidental/picture?width=200&height=200",
+    "logo": "https://pbs.twimg.com/profile_images/2008930393261506561/gfTyMe9t_200x200.jpg",
     "country": "",
     "language": "",
     "group": "Cantabria",
@@ -3903,6 +3894,24 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Segunda estrella (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://ztnr.rtve.es/ztnr/17239088.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Segunda estrella (RTVE)",
+    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Eventuales",
+    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm29_main.m3u8",
     "isHttps": true
   },
   {
@@ -4208,7 +4217,7 @@
     "country": "",
     "language": "",
     "group": "Cataluña",
-    "url": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8",
+    "url": "https://ingest3-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8",
     "isHttps": true
   },
   {
