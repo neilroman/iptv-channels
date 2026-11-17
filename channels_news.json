@@ -306,12 +306,12 @@
     "isHttps": true
   },
   {
-    "name": "A24 Paraguay",
+    "name": "A24 Paraguay (1080p)",
     "logo": "https://i.imgur.com/XWBmjBk.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://tv.mitvparaguay.com/hls?type=hls&id=a24",
+    "url": "https://a24-live.argosworkspace.com/a24/index.m3u8",
     "isHttps": true
   },
   {
@@ -330,6 +330,15 @@
     "language": "",
     "group": "News",
     "url": "https://stream.ottlive.co.in/aajkikhabar/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Aaj Tak (720p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
     "isHttps": true
   },
   {
@@ -519,6 +528,15 @@
     "language": "",
     "group": "News",
     "url": "https://acentotv01.streamprolive.com/hls/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ACN TV (1080p)",
+    "logo": "https://i.imgur.com/aZyKsyN.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8",
     "isHttps": true
   },
   {
@@ -1473,6 +1491,15 @@
     "language": "",
     "group": "News",
     "url": "https://stream.ottlive.co.in/bharatexpress/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bharat Samachar (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
     "isHttps": true
   },
   {
@@ -3555,6 +3582,15 @@
     "isHttps": true
   },
   {
+    "name": "Informer TV (720p)",
+    "logo": "https://i.imgur.com/9wdEHRf.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Iran International (1080p)",
     "logo": "https://i.imgur.com/55RpaF3.png",
     "country": "",
@@ -4137,15 +4173,6 @@
     "language": "",
     "group": "News",
     "url": "https://fta.ektv.in/live/641/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Bharat Samachar (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://fta.ektv.in/live/97/97_0.m3u8",
     "isHttps": true
   },
   {
@@ -7263,12 +7290,12 @@
     "isHttps": true
   },
   {
-    "name": "Telenews TV",
+    "name": "Telenews TV (1080p)",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8",
+    "url": "https://stream1.28tv.online/TeleNewsCanal40/index.m3u8",
     "isHttps": true
   },
   {
@@ -8352,15 +8379,6 @@
     "isHttps": false
   },
   {
-    "name": "Aaj Tak (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Abb Takk (576p)",
     "logo": "https://i.imgur.com/D6IHRrP.png",
     "country": "",
@@ -9042,6 +9060,15 @@
     "language": "",
     "group": "News",
     "url": "http://103.253.74.210:7070/stream/124/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Markiza TN Live",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4e/TNLive2026.svg/revision/latest?cb=20261015062138",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-adhoc12/live_fullhd?offsetSeconds=0",
     "isHttps": false
   },
   {

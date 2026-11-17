@@ -369,12 +369,12 @@
     "isHttps": true
   },
   {
-    "name": "Cartoon Network (United States) (1080p)",
+    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://tvnow.hostless.app/cartoon-network.m3u8",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
     "isHttps": true
   },
   {
@@ -528,15 +528,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Disney Junior (United States) (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://tvnow.hostless.app/disney-junior.m3u8",
     "isHttps": true
   },
   {
@@ -1098,6 +1089,15 @@
     "isHttps": true
   },
   {
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (United States)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Little Stars Universe",
     "logo": "https://i.imgur.com/RasrA0s.png",
     "country": "",
@@ -1278,15 +1278,6 @@
     "isHttps": true
   },
   {
-    "name": "Nick Jr. (United States) (1080p)",
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://tvnow.hostless.app/nick-jr.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nick Jr. Club (Germany) (720p)",
     "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
     "country": "",
@@ -1374,15 +1365,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
-    "isHttps": true
-  },
-  {
-    "name": "Nickelodeon (United States) (1080p)",
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://tvnow.hostless.app/nickelodeon.m3u8",
     "isHttps": true
   },
   {
@@ -1500,15 +1482,6 @@
     "language": "",
     "group": "Kids",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Nicktoons (United States) (1080p)",
-    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://tvnow.hostless.app/nicktoons.m3u8",
     "isHttps": true
   },
   {
@@ -2709,12 +2682,12 @@
     "isHttps": false
   },
   {
-    "name": "Boing (Spain)",
+    "name": "Boing (Spain) (1080p)",
     "logo": "https://i.imgur.com/nUYuCAP.png",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://digisat.ddns.net:4022/udp/239.0.5.177:8208",
+    "url": "http://90.170.214.40:9700/stream/avatel/boing/master.m3u8",
     "isHttps": false
   },
   {
@@ -2796,6 +2769,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://88.218.242.237:8001/Cartoon_Classics",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network (Japan) HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying",
     "isHttps": false
   },
   {
@@ -3114,6 +3096,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Channel (Japan)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying",
+    "isHttps": false
+  },
+  {
     "name": "Disney Channel (Poland) HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "country": "",
@@ -3240,6 +3231,15 @@
     "isHttps": false
   },
   {
+    "name": "Disney Junior (United States) (480p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Disney XD (Poland) (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "country": "",
@@ -3282,15 +3282,6 @@
     "language": "",
     "group": "Kids",
     "url": "http://38.87.224.19:2220/play/a03u/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "FunBox",
-    "logo": "https://i.imgur.com/9MXM6jD.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://186.148.196.100:8000/play/a00d",
     "isHttps": false
   },
   {
@@ -3699,6 +3690,15 @@
     "isHttps": false
   },
   {
+    "name": "Nick Jr. (United States) (720p)",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nick/Comedy Central +1",
     "logo": "https://i.imgur.com/08ZUI9k.png",
     "country": "",
@@ -3762,6 +3762,15 @@
     "isHttps": false
   },
   {
+    "name": "Nickelodeon (Spain) HD",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nickelodeon Arabia (1080i)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -3804,6 +3813,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://178.76.68.60:7442/80/mpegts",
+    "isHttps": false
+  },
+  {
+    "name": "Nicktoons (United States) (720p)",
+    "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "isHttps": false
   },
   {

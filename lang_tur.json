@@ -135,6 +135,15 @@
     "isHttps": true
   },
   {
+    "name": "Automoto la chaine (720p)",
+    "logo": "https://i.imgur.com/ebf2uc7.png",
+    "country": "",
+    "language": "",
+    "group": "Auto",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BabyFirst (720p)",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "country": "",
@@ -213,6 +222,15 @@
     "language": "",
     "group": "General",
     "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Chasse & Peche (540p)",
+    "logo": "https://i.imgur.com/ZIS2ZQ1.png",
+    "country": "",
+    "language": "",
+    "group": "Outdoor",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -864,12 +882,12 @@
     "isHttps": true
   },
   {
-    "name": "MyZen TV (1080p)",
+    "name": "MyZen TV (720p)",
     "logo": "https://i.imgur.com/fIi8o0C.png",
     "country": "",
     "language": "",
     "group": "Relax",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1032,6 +1050,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Science & Vie TV (720p)",
+    "logo": "https://i.imgur.com/9ELsSMI.png",
+    "country": "",
+    "language": "",
+    "group": "Science",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {

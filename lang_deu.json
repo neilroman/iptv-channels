@@ -2232,6 +2232,15 @@
     "isHttps": true
   },
   {
+    "name": "Sport1 (Germany) (540p)",
+    "logo": "https://i.imgur.com/Tsjt7v9.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "SR Fernsehen (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/960px-SR_Fernsehen_Logo_2023.svg.png",
     "country": "",
@@ -2247,6 +2256,15 @@
     "language": "",
     "group": "General",
     "url": "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "SRF info (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2718,12 +2736,30 @@
     "isHttps": true
   },
   {
-    "name": "ZDFinfo (720p) [Geo-blocked]",
+    "name": "ZDF HD (540p)",
+    "logo": "https://i.imgur.com/rtLb6m9.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ZDFinfo (720p)",
     "logo": "https://i.imgur.com/vtq1IWp.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ZDFneo (1080p)",
+    "logo": "https://i.imgur.com/1JIIGgL.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3084,15 +3120,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "ZDFneo (720p)",
-    "logo": "https://i.imgur.com/1JIIGgL.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://5.180.164.197:8080/ZDFNEO/index.m3u8",
     "isHttps": false
   }
 ]

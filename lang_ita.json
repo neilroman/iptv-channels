@@ -117,6 +117,15 @@
     "isHttps": true
   },
   {
+    "name": "Antenna Sicilia (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Antenna Sud (720p)",
     "logo": "https://i.imgur.com/Sf0bA4P.png",
     "country": "",
@@ -177,6 +186,15 @@
     "language": "",
     "group": "General",
     "url": "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Bike Channel HD (1080p)",
+    "logo": "https://i.imgur.com/WrNxg2k.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://018e1901ad234f04ae16388eda6778e5.msvdn.net/live/S94763187/reFXDHQfBndw/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -243,12 +261,12 @@
     "isHttps": true
   },
   {
-    "name": "Canale 5 HD",
+    "name": "Canale 5 HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
+    "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -720,6 +738,15 @@
     "isHttps": true
   },
   {
+    "name": "Italia 1 HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Italia 2 (480p) [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png",
     "country": "",
@@ -972,12 +999,12 @@
     "isHttps": true
   },
   {
-    "name": "Mediaset Extra [Geo-blocked]",
+    "name": "Mediaset Extra (540p)",
     "logo": "https://i.imgur.com/G51Lvah.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1584,6 +1611,15 @@
     "isHttps": true
   },
   {
+    "name": "Rai 1 HD (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Rai 3 (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
     "country": "",
@@ -1734,6 +1770,15 @@
     "language": "",
     "group": "Undefined",
     "url": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Rete 4 HD (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2601,6 +2646,15 @@
     "isHttps": true
   },
   {
+    "name": "Vatican Media (720p)",
+    "logo": "https://i.imgur.com/9cUUx8H.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Video Rola (1080p)",
     "logo": "https://i.imgur.com/9w54eVy.png",
     "country": "",
@@ -2790,15 +2844,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"General\",Italia 1 HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "http://185.227.34.62/stream/21/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Boing Plus",
     "logo": "https://i.imgur.com/STbfHwE.png",
     "country": "",
@@ -2904,15 +2949,6 @@
     "language": "",
     "group": "Undefined",
     "url": "http://95.141.36.9:8080/stream/170/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rete 4 HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://185.227.34.62/stream/14/index.m3u8",
     "isHttps": false
   },
   {

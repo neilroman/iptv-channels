@@ -441,6 +441,24 @@
     "isHttps": true
   },
   {
+    "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
+    "logo": "https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
+    "logo": "https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Happy Channel HD (1080i)",
     "logo": "https://i.imgur.com/kpFaiku.png",
     "country": "",
@@ -861,6 +879,15 @@
     "language": "",
     "group": "General",
     "url": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NBA AntenaPlay (576p)",
+    "logo": "https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1626,6 +1653,33 @@
     "language": "",
     "group": "General",
     "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Prima Sport 2 HD",
+    "logo": "https://i.imgur.com/hROcepe.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3381201599",
+    "isHttps": false
+  },
+  {
+    "name": "Prima Sport 3 HD",
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2762629881",
+    "isHttps": false
+  },
+  {
+    "name": "Prima Sport 4 HD",
+    "logo": "https://i.imgur.com/lqaIIhc.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3194919143",
     "isHttps": false
   },
   {

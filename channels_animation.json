@@ -117,12 +117,12 @@
     "isHttps": true
   },
   {
-    "name": "Cartoon Network (United States) (1080p)",
+    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://tvnow.hostless.app/cartoon-network.m3u8",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
     "isHttps": true
   },
   {
@@ -366,6 +366,15 @@
     "language": "",
     "group": "Animation",
     "url": "https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Mangas (720p)",
+    "logo": "https://i.imgur.com/wmmEOza.png",
+    "country": "",
+    "language": "",
+    "group": "Animation",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1284,6 +1293,15 @@
     "language": "",
     "group": "Animation;General;Kids",
     "url": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network (Japan) HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying",
     "isHttps": false
   },
   {

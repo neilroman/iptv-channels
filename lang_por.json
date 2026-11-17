@@ -2025,12 +2025,12 @@
     "isHttps": true
   },
   {
-    "name": "RTP Mundo (504p) [Not 24/7]",
+    "name": "RTP Mundo (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3363,15 +3363,6 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "CazeTV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
     "isHttps": false
   },
   {

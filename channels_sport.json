@@ -864,6 +864,24 @@
     "isHttps": true
   },
   {
+    "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
+    "logo": "https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
+    "logo": "https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Fox Sports 2 (720p)",
     "logo": "https://imgx.fubo.tv/station_logos/fs2_c.png",
     "country": "",
@@ -1419,6 +1437,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "NBA AntenaPlay (576p)",
+    "logo": "https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2004,6 +2031,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
+    "isHttps": true
+  },
+  {
+    "name": "Sport1 (Germany) (540p)",
+    "logo": "https://i.imgur.com/Tsjt7v9.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2844,15 +2880,6 @@
     "isHttps": false
   },
   {
-    "name": "CazeTV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "CCTV-16 HD (1080p)",
     "logo": "https://i.imgur.com/ZzV6JQp.png",
     "country": "",
@@ -2940,15 +2967,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/DAZN_5/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Deportes TVC (1080p)",
-    "logo": "https://i.imgur.com/Y1t8xkL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
     "isHttps": false
   },
   {
@@ -3348,15 +3366,6 @@
     "isHttps": false
   },
   {
-    "name": "Fast Sports (1080p)",
-    "logo": "https://i.imgur.com/VmaYUcq.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://s7.merlive.am/Fastsports/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "FB TV",
     "logo": "https://i.imgur.com/qBVqtYd.png",
     "country": "",
@@ -3528,7 +3537,7 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport1",
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport1 (Czech Republic)",
     "logo": "https://i.imgur.com/X5X3tKC.png",
     "country": "",
     "language": "",
@@ -4212,6 +4221,33 @@
     "isHttps": false
   },
   {
+    "name": "Prima Sport 2 HD",
+    "logo": "https://i.imgur.com/hROcepe.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3381201599",
+    "isHttps": false
+  },
+  {
+    "name": "Prima Sport 3 HD",
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2762629881",
+    "isHttps": false
+  },
+  {
+    "name": "Prima Sport 4 HD",
+    "logo": "https://i.imgur.com/lqaIIhc.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3194919143",
+    "isHttps": false
+  },
+  {
     "name": "Prima Sport Czechia",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614",
     "country": "",
@@ -4446,7 +4482,7 @@
     "isHttps": false
   },
   {
-    "name": "Sport1 HD",
+    "name": "Sport1 (Czech Republic) HD",
     "logo": "https://i.imgur.com/X5X3tKC.png",
     "country": "",
     "language": "",

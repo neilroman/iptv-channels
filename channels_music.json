@@ -2178,12 +2178,12 @@
     "isHttps": true
   },
   {
-    "name": "M6 Music",
+    "name": "M6 Music (1080p)",
     "logo": "",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2364,6 +2364,15 @@
     "language": "",
     "group": "Music",
     "url": "https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Melody (720p)",
+    "logo": "https://i.imgur.com/9GVyQ6x.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4263,6 +4272,15 @@
     "language": "",
     "group": "Music",
     "url": "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smash Radio TT (720p)",
+    "logo": "https://webtv.smashradiott.com/__l5e/assets-v1/a6ab6eca-c330-4710-8e62-8dc07b29e91c/smash-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Music",
+    "url": "https://nginx.smashradiott.com/hls/program/master.m3u8",
     "isHttps": true
   },
   {
@@ -6291,7 +6309,7 @@
     "isHttps": false
   },
   {
-    "name": "Hindi Hits (1080p)",
+    "name": "Hindi Hits SD (1080p)",
     "logo": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
     "country": "",
     "language": "",
