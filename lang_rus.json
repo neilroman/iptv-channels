@@ -288,7 +288,7 @@
     "isHttps": true
   },
   {
-    "name": "Belarus-4 Gomel",
+    "name": "Belarus-4 Gomel (1080p)",
     "logo": "https://i.imgur.com/XNkQrMr.png",
     "country": "",
     "language": "",
@@ -851,7 +851,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+    "url": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -927,7 +927,7 @@
     "isHttps": true
   },
   {
-    "name": "Hit FM",
+    "name": "Hit FM (1080p)",
     "logo": "https://i.imgur.com/QwqM5j6.png",
     "country": "",
     "language": "",
@@ -1296,15 +1296,6 @@
     "isHttps": true
   },
   {
-    "name": "Match! Planeta (576p)",
-    "logo": "https://i.imgur.com/vhyMb9D.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "Millet (720p)",
     "logo": "https://i.imgur.com/hUjLRLy.png",
     "country": "",
@@ -1512,15 +1503,6 @@
     "isHttps": true
   },
   {
-    "name": "Naxcivan TV (720p)",
-    "logo": "https://i.imgur.com/8yLFkdE.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://str2.yodacdn.net/ntv/video.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Nevskiy (1080p)",
     "logo": "https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg",
     "country": "",
@@ -1719,7 +1701,7 @@
     "isHttps": true
   },
   {
-    "name": "OTV-Prim",
+    "name": "OTV-Prim (720p)",
     "logo": "https://i.imgur.com/2zd8trG.png",
     "country": "",
     "language": "",
@@ -1764,7 +1746,7 @@
     "isHttps": true
   },
   {
-    "name": "Pervyy Respublikanskiy",
+    "name": "Pervyy Respublikanskiy (576p)",
     "logo": "https://i.imgur.com/ti4OMBv.png",
     "country": "",
     "language": "",
@@ -2754,6 +2736,15 @@
     "isHttps": true
   },
   {
+    "name": "Vitebsk (720p)",
+    "logo": "https://i.imgur.com/qr26qQn.png",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Vitrina TV (720p)",
     "logo": "https://i.imgur.com/lzQsVfn.png",
     "country": "",
@@ -2894,7 +2885,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://stream.mcquack.net/263/index.m3u8",
+    "url": "http://s1.merlive.am/black/index.m3u8",
     "isHttps": false
   },
   {
@@ -4209,6 +4200,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://31.148.48.15/Match_Igra_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Match! Planeta (576p)",
+    "logo": "https://i.imgur.com/vhyMb9D.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://s1.merlive.am/matchplaneta/index.m3u8",
     "isHttps": false
   },
   {
@@ -5706,15 +5706,6 @@
     "isHttps": false
   },
   {
-    "name": "Vitebsk (576p)",
-    "logo": "https://i.imgur.com/qr26qQn.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "http://46.53.200.153:7777/play/a00h/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Vkus (576p)",
     "logo": "https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png",
     "country": "",
@@ -5774,7 +5765,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://stream.mcquack.net/225/index.m3u8",
+    "url": "http://s1.merlive.am/Jivaiapriroda/index.m3u8",
     "isHttps": false
   },
   {

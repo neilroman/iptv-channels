@@ -1035,15 +1035,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment;Kids\",Unique TV (576p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment;Kids",
-    "url": "https://fta.ektv.in/live/688/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (Brazil) (480p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
@@ -2070,12 +2061,12 @@
     "isHttps": true
   },
   {
-    "name": "Sony Yay! (576p)",
+    "name": "Sony Yay! (1080p)",
     "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+    "url": "https://r2.amml.in/sony-yay/live.m3u8",
     "isHttps": true
   },
   {
@@ -2133,7 +2124,7 @@
     "isHttps": true
   },
   {
-    "name": "Super!",
+    "name": "Super! (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png",
     "country": "",
     "language": "",
@@ -2295,12 +2286,12 @@
     "isHttps": true
   },
   {
-    "name": "Tom Sings TV (1080p)",
+    "name": "Tom Sings TV (576p)",
     "logo": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8",
+    "url": "https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8",
     "isHttps": true
   },
   {
@@ -2777,7 +2768,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying",
+    "url": "http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun",
     "isHttps": false
   },
   {
@@ -3101,7 +3092,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying",
+    "url": "http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun",
     "isHttps": false
   },
   {
@@ -3659,7 +3650,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
+    "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
     "isHttps": false
   },
   {
@@ -3731,7 +3722,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+    "url": "http://103.135.253.32:8080/NICK/index.m3u8",
     "isHttps": false
   },
   {
@@ -3762,7 +3753,7 @@
     "isHttps": false
   },
   {
-    "name": "Nickelodeon (Spain) HD",
+    "name": "Nickelodeon (Spain) HD (1080p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
     "language": "",
@@ -4083,6 +4074,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://31.148.48.15/Detskiy/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Unique TV (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;Kids",
+    "url": "http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass",
     "isHttps": false
   },
   {

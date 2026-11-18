@@ -932,7 +932,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
+    "url": "https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8",
     "isHttps": true
   },
   {
@@ -1575,15 +1575,6 @@
     "isHttps": true
   },
   {
-    "name": "AnewZ TV",
-    "logo": "https://i.imgur.com/Lwgdbuu.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Angel TV Africa (720p)",
     "logo": "https://i.imgur.com/qKLEGU7.png",
     "country": "",
@@ -1710,12 +1701,12 @@
     "isHttps": true
   },
   {
-    "name": "AntenaPlay Events (576i) [Not 24/7]",
+    "name": "AntenaPlay Events (576p) [Not 24/7]",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8",
     "isHttps": true
   },
   {
@@ -7461,6 +7452,15 @@
     "isHttps": true
   },
   {
+    "name": "Eurosport 1 UK (720p)",
+    "logo": "https://i.imgur.com/olQJgm7.png",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Eurosport 2 UK",
     "logo": "https://i.imgur.com/f56dHgR.png",
     "country": "",
@@ -11295,7 +11295,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Sci Fi (Serbia)",
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Sci Fi (Serbia) (720p)",
     "logo": "https://i.imgur.com/FPumwfg.png",
     "country": "",
     "language": "",
@@ -11466,7 +11466,7 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",FightBox",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",FightBox (720p)",
     "logo": "https://i.imgur.com/mRsnztA.png",
     "country": "",
     "language": "",
@@ -13734,15 +13734,6 @@
     "isHttps": true
   },
   {
-    "name": "Naxcivan TV (720p)",
-    "logo": "https://i.imgur.com/8yLFkdE.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://str2.yodacdn.net/ntv/video.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "NBC 1 [Not 24/7]",
     "logo": "https://i.imgur.com/ykQerMH.png",
     "country": "",
@@ -14153,7 +14144,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8",
+    "url": "https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8",
     "isHttps": true
   },
   {
@@ -14405,7 +14396,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8",
+    "url": "https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls.m3u8",
     "isHttps": true
   },
   {
@@ -14976,7 +14967,7 @@
     "isHttps": true
   },
   {
-    "name": "OAN Plus KPVM-LD",
+    "name": "OAN Plus KPVM-LD (1080p)",
     "logo": "https://i.imgur.com/T9VhMAD.png",
     "country": "",
     "language": "",
@@ -15108,6 +15099,15 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://oitnhls.wns.live/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "On Patrol: Live (720p)",
+    "logo": "https://i.imgur.com/OAThfQx.png",
+    "country": "",
+    "language": "",
+    "group": "Series",
+    "url": "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -17901,6 +17901,15 @@
     "isHttps": true
   },
   {
+    "name": "Reelz Famous & Infamous (1080p)",
+    "logo": "https://i.imgur.com/czrTtNK.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Reno 911",
     "logo": "https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png",
     "country": "",
@@ -18405,7 +18414,7 @@
     "isHttps": true
   },
   {
-    "name": "SABC Lehae [Geo-blocked]",
+    "name": "SABC Lehae (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/YhdnZHH.png",
     "country": "",
     "language": "",
@@ -18626,7 +18635,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8",
+    "url": "https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8",
     "isHttps": true
   },
   {
@@ -20430,7 +20439,7 @@
     "isHttps": true
   },
   {
-    "name": "TBN Armenia",
+    "name": "TBN Armenia (1080p)",
     "logo": "https://i.imgur.com/U5XsT3j.png",
     "country": "",
     "language": "",
@@ -21735,12 +21744,12 @@
     "isHttps": true
   },
   {
-    "name": "Tom Sings TV (1080p)",
+    "name": "Tom Sings TV (576p)",
     "logo": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8",
+    "url": "https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8",
     "isHttps": true
   },
   {
@@ -23486,7 +23495,7 @@
     "country": "",
     "language": "",
     "group": "Weather",
-    "url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+    "url": "https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8",
     "isHttps": true
   },
   {
@@ -23711,7 +23720,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8",
+    "url": "https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8",
     "isHttps": true
   },
   {
@@ -24566,7 +24575,7 @@
     "country": "",
     "language": "",
     "group": "Animation;Kids",
-    "url": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying",
+    "url": "http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun",
     "isHttps": false
   },
   {
@@ -24989,7 +24998,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying",
+    "url": "http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun",
     "isHttps": false
   },
   {
@@ -25155,15 +25164,6 @@
     "isHttps": false
   },
   {
-    "name": "Eurosport 1 UK (1080p)",
-    "logo": "https://i.imgur.com/olQJgm7.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://85.117.37.43/eurosport1/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Extrema TV (United States) (720p)",
     "logo": "https://i.imgur.com/Z1QVkqu.png",
     "country": "",
@@ -25200,7 +25200,7 @@
     "isHttps": false
   },
   {
-    "name": "FB TV",
+    "name": "FB TV (720p)",
     "logo": "https://i.imgur.com/qBVqtYd.png",
     "country": "",
     "language": "",
@@ -26096,7 +26096,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying",
+    "url": "http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun",
     "isHttps": false
   },
   {
@@ -26249,7 +26249,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
+    "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
     "isHttps": false
   },
   {

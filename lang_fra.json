@@ -387,6 +387,15 @@
     "isHttps": true
   },
   {
+    "name": "BFM TV (1080p)",
+    "logo": "https://i.imgur.com/YJCcczD.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "BFM2 (1080p)",
     "logo": "https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg",
     "country": "",
@@ -1683,12 +1692,12 @@
     "isHttps": true
   },
   {
-    "name": "LCP (477p)",
+    "name": "LCP (720p)",
     "logo": "https://i.imgur.com/k7UImOJ.png",
     "country": "",
     "language": "",
     "group": "Legislative",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8",
+    "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1863,15 +1872,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"News\",BFM TV (1080p)",
-    "logo": "https://i.imgur.com/YJCcczD.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"News\",BFM Var (1080p)",
     "logo": "https://i.imgur.com/vp1oVj3.png",
     "country": "",
@@ -1887,15 +1887,6 @@
     "language": "",
     "group": "Sports",
     "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",FashionTV (India) (576p)",
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "https://fta.ektv.in/live/144/144_0.m3u8",
     "isHttps": true
   },
   {
@@ -1959,6 +1950,15 @@
     "language": "",
     "group": "Music",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "M6 SD (1080p)",
+    "logo": "https://i.imgur.com/7GVp3fW.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3213,7 +3213,7 @@
     "isHttps": true
   },
   {
-    "name": "TF1",
+    "name": "TF1 (1080p)",
     "logo": "https://i.imgur.com/QxHt9NC.png",
     "country": "",
     "language": "",
@@ -3852,6 +3852,15 @@
     "isHttps": false
   },
   {
+    "name": "FashionTV (India) (576p)",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://163.61.226.31:9981/stream/channelid/448803688?profile=pass",
+    "isHttps": false
+  },
+  {
     "name": "FashionTV (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
     "country": "",
@@ -4095,7 +4104,7 @@
     "isHttps": false
   },
   {
-    "name": "PLEX TV",
+    "name": "PLEX TV (720p)",
     "logo": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
     "country": "",
     "language": "",

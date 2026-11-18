@@ -36,12 +36,12 @@
     "isHttps": true
   },
   {
-    "name": "12tv (720p)",
+    "name": "12tv (1080p)",
     "logo": "https://i.imgur.com/VSTgXsh.png",
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
+    "url": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
     "isHttps": true
   },
   {
@@ -140,7 +140,7 @@
     "country": "",
     "language": "",
     "group": "News;Public",
-    "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
     "isHttps": true
   },
   {
@@ -149,7 +149,7 @@
     "country": "",
     "language": "",
     "group": "News;Public",
-    "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8",
     "isHttps": true
   },
   {
@@ -189,7 +189,7 @@
     "isHttps": true
   },
   {
-    "name": "5tv",
+    "name": "5tv (608p)",
     "logo": "https://i.imgur.com/mSn7ACs.png",
     "country": "",
     "language": "",
@@ -797,7 +797,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0",
+    "url": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?ads.gdpr=0&ap=1&app_name=Whale+TV%2B&app_store=Browser&brand_name=&cb=&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&content_episode=&content_genre=News&content_id=&content_livestream=1&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_season=&content_series=&content_title=&coppa=0&device_make=&device_model=&did=&dnt=&dur=&gdpr=1&gdpr_consent=&h=&ic=IAB1&id=10&ip=&language=&lmt=&max_dur=30&min_dur=5&mute=0&partner=whaletv&placement=1&rating=12%2B&skip=0&tag_id=139913&tv_language=&tv_model=&tv_vendor=&ua=&url=&us_privacy=1YNN&version=12&w=&wtv_channel_id=0470",
     "isHttps": true
   },
   {
@@ -2259,7 +2259,7 @@
     "isHttps": true
   },
   {
-    "name": "Canal 2 Gualeguay",
+    "name": "Canal 2 Gualeguay (1080p)",
     "logo": "https://i.imgur.com/TOlncyp.png",
     "country": "",
     "language": "",
@@ -2754,7 +2754,7 @@
     "isHttps": true
   },
   {
-    "name": "Canal 7 Jujuy",
+    "name": "Canal 7 Jujuy (720p)",
     "logo": "https://i.imgur.com/K0jk8p4.png",
     "country": "",
     "language": "",
@@ -2934,7 +2934,7 @@
     "isHttps": true
   },
   {
-    "name": "Canal 9 Link",
+    "name": "Canal 9 Link (720p)",
     "logo": "https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg",
     "country": "",
     "language": "",
@@ -4230,7 +4230,7 @@
     "isHttps": true
   },
   {
-    "name": "Colome TV [Not 24/7]",
+    "name": "Colome TV (614p) [Not 24/7]",
     "logo": "https://colometv.com/assets/images/logo.png",
     "country": "",
     "language": "",
@@ -4482,7 +4482,7 @@
     "isHttps": true
   },
   {
-    "name": "Correa Radiovision",
+    "name": "Correa Radiovision (720p)",
     "logo": "https://i.imgur.com/bNCGzjf.jpeg",
     "country": "",
     "language": "",
@@ -4491,7 +4491,7 @@
     "isHttps": true
   },
   {
-    "name": "Corrientes TV",
+    "name": "Corrientes TV (352p)",
     "logo": "https://i.imgur.com/7PBkvRp.png",
     "country": "",
     "language": "",
@@ -5148,7 +5148,7 @@
     "isHttps": true
   },
   {
-    "name": "Eco TV",
+    "name": "Eco TV (1080p)",
     "logo": "https://i.imgur.com/V2ldYVd.jpg",
     "country": "",
     "language": "",
@@ -5535,7 +5535,7 @@
     "isHttps": true
   },
   {
-    "name": "Enlace Juvenil",
+    "name": "Enlace Juvenil (720p)",
     "logo": "https://i.imgur.com/GfpPQ5D.png",
     "country": "",
     "language": "",
@@ -5792,7 +5792,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://iptv.bitred.cl/euronews/index.m3u8",
+    "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8",
     "isHttps": true
   },
   {
@@ -6269,7 +6269,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://tv.mitvparaguay.com/hls?type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945&referer=https%3A//gentv.desdepylabs.com/External/gentv&origin=https%3A//www.gen.com.py",
+    "url": "https://tv.mitvparaguay.com/hls?origin=https%3A//www.gen.com.py&referer=https%3A//gentv.desdepylabs.com/External/gentv&type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945",
     "isHttps": true
   },
   {
@@ -8415,15 +8415,6 @@
     "isHttps": true
   },
   {
-    "name": "MakroDigital Television (1080p)",
-    "logo": "https://makrodigitaltelevision.com/logo.jpg",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mana Iglesia Online (1080p) [Not 24/7]",
     "logo": "https://i.imgur.com/0IUvfcJ.png",
     "country": "",
@@ -9873,7 +9864,7 @@
     "isHttps": true
   },
   {
-    "name": "Nuestra Imagen TV",
+    "name": "Nuestra Imagen TV (720p)",
     "logo": "https://i.imgur.com/sknLXZI.jpeg",
     "country": "",
     "language": "",
@@ -13077,7 +13068,7 @@
     "isHttps": true
   },
   {
-    "name": "Siembra TV (Venezuela) [Not 24/7]",
+    "name": "Siembra TV (Venezuela) (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/zRX91Xr.png",
     "country": "",
     "language": "",
@@ -13505,7 +13496,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://tv.webmedialive.com/sulatv/live/playlist.m3u8",
+    "url": "https://restreamer.multicable.hn/memfs/8a0f3d8a-0475-4169-89f2-f8facf11b723.m3u8",
     "isHttps": true
   },
   {
@@ -16074,15 +16065,6 @@
     "isHttps": true
   },
   {
-    "name": "TVes (1080p)",
-    "logo": "https://i.imgur.com/QX5DVUB.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "TVGracia",
     "logo": "https://i.imgur.com/tMl4ISO.png",
     "country": "",
@@ -17829,7 +17811,7 @@
     "isHttps": false
   },
   {
-    "name": "AXN (Spain) HD",
+    "name": "AXN (Spain) HD (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "country": "",
     "language": "",
@@ -19166,7 +19148,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://190.61.47.54:8000/play/a004/index.m3u8",
+    "url": "http://181.78.211.244:8005/play/a08q/index.m3u8",
     "isHttps": false
   },
   {
@@ -19571,7 +19553,7 @@
     "country": "",
     "language": "",
     "group": "Lifestyle",
-    "url": "http://190.61.47.54:8000/play/a01n/index.m3u8",
+    "url": "http://181.78.211.244:8005/play/a06w/index.m3u8",
     "isHttps": false
   },
   {
@@ -19881,6 +19863,15 @@
     "isHttps": false
   },
   {
+    "name": "MakroDigital Television (1080p)",
+    "logo": "https://makrodigitaltelevision.com/logo.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://205.235.6.29:8000/play/a0wp/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Marca TV (1080p)",
     "logo": "https://i.imgur.com/ez1NxwJ.jpg",
     "country": "",
@@ -20021,7 +20012,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://181.78.12.119:16123/play/ch55/index.m3u8",
+    "url": "http://38.134.250.110:8000/play/a02m/index.m3u8",
     "isHttps": false
   },
   {
@@ -20205,7 +20196,7 @@
     "isHttps": false
   },
   {
-    "name": "Nickelodeon (Spain) HD",
+    "name": "Nickelodeon (Spain) HD (1080p)",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "country": "",
     "language": "",
@@ -20552,7 +20543,7 @@
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "http://45.171.64.30:6060/play/a04k/index.m3u8",
+    "url": "http://45.166.93.156:9999/play/a0ff/index.m3u8",
     "isHttps": false
   },
   {
@@ -20624,7 +20615,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "http://45.70.201.81:8000/play/a018/index.m3u8",
+    "url": "http://38.87.224.19:2220/play/a049/index.m3u8",
     "isHttps": false
   },
   {
@@ -21380,7 +21371,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://209.45.101.130:8040/play/a03s/index.m3u8",
+    "url": "http://205.235.6.29:8000/play/a0xa/index.m3u8",
     "isHttps": false
   },
   {
@@ -21579,6 +21570,15 @@
     "language": "",
     "group": "Undefined",
     "url": "http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51",
+    "isHttps": false
+  },
+  {
+    "name": "TVes (1080p)",
+    "logo": "https://i.imgur.com/QX5DVUB.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://45.226.205.96:48000/play/a0dn/index.m3u8",
     "isHttps": false
   },
   {

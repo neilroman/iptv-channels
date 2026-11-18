@@ -126,12 +126,12 @@
     "isHttps": true
   },
   {
-    "name": "AntenaPlay Events (576i) [Not 24/7]",
+    "name": "AntenaPlay Events (576p) [Not 24/7]",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8",
     "isHttps": true
   },
   {
@@ -297,7 +297,7 @@
     "isHttps": true
   },
   {
-    "name": "Columna TV",
+    "name": "Columna TV (720p)",
     "logo": "https://i.imgur.com/C5dIgsc.png",
     "country": "",
     "language": "",
@@ -477,7 +477,7 @@
     "isHttps": true
   },
   {
-    "name": "Hit FM",
+    "name": "Hit FM (1080p)",
     "logo": "https://i.imgur.com/QwqM5j6.png",
     "country": "",
     "language": "",
@@ -954,7 +954,7 @@
     "isHttps": true
   },
   {
-    "name": "PROFI 24 TV",
+    "name": "PROFI 24 TV (720p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Profi_24_TV.png/revision/latest?cb=20251020190432",
     "country": "",
     "language": "",
@@ -1521,15 +1521,6 @@
     "isHttps": true
   },
   {
-    "name": "Voyo Sport 1 (1080i)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Zece TV",
     "logo": "https://zece.tv/wp-content/uploads/2024/06/mic.jpg.webp",
     "country": "",
@@ -1607,7 +1598,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://92.180.26.103:80/stream/28/index.m3u8",
+    "url": "http://92.180.26.103/stream/28/index.m3u8",
     "isHttps": false
   },
   {
@@ -1769,7 +1760,7 @@
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "http://92.180.26.103:80/stream/93/index.m3u8",
+    "url": "http://92.180.26.103/stream/93/index.m3u8",
     "isHttps": false
   },
   {
@@ -1851,6 +1842,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0",
+    "isHttps": false
+  },
+  {
+    "name": "Voyo Sport 1 (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://34.92.70.128/VOYO-SPORT-1/index.m3u8",
     "isHttps": false
   }
 ]
