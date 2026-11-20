@@ -45,15 +45,6 @@
     "isHttps": true
   },
   {
-    "name": "Discover Pakistan (1080p)",
-    "logo": "https://i.imgur.com/IJH47fJ.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "DroneTV (1080p)",
     "logo": "https://i.ibb.co/S71C9RJC/dronetv.webp",
     "country": "",
@@ -81,12 +72,12 @@
     "isHttps": true
   },
   {
-    "name": "GoTraveler (720p) [Geo-blocked]",
+    "name": "GoTraveler (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/IaRcN1G.png",
     "country": "",
     "language": "",
     "group": "Travel",
-    "url": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
+    "url": "https://amg09501-questar-amg09501c1-vizio-us-2907.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-vizious/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -420,6 +411,15 @@
     "language": "",
     "group": "Travel",
     "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discover Pakistan (1080p)",
+    "logo": "https://i.imgur.com/IJH47fJ.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://116.90.120.149:8000/play/a0s8/index.m3u8",
     "isHttps": false
   },
   {

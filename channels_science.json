@@ -90,6 +90,15 @@
     "isHttps": true
   },
   {
+    "name": "Popular Science (1080p) [Geo-blocked]",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png",
+    "country": "",
+    "language": "",
+    "group": "Science",
+    "url": "https://amg13231-actve-amg13231c5-vizio-us-6143.playouts.now.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Science & Vie TV (720p)",
     "logo": "https://i.imgur.com/9ELsSMI.png",
     "country": "",
@@ -131,7 +140,7 @@
     "country": "",
     "language": "",
     "group": "Science",
-    "url": "http://stream.mcquack.net/180/index.m3u8",
+    "url": "http://116.90.120.149:8000/play/a0ao/index.m3u8",
     "isHttps": false
   },
   {
@@ -150,6 +159,15 @@
     "language": "",
     "group": "Education;Science",
     "url": "http://live.cztv.cc:85/live/sjpd.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Discovery Science (576p)",
+    "logo": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Science",
+    "url": "http://116.90.120.149:8000/play/a11b/index.m3u8",
     "isHttps": false
   },
   {

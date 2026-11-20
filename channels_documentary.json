@@ -109,11 +109,11 @@
   },
   {
     "name": "BBC Earth US (1080p)",
-    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+    "url": "https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -225,12 +225,12 @@
     "isHttps": true
   },
   {
-    "name": "Crime 360 (720p)",
+    "name": "Crime 360 (1080p)",
     "logo": "https://i.imgur.com/IjtaG1m.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8",
+    "url": "https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -252,12 +252,12 @@
     "isHttps": true
   },
   {
-    "name": "Danger TV (720p)",
+    "name": "Danger TV (1080p)",
     "logo": "https://i.imgur.com/4aTk45R.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "url": "https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -495,15 +495,6 @@
     "isHttps": true
   },
   {
-    "name": "History TV18 HD (1080p) [Geo-blocked]",
-    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "HRT 3 HD (720p) [Geo-blocked]",
     "logo": "https://i.imgur.com/4OrOJRx.png",
     "country": "",
@@ -631,7 +622,7 @@
   },
   {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Turkiye",
-    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
     "country": "",
     "language": "",
     "group": "Documentary",
@@ -1440,12 +1431,12 @@
     "isHttps": true
   },
   {
-    "name": "Smotrim 100% Fakty (720p)",
+    "name": "Smotrim 100% Fakty (1080p)",
     "logo": "https://i.imgur.com/dB3cJzO.png",
     "country": "",
     "language": "",
     "group": "Documentary",
-    "url": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+    "url": "https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8",
     "isHttps": true
   },
   {
@@ -1639,7 +1630,7 @@
   },
   {
     "name": "BBC Earth Czechia",
-    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
     "country": "",
     "language": "",
     "group": "Documentary",
@@ -1719,6 +1710,15 @@
     "isHttps": false
   },
   {
+    "name": "History 2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://116.90.120.149:8000/play/a0l1/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "History 2 Latin America (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
     "country": "",
@@ -1752,6 +1752,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "History TV18 HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://116.90.120.149:8000/play/a12z/index.m3u8",
     "isHttps": false
   },
   {
@@ -1791,6 +1800,15 @@
     "isHttps": false
   },
   {
+    "name": "Investigation Discovery (India) (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://116.90.120.149:8000/play/a119/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Investigation Discovery (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
     "country": "",
@@ -1819,7 +1837,7 @@
   },
   {
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Hungary",
-    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
     "country": "",
     "language": "",
     "group": "Documentary",
@@ -2052,6 +2070,15 @@
     "isHttps": false
   },
   {
+    "name": "National Geographic (India) HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://116.90.120.149:8000/play/a115/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "National Geographic (Mexico) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "country": "",
@@ -2103,6 +2130,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "National Geographic Wild (India) HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://116.90.120.149:8000/play/a11h/index.m3u8",
     "isHttps": false
   },
   {
@@ -2184,6 +2220,15 @@
     "language": "",
     "group": "Documentary",
     "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sony BBC Earth HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://116.90.120.149:8000/play/a130/index.m3u8",
     "isHttps": false
   },
   {

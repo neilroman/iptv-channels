@@ -216,15 +216,6 @@
     "isHttps": true
   },
   {
-    "name": "4 SiDES TV (1080p)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://stream.ottlive.co.in/4sidestv/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "4Dmas Noticias TV (1080p) [Not 24/7]",
     "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
     "country": "",
@@ -2232,6 +2223,15 @@
     "isHttps": true
   },
   {
+    "name": "CNN Headlines (1080p) [Geo-blocked]",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "CNN International (1080p)",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png",
     "country": "",
@@ -3879,6 +3879,15 @@
     "isHttps": true
   },
   {
+    "name": "Kurir TV (720p)",
+    "logo": "https://i.imgur.com/HBPnUD5.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Kyiv (1080p)",
     "logo": "https://i.imgur.com/TVuCY4N.png",
     "country": "",
@@ -4515,6 +4524,15 @@
     "language": "",
     "group": "News",
     "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Local Now (720p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/500px-LocalNow_logo_2020.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://localnow-vizio.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6764,7 +6782,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
+    "url": "https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8",
     "isHttps": true
   },
   {
@@ -8154,6 +8172,15 @@
     "isHttps": true
   },
   {
+    "name": "WFTS-TV 32.1 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "World Punjabi TV (1080p)",
     "logo": "https://papaji.freetvindia.com/media/World_Punjabi_TV.png",
     "country": "",
@@ -8470,7 +8497,7 @@
   },
   {
     "name": "ATV+ (1080p)",
-    "logo": "https://i.imgur.com/fY9256H.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",
     "country": "",
     "language": "",
     "group": "News",
@@ -8910,7 +8937,7 @@
     "isHttps": false
   },
   {
-    "name": "Kapaz TV",
+    "name": "Kapaz TV [Geo-blocked]",
     "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
     "country": "",
     "language": "",
@@ -9334,7 +9361,7 @@
   },
   {
     "name": "RPP TV (1080p)",
-    "logo": "https://i.imgur.com/oBz3CgE.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png",
     "country": "",
     "language": "",
     "group": "News",

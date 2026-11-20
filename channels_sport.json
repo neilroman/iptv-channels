@@ -648,15 +648,6 @@
     "isHttps": true
   },
   {
-    "name": "Eurosport (India) HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Eurosport 1",
     "logo": "https://i.imgur.com/olQJgm7.png",
     "country": "",
@@ -792,12 +783,12 @@
     "isHttps": true
   },
   {
-    "name": "FIFA+ (720p)",
+    "name": "FIFA+ (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
+    "url": "https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1440,12 +1431,12 @@
     "isHttps": true
   },
   {
-    "name": "Monster Jam (720p)",
+    "name": "Monster Jam (1080p)",
     "logo": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
     "country": "",
     "language": "",
     "group": "Outdoor;Sports",
-    "url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
+    "url": "https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1662,6 +1653,15 @@
     "language": "",
     "group": "Sports",
     "url": "https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pickleball TV (1080p) [Geo-blocked]",
+    "logo": "https://pickleballtv.com/wp-content/themes/bootscore-child-main/img/logo/full-logo.svg",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2241,21 +2241,12 @@
     "isHttps": true
   },
   {
-    "name": "Stadium (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
+    "name": "Stadium (1080p)",
+    "logo": "https://i.imgur.com/SnZOiER.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Star Sports 2 Telugu HD (576p)",
-    "logo": "https://i.imgur.com/m7DvvqF.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+    "url": "https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2404,7 +2395,7 @@
   },
   {
     "name": "Tigo Sports (Bolivia) (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/6wkmgGM.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -2674,7 +2665,7 @@
   },
   {
     "name": "VTV6 (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp",
     "country": "",
     "language": "",
     "group": "Sports",
@@ -2790,16 +2781,7 @@
     "isHttps": false
   },
   {
-    "name": "Arena Sport 1 Premium (Serbia) (360p)",
-    "logo": "https://i.imgur.com/csv6YsL.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
-    "isHttps": false
-  },
-  {
-    "name": "Arena Sport 1 Premium (Slovenia)",
+    "name": "Arena Sport 1 Premium",
     "logo": "https://i.imgur.com/csv6YsL.png",
     "country": "",
     "language": "",
@@ -3282,6 +3264,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Eurosport (India) HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Sports",
+    "url": "http://116.90.120.149:8000/play/a118/index.m3u8",
     "isHttps": false
   },
   {
@@ -4371,15 +4362,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://stream.mcquack.net/72/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Rai Sport",
-    "logo": "https://i.imgur.com/6PEevOM.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
     "isHttps": false
   },
   {

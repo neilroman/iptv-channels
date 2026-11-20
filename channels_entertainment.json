@@ -306,12 +306,12 @@
     "isHttps": true
   },
   {
-    "name": "ALLBLK Gems (720p)",
+    "name": "ALLBLK Gems (1080p)",
     "logo": "https://i.imgur.com/gnkepQJ.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://df1zke3zj042m.cloudfront.net/playlist.m3u8",
+    "url": "https://amc-allblk-gems-1-us.vizio.wurl.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -351,12 +351,12 @@
     "isHttps": true
   },
   {
-    "name": "AMC en Espanol",
+    "name": "AMC en Espanol (1080p)",
     "logo": "https://i.imgur.com/L1h6W5Q.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
+    "url": "https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -666,12 +666,12 @@
     "isHttps": true
   },
   {
-    "name": "Best of Dr Phil",
+    "name": "Best of Dr Phil (1080p)",
     "logo": "https://i.imgur.com/Jj0wTFQ.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8",
+    "url": "https://44afb29d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRHJQaGlsX0hMUw/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2025,12 +2025,12 @@
     "isHttps": true
   },
   {
-    "name": "Game Show Central (720p)",
+    "name": "Game Show Central (1080p)",
     "logo": "https://i.imgur.com/Uuc5h1s.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8",
+    "url": "https://d56be438.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fR2FtZVNob3dDZW50cmFsX0hMUw/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2566,11 +2566,20 @@
   },
   {
     "name": "ION Plus (1080p)",
-    "logo": "https://i.imgur.com/1dgCvNE.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/960px-ION_Plus_logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ION TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3057,15 +3066,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://polska.hach.workers.dev/14847.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) HD (396p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {
@@ -5310,6 +5310,15 @@
     "isHttps": true
   },
   {
+    "name": "Roar WTVF (1080p)",
+    "logo": "https://iili.io/FxYNwOB.md.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://amg01438-amg01438c25-vizio-us-10911.playouts.now.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Robinson Ekspeditionen",
     "logo": "https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png",
     "country": "",
@@ -5499,12 +5508,30 @@
     "isHttps": true
   },
   {
-    "name": "Smotrim 100% Prazdnik (720p)",
+    "name": "Smotrim 100% k 1 (1080p)",
+    "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Prazdnik (1080p)",
     "logo": "https://i.imgur.com/NEcqFse.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+    "url": "https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Talk-show (1080p)",
+    "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8",
     "isHttps": true
   },
   {
@@ -5549,7 +5576,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
+    "url": "https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8",
     "isHttps": true
   },
   {
@@ -6022,7 +6049,7 @@
   },
   {
     "name": "TNT4 International (576p)",
-    "logo": "https://i.imgur.com/SjdOaya.png",
+    "logo": "https://i.imgur.com/gBokU5i.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -6030,12 +6057,12 @@
     "isHttps": true
   },
   {
-    "name": "Top Gear (720p)",
+    "name": "Top Gear (1080p)",
     "logo": "https://i.imgur.com/S6Su6QH.png",
     "country": "",
     "language": "",
     "group": "Auto;Entertainment",
-    "url": "https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8",
+    "url": "https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6746,7 +6773,16 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://s1.merlive.am/black/index.m3u8",
+    "url": "http://116.90.120.149:8000/play/a0s4/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": ".black HD (1080p)",
+    "logo": "https://i.imgur.com/Q4A6ci4.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://116.90.120.149:8000/play/a0ac/index.m3u8",
     "isHttps": false
   },
   {
@@ -6769,7 +6805,7 @@
   },
   {
     "name": "2x2 (576p)",
-    "logo": "https://i.imgur.com/fhQFLEl.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -7137,6 +7173,15 @@
     "isHttps": false
   },
   {
+    "name": "E! (Poland) (576p)",
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://116.90.120.149:8000/play/a0kz/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "E! (Romania)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437",
     "country": "",
@@ -7272,15 +7317,6 @@
     "isHttps": false
   },
   {
-    "name": "ION TV (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://23.237.104.106:8080/USA_ION/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Jade (1080p)",
     "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",
     "country": "",
@@ -7336,7 +7372,7 @@
   },
   {
     "name": "La Tele Tuya (576p)",
-    "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tele_Tuya_Logo_%282026%29.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -7489,7 +7525,7 @@
   },
   {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Zoom (Ukraine) (1080p)",
-    "logo": "https://i.imgur.com/EzIiXIT.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/ZoomUA_%282025%29.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -7740,6 +7776,15 @@
     "isHttps": false
   },
   {
+    "name": "MTV (India) HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "http://116.90.120.149:8000/play/a136/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "MTV (Japan)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
     "country": "",
@@ -7849,7 +7894,7 @@
   },
   {
     "name": "Peretz International (576p)",
-    "logo": "https://i.imgur.com/On6ggLe.png",
+    "logo": "https://i.imgur.com/Y84p1y6.png",
     "country": "",
     "language": "",
     "group": "Entertainment",

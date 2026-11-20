@@ -5,7 +5,7 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -177,6 +177,15 @@
     "language": "",
     "group": "Culture;Documentary;Entertainment;General;Movies;Music",
     "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "AMC Thrillers (1080p)",
+    "logo": "https://i.imgur.com/EVD0aIt.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1261,7 +1270,7 @@
   },
   {
     "name": "HBO Asia SD (720p) [Geo-blocked]",
-    "logo": "https://i.imgur.com/cE2gBt6.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1275,6 +1284,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+    "isHttps": true
+  },
+  {
+    "name": "HerSphere (1080p) [Geo-blocked]",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -1540,7 +1558,7 @@
   },
   {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Viasat Kino Romania",
-    "logo": "https://i.imgur.com/io0WAkA.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -1680,15 +1698,6 @@
     "language": "",
     "group": "Movies",
     "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies;Series\",HBO Xtreme Latin America",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Movies;Series",
-    "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8",
     "isHttps": true
   },
   {
@@ -3618,6 +3627,15 @@
     "isHttps": true
   },
   {
+    "name": "Pure Flix TV (1080p) [Geo-blocked]",
+    "logo": "https://www.tablotv.com/wp-content/uploads/2025/05/PureFlixTV_black.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Raj Digital Plus (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
     "country": "",
@@ -4068,12 +4086,21 @@
     "isHttps": true
   },
   {
-    "name": "Smotrim 100% Klassika (720p)",
+    "name": "Smotrim 100% Gorkogo (1080p)",
+    "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Smotrim 100% Klassika (1080p)",
     "logo": "https://i.imgur.com/aASNpKq.png",
     "country": "",
     "language": "",
     "group": "Classic;Movies",
-    "url": "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8",
+    "url": "https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8",
     "isHttps": true
   },
   {
@@ -4101,6 +4128,15 @@
     "language": "",
     "group": "Movies",
     "url": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Sony Max (720p)",
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8",
     "isHttps": true
   },
   {
@@ -4669,6 +4705,33 @@
     "group": "Movies",
     "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
     "isHttps": true
+  },
+  {
+    "name": "&pictures HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "&TV HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a133/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "&xplor HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a11o/index.m3u8",
+    "isHttps": false
   },
   {
     "name": "312 Kino (406p)",
@@ -5527,7 +5590,7 @@
   },
   {
     "name": "HBO Asia HD (1080p)",
-    "logo": "https://i.imgur.com/cE2gBt6.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5536,7 +5599,7 @@
   },
   {
     "name": "HBO Asia Taiwan (1080p)",
-    "logo": "https://i.imgur.com/cE2gBt6.png",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -5568,6 +5631,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "HBO Xtreme Latin America",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies;Series",
+    "url": "http://181.78.61.202:8000/play/a02a",
     "isHttps": false
   },
   {
@@ -5824,7 +5896,7 @@
   },
   {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Crime",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -6148,7 +6220,7 @@
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Viasat Kino Bulgaria",
-    "logo": "https://i.imgur.com/io0WAkA.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -6480,6 +6552,24 @@
     "isHttps": false
   },
   {
+    "name": "MNX (576p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a11e/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "MNX HD (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a11m/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Mosfilm Gold Collection (576p)",
     "logo": "https://i.imgur.com/95Y8jb6.png",
     "country": "",
@@ -6498,12 +6588,21 @@
     "isHttps": false
   },
   {
-    "name": "Movies Now HD (576p)",
+    "name": "Movies Now + (1080p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a11k/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Movies Now HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://27.124.71.27/Movies_Now/index.m3u8",
+    "url": "http://116.90.120.149:8000/play/a11f/index.m3u8",
     "isHttps": false
   },
   {
@@ -6706,7 +6805,7 @@
   },
   {
     "name": "Russkiy Illusion (576p)",
-    "logo": "https://i.imgur.com/RlsqFN8.png",
+    "logo": "https://tv-stream.ru/uploads/LOGO_RUSSKI_ILLUSION_300x300_belaya_nadpis_bf458e37d8.svg",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -6732,6 +6831,15 @@
     "isHttps": false
   },
   {
+    "name": "Sony Max HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a123/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Sony Movies (Brazil) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
     "country": "",
@@ -6747,6 +6855,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://15.204.246.24:8080/SonyMoviesHD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Sony Pix HD (1080p)",
+    "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://116.90.120.149:8000/play/a138/index.m3u8",
     "isHttps": false
   },
   {
@@ -6922,7 +7039,7 @@
   },
   {
     "name": "Viasat Kino (576p)",
-    "logo": "https://i.imgur.com/io0WAkA.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -6940,7 +7057,7 @@
   },
   {
     "name": "Viasat Kino Balkan (1080p)",
-    "logo": "https://i.imgur.com/io0WAkA.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -7003,7 +7120,7 @@
   },
   {
     "name": "Warner Channel Colombia (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -7012,7 +7129,7 @@
   },
   {
     "name": "Warner Channel Mexico (1080p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
@@ -7021,7 +7138,7 @@
   },
   {
     "name": "Warner Channel South",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
     "country": "",
     "language": "",
     "group": "Movies",
