@@ -9,15 +9,6 @@
     "isHttps": true
   },
   {
-    "name": "101tv Malaga",
-    "logo": "https://i.imgur.com/GzI3RC4.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "13 Siam Thai (1080p)",
     "logo": "https://i.imgur.com/FvEp1S2.png",
     "country": "",
@@ -1332,15 +1323,6 @@
     "isHttps": true
   },
   {
-    "name": "Baku.TV",
-    "logo": "https://i.imgur.com/r4FzxSg.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Balafon TV [Geo-blocked]",
     "logo": "https://i.imgur.com/EqOzhYw.png",
     "country": "",
@@ -1683,15 +1665,6 @@
     "isHttps": true
   },
   {
-    "name": "Canal 1 Mar Menor Torre Pacheco (1080p)",
-    "logo": "https://i.imgur.com/MQOwCdZ.png",
-    "country": "",
-    "language": "",
-    "group": "General;News",
-    "url": "https://directo.tuwebtv.es/canal1.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Canal 26 (Argentina) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
     "country": "",
@@ -1989,12 +1962,12 @@
     "isHttps": true
   },
   {
-    "name": "CGTN Russian (1080p)",
+    "name": "CGTN Russian (576p)",
     "logo": "https://i.imgur.com/nDWkCmL.png",
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+    "url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
     "isHttps": true
   },
   {
@@ -2003,7 +1976,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+    "url": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4851,15 +4824,6 @@
     "isHttps": true
   },
   {
-    "name": "Mirame TV (360p) [Not 24/7]",
-    "logo": "https://i.imgur.com/LK4pLgT.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Mirror Now (720p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MIRROR_NOW/images/LOGO_HD/image.png",
     "country": "",
@@ -5937,15 +5901,6 @@
     "language": "",
     "group": "News",
     "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Obieqtivi TV",
-    "logo": "https://i.imgur.com/Kqc8H8X.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8",
     "isHttps": true
   },
   {
@@ -8943,15 +8898,6 @@
     "language": "",
     "group": "News",
     "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Kapaz TV [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "http://85.132.78.122:8050/hls/stream/index.m3u8",
     "isHttps": false
   },
   {
