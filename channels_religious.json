@@ -1899,15 +1899,6 @@
     "isHttps": true
   },
   {
-    "name": "DNJ TV (720p)",
-    "logo": "https://i.imgur.com/YqTcGJZ.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Dost TV (576p)",
     "logo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
     "country": "",
@@ -2322,15 +2313,6 @@
     "isHttps": true
   },
   {
-    "name": "Familia Vision HD (1080p) [Not 24/7]",
-    "logo": "https://i.imgur.com/uqTH7m5.jpg",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FarmodaTV (1080p)",
     "logo": "https://i.imgur.com/x4KCQlH.png",
     "country": "",
@@ -2481,6 +2463,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Glorious Times TV (1080p)",
+    "logo": "https://i.imgur.com/F3sH2Zt.jpeg",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2763,7 +2754,7 @@
     "isHttps": true
   },
   {
-    "name": "Habib TV",
+    "name": "Habib TV (720p)",
     "logo": "https://i.ibb.co/spZRy7mg/habib.png",
     "country": "",
     "language": "",
@@ -3348,12 +3339,12 @@
     "isHttps": true
   },
   {
-    "name": "Jaya TV (480p)",
+    "name": "Jaya TV (1080p)",
     "logo": "https://i.imgur.com/J8NA1i9.jpeg",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8",
+    "url": "https://live.jayatv.lk/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -4266,6 +4257,15 @@
     "isHttps": true
   },
   {
+    "name": "Master Video (1080p)",
+    "logo": "https://i.imgur.com/0jj9Vx0.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://eco.streams.ovh:8081/mastervideotv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Master's TV (720p)",
     "logo": "",
     "country": "",
@@ -4716,12 +4716,12 @@
     "isHttps": true
   },
   {
-    "name": "NG Radio TV (360p)",
-    "logo": "https://i.imgur.com/KsNI3vQ.jpg",
+    "name": "Nijam TV (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8",
+    "url": "https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8",
     "isHttps": true
   },
   {
@@ -4803,15 +4803,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811",
-    "isHttps": true
-  },
-  {
-    "name": "Nueva Vida FM (720p)",
-    "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
-    "country": "",
-    "language": "",
-    "group": "Music;Religious",
-    "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
     "isHttps": true
   },
   {
@@ -5112,7 +5103,7 @@
     "isHttps": true
   },
   {
-    "name": "Quran TV (Iran)",
+    "name": "Quran TV (Iran) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
     "country": "",
     "language": "",
@@ -5328,7 +5319,7 @@
     "isHttps": true
   },
   {
-    "name": "Riddim & Hope TV",
+    "name": "Riddim & Hope TV (720p)",
     "logo": "https://i.imgur.com/c27k0Bd.png",
     "country": "",
     "language": "",
@@ -6354,6 +6345,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Maanaim (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/PZhdHvf.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Mana 1 (1080p)",
     "logo": "https://i.imgur.com/6jNqpTP.png",
     "country": "",
@@ -6633,12 +6633,21 @@
     "isHttps": true
   },
   {
-    "name": "WECN (720p)",
+    "name": "WCLO 50.1 (720p)",
+    "logo": "https://publicfiles.fcc.gov/api/manager/download/entity/logo/3255/tv",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "WECN (1080p)",
     "logo": "https://i.imgur.com/NYBZBY0.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8",
+    "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8",
     "isHttps": true
   },
   {
@@ -7398,7 +7407,7 @@
     "isHttps": false
   },
   {
-    "name": "Thaqalayn TV",
+    "name": "Thaqalayn TV (480p)",
     "logo": "https://i.imgur.com/u02FSgI.png",
     "country": "",
     "language": "",

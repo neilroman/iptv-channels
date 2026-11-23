@@ -54,7 +54,7 @@
     "isHttps": true
   },
   {
-    "name": "AT5",
+    "name": "AT5 (1080p)",
     "logo": "https://i.imgur.com/iAiSlEL.png",
     "country": "",
     "language": "",
@@ -582,6 +582,15 @@
     "language": "",
     "group": "General;News",
     "url": "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live",
+    "isHttps": true
+  },
+  {
+    "name": "Nickelodeon (Netherlands) HD (1080i)",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071",
     "isHttps": true
   },
   {
@@ -1611,7 +1620,7 @@
     "isHttps": true
   },
   {
-    "name": "WTV",
+    "name": "WTV (1080p)",
     "logo": "https://i.imgur.com/wvKe8mi.png",
     "country": "",
     "language": "",

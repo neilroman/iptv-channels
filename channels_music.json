@@ -1332,7 +1332,7 @@
     "isHttps": true
   },
   {
-    "name": "Fun Vision",
+    "name": "Fun Vision (1080p)",
     "logo": "https://i.imgur.com/AhkKr7Y.png",
     "country": "",
     "language": "",
@@ -1887,6 +1887,15 @@
     "language": "",
     "group": "Music",
     "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "La Granja TV (1080p)",
+    "logo": "https://i.imgur.com/90luGab.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2826,7 +2835,7 @@
     "isHttps": true
   },
   {
-    "name": "Music IL",
+    "name": "Music IL (720p)",
     "logo": "https://i.imgur.com/tTVOc31.png",
     "country": "",
     "language": "",
@@ -2862,12 +2871,21 @@
     "isHttps": true
   },
   {
-    "name": "Muz TV Uzbekistan",
+    "name": "Muz TV Uzbekistan (1080p)",
     "logo": "https://s8.vcdn.biz/static/f/6010782281/image.jpg",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Muz-TV (1080p)",
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -2904,6 +2922,15 @@
     "language": "",
     "group": "Music",
     "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Muzyka Pervogo (1080p)",
+    "logo": "https://i.imgur.com/U0vKj3P.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -3048,15 +3075,6 @@
     "language": "",
     "group": "Music",
     "url": "https://test.946985.filegear-sg.me/proxy/a23981548880f405",
-    "isHttps": true
-  },
-  {
-    "name": "Nueva Vida FM (720p)",
-    "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
-    "country": "",
-    "language": "",
-    "group": "Music;Religious",
-    "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
     "isHttps": true
   },
   {
@@ -3273,6 +3291,15 @@
     "language": "",
     "group": "Music",
     "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "PalMundo FM (1080p)",
+    "logo": "https://cdn.m3u.cl/logo/1803_PalMundo_FM.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8",
     "isHttps": true
   },
   {
@@ -4851,7 +4878,7 @@
     "isHttps": true
   },
   {
-    "name": "Strana FM",
+    "name": "Strana FM (720p)",
     "logo": "https://i.imgur.com/WsPlKJJ.png",
     "country": "",
     "language": "",
@@ -5211,12 +5238,12 @@
     "isHttps": true
   },
   {
-    "name": "TRT Muzik (720p)",
+    "name": "TRT Muzik (1080p)",
     "logo": "https://i.imgur.com/JgUzRH8.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "url": "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -6624,15 +6651,6 @@
     "isHttps": false
   },
   {
-    "name": "MTV Live (720p)",
-    "logo": "https://i.imgur.com/3UByLqb.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Music Box Brazil (720p)",
     "logo": "https://i.imgur.com/CDPCF2X.png",
     "country": "",
@@ -6687,30 +6705,12 @@
     "isHttps": false
   },
   {
-    "name": "Muz-TV (576p)",
-    "logo": "https://i.imgur.com/BtqrHmz.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://31.148.5.241/kanal_20/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Muzyka Live (576p)",
     "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://stream.mcquack.net/303/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Muzyka Pervogo (576p)",
-    "logo": "https://i.imgur.com/U0vKj3P.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8",
     "isHttps": false
   },
   {

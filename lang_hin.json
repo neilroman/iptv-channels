@@ -981,6 +981,15 @@
     "isHttps": true
   },
   {
+    "name": "History TV18 HD (1080p) [Geo-blocked]",
+    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "HNN 24x7 (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/HNN24x7.png",
     "country": "",
@@ -1212,6 +1221,24 @@
     "language": "",
     "group": "News",
     "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) (396p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) HD (396p)",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {
@@ -1572,15 +1599,6 @@
     "language": "",
     "group": "Undefined",
     "url": "https://fta.ektv.in/live/310/master.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "isHttps": true
   },
   {
@@ -2916,48 +2934,12 @@
     "isHttps": true
   },
   {
-    "name": "&pictures HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "&TV HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a133/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "&xplor HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a11o/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Aastha (576p)",
     "logo": "https://i.imgur.com/IqgrV92.png",
     "country": "",
     "language": "",
     "group": "Religious",
     "url": "http://163.61.226.31:9981/stream/channelid/565086134?profile=pass",
-    "isHttps": false
-  },
-  {
-    "name": "Cartoon Network HD+ (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
     "isHttps": false
   },
   {
@@ -3003,42 +2985,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "http://163.61.226.31:9981/stream/channelid/1991369999?profile=pass",
-    "isHttps": false
-  },
-  {
-    "name": "Discovery Channel (India) HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Discovery Science (576p)",
-    "logo": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Science",
-    "url": "http://116.90.120.149:8000/play/a11b/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (India) (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://116.90.120.149:8000/play/a124/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Disney Channel (India) HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://116.90.120.149:8000/play/a11r/index.m3u8",
     "isHttps": false
   },
   {
@@ -3096,24 +3042,6 @@
     "isHttps": false
   },
   {
-    "name": "History TV18 HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://116.90.120.149:8000/play/a12z/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Investigation Discovery (India) (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://116.90.120.149:8000/play/a119/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Jus Hindi (1080p)",
     "logo": "https://i.imgur.com/5GI7Nh7.png",
     "country": "",
@@ -3141,84 +3069,12 @@
     "isHttps": false
   },
   {
-    "name": "MTV (India) HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://116.90.120.149:8000/play/a136/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic (India) HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://116.90.120.149:8000/play/a115/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "National Geographic Wild (India) HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://116.90.120.149:8000/play/a11h/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nick Jr. (India) (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Nickelodeon (India) (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://103.135.253.32:8080/NICK/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Pogo (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Animation;Kids",
-    "url": "http://103.135.253.32:8080/POGO/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Q TV (576p)",
     "logo": "https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://163.61.226.31:9981/stream/channelid/359164420?profile=pass",
-    "isHttps": false
-  },
-  {
-    "name": "Sonic (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Sony BBC Earth HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "http://116.90.120.149:8000/play/a130/index.m3u8",
     "isHttps": false
   },
   {
@@ -3231,30 +3087,12 @@
     "isHttps": false
   },
   {
-    "name": "Sony Max HD (1080p)",
-    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a123/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Sony Pal (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Entertainment",
     "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Sony Pix HD (1080p)",
-    "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a138/index.m3u8",
     "isHttps": false
   },
   {
@@ -3285,75 +3123,12 @@
     "isHttps": false
   },
   {
-    "name": "Star Gold 2 (576p)",
-    "logo": "https://i.imgur.com/G0ZfzZr.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Gold HD (1080p)",
-    "logo": "https://i.imgur.com/xC460sj.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Gold Romance (576p)",
-    "logo": "https://i.imgur.com/gSWv9U3.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Gold Select HD (1080p)",
-    "logo": "https://i.imgur.com/U7eiuqv.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Movies (India) HD (1080p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Sports 1 Hindi HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Star Sports 2 HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
     "isHttps": false
   },
   {
@@ -3393,39 +3168,12 @@
     "isHttps": false
   },
   {
-    "name": "TLC (India) HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle",
-    "url": "http://116.90.120.149:8000/play/a11g/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Unique TV (576p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
     "country": "",
     "language": "",
     "group": "Entertainment;Kids",
     "url": "http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass",
-    "isHttps": false
-  },
-  {
-    "name": "Unite8 Sports 1 (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://116.90.120.149:8000/play/a11l/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Unite8 Sports 1 HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
     "isHttps": false
   },
   {
@@ -3444,15 +3192,6 @@
     "language": "",
     "group": "Music",
     "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Zee Classic (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
-    "country": "",
-    "language": "",
-    "group": "Classic",
-    "url": "http://116.90.120.149:8000/play/a121/index.m3u8",
     "isHttps": false
   },
   {
