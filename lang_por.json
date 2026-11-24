@@ -2367,6 +2367,15 @@
     "isHttps": true
   },
   {
+    "name": "Televisao Academica (576i)",
+    "logo": "https://i.imgur.com/YmxGoPW.png",
+    "country": "",
+    "language": "",
+    "group": "Education",
+    "url": "https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "The Pet Collective Brazil (720p)",
     "logo": "https://i.imgur.com/yH7n2dF.png",
     "country": "",
@@ -2562,6 +2571,15 @@
     "language": "",
     "group": "News",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "TV CAJUI WEB (720p)",
+    "logo": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;General;Music;News;Religious",
+    "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3435,24 +3453,6 @@
     "language": "",
     "group": "Sports",
     "url": "http://23.237.104.106:8080/DAZN_3/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "DAZN 4 (540p)",
-    "logo": "https://i.imgur.com/m7ga8bU.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://23.237.104.106:8080/DAZN_4/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "DAZN 5 (720p)",
-    "logo": "https://i.imgur.com/HD2XaeS.png",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "http://23.237.104.106:8080/DAZN_5/index.m3u8",
     "isHttps": false
   },
   {

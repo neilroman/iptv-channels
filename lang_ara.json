@@ -18,6 +18,15 @@
     "isHttps": true
   },
   {
+    "name": "2M Monde HD",
+    "logo": "https://i.imgur.com/MvpntzA.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Abdulmajeed Abdullah (1080p)",
     "logo": "https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png",
     "country": "",
@@ -1113,6 +1122,15 @@
     "language": "",
     "group": "Music",
     "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Fajer TV 1 (1080p)",
+    "logo": "https://i.imgur.com/1xERxmB.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://e.siar.us/live/ozfest.m3u8",
     "isHttps": true
   },
   {
@@ -2304,30 +2322,30 @@
     "isHttps": true
   },
   {
-    "name": "Rotana Cinema KSA (1080p) [Geo-blocked]",
+    "name": "Rotana Cinema KSA (540p)",
     "logo": "https://i.imgur.com/pGgp38I.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
-    "name": "Rotana Classic (1080p) [Geo-blocked]",
+    "name": "Rotana Classic (540p)",
     "logo": "https://i.imgur.com/pMMUvkt.png",
     "country": "",
     "language": "",
     "group": "Classic",
-    "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
-    "name": "Rotana Clip (1080p) [Geo-blocked]",
+    "name": "Rotana Clip (540p)",
     "logo": "https://i.imgur.com/nhREk0o.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2358,12 +2376,12 @@
     "isHttps": true
   },
   {
-    "name": "Rotana Music (1080p) [Geo-blocked]",
+    "name": "Rotana Music",
     "logo": "https://i.imgur.com/2zFQbQi.png",
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2403,12 +2421,12 @@
     "isHttps": true
   },
   {
-    "name": "Samarra TV",
+    "name": "Samarra TV (720p)",
     "logo": "https://i.imgur.com/7uQoIXi.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "https://live.bradosti.net/live/samaraweb_playlist.m3u8",
+    "url": "https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8",
     "isHttps": true
   },
   {

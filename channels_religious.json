@@ -4104,12 +4104,12 @@
     "isHttps": true
   },
   {
-    "name": "Mahimai TV (576p)",
+    "name": "Mahimai TV (1080p)",
     "logo": "https://mahimaitv.com/images/mahimaitamil.png",
     "country": "",
     "language": "",
     "group": "Religious",
-    "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
+    "url": "https://ktismaservers.in:3161/live/mahimaitvlive.m3u8",
     "isHttps": true
   },
   {
@@ -4920,6 +4920,15 @@
     "language": "",
     "group": "Religious",
     "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Peace TV Bangla (1080p)",
+    "logo": "https://i.imgur.com/1ztVXUi.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "isHttps": true
   },
   {
@@ -6273,6 +6282,15 @@
     "isHttps": true
   },
   {
+    "name": "TV CAJUI WEB (720p)",
+    "logo": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
+    "country": "",
+    "language": "",
+    "group": "Entertainment;General;Music;News;Religious",
+    "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV CRET (1080p)",
     "logo": "https://i.imgur.com/ChonoKb.png",
     "country": "",
@@ -6639,15 +6657,6 @@
     "language": "",
     "group": "Religious",
     "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "WECN (1080p)",
-    "logo": "https://i.imgur.com/NYBZBY0.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8",
     "isHttps": true
   },
   {
@@ -7278,15 +7287,6 @@
     "language": "",
     "group": "Education;Religious",
     "url": "http://116.90.120.151:8000/play/a00h/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Peace TV Bangla (1080p)",
-    "logo": "https://i.imgur.com/1ztVXUi.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8",
     "isHttps": false
   },
   {

@@ -3951,12 +3951,12 @@
     "isHttps": true
   },
   {
-    "name": "Rotana Cinema KSA (1080p) [Geo-blocked]",
+    "name": "Rotana Cinema KSA (540p)",
     "logo": "https://i.imgur.com/pGgp38I.png",
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5193,15 +5193,6 @@
     "isHttps": false
   },
   {
-    "name": "Colors Bangla Cinema (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Colors Cineplex Bollywood (576p)",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
     "country": "",
@@ -5730,15 +5721,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Lifetime Movies (1080p)",
-    "logo": "https://i.imgur.com/BWmqYTO.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
     "isHttps": false
   },
   {
@@ -6723,15 +6705,6 @@
     "isHttps": false
   },
   {
-    "name": "Star Movies (India) HD (1080p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Star Utsav Movies (576p)",
     "logo": "https://i.imgur.com/k5QHfH2.png",
     "country": "",
@@ -6747,15 +6720,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://176.118.197.101/START_AIR/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Starz Cinema (720p)",
-    "logo": "https://i.imgur.com/ghzzKoT.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
     "isHttps": false
   },
   {
@@ -6900,6 +6864,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Warner Channel (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://181.78.197.59:8000/play/a07s/index.m3u8",
     "isHttps": false
   },
   {

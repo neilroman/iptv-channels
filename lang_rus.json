@@ -369,6 +369,69 @@
     "isHttps": true
   },
   {
+    "name": "BRIDGE Dance (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/dance-white.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BRIDGE Jazz (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/jazz-white.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BRIDGE Rap (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/rap-logo-dark.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BRIDGE RNB (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/rnb-logo-dark.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BRIDGE Soul (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/soul-logo-dark.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BRIDGE Symphony (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/symphony-white.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "BRIDGE Vostok (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/vostok-white.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Carousel International (576p)",
     "logo": "https://i.imgur.com/DnlngRZ.png",
     "country": "",
@@ -1374,6 +1437,15 @@
     "language": "",
     "group": "News",
     "url": "https://live1.1tvcrimea.ru/milletlive.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Mini Disco (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/mini-disco-logo.png",
+    "country": "",
+    "language": "",
+    "group": "Kids;Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8",
     "isHttps": true
   },
   {
@@ -2934,6 +3006,15 @@
     "isHttps": true
   },
   {
+    "name": "Verba (720p) [Geo-blocked]",
+    "logo": "https://bridgemusic.ru/s/img/channels/verba-white.svg",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Vesti FM (720p)",
     "logo": "https://i.imgur.com/ZBHqSZj.png",
     "country": "",
@@ -3146,16 +3227,7 @@
     "country": "",
     "language": "",
     "group": "Entertainment",
-    "url": "http://116.90.120.149:8000/play/a0s4/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": ".black HD (1080p)",
-    "logo": "https://i.imgur.com/Q4A6ci4.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "http://116.90.120.149:8000/play/a0ac/index.m3u8",
+    "url": "http://s1.merlive.am/black/index.m3u8",
     "isHttps": false
   },
   {
@@ -3182,7 +3254,7 @@
     "country": "",
     "language": "",
     "group": "Science",
-    "url": "http://116.90.120.149:8000/play/a0ao/index.m3u8",
+    "url": "http://stream.mcquack.net/180/index.m3u8",
     "isHttps": false
   },
   {
