@@ -72,6 +72,15 @@
     "isHttps": true
   },
   {
+    "name": "3.16 Channel (1080p)",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/3.16%20Channel.jpeg",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://316hls.wns.live/hls/stream.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "30A Darcizzle Offshore (720p)",
     "logo": "https://i.imgur.com/Q4l2uao.png",
     "country": "",
@@ -474,15 +483,6 @@
     "language": "",
     "group": "News",
     "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ABC Australia (480p)",
-    "logo": "https://i.imgur.com/qQ33TVM.png",
-    "country": "",
-    "language": "",
-    "group": "General",
-    "url": "https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8",
     "isHttps": true
   },
   {
@@ -2265,15 +2265,6 @@
     "language": "",
     "group": "Series",
     "url": "https://linear-938.frequency.stream/mt/vizio/938/hls/master/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "BBC Earth Asia (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8",
     "isHttps": true
   },
   {
@@ -4766,7 +4757,7 @@
     "country": "",
     "language": "",
     "group": "General",
-    "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -8910,15 +8901,6 @@
     "isHttps": true
   },
   {
-    "name": "Global Trekker (720p)",
-    "logo": "https://i.imgur.com/5nlmJIw.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GlobalWorldTV (720p)",
     "logo": "https://i.imgur.com/2u33Ayy.jpeg",
     "country": "",
@@ -11385,15 +11367,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"News\",BBC News Asia Pacific (480p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "country": "",
-    "language": "",
-    "group": "News",
-    "url": "https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Series\",Sci Fi (Serbia) (720p)",
     "logo": "https://i.imgur.com/FPumwfg.png",
     "country": "",
@@ -11602,7 +11575,7 @@
   },
   {
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) International (576p)",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "Entertainment",
@@ -14562,12 +14535,12 @@
     "isHttps": true
   },
   {
-    "name": "NHL AntenaPlay (576i) [Not 24/7]",
+    "name": "NHL AntenaPlay (576p) [Not 24/7]",
     "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
     "country": "",
     "language": "",
     "group": "Sports",
-    "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
+    "url": "https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8",
     "isHttps": true
   },
   {
@@ -18081,24 +18054,6 @@
     "isHttps": true
   },
   {
-    "name": "ROCK Action (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "ROCK Entertainment (720p)",
-    "logo": "https://i.imgur.com/PWzq0aU.png",
-    "country": "",
-    "language": "",
-    "group": "Entertainment",
-    "url": "https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Rocky Hill Channel 16 (480p)",
     "logo": "https://i.imgur.com/2ZDcH2L.png",
     "country": "",
@@ -20169,12 +20124,12 @@
     "isHttps": true
   },
   {
-    "name": "Tanzania Safari Channel (576p)",
+    "name": "Tanzania Safari Channel (1080p)",
     "logo": "https://i.imgur.com/fcLFYhn.png",
     "country": "",
     "language": "",
     "group": "Travel",
-    "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
+    "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_12bb7dc0590211f1951119e8afeb4224/index.m3u8",
     "isHttps": true
   },
   {
@@ -25821,12 +25776,12 @@
     "isHttps": false
   },
   {
-    "name": "Nicktoons (Romania)",
+    "name": "Nicktoons (Romania) (576p)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939",
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://178.76.68.60:7442/80/mpegts",
+    "url": "http://91.235.165.117:8001/play/a061/index.m3u8",
     "isHttps": false
   },
   {
@@ -26721,12 +26676,30 @@
     "isHttps": false
   },
   {
-    "name": "Viasat Kino (576p)",
+    "name": "Viasat Kino (Romania) (576i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://91.235.165.117:8001/play/a055/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Kino (Ukraine) (576p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Viasat Kino (Ukraine) Balkan (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://176.61.157.250/TV1000/index.m3u8",
     "isHttps": false
   },
   {
@@ -26736,15 +26709,6 @@
     "language": "",
     "group": "Movies",
     "url": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "Viasat Kino Balkan (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "http://176.61.157.250/TV1000/index.m3u8",
     "isHttps": false
   },
   {

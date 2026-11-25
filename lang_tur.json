@@ -180,6 +180,15 @@
     "isHttps": true
   },
   {
+    "name": "Bi Kanal (1080p)",
+    "logo": "https://www.bikanal.com/frontend/img/logo.webp",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bir TV (720p)",
     "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
     "country": "",
@@ -774,24 +783,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Turkiye)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild (Turkiye)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Turkiye) (720p)",
     "logo": "https://i.imgur.com/wRP9XA7.png",
     "country": "",
@@ -909,6 +900,15 @@
     "isHttps": true
   },
   {
+    "name": "National Geographic Wild (Turkiye) (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "NOW (720p)",
     "logo": "https://i.imgur.com/5EYjWK7.png",
     "country": "",
@@ -978,6 +978,15 @@
     "language": "",
     "group": "General",
     "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Pati TV (1080p)",
+    "logo": "https://patitv.com.tr/wp-content/themes/pati-tv/assets/img/logo-240.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8",
     "isHttps": true
   },
   {
