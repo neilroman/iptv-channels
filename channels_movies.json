@@ -4131,6 +4131,15 @@
     "isHttps": true
   },
   {
+    "name": "Sony Max HD (1080p)",
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Sony Movies (United States) (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
     "country": "",
@@ -6903,12 +6912,21 @@
     "isHttps": false
   },
   {
-    "name": "Warner TV",
+    "name": "Warner TV (Czech Republic)",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "http://88.212.15.50/live/warner_tv/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Warner TV (Romania) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://91.235.165.117:8001/play/a08h/index.m3u8",
     "isHttps": false
   }
 ]

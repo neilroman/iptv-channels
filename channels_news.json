@@ -324,12 +324,21 @@
     "isHttps": true
   },
   {
-    "name": "ABC News (720p)",
+    "name": "ABC News (Australia) (720p)",
     "logo": "https://i.imgur.com/BrW7gk8.png",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "ABC News (India) (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/abcnews/index.m3u8",
     "isHttps": true
   },
   {
@@ -3447,6 +3456,15 @@
     "isHttps": true
   },
   {
+    "name": "IN 24 News (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/in24news/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Ind 24 (720p)",
     "logo": "https://i.imgur.com/exRpVmL.png",
     "country": "",
@@ -3740,7 +3758,7 @@
     "country": "",
     "language": "",
     "group": "News",
-    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8",
+    "url": "https://stream.ottlive.co.in/newsbeatkarnataka/index.m3u8",
     "isHttps": true
   },
   {
@@ -4092,6 +4110,15 @@
     "language": "",
     "group": "News",
     "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE",
+    "isHttps": true
+  },
+  {
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"News\",101tv Malaga (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -4497,6 +4524,15 @@
     "language": "",
     "group": "News",
     "url": "https://localnow-vizio.amagi.tv/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Lokmat Bharat (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/lokmatbharat/index.m3u8",
     "isHttps": true
   },
   {
@@ -5031,12 +5067,30 @@
     "isHttps": true
   },
   {
+    "name": "NE Bharat24 (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/nebharat24/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "News 1st (576p)",
     "logo": "https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540",
     "country": "",
     "language": "",
     "group": "News",
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "News 21 (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/news21/index.m3u8",
     "isHttps": true
   },
   {
@@ -6318,6 +6372,15 @@
     "isHttps": true
   },
   {
+    "name": "Pulse 24 (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/pulse24news/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Puranoticia TV (720p)",
     "logo": "https://i.imgur.com/NklUi6Y.png",
     "country": "",
@@ -7173,6 +7236,15 @@
     "isHttps": true
   },
   {
+    "name": "Tara TV (720p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/taratv/index.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TCM 10 HD (1080p)",
     "logo": "https://i.imgur.com/aMuMVvB.png",
     "country": "",
@@ -7908,6 +7980,15 @@
     "language": "",
     "group": "News",
     "url": "https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
+    "name": "Vande Bharat News (1080p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png",
+    "country": "",
+    "language": "",
+    "group": "News",
+    "url": "https://stream.ottlive.co.in/vandebharatnews/index.m3u8",
     "isHttps": true
   },
   {

@@ -405,15 +405,6 @@
     "isHttps": true
   },
   {
-    "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Kids\",Disney Channel (Netherlands) (360p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "country": "",
-    "language": "",
-    "group": "Kids",
-    "url": "https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Sports\",ESPN (Netherlands) (360p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
     "country": "",
@@ -1629,24 +1620,6 @@
     "isHttps": true
   },
   {
-    "name": "XITE (720p)",
-    "logo": "https://i.imgur.com/jxuwGRi.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "XITE Hits (1080p)",
-    "logo": "https://i.imgur.com/N51Rp7E.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "ZFM Zoetermeer TV (720p)",
     "logo": "https://i.imgur.com/vrjACvy.png",
     "country": "",
@@ -1725,6 +1698,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass",
+    "isHttps": false
+  },
+  {
+    "name": "Nickelodeon Flanders",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://93.92.17.139:9981/stream/channelid/788918401?profile=pass",
     "isHttps": false
   },
   {

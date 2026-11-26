@@ -324,12 +324,12 @@
     "isHttps": true
   },
   {
-    "name": "Digi 4K (2160p) [Geo-blocked]",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",
+    "name": "Digi Sport 1 (576i)",
+    "logo": "https://i.imgur.com/5zMxDYq.png",
     "country": "",
     "language": "",
-    "group": "Undefined",
-    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8",
+    "group": "Sports",
+    "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8",
     "isHttps": true
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "name": "Etno TV",
-    "logo": "https://i.imgur.com/jzhZ8kl.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ec/ETNOTV.svg/revision/latest?cb=20240313112928",
     "country": "",
     "language": "",
     "group": "General",
@@ -420,15 +420,6 @@
     "language": "",
     "group": "News",
     "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Eurosport 4K Romania (2160p) [Geo-blocked]",
-    "logo": "https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg",
-    "country": "",
-    "language": "",
-    "group": "Sports",
-    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
     "isHttps": true
   },
   {
@@ -1602,15 +1593,6 @@
     "isHttps": true
   },
   {
-    "name": "UTV (Romania) HD (1080i)",
-    "logo": "https://i.imgur.com/aBdz9IT.png",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Vocea Basarabiei TV",
     "logo": "https://i.imgur.com/irP8QLs.png",
     "country": "",
@@ -1692,6 +1674,24 @@
     "isHttps": false
   },
   {
+    "name": "History (Romania) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://91.235.165.117:8001/play/a08t/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Hora TV (576i)",
+    "logo": "https://i.imgur.com/YwNxANn.png",
+    "country": "",
+    "language": "",
+    "group": "Culture",
+    "url": "http://91.235.165.117:8001/play/a02f/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Light Channel (Romania) (480p) [Not 24/7]",
     "logo": "https://i.imgur.com/S3Fbf8T.png",
     "country": "",
@@ -1707,6 +1707,15 @@
     "language": "",
     "group": "Outdoor",
     "url": "http://88.212.7.14/live/fishing_hun/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "mditv (576i) [Not 24/7]",
+    "logo": "https://mditv.ro/wp-content/uploads/2025/02/LOGO_MDITV-3.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://91.235.165.117:8001/play/a01p/index.m3u8",
     "isHttps": false
   },
   {
@@ -1899,12 +1908,30 @@
     "isHttps": false
   },
   {
+    "name": "TLC (Romania) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://91.235.165.117:8001/play/a08f/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Traditional TV (1080p)",
     "logo": "https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",
     "country": "",
     "language": "",
     "group": "Music",
     "url": "http://83.103.149.75:8085/udp/239.30.0.9:4000",
+    "isHttps": false
+  },
+  {
+    "name": "Travel Mix 4K (576i)",
+    "logo": "https://i.imgur.com/Ga0bjZP.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://91.235.165.117:8001/play/a08c/index.m3u8",
     "isHttps": false
   },
   {
@@ -1917,12 +1944,12 @@
     "isHttps": false
   },
   {
-    "name": "TV SE (576p) [Not 24/7]",
+    "name": "TV SE (576i)",
     "logo": "https://i.imgur.com/r4zKU1e.png",
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://89.38.8.130:39419",
+    "url": "http://91.235.165.117:8001/play/a00p/index.m3u8",
     "isHttps": false
   },
   {
@@ -1968,6 +1995,15 @@
     "language": "",
     "group": "Sports",
     "url": "http://89.45.22.101:8011/play/1/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Warner TV (Romania) (576i)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://91.235.165.117:8001/play/a08h/index.m3u8",
     "isHttps": false
   }
 ]
