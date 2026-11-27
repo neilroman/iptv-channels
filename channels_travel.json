@@ -72,15 +72,6 @@
     "isHttps": true
   },
   {
-    "name": "Glazami Turista (576i)",
-    "logo": "https://i.imgur.com/GXJKWdy.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "GoTraveler (1080p) [Geo-blocked]",
     "logo": "https://i.imgur.com/IaRcN1G.png",
     "country": "",
@@ -114,15 +105,6 @@
     "language": "",
     "group": "Travel",
     "url": "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Lifestyle;Travel\",TV Paprika (Romania)",
-    "logo": "https://i.imgur.com/3fuXBHT.png",
-    "country": "",
-    "language": "",
-    "group": "Lifestyle;Travel",
-    "url": "https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8",
     "isHttps": true
   },
   {
@@ -324,6 +306,15 @@
     "isHttps": true
   },
   {
+    "name": "TV Paprika (Romania) (576i)",
+    "logo": "https://i.imgur.com/3fuXBHT.png",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle;Travel",
+    "url": "https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/papi/usergendxs3jk0s9nd.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "TV Sayohi (1080p)",
     "logo": "https://i.imgur.com/lAkMrtr.png",
     "country": "",
@@ -432,6 +423,15 @@
     "isHttps": false
   },
   {
+    "name": "Glazami Turista (1080p)",
+    "logo": "https://i.imgur.com/GXJKWdy.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://s7.merlive.am/glazamituristahd/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Guangxi Variety & Travel Channel",
     "logo": "https://www.tvchinese.net/uploads/tv/gxzypd.jpg",
     "country": "",
@@ -519,6 +519,15 @@
     "language": "",
     "group": "Travel",
     "url": "http://31.148.48.15/Teleputeshestviya/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tochka.rf (1080p)",
+    "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Travel",
+    "url": "http://s7.merlive.am/HDLife/index.m3u8",
     "isHttps": false
   },
   {

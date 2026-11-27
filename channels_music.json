@@ -450,6 +450,15 @@
     "isHttps": true
   },
   {
+    "name": "Balcan Music TV (1080i)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Balcan_Music_TV.svg/revision/latest?cb=20220815201215",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Balle Balle (1080p)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
     "country": "",
@@ -1356,15 +1365,6 @@
     "language": "",
     "group": "General;Music;Public",
     "url": "https://stream.fomixmedia.nl/FomixTV/video.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "FON Music (576p)",
-    "logo": "https://i.imgur.com/tXABQDE.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -6035,7 +6035,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://31.148.48.15/A1/index.m3u8",
+    "url": "http://s7.merlive.am/Amedia1/index.m3u8",
     "isHttps": false
   },
   {
@@ -6345,6 +6345,15 @@
     "isHttps": false
   },
   {
+    "name": "FON Music (576p)",
+    "logo": "https://i.imgur.com/tXABQDE.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://s7.merlive.am/TNTMusic/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "H!t Music Channel (Hungary) (480p)",
     "logo": "https://i.imgur.com/sqC2hqV.png",
     "country": "",
@@ -6525,15 +6534,6 @@
     "isHttps": false
   },
   {
-    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Music\",Mezzo",
-    "logo": "https://i.imgur.com/auNdGeW.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "http://92.180.26.103/stream/62/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Live Music Channel HD (1080p)",
     "logo": "https://i.imgur.com/9qJkxV9.png",
     "country": "",
@@ -6594,6 +6594,15 @@
     "language": "",
     "group": "Music",
     "url": "http://54.36.110.140/live3/live3.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Mezzo (576p)",
+    "logo": "https://i.imgur.com/auNdGeW.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://s7.merlive.am/Mezzo/index.m3u8",
     "isHttps": false
   },
   {
@@ -6693,6 +6702,15 @@
     "language": "",
     "group": "Music",
     "url": "http://88.212.15.50/live/mb_hits/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Music Box SD (720p)",
+    "logo": "https://i.ibb.co/cSHpm7qf/Music-Box.webp",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://antm.dynu.net:14285/rtp/232.84.3.144:9588",
     "isHttps": false
   },
   {

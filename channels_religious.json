@@ -729,15 +729,6 @@
     "isHttps": true
   },
   {
-    "name": "Angel TV (1080p)",
-    "logo": "https://i.imgur.com/qKLEGU7.png",
-    "country": "",
-    "language": "",
-    "group": "Religious",
-    "url": "https://cdn.pishow.tv/ott/live/453/master.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Angel TV Africa (720p)",
     "logo": "https://i.imgur.com/qKLEGU7.png",
     "country": "",
@@ -6723,6 +6714,15 @@
     "isHttps": true
   },
   {
+    "name": "YuppTV Veda (720p)",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/cbjodg.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "isHttps": true
+  },
+  {
     "name": "Zainabia Channel",
     "logo": "",
     "country": "",
@@ -6846,6 +6846,15 @@
     "language": "",
     "group": "Religious",
     "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Angel TV (1080p)",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "country": "",
+    "language": "",
+    "group": "Religious",
+    "url": "http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
     "isHttps": false
   },
   {

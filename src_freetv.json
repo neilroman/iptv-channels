@@ -747,15 +747,6 @@
     "isHttps": true
   },
   {
-    "name": "Al Jazeera Balkans",
-    "logo": "https://i.imgur.com/Z1FB6wl.png",
-    "country": "HR",
-    "language": "",
-    "group": "Croatia",
-    "url": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Al Jazeera Documentary Ⓖ",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",
     "country": "",
@@ -1908,7 +1899,7 @@
     "isHttps": true
   },
   {
-    "name": "BHT 1",
+    "name": "BHT 1 Ⓖ",
     "logo": "https://i.imgur.com/LEwlEEE.png",
     "country": "BA",
     "language": "",
@@ -1917,7 +1908,7 @@
     "isHttps": true
   },
   {
-    "name": "BHT 1 Ⓢ",
+    "name": "BHT 1 Ⓢ Ⓖ",
     "logo": "https://i.imgur.com/LEwlEEE.png",
     "country": "BA",
     "language": "",
@@ -1977,6 +1968,15 @@
     "language": "",
     "group": "UK",
     "url": "https://live.blaze.tv/live7/blaze/bitrate1.isml/live.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Blic TV",
+    "logo": "https://i.imgur.com/XM5Qz1i.png",
+    "country": "RS",
+    "language": "",
+    "group": "Serbia",
+    "url": "https://edge-rs-06.maksnet.tv/blictv-secure/smil:blictv-secure.smil/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -3606,15 +3606,6 @@
     "language": "",
     "group": "Italy",
     "url": "https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Diadora",
-    "logo": "https://i.imgur.com/qZzsASl.png",
-    "country": "HR",
-    "language": "",
-    "group": "Croatia",
-    "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -5499,21 +5490,21 @@
     "isHttps": true
   },
   {
-    "name": "HRT 3 Ⓖ",
+    "name": "HRT 3",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png",
     "country": "HR",
     "language": "",
     "group": "Croatia",
-    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
+    "url": "https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8",
     "isHttps": true
   },
   {
-    "name": "HRT 4 Ⓖ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png",
+    "name": "HRT 4 Ⓨ",
+    "logo": "https://i.imgur.com/VcNrY0m.png",
     "country": "HR",
     "language": "",
     "group": "Croatia",
-    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+    "url": "https://www.youtube.com/@HRT_vijesti/live",
     "isHttps": true
   },
   {
@@ -5613,6 +5604,15 @@
     "language": "",
     "group": "Italy",
     "url": "https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "IDJ TV",
+    "logo": "https://i.imgur.com/btvyrzr.png",
+    "country": "RS",
+    "language": "",
+    "group": "Serbia",
+    "url": "https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8",
     "isHttps": true
   },
   {
@@ -5730,15 +5730,6 @@
     "language": "",
     "group": "Iraq",
     "url": "https://live.i-news.tv/hls/stream.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Informer TV",
-    "logo": "https://i.imgur.com/9wdEHRf.png",
-    "country": "RS",
-    "language": "",
-    "group": "Serbia",
-    "url": "https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -6201,21 +6192,12 @@
     "isHttps": true
   },
   {
-    "name": "Kanal 6",
-    "logo": "https://i.imgur.com/GGhvR0l.png",
-    "country": "BA",
-    "language": "",
-    "group": "Bosnia and Herzegovina",
-    "url": "https://restreamer1.tnt.ba/hls/kanal6.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Kanal Ri",
-    "logo": "https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png",
+    "logo": "https://i.imgur.com/aSPMh0o.png",
     "country": "HR",
     "language": "",
     "group": "Croatia",
-    "url": "https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8",
+    "url": "https://live.kanalri-transfer.org/kanalri/main_stream.m3u8",
     "isHttps": true
   },
   {
@@ -6742,11 +6724,11 @@
   },
   {
     "name": "Libertas TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png",
+    "logo": "https://i.imgur.com/4R4fhbd.png",
     "country": "HR",
     "language": "",
     "group": "Croatia",
-    "url": "https://stream.luci.xyz/hls/LTV.m3u8",
+    "url": "https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8",
     "isHttps": true
   },
   {
@@ -7682,16 +7664,16 @@
     "country": "BA",
     "language": "",
     "group": "Bosnia and Herzegovina",
-    "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
+    "url": "https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8",
     "isHttps": true
   },
   {
-    "name": "N1 Hrvatska Ⓨ",
+    "name": "N1 Hrvatska",
     "logo": "https://i.imgur.com/qcD1OOZ.png",
     "country": "HR",
     "language": "",
     "group": "Croatia",
-    "url": "https://www.youtube.com/@N1_Hrvatska/live",
+    "url": "https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8",
     "isHttps": true
   },
   {
@@ -7962,6 +7944,15 @@
     "language": "",
     "group": "India",
     "url": "https://www.youtube.com/@News24thinkfirst/live",
+    "isHttps": true
+  },
+  {
+    "name": "Newsmax Balkans",
+    "logo": "https://i.imgur.com/BXFPz8c.png",
+    "country": "BA",
+    "language": "",
+    "group": "Bosnia and Herzegovina",
+    "url": "https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8",
     "isHttps": true
   },
   {
@@ -8609,7 +8600,7 @@
     "country": "HR",
     "language": "",
     "group": "Croatia",
-    "url": "https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8",
+    "url": "https://live.osjecka.com/live/index.m3u8",
     "isHttps": true
   },
   {
@@ -8619,15 +8610,6 @@
     "language": "",
     "group": "Italy",
     "url": "https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "OTV",
-    "logo": "https://i.imgur.com/67zVdu2.png",
-    "country": "HR",
-    "language": "",
-    "group": "Croatia",
-    "url": "https://stream.agatin.hr:3559/live/otvlive.m3u8",
     "isHttps": true
   },
   {
@@ -8879,7 +8861,7 @@
     "country": "HR",
     "language": "",
     "group": "Croatia",
-    "url": "https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8",
+    "url": "https://edge2.livebroadcastsolutions.com/hls/stream.m3u8",
     "isHttps": true
   },
   {
@@ -10800,15 +10782,6 @@
     "isHttps": true
   },
   {
-    "name": "RTS 3",
-    "logo": "https://i.imgur.com/gxuGB4J.png",
-    "country": "RS",
-    "language": "",
-    "group": "Serbia",
-    "url": "https://webtvstream.bhtelecom.ba/rts_sat.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "RTS Ⓖ",
     "logo": "https://i.imgur.com/Bhv7lvy.png",
     "country": "AT",
@@ -10819,7 +10792,7 @@
   },
   {
     "name": "RTS Svet",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png",
+    "logo": "https://i.imgur.com/LjunOdy.png",
     "country": "RS",
     "language": "",
     "group": "Serbia",
@@ -10896,15 +10869,6 @@
     "language": "",
     "group": "Netherlands",
     "url": "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "RTV USK Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png",
-    "country": "BA",
-    "language": "",
-    "group": "Bosnia and Herzegovina",
-    "url": "https://www.youtube.com/@rtvusk/live",
     "isHttps": true
   },
   {
@@ -11143,7 +11107,7 @@
   },
   {
     "name": "SBTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/500px-SBTV_Logo.svg.png",
+    "logo": "https://i.imgur.com/MIampxZ.png",
     "country": "HR",
     "language": "",
     "group": "Croatia",
@@ -12056,7 +12020,7 @@
     "country": "BA",
     "language": "",
     "group": "Bosnia and Herzegovina",
-    "url": "https://live.tv-m.net/hls/stream.m3u8",
+    "url": "https://live.probaj.net/live/mirtv/index.m3u8",
     "isHttps": true
   },
   {
@@ -13572,15 +13536,6 @@
     "isHttps": true
   },
   {
-    "name": "TNT Kids",
-    "logo": "https://i.imgur.com/irTDbpn.png",
-    "country": "BA",
-    "language": "",
-    "group": "Bosnia and Herzegovina",
-    "url": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Today FM",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg",
     "country": "IE",
@@ -14172,15 +14127,6 @@
     "language": "",
     "group": "Brazil",
     "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "TV Dalmacija Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg",
-    "country": "HR",
-    "language": "",
-    "group": "Croatia",
-    "url": "https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live",
     "isHttps": true
   },
   {
@@ -15576,15 +15522,6 @@
     "language": "",
     "group": "Italy",
     "url": "https://stream.wired-shop.com/hls/yviitv.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Z1 Ⓨ",
-    "logo": "https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png",
-    "country": "HR",
-    "language": "",
-    "group": "Croatia",
-    "url": "https://www.youtube.com/@z1televizija/live",
     "isHttps": true
   },
   {
@@ -17235,15 +17172,6 @@
     "isHttps": false
   },
   {
-    "name": "Federalna televizija (FTV) Ⓢ",
-    "logo": "https://i.imgur.com/Jpvs4u3.png",
-    "country": "BA",
-    "language": "",
-    "group": "Bosnia and Herzegovina",
-    "url": "http://94.250.2.6:7374/play/a02s/index.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "FEM3 (TV2 Klub)",
     "logo": "https://i.imgur.com/AF4Sz8Z.png",
     "country": "HU",
@@ -18594,15 +18522,6 @@
     "isHttps": false
   },
   {
-    "name": "RTV Glas Drine",
-    "logo": "https://i.imgur.com/9NgxOdb.png",
-    "country": "BA",
-    "language": "",
-    "group": "Bosnia and Herzegovina",
-    "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "RTV Utrecht",
     "logo": "https://i.imgur.com/c0I24N6.png",
     "country": "NL",
@@ -18954,15 +18873,6 @@
     "isHttps": false
   },
   {
-    "name": "Televizija Zapad",
-    "logo": "https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png",
-    "country": "HR",
-    "language": "",
-    "group": "Croatia",
-    "url": "http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Telewizja Luban (720p) [Not 24/7]",
     "logo": "https://i.imgur.com/t2BGp0G.jpeg",
     "country": "PL",
@@ -19062,15 +18972,6 @@
     "isHttps": false
   },
   {
-    "name": "Trend TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg",
-    "country": "HR",
-    "language": "",
-    "group": "Croatia",
-    "url": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8",
-    "isHttps": false
-  },
-  {
     "name": "Tuscia Sabina 2000Tv",
     "logo": "https://i.imgur.com/Tq5nEAy.png",
     "country": "IT",
@@ -19113,15 +19014,6 @@
     "language": "",
     "group": "France",
     "url": "http://194.163.157.137:8080/hls/radioalsace.m3u8",
-    "isHttps": false
-  },
-  {
-    "name": "TV BPK Ⓢ",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg",
-    "country": "BA",
-    "language": "",
-    "group": "Bosnia and Herzegovina",
-    "url": "http://94.250.2.6:7374/play/a02u/index.m3u8",
     "isHttps": false
   },
   {

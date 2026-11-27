@@ -1125,6 +1125,15 @@
     "isHttps": true
   },
   {
+    "name": "BOM Cine",
+    "logo": "https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Generalistas",
+    "url": "https://squirrel.cdn.plenitas.pro/bomcine/hls/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "Bon Dia TV",
     "logo": "https://www.bondiatv.org/img/icon/apple-touch-icon.png",
     "country": "",
@@ -1698,15 +1707,6 @@
     "language": "",
     "group": "Andalucía",
     "url": "https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Conexión Berazategui Argentina",
-    "logo": "https://graph.facebook.com/conexionberatv/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Musicales",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/conexionbera/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2556,6 +2556,15 @@
     "isHttps": true
   },
   {
+    "name": "Horse TV",
+    "logo": "https://graph.facebook.com/horsetvES/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Deportivos",
+    "url": "https://squirrel.cdn.plenitas.pro/hprse-es/hls/master.m3u8",
+    "isHttps": true
+  },
+  {
     "name": "HR Hessenschau Alemania DE",
     "logo": "https://graph.facebook.com/Hessenschau/picture?width=200&height=200",
     "country": "",
@@ -3093,6 +3102,15 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Nautical Channel",
+    "logo": "https://graph.facebook.com/nauticalchannelesp/picture?width=200&height=200",
+    "country": "",
+    "language": "",
+    "group": "Deportivos",
+    "url": "https://squirrel.cdn.plenitas.pro/nautical-es/hls/master.m3u8",
     "isHttps": true
   },
   {
@@ -3897,24 +3915,6 @@
     "isHttps": true
   },
   {
-    "name": "Segunda estrella (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://ztnr.rtve.es/ztnr/17239088.m3u8",
-    "isHttps": true
-  },
-  {
-    "name": "Segunda estrella (RTVE)",
-    "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-    "country": "",
-    "language": "",
-    "group": "Eventuales",
-    "url": "https://rtvelivestream.rtve.es/eventual/gofast/playm29_main.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Semos asina (Canal Extremadura)",
     "logo": "https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",
     "country": "",
@@ -4128,6 +4128,24 @@
     "language": "",
     "group": "Int. Europa",
     "url": "https://origin-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Squirrel",
+    "logo": "https://pbs.twimg.com/profile_images/1868605710218514432/98bLWAHa_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Generalistas",
+    "url": "https://squirrel.cdn.plenitas.pro/squirrel-es/hls/master.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Squirrel2",
+    "logo": "https://pbs.twimg.com/profile_images/2007038154994294784/NqJe7hvI_200x200.jpg",
+    "country": "",
+    "language": "",
+    "group": "Generalistas",
+    "url": "https://squirrel.cdn.plenitas.pro/squirreldos/hls/master.m3u8",
     "isHttps": true
   },
   {

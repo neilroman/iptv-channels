@@ -936,15 +936,6 @@
     "isHttps": true
   },
   {
-    "name": "FON Music (576p)",
-    "logo": "https://i.imgur.com/tXABQDE.png",
-    "country": "",
-    "language": "",
-    "group": "Music",
-    "url": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "FON TV (1080p)",
     "logo": "https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ",
     "country": "",
@@ -969,15 +960,6 @@
     "language": "",
     "group": "Entertainment",
     "url": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
-    "name": "Glazami Turista (576i)",
-    "logo": "https://i.imgur.com/GXJKWdy.png",
-    "country": "",
-    "language": "",
-    "group": "Travel",
-    "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
     "isHttps": true
   },
   {
@@ -1098,15 +1080,6 @@
     "isHttps": true
   },
   {
-    "name": "Istoriya (576p)",
-    "logo": "https://i.imgur.com/eEjPail.png",
-    "country": "",
-    "language": "",
-    "group": "Documentary",
-    "url": "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "Jibek Joly (576p)",
     "logo": "https://i.imgur.com/SqyXtgK.png",
     "country": "",
@@ -1179,30 +1152,21 @@
     "isHttps": true
   },
   {
-    "name": "Kinopremyera (1080p)",
-    "logo": "https://i.imgur.com/s0UYT8T.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
-    "name": "Kinoseriya (576p)",
-    "logo": "https://i.imgur.com/iao7zLZ.png",
-    "country": "",
-    "language": "",
-    "group": "Movies",
-    "url": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "Kinosvidanie (1080p)",
     "logo": "https://i.imgur.com/ZRaWqxj.png",
     "country": "",
     "language": "",
     "group": "Movies",
     "url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8",
+    "isHttps": true
+  },
+  {
+    "name": "Klukva TV (1080p)",
+    "logo": "https://static.kion.ru/tv/channels/images/formats/BLACK_AND_WHITE_40b55fc4ef89aea4a0dff4477f5c14e7.png",
+    "country": "",
+    "language": "",
+    "group": "Entertainment",
+    "url": "https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8",
     "isHttps": true
   },
   {
@@ -2772,15 +2736,6 @@
     "isHttps": true
   },
   {
-    "name": "Tochka otryva (576p)",
-    "logo": "https://tv-stream.ru/uploads/Tochka_Otriva_c4317672bb.svg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "Trace Sport Stars Russia (720p)",
     "logo": "https://i.imgur.com/FabFP5A.png",
     "country": "",
@@ -3141,15 +3096,6 @@
     "isHttps": true
   },
   {
-    "name": "Yuvelirochka (576p)",
-    "logo": "https://i.imgur.com/IcWtXCZ.png",
-    "country": "",
-    "language": "",
-    "group": "Shop",
-    "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
-    "isHttps": true
-  },
-  {
     "name": "Za! TV (576p)",
     "logo": "https://i.imgur.com/pVPTl8J.png",
     "country": "",
@@ -3204,15 +3150,6 @@
     "isHttps": true
   },
   {
-    "name": "Zoopark (576p)",
-    "logo": "https://tv-stream.ru/uploads/Zoopark_300h300_zelenyj_vert_0f85755619.svg",
-    "country": "",
-    "language": "",
-    "group": "Undefined",
-    "url": "https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv",
-    "isHttps": true
-  },
-  {
     "name": "Zvezda HD (1080p)",
     "logo": "https://i.imgur.com/4PAcpfM.png",
     "country": "",
@@ -3254,7 +3191,7 @@
     "country": "",
     "language": "",
     "group": "Science",
-    "url": "http://stream.mcquack.net/180/index.m3u8",
+    "url": "http://s7.merlive.am/Sci-Fi/index.m3u8",
     "isHttps": false
   },
   {
@@ -3335,7 +3272,7 @@
     "country": "",
     "language": "",
     "group": "Music",
-    "url": "http://31.148.48.15/A1/index.m3u8",
+    "url": "http://s7.merlive.am/Amedia1/index.m3u8",
     "isHttps": false
   },
   {
@@ -3344,7 +3281,7 @@
     "country": "",
     "language": "",
     "group": "Series",
-    "url": "http://31.148.48.15/A2/index.m3u8",
+    "url": "http://s7.merlive.am/Amedia2/index.m3u8",
     "isHttps": false
   },
   {
@@ -3425,7 +3362,7 @@
     "country": "",
     "language": "",
     "group": "Auto",
-    "url": "http://stream.mcquack.net/78/index.m3u8",
+    "url": "http://s7.merlive.am/avto24/index.m3u8",
     "isHttps": false
   },
   {
@@ -3596,7 +3533,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://31.148.48.15/Karusel_HD/index.m3u8",
+    "url": "http://s7.merlive.am/Karusel/index.m3u8",
     "isHttps": false
   },
   {
@@ -3615,6 +3552,15 @@
     "language": "",
     "group": "Kids",
     "url": "http://88.218.242.237:8001/Cartoon_Classics",
+    "isHttps": false
+  },
+  {
+    "name": "Cartoon Network CEE Russia (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "country": "",
+    "language": "",
+    "group": "Animation;Kids",
+    "url": "http://s7.merlive.am/CartoonNetwork/index.m3u8",
     "isHttps": false
   },
   {
@@ -3705,6 +3651,15 @@
     "language": "",
     "group": "Music",
     "url": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Detski mir (576p)",
+    "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://s7.merlive.am/DetskiMir/index.m3u8",
     "isHttps": false
   },
   {
@@ -3897,6 +3852,15 @@
     "isHttps": false
   },
   {
+    "name": "FON Music (576p)",
+    "logo": "https://i.imgur.com/tXABQDE.png",
+    "country": "",
+    "language": "",
+    "group": "Music",
+    "url": "http://s7.merlive.am/TNTMusic/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Food Network (Russia) (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
     "country": "",
@@ -3938,7 +3902,16 @@
     "country": "",
     "language": "",
     "group": "Comedy",
-    "url": "http://stream.mcquack.net/458/index.m3u8",
+    "url": "http://s7.merlive.am/gagsnetwork/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Glazami Turista (1080p)",
+    "logo": "https://i.imgur.com/GXJKWdy.png",
+    "country": "",
+    "language": "",
+    "group": "Travel",
+    "url": "http://s7.merlive.am/glazamituristahd/index.m3u8",
     "isHttps": false
   },
   {
@@ -3996,6 +3969,15 @@
     "isHttps": false
   },
   {
+    "name": "Istoriya (576p)",
+    "logo": "https://i.imgur.com/eEjPail.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://s7.merlive.am/History2/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Izvestia (1080p)",
     "logo": "https://i.imgur.com/r5HzA6J.png",
     "country": "",
@@ -4029,6 +4011,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://31.148.48.15/Kineko_HD/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kineko HD (1080p)",
+    "logo": "https://i.imgur.com/Otfvlmf.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://s7.merlive.am/kineko/index.m3u8",
     "isHttps": false
   },
   {
@@ -4073,7 +4064,7 @@
     "country": "",
     "language": "",
     "group": "Comedy",
-    "url": "http://stream.mcquack.net/265/index.m3u8",
+    "url": "http://s7.merlive.am/Kinokomedia/index.m3u8",
     "isHttps": false
   },
   {
@@ -4083,6 +4074,24 @@
     "language": "",
     "group": "Movies",
     "url": "http://93.170.254.17/Kinomiks/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kinomix HD (1080p)",
+    "logo": "https://i.imgur.com/D4q2XUT.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://s7.merlive.am/Kinomix/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kinopremyera (1080p)",
+    "logo": "https://i.imgur.com/s0UYT8T.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://s7.merlive.am/Kinopremera/index.m3u8",
     "isHttps": false
   },
   {
@@ -4100,7 +4109,16 @@
     "country": "",
     "language": "",
     "group": "Movies",
-    "url": "http://stream.mcquack.net/170/index.m3u8",
+    "url": "http://s7.merlive.am/Kinosemya/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Kinoseriya (576p)",
+    "logo": "https://i.imgur.com/iao7zLZ.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://s7.merlive.am/Kinoseria/index.m3u8",
     "isHttps": false
   },
   {
@@ -4163,7 +4181,16 @@
     "country": "",
     "language": "",
     "group": "Education",
-    "url": "http://31.148.48.15/Kto_est_kto/index.m3u8",
+    "url": "http://s7.merlive.am/ktoestkto/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "KTOKUDA (576p)",
+    "logo": "https://ntvplus.tv/files/image/68/79/06/9wn.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://s7.merlive.am/ktokuda/index.m3u8",
     "isHttps": false
   },
   {
@@ -4626,6 +4653,15 @@
     "isHttps": false
   },
   {
+    "name": "Mult HD (576p)",
+    "logo": "https://i.imgur.com/xi351Fx.png",
+    "country": "",
+    "language": "",
+    "group": "Kids",
+    "url": "http://s7.merlive.am/Mult/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Mult i muzyka (576p)",
     "logo": "https://i.imgur.com/SYt6BZP.png",
     "country": "",
@@ -4689,6 +4725,15 @@
     "isHttps": false
   },
   {
+    "name": "Nashe Lubimoe Kino (576p)",
+    "logo": "https://i.imgur.com/iKPfM5K.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://s7.merlive.am/lubimoekino/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Nashe muzhskoe HD (1080p)",
     "logo": "https://i.imgur.com/QRWKpmb.png",
     "country": "",
@@ -4748,7 +4793,7 @@
     "country": "",
     "language": "",
     "group": "Kids",
-    "url": "http://stream.mcquack.net/443/index.m3u8",
+    "url": "http://s7.merlive.am/Nickelodeon/index.m3u8",
     "isHttps": false
   },
   {
@@ -4812,6 +4857,15 @@
     "language": "",
     "group": "Series",
     "url": "http://stream.mcquack.net/301/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "NTV Stil zhizn (576p)",
+    "logo": "https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10294/logo_256.webp",
+    "country": "",
+    "language": "",
+    "group": "Lifestyle",
+    "url": "http://s7.merlive.am/ntvstil/index.m3u8",
     "isHttps": false
   },
   {
@@ -5243,7 +5297,7 @@
     "country": "",
     "language": "",
     "group": "Undefined",
-    "url": "http://stream.mcquack.net/81/index.m3u8",
+    "url": "http://s7.merlive.am/Sarafan/index.m3u8",
     "isHttps": false
   },
   {
@@ -5280,6 +5334,15 @@
     "language": "",
     "group": "Movies",
     "url": "http://stream.mcquack.net/75/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Shot TV (576p)",
+    "logo": "https://i.imgur.com/MLSG7tA.png",
+    "country": "",
+    "language": "",
+    "group": "Movies",
+    "url": "http://s7.merlive.am/SHOTTV/index.m3u8",
     "isHttps": false
   },
   {
@@ -5400,6 +5463,15 @@
     "isHttps": false
   },
   {
+    "name": "Tayny Galaktiki (576p)",
+    "logo": "https://i.imgur.com/fR3abSD.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://s7.merlive.am/tainigalaktiki/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "TBN Baltia (1080p)",
     "logo": "https://i.imgur.com/rKBaK56.png",
     "country": "",
@@ -5508,12 +5580,30 @@
     "isHttps": false
   },
   {
+    "name": "Tochka otryva (576p)",
+    "logo": "https://tv-stream.ru/uploads/Tochka_Otriva_c4317672bb.svg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://s7.merlive.am/tochkaotriva/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Tochka TV (576p)",
     "logo": "https://i.imgur.com/yyNR5jG.png",
     "country": "",
     "language": "",
     "group": "Undefined",
     "url": "http://31.148.48.15/Tochka_TV/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Tochka.rf (1080p)",
+    "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary;Travel",
+    "url": "http://s7.merlive.am/HDLife/index.m3u8",
     "isHttps": false
   },
   {
@@ -5541,6 +5631,15 @@
     "language": "",
     "group": "Animation;Kids",
     "url": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Top Secret (576p)",
+    "logo": "https://i.imgur.com/HM4xy4G.png",
+    "country": "",
+    "language": "",
+    "group": "Documentary",
+    "url": "http://s7.merlive.am/sovershennosekretno/index.m3u8",
     "isHttps": false
   },
   {
@@ -5913,6 +6012,15 @@
     "isHttps": false
   },
   {
+    "name": "Yuvelirochka (576p)",
+    "logo": "https://i.imgur.com/IcWtXCZ.png",
+    "country": "",
+    "language": "",
+    "group": "Shop",
+    "url": "http://s7.merlive.am/uvelirochka/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Zhivaya priroda (1080p)",
     "logo": "https://i.imgur.com/9lHQPdN.png",
     "country": "",
@@ -5949,12 +6057,30 @@
     "isHttps": false
   },
   {
+    "name": "Zoopark (576p)",
+    "logo": "https://tv-stream.ru/uploads/Zoopark_300h300_zelenyj_vert_0f85755619.svg",
+    "country": "",
+    "language": "",
+    "group": "Undefined",
+    "url": "http://s7.merlive.am/zoopark/index.m3u8",
+    "isHttps": false
+  },
+  {
     "name": "Zvezda (1080p)",
     "logo": "https://i.imgur.com/4PAcpfM.png",
     "country": "",
     "language": "",
     "group": "General",
     "url": "http://51.158.144.33:2021/zvezda/index.m3u8",
+    "isHttps": false
+  },
+  {
+    "name": "Zvezda +4 (576p)",
+    "logo": "https://i.imgur.com/4PAcpfM.png",
+    "country": "",
+    "language": "",
+    "group": "General",
+    "url": "http://s7.merlive.am/Zvezda/index.m3u8",
     "isHttps": false
   },
   {
